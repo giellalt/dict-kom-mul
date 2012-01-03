@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist
+  PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" version="1.0">
+   <dict>
+      <key>CFBundleDevelopmentRegion</key>
+      <string>English</string>
+      <key>CFBundleIdentifier</key>
+      <string>no.divvun.dictionary.komfinDictionary</string>
+      <key>CFBundleDisplayName</key>
+      <string>Komi-Suomalainen Sanakirja (versio 09.12.2009)</string>
+      <key>CFBundleName</key>
+      <string>KSS</string>
+      <key>CFBundleShortVersionString</key>
+      <string>1.0</string>
+      <key>DCSDictionaryCopyright</key>
+      <string>Copyright © 2009 Sámi giellatekno and Sámediggi</string>
+      <key>DCSDictionaryManufacturerName</key>
+      <string>Sámi giellatekno</string>
+      <key>DCSDictionaryPrefsHTML</key>
+      <string>komfinDictionary_prefs.html</string>
+      <key>DCSDictionaryXSL</key>
+      <string>komfinDictionary.xsl</string>
+      <key>DCSDictionaryDefaultPrefs</key>
+      <dict>
+         <key>pronunciation</key>
+         <string>0</string>
+         <key>display-column</key>
+         <string>1</string>
+         <key>display-picture</key>
+         <string>1</string>
+         <key>version</key>
+         <string>1</string>
+      </dict>
+   </dict>
+</plist>
