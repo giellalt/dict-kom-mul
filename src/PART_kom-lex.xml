@@ -693,7 +693,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>кӧть_еськӧ</lemma>
+      <lemma>кӧть еськӧ</lemma>
       <stem/>
       <contlex>EndPart</contlex>
       <pos>PART</pos>
@@ -717,7 +717,7 @@
       <stem/>
       <contlex>EndPart</contlex>
       <pos>PART</pos>
-      <!-- this is apparently a periferal modifier; it should be running through a contlex with possessive endings for both singular and plural persons --><article>
+      <article>
          <eng>
             <choice>
                <variant>both</variant>
@@ -1522,7 +1522,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>век_жӧ</lemma>
+      <lemma>век жӧ</lemma>
       <stem/>
       <contlex>EndPart</contlex>
       <pos>PART</pos>

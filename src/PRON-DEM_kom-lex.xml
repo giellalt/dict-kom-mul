@@ -38,7 +38,7 @@
          <msp>NOM SG</msp>
       </article>
    </entry>
-   <entry exclude="fst">
+   <entry>
       <lemma>эсійӧяс</lemma>
       <stem/>
       <contlex>PRONDEMTAGPL</contlex>
@@ -57,7 +57,7 @@
          <msp>PL</msp>
       </article>
    </entry>
-   <entry exclude="fst">
+   <entry>
       <lemma>эсы</lemma>
       <stem/>
       <contlex>PRONDEMTAG</contlex>
@@ -80,7 +80,7 @@
          </cf>
       </article>
    </entry>
-   <entry exclude="fst">
+   <entry>
       <lemma>эта</lemma>
       <stem/>
       <contlex>PRONDEMTAG</contlex>

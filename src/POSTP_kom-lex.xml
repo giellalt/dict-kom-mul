@@ -80,7 +80,7 @@
          </fin>
       </article>
    </entry>
-   <entry exclude="fst">
+   <entry>
       <lemma>бӧрті</lemma>
       <stem>бӧр</stem>
       <contlex>PO-TRA</contlex>
@@ -201,7 +201,6 @@
          </fin>
       </article>
    </entry>
-   
    <entry>
       <lemma>вöсна</lemma>
       <stem/>
@@ -220,7 +219,6 @@
          </fin>
       </article>
    </entry>
-   
    <entry>
       <lemma>йылысь</lemma>
       <stem>йыл</stem>
@@ -238,7 +236,7 @@
             </choice>
          </fin>
       </article>
-      </entry>
+   </entry>
    <entry>
       <lemma>чӧж</lemma>
       <stem/>
@@ -1372,19 +1370,19 @@
       <contlex>POSTP1</contlex>
       <pos>POSTP</pos>
       <article>
-	<eg>
-	  <kom>вомас</kom>
-         <eng>
-            <choice>
-               <variant>for (temp)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>aikana</variant>
-            </choice>
-         </fin>
-	 </eg>
+         <eg>
+            <kom>вомас</kom>
+            <eng>
+               <choice>
+                  <variant>for (temp)</variant>
+               </choice>
+            </eng>
+            <fin>
+               <choice>
+                  <variant>aikana</variant>
+               </choice>
+            </fin>
+         </eg>
          <cf>
             <choice>
                <variant/>

@@ -66,9 +66,8 @@
          </fin>
       </article>
    </entry>
-
-   <entry> <!-- FMT: added multiword adverb -->
-      <lemma>кадысь_кадӧ</lemma> 
+   <entry>
+      <lemma>кадысь кадӧ</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -80,7 +79,7 @@
          </eng>
          <fin>
             <choice>
-               <variant></variant>
+               <variant/>
             </choice>
          </fin>
          <pro>
@@ -90,10 +89,8 @@
          </pro>
       </article>
    </entry>
-
-
    <entry>
-      <lemma>абу_вывті</lemma>
+      <lemma>абу вывті</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -342,7 +339,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>асъя_войнас</lemma>
+      <lemma>асъя войнас</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -360,7 +357,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>ас_кадӧ</lemma>
+      <lemma>ас кадӧ</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -384,7 +381,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>ас_шодйӧн</lemma>
+      <lemma>ас шодйӧн</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -1255,7 +1252,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>бри_да_бра</lemma>
+      <lemma>бри да бра</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -1838,7 +1835,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>дас_мында</lemma>
+      <lemma>дас мында</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -1861,7 +1858,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>дас_пӧв</lemma>
+      <lemma>дас пӧв</lemma>
       <stem>дас_пӧл</stem>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -2425,7 +2422,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>дзик_пыр</lemma>
+      <lemma>дзик пыр</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -2645,7 +2642,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>этша_вылӧ</lemma>
+      <lemma>этша вылӧ</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -2971,7 +2968,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>ӧтпыр_друг</lemma>
+      <lemma>ӧтпыр друг</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -3098,7 +3095,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>ен_милӧстьӧн</lemma>
+      <lemma>ен милӧстьӧн</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -3250,7 +3247,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>гӧлӧс_быртӧдзыд</lemma>
+      <lemma>гӧлӧс быртӧдзыд</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -3320,7 +3317,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>гӧн_ньылыд</lemma>
+      <lemma>гӧн ньылыд</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -3339,7 +3336,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>гӧн_паныд</lemma>
+      <lemma>гӧн паныд</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -3509,7 +3506,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>гурйыв_восьса</lemma>
+      <lemma>гурйыв восьса</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -3612,7 +3609,7 @@
          </cf>
       </article>
    </entry>
-   <entry exclude="fst">
+   <entry>
       <lemma>ылӧдз</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
@@ -3672,7 +3669,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>ичӧт_дырйи</lemma>
+      <lemma>ичӧт дырйи</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -3761,7 +3758,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>кадысь_водз</lemma>
+      <lemma>кадысь водз</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -4026,7 +4023,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>кык_пӧв</lemma>
+      <lemma>кык пӧв</lemma>
       <stem>кык_пӧл</stem>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -4357,7 +4354,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>ки_маласӧн</lemma>
+      <lemma>ки маласӧн</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -4491,7 +4488,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>кок_маласӧн</lemma>
+      <lemma>кок маласӧн</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -4514,7 +4511,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>колян_воӧ</lemma>
+      <lemma>колян воӧ</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -4646,7 +4643,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>кулан_выйын</lemma>
+      <lemma>кулан выйын</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -4707,7 +4704,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>кузяла_ног</lemma>
+      <lemma>кузяла ног</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -4774,7 +4771,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>лад_вылӧ</lemma>
+      <lemma>лад вылӧ</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -5459,7 +5456,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>лун_шӧр_лунӧ</lemma>
+      <lemma>лун шӧр лунӧ</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -5697,7 +5694,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>мӧд_луннас</lemma>
+      <lemma>мӧд луннас</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -5715,7 +5712,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>мӧд_ног</lemma>
+      <lemma>мӧд ног</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -5733,7 +5730,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>мӧд_пӧв</lemma>
+      <lemma>мӧд пӧв</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -5962,7 +5959,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>мера_тӧдтӧг</lemma>
+      <lemma>мера тӧдтӧг</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -6044,7 +6041,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>миян_кадӧдз</lemma>
+      <lemma>миян кадӧдз</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -6099,7 +6096,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>мода_вылас</lemma>
+      <lemma>мода вылас</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -6490,7 +6487,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>нӧбовтас_мында</lemma>
+      <lemma>нӧбовтас мында</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -6531,7 +6528,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>нӧшта_на</lemma>
+      <lemma>нӧшта на</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -6762,7 +6759,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>неморт_ног</lemma>
+      <lemma>неморт ног</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -6785,7 +6782,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>нем_жалиттӧг</lemma>
+      <lemma>нем жалиттӧг</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -7169,7 +7166,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>нор_гӧлӧсӧн</lemma>
+      <lemma>нор гӧлӧсӧн</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -7631,7 +7628,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>пасьта_ног</lemma>
+      <lemma>пасьта ног</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -8088,7 +8085,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>пыр_на</lemma>
+      <lemma>пыр на</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -8486,7 +8483,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>рама_пиӧ</lemma>
+      <lemma>рама пиӧ</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -8828,7 +8825,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>шонді_ньылыд</lemma>
+      <lemma>шонді ньылыд</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -8846,7 +8843,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>шонді_паныд</lemma>
+      <lemma>шонді паныд</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -8987,7 +8984,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>сэкся_кадӧ</lemma>
+      <lemma>сэкся кадӧ</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -9120,7 +9117,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>сэсь_аскомысь</lemma>
+      <lemma>сэсь аскомысь</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -10703,7 +10700,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>том_дырйи</lemma>
+      <lemma>том дырйи</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -10783,7 +10780,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>торйӧн_нин</lemma>
+      <lemma>торйӧн нин</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -10907,7 +10904,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>юрӧн_и_кокӧн</lemma>
+      <lemma>юрӧн и кокӧн</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -10925,7 +10922,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>юр_выв_тырыс</lemma>
+      <lemma>юр выв тырыс</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -11082,7 +11079,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>усур_орӧмысь</lemma>
+      <lemma>усур орӧмысь</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -11235,7 +11232,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>важ_моз</lemma>
+      <lemma>важ моз</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -11253,7 +11250,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>ва_бӧр</lemma>
+      <lemma>ва бӧр</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -11276,7 +11273,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>ва_катчӧс</lemma>
+      <lemma>ва катчӧс</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -11299,7 +11296,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>ва_кывтчӧс</lemma>
+      <lemma>ва кывтчӧс</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -11322,7 +11319,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>ва_ньылыд</lemma>
+      <lemma>ва ньылыд</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -11345,7 +11342,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>ва_паныд</lemma>
+      <lemma>ва паныд</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -12229,7 +12226,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>вомӧн_ног</lemma>
+      <lemma>вомӧн ног</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -12321,7 +12318,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>вуж_выйӧ</lemma>
+      <lemma>вуж выйӧ</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
@@ -12344,7 +12341,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>вуж_выйӧн</lemma>
+      <lemma>вуж выйӧн</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
