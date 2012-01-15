@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict><!--    <entry exclude="fst"> --><!--       <lemma>CiprianAndTrond</lemma> --><!--       <stem>FixThis</stem> --><!--       <contlex>#</contlex> --><!--       <pos>N</pos> --><!--       <article> --><!--       <eng>We need an attr saying _do not make lexc_</eng> --><!--       <fin>The answer is: exclude="fst"</fin> --><!--       </article> --><!--    </entry> --><entry>
+<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<!--    <entry exclude="fst"> --><!--       <lemma>CiprianAndTrond</lemma> --><!--       <stem>FixThis</stem> --><!--       <contlex>#</contlex> --><!--       <pos>N</pos> --><!--       <article> --><!--       <eng>We need an attr saying _do not make lexc_</eng> --><!--       <fin>The answer is: exclude="fst"</fin> --><!--       </article> --><!--    </entry> --><entry>
       <lemma>ме</lemma>
       <stem/>
       <contlex>PRON-PERS-SG1-NOM</contlex>
