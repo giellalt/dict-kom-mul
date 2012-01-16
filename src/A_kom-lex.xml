@@ -2809,6 +2809,8 @@ xmlns:fn="http://www.w3.org/2005/02/xpath-functions"
 ><variant
 >verraton </variant
 ><variant
+>lyömätön</variant
+><variant
 > ennen näkemätön??</variant
 ></choice
 ></fin
@@ -2995,7 +2997,7 @@ xmlns:fn="http://www.w3.org/2005/02/xpath-functions"
 ><fin
 ><choice
 ><variant
->päällystää betonilla??</variant
+>päällystää betonilla</variant
 ></choice
 ></fin
 ><cf
@@ -4707,7 +4709,7 @@ xmlns:fn="http://www.w3.org/2005/02/xpath-functions"
 ><variant
 >kaikenlainen </variant
 ><variant
-> erilainen</variant
+> erilainen??</variant
 ></choice
 ></fin
 ><cf
