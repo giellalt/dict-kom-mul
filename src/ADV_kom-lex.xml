@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema"
-      xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
       <lemma>кыдз</lemma>
       <stem/>
@@ -46,7 +44,11 @@
                <variant>silmännähtävästi</variant>
             </choice>
          </fin>
-         <cf>вемӧсӧн</cf>
+         <cf>
+            <choice>
+               <variant>вемӧсӧн</variant>
+            </choice>
+         </cf>
       </article>
    </entry>
    <entry>
@@ -539,12 +541,7 @@
          </fin>
       </article>
       <article>
-         <syn>
-            <choice>
-               <variant>V/lok</variant>
-               <variant>lokt</variant>
-            </choice>
-         </syn>
+         <syn>локны_V</syn>
          <eng>
             <choice>
                <variant>come back</variant>
@@ -3444,7 +3441,11 @@
                <variant>loudly</variant>
             </choice>
          </eng>
-         <der>DA-a</der>
+         <der>
+            <choice>
+               <variant>DA-a</variant>
+            </choice>
+         </der>
          <msp>ADV</msp>
          <fin>
             <choice>
@@ -6122,7 +6123,7 @@
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
       <article>
-         <abbr>med og</abbr>
+         <abbr>мед ог</abbr>
          <eng>
             <choice>
                <variant/>
@@ -6146,7 +6147,7 @@
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
       <article>
-         <abbr>med on</abbr>
+         <abbr>мед он</abbr>
          <eng>
             <choice>
                <variant/>
@@ -6202,7 +6203,7 @@
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
       <article>
-         <abbr>med oz</abbr>
+         <abbr>мед оз</abbr>
          <eng>
             <choice>
                <variant/>
@@ -6346,7 +6347,7 @@
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
       <article>
-         <SPELL>-syt</SPELL>
+         <SPELL>наизусьт</SPELL>
          <eng>
             <choice>
                <variant>by heart</variant>
@@ -7377,7 +7378,11 @@
                <variant>much</variant>
             </choice>
          </eng>
-         <der>DA-a</der>
+         <der>
+            <choice>
+               <variant> DA-a </variant>
+            </choice>
+         </der>
          <syn>AD-A</syn>
          <fin>
             <choice>
@@ -7484,7 +7489,11 @@
                <variant>weakly</variant>
             </choice>
          </eng>
-         <der>DA-a</der>
+         <der>
+            <choice>
+               <variant> DA-a </variant>
+            </choice>
+         </der>
          <msp>ADV</msp>
          <fin>
             <choice>
@@ -8796,7 +8805,11 @@
                <variant>rarely</variant>
             </choice>
          </eng>
-         <der>DA-a</der>
+         <der>
+            <choice>
+               <variant> DA-a </variant>
+            </choice>
+         </der>
          <fin>
             <choice>
                <variant>harvoin</variant>
@@ -9302,7 +9315,9 @@
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
-      <article><!-- word class?? --><eng>
+      <article>
+         <!-- word class?? -->
+         <eng>
             <choice>
                <variant/>
             </choice>
@@ -10210,7 +10225,11 @@
                <variant>this morning</variant>
             </choice>
          </eng>
-         <dial>SW</dial>
+         <dial>
+            <choice>
+               <variant> SW </variant>
+            </choice>
+         </dial>
          <fin>
             <choice>
                <variant>tänä aamuna</variant>
@@ -10643,7 +10662,9 @@
       <stem/>
       <contlex>ADVTAG</contlex>
       <pos>ADV</pos>
-      <article><!-- word class?? --><eng>
+      <article>
+         <!-- word class?? -->
+         <eng>
             <choice>
                <variant/>
             </choice>
@@ -10779,7 +10800,7 @@
                <variant>erikseen</variant>
             </choice>
          </fin>
-         <msp>INSTR </msp>
+         <msp>INSTR</msp>
       </article>
    </entry>
    <entry>
@@ -11584,7 +11605,11 @@
                <variant>straight</variant>
             </choice>
          </eng>
-         <der>DA-a</der>
+         <der>
+            <choice>
+               <variant> DA-a </variant>
+            </choice>
+         </der>
          <msp>ADV</msp>
          <fin>
             <choice>
