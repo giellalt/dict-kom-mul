@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema"
-      xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-<!--    <entry exclude="fst"> --><!--       <lemma>CiprianAndTrond</lemma> --><!--       <stem>FixThis</stem> --><!--       <contlex>#</contlex> --><!--       <pos>N</pos> --><!--       <article> --><!--       <eng>We need an attr saying _do not make lexc_</eng> --><!--       <fin>The answer is: exclude="fst"</fin> --><!--       </article> --><!--    </entry> --><entry>
+<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <!--    <entry exclude="fst"> -->
+   <!--       <lemma>CiprianAndTrond</lemma> -->
+   <!--       <stem>FixThis</stem> -->
+   <!--       <contlex>#</contlex> -->
+   <!--       <pos>N</pos> -->
+   <!--       <article> -->
+   <!--       <eng>We need an attr saying _do not make lexc_</eng> -->
+   <!--       <fin>The answer is: exclude="fst"</fin> -->
+   <!--       </article> -->
+   <!--    </entry> -->
+   <entry>
       <lemma>ме</lemma>
       <stem/>
       <contlex>PRON-PERS-SG1-NOM</contlex>
@@ -226,7 +234,6 @@
                <variant>ne</variant>
             </choice>
          </fin>
-         <msp>PL3</msp>
       </article>
    </entry>
    <entry>
@@ -248,7 +255,6 @@
                <variant> ne</variant>
             </choice>
          </fin>
-         <msp>ACC PL3</msp>
          <syn>@OBJ</syn>
       </article>
    </entry>
@@ -269,7 +275,6 @@
                <variant> se</variant>
             </choice>
          </fin>
-         <msp>NOM SG3</msp>
          <syn>@SUBJ</syn>
       </article>
    </entry>
@@ -292,7 +297,6 @@
                <variant>sen</variant>
             </choice>
          </fin>
-         <msp>SG ACC</msp>
          <syn>@OBJ</syn>
       </article>
    </entry>
@@ -318,7 +322,6 @@
                <variant>сійӧ</variant>
             </choice>
          </cf>
-         <msp>SG3</msp>
       </article>
    </entry>
    <entry>
@@ -343,7 +346,6 @@
                <variant>сійӧ</variant>
             </choice>
          </cf>
-         <msp>SG3</msp>
       </article>
    </entry>
    <entry>
@@ -368,7 +370,6 @@
                <variant/>
             </choice>
          </cf>
-         <msp>SG3</msp>
       </article>
    </entry>
    <entry>
@@ -504,8 +505,8 @@
    <entry>
       <lemma>тэныд</lemma>
       <stem/>
-      <contlex>PRON-PERS</contlex>
-      <pos>PRON-PERS-SG2-DAT</pos>
+      <contlex>PRON-PERS-SG2-DAT</contlex>
+      <pos>PRON-PERS</pos>
       <article>
          <eng>
             <choice>
