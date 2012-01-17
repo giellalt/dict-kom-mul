@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	   xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+<xs:import namespace="http://www.w3.org/XML/1998/namespace"
+	   schemaLocation="xml.xsd"/>
+
+
+<xs:element name="dict">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="entry" maxOccurs="unbounded">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element ref="lemma"/>
+            <xs:element ref="stem"/>
+            <xs:element ref="contlex"/>
+            <xs:element ref="pos"/>
+	    <xs:element name="article" maxOccurs="unbounded">
+	      <xs:complexType>
+		<xs:sequence>
+                  <xs:choice maxOccurs="unbounded" minOccurs="2">
+		    <xs:element ref="der"/>
+		    <xs:element ref="dial"/>
+		    <xs:element ref="acron"/>
+		    <xs:element ref="CONN"/>
+		    <xs:element ref="source"/>
+		    <xs:element ref="SPELL"/>
+		    <xs:element ref="abbr"/>
+		    <xs:element ref="syn"/>
+		    <xs:element ref="eg"/>
+		    <xs:element ref="de"/>
+		    <xs:element ref="eng"/>
+		    <xs:element ref="usage"/>
+		    <xs:element ref="dom"/>
+		    <xs:element ref="isa"/>
+		    <xs:element ref="fin"/>
+		    <xs:element ref="ant"/>
+		    <xs:element ref="cf"/>
+		    <xs:element ref="msp"/>
+		    <xs:element ref="pro"/>
+		    <xs:element ref="sci"/>
+		    <xs:element ref="see"/>
+		    <xs:element ref="sem"/>
+		    <xs:element ref="syno"/>
+		  </xs:choice>
+		</xs:sequence>
+<!--		<xs:attribute ref="RN"/>
+-->	      </xs:complexType>
+	    </xs:element>
+          </xs:sequence>
+<!--	  <xs:attribute name="exclude">
+	    <xs:simpleType>
+              <xs:restriction base="xs:string">
+		<xs:enumeration value="fst"/>
+              </xs:restriction>
+	    </xs:simpleType>
+	  </xs:attribute>
+-->        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+
+<xs:element name="eng" type="lang_Type"/>
+<xs:element name="de" type="lang_Type"/><!-- GERMAN -->
+<xs:element name="fin" type="lang_Type"/>
+<xs:element name="der" type="lang_Type"/>
+<xs:element name="dial" type="lang_Type"/><!-- -->
+<xs:element name="see" type="lang_Type"/> <!-- convert to assoc/assocType@'see' -->
+<xs:element name="cf" type="lang_Type"/> <!-- convert to assoc/assocType@'cf' -->
+<xs:element name="pro" type="lang_Type"/> <!-- convert to assoc/assocType@'pro' -->
+
+
+<xs:complexType name="lang_Type">
+  <xs:sequence>
+    <xs:element name="choice">
+      <xs:complexType>
+        <xs:sequence>
+          <xs:element name="variant" maxOccurs="unbounded">
+	    <xs:complexType>
+	      <xs:simpleContent>
+		<xs:extension base="xs:string">
+		  <xs:attribute name="lang">
+		    <xs:simpleType>
+		      <xs:restriction base="xs:string">
+			<xs:enumeration value="en_US"/>
+			<xs:enumeration value="en_UK"/>
+		      </xs:restriction>
+		    </xs:simpleType>
+		  </xs:attribute>
+		</xs:extension>
+	      </xs:simpleContent>
+	    </xs:complexType>
+	  </xs:element>
+	</xs:sequence>
+      </xs:complexType>
+    </xs:element>
+  </xs:sequence>
+</xs:complexType>
+
+<xs:element name="eg">
+<xs:complexType>
+  <xs:sequence>
+    <xs:element name="komi" type="xs:string"/>
+    <xs:element ref="eng"/>
+    <xs:element ref="fin"/>
+  </xs:sequence>
+</xs:complexType>
+</xs:element>
+
+
+<xs:element name="acron" type="xs:string"/><!--long form of acronym -->
+<xs:element name="syn" type="xs:string"/> <!-- syntax and colocation-->
+<xs:element name="abbr" type="xs:string"/> <!-- allegro form-->
+<xs:element name="SPELL" type="xs:string"/> <!-- spelling variant perhaps one that is prefered -->
+<xs:element name="lemma" type="xs:string"/> <!-- -->
+<xs:element name="stem" type="xs:string"/> <!-- -->
+<xs:element name="contlex" type="xs:string"/> <!-- -->
+<xs:element name="sci" type="xs:string"/> <!-- scientific term -->
+<xs:element name="syno" type="xs:string"/> <!-- convert to assoc/assocType@'synonym' -->
+<xs:element name="ant" type="xs:string"/> <!-- convert to assoc/assocType@'ant' -->
+
+<xs:element name="msp"> <!-- This apparently means the number and person of the form in the lemma -->
+  <xs:simpleType>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="DIM"/>
+      <xs:enumeration value="PL2"/>
+      <xs:enumeration value="SG2"/>
+      <xs:enumeration value="PL"/>
+      <xs:enumeration value="SG"/>
+      <xs:enumeration value="NOM SG1"/>
+      <xs:enumeration value="NOM SG2"/>
+      <xs:enumeration value="NOM SG3"/>
+      <xs:enumeration value="NOM PL1"/>
+      <xs:enumeration value="NOM PL2"/>
+      <xs:enumeration value="NOM PL3"/>
+      <xs:enumeration value="ACC SG1"/>
+      <xs:enumeration value="ACC SG2"/>
+      <xs:enumeration value="ACC SG3"/>
+      <xs:enumeration value="ACC PL1"/>
+      <xs:enumeration value="ACC PL2"/>
+      <xs:enumeration value="ACC PL3"/>
+      <xs:enumeration value="DAT SG1"/>
+      <xs:enumeration value="GEN SG1"/>
+      <xs:enumeration value="ELA SG1"/>
+      <xs:enumeration value="ABL SG1"/>
+      <xs:enumeration value="DAT SG2"/>
+      <xs:enumeration value="GEN SG2"/>
+      <xs:enumeration value="ELA SG2"/>
+      <xs:enumeration value="ABL SG2"/>
+      <xs:enumeration value="DAT SG3"/>
+      <xs:enumeration value="GEN SG3"/>
+      <xs:enumeration value="ELA SG3"/>
+      <xs:enumeration value="ABL SG3"/>
+      <xs:enumeration value="NOM PL"/>
+      <xs:enumeration value="NOM PL3"/>
+      <xs:enumeration value="NOM SG"/>
+      <xs:enumeration value="IN-D"/>
+      <xs:enumeration value="ADV"/>
+      <xs:enumeration value="PRES SG3"/>
+      <xs:enumeration value="ELA"/>
+      <xs:enumeration value="ILL"/>
+      <xs:enumeration value="INE"/>
+      <xs:enumeration value="INSTR"/>
+      <xs:enumeration value="PROL2"/><!--кыті -->
+      <xs:enumeration value="LOC"/><!-- бӧрвывса '-са' -->
+      <xs:enumeration value="ONOM"/><!--дзум -->
+      <xs:enumeration value="TERMIN"/>
+      <xs:enumeration value="TERM"/>
+      <xs:enumeration value="(колян)"/>
+      <xs:enumeration value="(локтан)"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:element>
+
+
+<xs:element name="CONN"> <!--  -->
+  <xs:simpleType>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="contempt"/>
+      <xs:enumeration value="ironic"/>
+      <xs:enumeration value="joc"/>
+      <xs:enumeration value="neg"/>
+      <xs:enumeration value="swear word"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:element>
+
+<xs:element name="dom"> <!--  -->
+  <xs:simpleType>
+    <xs:restriction base="xs:string">
+	<xs:enumeration value="AERON"/>
+	<xs:enumeration value="AGRIC"/>
+	<xs:enumeration value="AMPH"/>
+	<xs:enumeration value="ANAT"/>
+	<xs:enumeration value="APPAREL"/>
+	<xs:enumeration value="ARCH"/>
+<!--	<xs:enumeration value="ARCHEOL"/>
+-->
+	<xs:enumeration value="ASTR"/>
+	<xs:enumeration value="BIB"/>
+	<xs:enumeration value="BIOL"/>
+	<xs:enumeration value="BOT"/>
+	<xs:enumeration value="CARDS"/>
+	<xs:enumeration value="CARP"/>
+	<xs:enumeration value="CELEBR"/>
+<!--
+	<xs:enumeration value="CHRCH"/>
+-->
+	<xs:enumeration value="CHEM"/>
+<xs:enumeration value="ECON"/>
+	<xs:enumeration value="ENT"/>
+	<xs:enumeration value="ETHN"/>
+	<xs:enumeration value="ETHNOG"/>
+	<xs:enumeration value="FAUNA"/>
+	<xs:enumeration value="FIN"/>
+	<xs:enumeration value="FISH"/>
+	<xs:enumeration value="FOLKL"/>
+	<xs:enumeration value="GAME"/>
+	<xs:enumeration value="GASTR"/>
+	<xs:enumeration value="GEOGR"/>
+<!--
+	<xs:enumeration value="FOREST"/>
+-->
+	<xs:enumeration value="GEOL"/>
+	<xs:enumeration value="GRAM"/>
+	<xs:enumeration value="HUNT"/>
+	<xs:enumeration value="HIST"/>
+	<xs:enumeration value="JUR"/>
+	<xs:enumeration value="LAW"/>
+	<xs:enumeration value="LING"/>
+	<xs:enumeration value="LIT"/>
+	<xs:enumeration value="MAM"/>
+	<xs:enumeration value="MATH"/>
+	<xs:enumeration value="MED"/>
+      <xs:enumeration value="METEOR"/>
+      <xs:enumeration value="MIL"/>
+	<xs:enumeration value="MIN"/>
+	<xs:enumeration value="MUS"/>
+	<xs:enumeration value="MYTH"/>
+	<xs:enumeration value="ORN"/>
+	<xs:enumeration value="PATHOL"/>
+	<xs:enumeration value="PHARM"/>
+	<xs:enumeration value="PHILOS"/>
+	<xs:enumeration value="POLIT"/>
+	<xs:enumeration value="REPT"/>
+	<xs:enumeration value="RELIG"/>
+	<xs:enumeration value="PUNCT"/>
+	<xs:enumeration value="SILVA"/>
+	<xs:enumeration value="SPORT"/>
+	<xs:enumeration value="TECH"/>
+	<xs:enumeration value="TEXT"/>
+	<xs:enumeration value="THEATR"/>
+	<xs:enumeration value="TIME"/>
+	<xs:enumeration value="TOOL"/>
+	<xs:enumeration value="VEH"/>
+	<xs:enumeration value="TOPON"/>
+	<xs:enumeration value="ZOOL"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:element>
+
+<xs:element name="isa"> <!--  -->
+  <xs:simpleType>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="COLOR"/>
+      <xs:enumeration value="archipelago"/>
+      <xs:enumeration value="kodex"/>
+      <xs:enumeration value="city"/>
+      <xs:enumeration value="company"/>
+      <xs:enumeration value="continent"/>
+      <xs:enumeration value="country"/>
+      <xs:enumeration value="document"/>
+      <xs:enumeration value="era"/>
+      <xs:enumeration value="fund"/>
+      <xs:enumeration value="geog"/>
+      <xs:enumeration value="holiday"/>
+      <xs:enumeration value="human"/>
+      <xs:enumeration value="institution"/>
+      <xs:enumeration value="lake"/>
+      <xs:enumeration value="name"/>
+      <xs:enumeration value="oblast"/>
+      <xs:enumeration value="ocean"/>
+      <xs:enumeration value="patronym"/>
+      <xs:enumeration value="planet"/>
+      <xs:enumeration value="posyolok"/>
+      <xs:enumeration value="raion"/>
+      <xs:enumeration value="region"/>
+      <xs:enumeration value="sea"/>
+      <xs:enumeration value="settlement"/>
+      <xs:enumeration value="sovkhoz"/>
+      <xs:enumeration value="topon"/>
+      <xs:enumeration value="toponym"/>
+      <xs:enumeration value="weekday"/>
+      <xs:enumeration value="male"/>
+      <xs:enumeration value="female given name"/>
+      <xs:enumeration value="male given name"/>
+      <xs:enumeration value="female surname"/>
+      <xs:enumeration value="male surname"/>
+      <xs:enumeration value="month"/>
+      <xs:enumeration value="musical instrument"/>
+      <xs:enumeration value="news agency"/>
+      <xs:enumeration value="newspaper"/>
+      <xs:enumeration value="peninsula"/>
+      <xs:enumeration value="republic"/>
+      <xs:enumeration value="river"/>
+      <xs:enumeration value="river basin"/>
+      <xs:enumeration value="star"/>
+      <xs:enumeration value="topograph"/>
+      <xs:enumeration value="surname"/>
+      <xs:enumeration value="village"/>
+      <xs:enumeration value="war"/>
+      <xs:enumeration value="MEAS"/>
+      <xs:enumeration value="ACRON"/>
+      <xs:enumeration value="MOLUSC"/>
+      <xs:enumeration value="RELAT"/>
+      <xs:enumeration value="STATUS"/> <!-- capacity -->
+    </xs:restriction>
+  </xs:simpleType>
+</xs:element>
+
+<xs:element name="sem"> <!--  -->
+  <xs:simpleType>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="COMP"/>
+      <xs:enumeration value="+COUNT"/>
+      <xs:enumeration value="-COUNT"/>
+      <xs:enumeration value="INVOL"/> <!-- involuntary-->
+      <xs:enumeration value="MOM"/> <!-- momentaneous -->
+      <xs:enumeration value="RECIP"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:element>
+
+<xs:element name="source"> <!--  -->
+  <xs:simpleType>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="PG"/>
+      <xs:enumeration value="PS"/>
+      <xs:enumeration value="TOROP"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:element>
+
+<xs:element name="usage"> <!--  -->
+  <xs:simpleType>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="COLLOQ"/>
+      <xs:enumeration value="DIAL"/>
+      <xs:enumeration value="FIG"/>
+      <xs:enumeration value="HIST"/>
+      <xs:enumeration value="MOTHERESE"/>
+      <xs:enumeration value="NEOL"/>
+      <xs:enumeration value="TERM"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:element>
+
+
+
+<xs:element name="pos" type="pos_TYPE"/>
+
+
+<xs:simpleType name="pos_TYPE">
+  <xs:restriction base="xs:string">
+     <xs:enumeration value="A"/><!-- -->
+     <xs:enumeration value="A-SUPERL"/><!-- -->
+     <xs:enumeration value="ADV"/><!-- -->
+     <xs:enumeration value="ADVROOT"/><!-- -->
+     <xs:enumeration value="CONJ"/><!-- -->
+     <xs:enumeration value="IDIOM"/><!-- -->
+     <xs:enumeration value="INTERJ"/><!-- -->
+     <xs:enumeration value="N"/><!-- -->
+     <xs:enumeration value="NUM"/><!-- -->
+     <xs:enumeration value="PART"/><!-- -->
+     <xs:enumeration value="PART-ONOM"/><!-- -->
+     <xs:enumeration value="POSTP"/><!-- -->
+     <xs:enumeration value="PRON"/><!-- -->
+     <xs:enumeration value="PRON-DEM"/><!-- -->
+     <xs:enumeration value="PRON-INDEF"/><!-- -->
+     <xs:enumeration value="PRON-INTER"/><!-- -->
+     <xs:enumeration value="PRON-PERS"/><!-- -->
+     <xs:enumeration value="PRON-Q"/><!-- -->
+     <xs:enumeration value="PRON-REFL"/><!-- -->
+     <xs:enumeration value="PRON-REL"/><!-- -->
+     <xs:enumeration value="PROP"/><!-- Proper noun -->
+     <xs:enumeration value="V"/><!-- Verb -->
+   </xs:restriction>
+</xs:simpleType>
+
+
+
+
+
+
+
+
+</xs:schema>
