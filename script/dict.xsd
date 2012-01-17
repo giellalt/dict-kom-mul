@@ -45,18 +45,17 @@
 		    <xs:element ref="syno"/>
 		  </xs:choice>
 		</xs:sequence>
-<!--		<xs:attribute ref="RN"/>
--->	      </xs:complexType>
+	      </xs:complexType>
 	    </xs:element>
           </xs:sequence>
-<!--	  <xs:attribute name="exclude">
+	  <xs:attribute name="exclude">
 	    <xs:simpleType>
               <xs:restriction base="xs:string">
 		<xs:enumeration value="fst"/>
               </xs:restriction>
 	    </xs:simpleType>
 	  </xs:attribute>
--->        </xs:complexType>
+        </xs:complexType>
       </xs:element>
     </xs:sequence>
   </xs:complexType>
@@ -126,6 +125,21 @@
   <xs:simpleType>
     <xs:restriction base="xs:string">
       <xs:enumeration value="DIM"/>
+      <xs:enumeration value="PRET1 PL1"/>
+      <xs:enumeration value="PRET1 SG1"/>
+      <xs:enumeration value="PRET1 PL2"/>
+      <xs:enumeration value="PRET1 SG2"/>
+      <xs:enumeration value="PRET1 PL3"/>
+      <xs:enumeration value="PRET1 SG3"/>
+      <xs:enumeration value="PRES SG1"/>
+      <xs:enumeration value="PRES SG2"/>
+      <xs:enumeration value="PRES SG3"/>
+      <xs:enumeration value="PRES PL1"/>
+      <xs:enumeration value="PRES PL2"/>
+      <xs:enumeration value="PRES PL3"/>
+      <xs:enumeration value="IMP PL2"/>
+      <xs:enumeration value="IMP SG2"/>
+      <xs:enumeration value="SG2, PL2"/>
       <xs:enumeration value="PL2"/>
       <xs:enumeration value="SG2"/>
       <xs:enumeration value="PL"/>
@@ -158,12 +172,15 @@
       <xs:enumeration value="NOM PL3"/>
       <xs:enumeration value="NOM SG"/>
       <xs:enumeration value="IN-D"/>
+      <xs:enumeration value="ND-mi3"/><!-- deverbal derivation in чы -->
+      <xs:enumeration value="VD-c4i3"/>
       <xs:enumeration value="ADV"/>
       <xs:enumeration value="PRES SG3"/>
       <xs:enumeration value="ELA"/>
       <xs:enumeration value="ILL"/>
       <xs:enumeration value="INE"/>
       <xs:enumeration value="INSTR"/>
+      <xs:enumeration value="MOM"/>
       <xs:enumeration value="PROL2"/><!--кыті -->
       <xs:enumeration value="LOC"/><!-- бӧрвывса '-са' -->
       <xs:enumeration value="ONOM"/><!--дзум -->
@@ -387,6 +404,9 @@
      <xs:enumeration value="PRON-REL"/><!-- -->
      <xs:enumeration value="PROP"/><!-- Proper noun -->
      <xs:enumeration value="V"/><!-- Verb -->
+     <xs:enumeration value="V-INST"/><!-- Verb -->
+     <xs:enumeration value="V-REFL"/><!-- Verb -->
+     <xs:enumeration value="VNEG"/><!-- Verb -->
    </xs:restriction>
 </xs:simpleType>
 
