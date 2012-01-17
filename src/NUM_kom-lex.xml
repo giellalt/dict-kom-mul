@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema"
-      xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
       <lemma>дас</lemma>
       <stem/>
@@ -32,7 +30,11 @@
                <variant>million</variant>
             </choice>
          </eng>
-         <dial>SDW</dial>
+         <dial>
+            <choice>
+               <variant>SDW</variant>
+            </choice>
+         </dial>
          <fin>
             <choice>
                <variant>miljoona</variant>
@@ -162,7 +164,8 @@
          </fin>
          <eg>
             <komi>ӧти бӧрся мӧд</komi>
-            <!-- pos>IDIOM --><eng>
+            <!-- pos>IDIOM -->
+            <eng>
                <choice>
                   <variant>one after the other</variant>
                </choice>
@@ -192,7 +195,7 @@
       <lemma>ӧтиысь</lemma>
       <stem/>
       <contlex>ADVTAG</contlex>
-      <pos>Adv</pos>
+      <pos>ADV</pos>
       <article>
          <eng>
             <choice>
@@ -785,7 +788,11 @@
                <variant>tuhat</variant>
             </choice>
          </fin>
-         <see>сюрс</see>
+         <see>
+            <choice>
+               <variant>сюрс</variant>
+            </choice>
+         </see>
       </article>
    </entry>
    <entry>
@@ -797,7 +804,7 @@
          <eng>
             <choice>
                <variant lang="en_US">trillion</variant>
-               <variant lang="en_UK"> billion</variant>
+               <variant lang="en_UK">billion</variant>
             </choice>
          </eng>
          <fin>
