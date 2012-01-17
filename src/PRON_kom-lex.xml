@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict>
+<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
       <lemma>кытчӧ</lemma>
       <stem/>
@@ -143,7 +144,7 @@
    </entry>
    <entry>
       <lemma>коді</lemma>
-      <stem/>
+      <stem>код</stem>
       <contlex>PRON-REL</contlex>
       <pos>PRON</pos>
       <article>
@@ -159,7 +160,6 @@
                <variant>joka</variant>
             </choice>
          </fin>
-         <msp>NOM SG</msp>
       </article>
    </entry>
    <entry>
@@ -242,7 +242,16 @@
       <contlex>PRON-NEG</contlex>
       <pos>PRON</pos>
       <article>
-         <msp>PROL2</msp>
+         <eng>
+            <choice>
+               <variant>nowhere</variant>
+            </choice>
+         </eng>
+         <fin>
+            <choice>
+               <variant>ei minnekään</variant>
+            </choice>
+         </fin>
       </article>
    </entry>
    <entry>
