@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema"
-      xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
       <lemma>аддза</lemma>
       <stem/>
@@ -161,7 +159,11 @@
       <contlex>PO-TRA</contlex>
       <pos>POSTP</pos>
       <article>
-         <msp>PROL2 ENG </msp>
+         <eng>
+            <choice>
+               <variant>past</variant>
+            </choice>
+         </eng>
          <fin>
             <choice>
                <variant>ohitse</variant>
@@ -844,7 +846,11 @@
       <pos>POSTP</pos>
       <article>
          <syn>P/-кӧд</syn>
-         <der>DADV-ӧн</der>
+         <der>
+            <choice>
+               <variant>DADV-ӧн</variant>
+            </choice>
+         </der>
          <syn>P/-лы</syn>
          <eng>
             <choice>
@@ -859,7 +865,11 @@
       </article>
       <article>
          <syn>P/-lany</syn>
-         <der>DADV-ӧн</der>
+         <der>
+            <choice>
+               <variant>DADV-ӧн</variant>
+            </choice>
+         </der>
          <eng>
             <choice>
                <variant>facing</variant>
@@ -1165,7 +1175,6 @@
                <variant> alakautta</variant>
             </choice>
          </fin>
-         <msp>PROL2 SYN </msp>
       </article>
    </entry>
    <entry>
@@ -1231,7 +1240,18 @@
       <stem/>
       <contlex>POSTP1</contlex>
       <pos>POSTP</pos>
-      <article/>
+      <article>
+         <eng>
+            <choice>
+               <variant/>
+            </choice>
+         </eng>
+         <fin>
+            <choice>
+               <variant/>
+            </choice>
+         </fin>
+      </article>
    </entry>
    <entry>
       <lemma>веськыдладор</lemma>
@@ -1318,7 +1338,6 @@
                <variant> yläpuolelta</variant>
             </choice>
          </fin>
-         <msp>PROL</msp>
       </article>
    </entry>
    <entry>
@@ -1374,7 +1393,7 @@
       <pos>POSTP</pos>
       <article>
          <eg>
-            <kom>вомас</kom>
+            <komi>вомас</komi>
             <eng>
                <choice>
                   <variant>for (temp)</variant>
