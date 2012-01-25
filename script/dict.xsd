@@ -78,19 +78,17 @@
       <xs:complexType>
         <xs:sequence>
           <xs:element name="variant" maxOccurs="unbounded">
-	    <xs:complexType>
-	      <xs:simpleContent>
-		<xs:extension base="xs:string">
-		  <xs:attribute name="lang">
-		    <xs:simpleType>
-		      <xs:restriction base="xs:string">
-			<xs:enumeration value="en_US"/>
-			<xs:enumeration value="en_UK"/>
-		      </xs:restriction>
-		    </xs:simpleType>
-		  </xs:attribute>
-		</xs:extension>
-	      </xs:simpleContent>
+	    <xs:complexType mixed="true">
+	      <xs:sequence>
+	      </xs:sequence>
+	      <xs:attribute name="lang">
+		<xs:simpleType>
+		  <xs:restriction base="xs:string">
+		    <xs:enumeration value="en_US"/>
+		    <xs:enumeration value="en_UK"/>
+		  </xs:restriction>
+		</xs:simpleType>
+	      </xs:attribute>
 	    </xs:complexType>
 	  </xs:element>
 	</xs:sequence>
