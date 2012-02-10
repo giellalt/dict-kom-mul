@@ -14,7 +14,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>(pohjoisen) napapiirin pohjoispuolella oleva </variant>
+               <variant>(pohjoisen) napapiirin pohjoispuolella oleva</variant>
                <variant>napapiirin pohjoispuolinen</variant>
             </choice>
          </fin>
@@ -1520,6 +1520,7 @@
          <fin>
             <choice>
                <variant>markkina-</variant>
+               <variant>tori-</variant>
             </choice>
          </fin>
          <cf>
@@ -1683,7 +1684,8 @@
          </eng>
          <fin>
             <choice>
-               <variant>(jota ei tarvitse maksaa takaisin)</variant>
+               <variant>(jota ei tarvitse maksaa takaisin)??</variant>
+               <variant>peruuttamaton</variant>
             </choice>
          </fin>
          <cf>
@@ -1707,6 +1709,7 @@
          <fin>
             <choice>
                <variant>luku- ja kirjoitustaidoton</variant>
+               <variant>sivistymätön</variant>
             </choice>
          </fin>
          <cf>
@@ -1901,7 +1904,9 @@
          </eng>
          <fin>
             <choice>
-               <variant>kesakoinen</variant>
+               <variant>kesakkoinen</variant>
+               <variant>pisamainen</variant>
+               <variant>teerenpilkkuinen</variant>
             </choice>
          </fin>
          <cf>
@@ -2077,6 +2082,7 @@
                <variant>verraton</variant>
                <variant>lyömätön</variant>
                <variant>ennen näkemätön??</variant>
+               <variant>vertaansa vailla oleva</variant>
             </choice>
          </fin>
          <cf>
@@ -2287,7 +2293,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>kaasun ja öljyn poraus</variant>
+               <variant>kaasun- ja öljynporaus</variant>
             </choice>
          </fin>
          <pro>
@@ -2376,7 +2382,9 @@
          </eng>
          <fin>
             <choice>
-               <variant>rakas</variant>
+               <variant>rakas??</variant>
+               <variant>kultaseni</variant>
+               <variant>ystäväiseni</variant>
             </choice>
          </fin>
          <cf>
@@ -2402,6 +2410,8 @@
          <fin>
             <choice>
                <variant>teologian</variant>
+               <variant>teologinen</variant>
+               <variant>jumaluusopillinen</variant>
             </choice>
          </fin>
          <pro>
@@ -2426,6 +2436,9 @@
          <fin>
             <choice>
                <variant>hyväntuulinen??</variant>
+               <variant>reipas</variant>
+               <variant>pirteä</variant>
+               <variant>virkeä</variant>
                <variant>ponteva</variant>
             </choice>
          </fin>
@@ -2452,6 +2465,7 @@
          <fin>
             <choice>
                <variant>taistelu-</variant>
+               <variant>railakas</variant>
             </choice>
          </fin>
          <cf>
@@ -2476,6 +2490,8 @@
          <fin>
             <choice>
                <variant>mahakas</variant>
+               <variant>vatsakas</variant>
+               <variant>paksumahainen</variant>
             </choice>
          </fin>
          <cf>
@@ -2680,6 +2696,8 @@
          <fin>
             <choice>
                <variant>katettu (ajopelistä)</variant>
+               <variant>katoksellinen</variant>
+               <variant>kuomullinen</variant>
             </choice>
          </fin>
          <cf>
@@ -2722,6 +2740,8 @@
          <fin>
             <choice>
                <variant>-siipinen</variant>
+               <variant>siivellinen</variant>
+               <variant>siivekäs</variant>
             </choice>
          </fin>
          <cf>
@@ -2741,6 +2761,7 @@
          <fin>
             <choice>
                <variant>-eväinen</variant>
+               <variant>evällinen</variant>
             </choice>
          </fin>
          <cf>
@@ -2766,6 +2787,7 @@
             <choice>
                <variant>(kirj. kuin siivekäs lintu)</variant>
                <variant>leviää nopeasti (uutisesta)</variant>
+               <variant>nopeasti leviävä (uutisesta)</variant>
             </choice>
          </fin>
          <cf>
@@ -2879,6 +2901,7 @@
          <fin>
             <choice>
                <variant>mörönomainen</variant>
+               <variant>mörkömäinen</variant>
             </choice>
          </fin>
          <cf>
@@ -3285,6 +3308,8 @@
          <fin>
             <choice>
                <variant>vaahtoisa</variant>
+               <variant>vaahtoava</variant>
+               <variant>vaahto-</variant>
             </choice>
          </fin>
       </article>
@@ -3351,6 +3376,9 @@
          <fin>
             <choice>
                <variant>vaahtoava</variant>
+               <variant>vaahtopäinen</variant>
+               <variant>kuohuva</variant>
+               <variant>kuohupäinen</variant>
             </choice>
          </fin>
       </article>
@@ -3393,7 +3421,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>päärmäys??</variant>
+               <variant>päärme</variant>
             </choice>
          </fin>
          <cf>
@@ -3548,6 +3576,8 @@
          <fin>
             <choice>
                <variant>sosiaali-</variant>
+               <variant>elin-</variant>
+               <variant>elämän-</variant>
                <variant>jokapäiväinen</variant>
             </choice>
          </fin>
@@ -3588,6 +3618,8 @@
          <fin>
             <choice>
                <variant>hullu</variant>
+               <variant>hölmö</variant>
+               <variant>tylsä</variant>
             </choice>
          </fin>
          <cf>
@@ -3631,6 +3663,8 @@
          <fin>
             <choice>
                <variant>perämies</variant>
+               <variant>ruorimies</variant>
+               <variant>peränpitäjä (veneessä)</variant>
             </choice>
          </fin>
          <cf>
@@ -3804,7 +3838,7 @@
          </eng>
          <fin>
             <choice>
-               <variant/>
+               <variant>vettä täynnä oleva</variant>
             </choice>
          </fin>
          <cf>
@@ -3827,7 +3861,8 @@
          </eng>
          <fin>
             <choice>
-               <variant/>
+               <variant>vetinen</variant>
+               <variant>märkä</variant>
             </choice>
          </fin>
          <cf>
@@ -4151,6 +4186,7 @@
             <choice>
                <variant>puhelias</variant>
                <variant>halukas puhumaan??</variant>
+               <variant>sanavalmis??</variant>
             </choice>
          </fin>
       </article>
@@ -4302,7 +4338,8 @@
          </eng>
          <fin>
             <choice>
-               <variant>osastojenvälinen</variant>
+               <variant>osastojenvälinen??</variant>
+               <variant>virastojen välinen</variant>
             </choice>
          </fin>
       </article>

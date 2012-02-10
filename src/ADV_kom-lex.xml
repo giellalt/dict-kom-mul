@@ -422,7 +422,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>?? (liekeistä)</variant>
+               <variant>ahnaasti (liekeistä)</variant>
             </choice>
          </fin>
          <cf>
@@ -1008,7 +1008,7 @@
          <msp>ONOM</msp>
          <fin>
             <choice>
-               <variant>??(kuvaava ääni)</variant>
+               <variant>??( esim. rakon puhkaisua kuvaava ääni)</variant>
             </choice>
          </fin>
          <cf>
@@ -1536,7 +1536,7 @@
          <msp>ONOM</msp>
          <fin>
             <choice>
-               <variant>??(ääni veteen sukeltamisesta, myös melamisesta)</variant>
+               <variant>??(ääni veteen sukeltamisesta, myös melomisesta)</variant>
             </choice>
          </fin>
          <cf>
@@ -3157,6 +3157,7 @@
          <fin>
             <choice>
                <variant>selällään</variant>
+               <variant>selko(sen)selällään (ikkuna, ovi)</variant>
                <variant>takaperin??</variant>
             </choice>
          </fin>
@@ -4093,6 +4094,9 @@
          <fin>
             <choice>
                <variant>mahalleen??</variant>
+               <variant>kumollaan</variant>
+               <variant>kumossa</variant>
+               <variant>alassuin</variant>
             </choice>
          </fin>
          <cf>
@@ -4183,6 +4187,7 @@
          <fin>
             <choice>
                <variant>enimmäkseen</variant>
+               <variant>pääosin</variant>
                <variant>valtaosaltaan??</variant>
             </choice>
          </fin>
@@ -4302,7 +4307,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>hapuillen??</variant>
+               <variant>hapuillen</variant>
             </choice>
          </fin>
          <cf>
@@ -5059,7 +5064,9 @@
          </eng>
          <fin>
             <choice>
-               <variant>koska oli ilkeä??</variant>
+               <variant>koska oli ilkeä?? </variant>
+               <variant>ilkeästi </variant>
+               <variant>häijysti</variant>
             </choice>
          </fin>
          <cf>
@@ -7380,7 +7387,7 @@
          </eng>
          <der>
             <choice>
-               <variant> DA-a </variant>
+               <variant>DA-a</variant>
             </choice>
          </der>
          <syn>AD-A</syn>
@@ -7491,7 +7498,7 @@
          </eng>
          <der>
             <choice>
-               <variant> DA-a </variant>
+               <variant>DA-a</variant>
             </choice>
          </der>
          <msp>ADV</msp>
@@ -8807,7 +8814,7 @@
          </eng>
          <der>
             <choice>
-               <variant> DA-a </variant>
+               <variant>DA-a</variant>
             </choice>
          </der>
          <fin>
@@ -10227,7 +10234,7 @@
          </eng>
          <dial>
             <choice>
-               <variant> SW </variant>
+               <variant>SW</variant>
             </choice>
          </dial>
          <fin>
@@ -11607,7 +11614,7 @@
          </eng>
          <der>
             <choice>
-               <variant> DA-a </variant>
+               <variant>DA-a</variant>
             </choice>
          </der>
          <msp>ADV</msp>
@@ -12157,6 +12164,7 @@
             <choice>
                <variant>ensin</variant>
                <variant>ensiksi</variant>
+               <variant>aiemmin</variant>
                <variant>aluksi??</variant>
             </choice>
          </fin>
