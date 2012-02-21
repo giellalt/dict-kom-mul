@@ -68,7 +68,7 @@
          <fin>
             <choice>
                <variant>parkua</variant>
-               <variant>karjua</variant>
+               <variant>karjua??</variant>
                <variant>ulvoa</variant>
             </choice>
          </fin>
@@ -6030,8 +6030,8 @@
          </eng>
          <fin>
             <choice>
-               <variant>olla poikamies</variant>
-               <variant>olla nuorimies</variant>
+               <variant>elää nuorukaisena</variant>
+               <variant>viettää huoletonta elämää (nuoresta miehestä)</variant>
             </choice>
          </fin>
          <cf>
@@ -6057,6 +6057,7 @@
             <choice>
                <variant>parantua</variant>
                <variant>kohentua</variant>
+               <variant>tulla terveeksi</variant>
             </choice>
          </fin>
       </article>
