@@ -25,6 +25,7 @@
          <fin>
             <choice>
                <variant>tekeytyä köyhäksi</variant>
+               <variant>valittaa puutetta</variant>
             </choice>
          </fin>
       </article>
@@ -70,6 +71,7 @@
                <variant>parkua</variant>
                <variant>karjua??</variant>
                <variant>ulvoa</variant>
+               <variant>rähistä</variant>
             </choice>
          </fin>
       </article>
@@ -92,6 +94,11 @@
                <variant>parkua</variant>
                <variant>karjua</variant>
                <variant>ulvoa</variant>
+               <variant>kirkua</variant>
+               <variant>kiljua</variant>
+               <variant>huutaa</variant>
+               <variant>vollottaa</variant>
+               <variant>mölistä</variant>
             </choice>
          </fin>
       </article>
@@ -129,7 +136,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>olla agenttina</variant>
+               <variant>toimia agenttina</variant>
             </choice>
          </fin>
       </article>
@@ -211,7 +218,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>olla asianajajana</variant>
+               <variant>toimia asianajajana</variant>
             </choice>
          </fin>
       </article>
@@ -268,6 +275,8 @@
          <fin>
             <choice>
                <variant>kokea</variant>
+               <variant>nähdä</variant>
+               <variant>tavata</variant>
             </choice>
          </fin>
          <cf>
@@ -418,8 +427,8 @@
          </eng>
          <fin>
             <choice>
-               <variant>nähdä</variant>
-               <variant>tavata</variant>
+               <variant>saada nähdä</variant>
+               <variant>saada tavata</variant>
             </choice>
          </fin>
       </article>
@@ -439,7 +448,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>tavata</variant>
+               <variant>tavata (toisiaan)</variant>
             </choice>
          </fin>
       </article>
@@ -569,7 +578,9 @@
          </eng>
          <fin>
             <choice>
-               <variant>??</variant>
+               <variant>jyrähtää</variant>
+               <variant>jyrähdellä</variant>
+               <variant>pamahdella</variant>
                <variant>mylviä</variant>
                <variant>ulvoa</variant>
             </choice>
@@ -591,7 +602,7 @@
          <fin>
             <choice>
                <variant>pureksia ikenillään (hampaattomasta ihmisestä)</variant>
-               <variant>??</variant>
+               <variant>mutustaa</variant>
             </choice>
          </fin>
       </article>
@@ -646,7 +657,9 @@
          </eng>
          <fin>
             <choice>
-               <variant>peittää öljyvernissalla</variant>
+               <variant>sivellä vernissalla</variant>
+               <variant>käsitellä vernissalla</variant>
+               <variant>vernissata</variant>
             </choice>
          </fin>
       </article>
@@ -666,6 +679,8 @@
          <fin>
             <choice>
                <variant>loiventaa</variant>
+               <variant>kaltevoittaa</variant>
+               <variant>tehdä kaltevaksi</variant>
             </choice>
          </fin>
       </article>
@@ -720,7 +735,7 @@
          <usage>MOTHERESE</usage>
          <fin>
             <choice>
-               <variant>syödä</variant>
+               <variant>syödä (lapsesta)</variant>
             </choice>
          </fin>
       </article>
@@ -743,6 +758,7 @@
             <choice>
                <variant>saada mustelma</variant>
                <variant>särkeä</variant>
+               <variant>tulla kipeäksi (lapsesta)</variant>
             </choice>
          </fin>
          <cf>
@@ -1525,7 +1541,7 @@
          <fin>
             <choice>
                <variant>kätilöidä??</variant>
-               <variant>olla kätilönä</variant>
+               <variant>toimia kätilönä</variant>
                <variant>vaalia</variant>
                <variant>huolehtia</variant>
                <variant>hoivata</variant>
@@ -1866,7 +1882,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>panna kahluusaappaat?? jalkaan</variant>
+               <variant>panna metsästyssaappaat jalkaan</variant>
             </choice>
          </fin>
          <cf>
@@ -2856,6 +2872,7 @@
             <choice>
                <variant>juuria??</variant>
                <variant>kääntää vivulla</variant>
+               <variant>kääntää maata</variant>
             </choice>
          </fin>
          <cf>
@@ -3075,7 +3092,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>sytyttää valot??</variant>
+               <variant>sytyttää valo</variant>
             </choice>
          </fin>
       </article>
@@ -5283,7 +5300,7 @@
          <fin>
             <choice>
                <variant>mylviä</variant>
-               <variant>??mölistä (humalaisesta)</variant>
+               <variant>mölistä (humalaisesta)</variant>
             </choice>
          </fin>
          <cf>
@@ -5637,7 +5654,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>??viheltää (laivasta, veturista)</variant>
+               <variant>viheltää (laivasta, veturista)</variant>
             </choice>
          </fin>
          <cf>
@@ -5778,7 +5795,7 @@
          </eng>
          <fin>
             <choice>
-               <variant/>
+               <variant>pärskähtää (veteen)</variant>
             </choice>
          </fin>
          <cf>
@@ -6451,7 +6468,8 @@
          <fin>
             <choice>
                <variant>ryypätä</variant>
-               <variant>kumauttaa</variant>
+               <variant>siemailla</variant>
+               <variant>kumauttaa??</variant>
             </choice>
          </fin>
          <cf>
@@ -6523,7 +6541,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>??mylviä (lehmästä, traktorista, ihmisestä)</variant>
+               <variant>mylviä (lehmästä, traktorista, ihmisestä)</variant>
             </choice>
          </fin>
          <cf>
@@ -13646,7 +13664,8 @@
          </eng>
          <fin>
             <choice>
-               <variant>istua iltaa (iltamassa)</variant>
+               <variant>istua iltaa (iltamissa)</variant>
+               <variant>viettää iltaa</variant>
             </choice>
          </fin>
       </article>
@@ -13665,6 +13684,7 @@
          <fin>
             <choice>
                <variant>tippua</variant>
+               <variant>pisaroida</variant>
             </choice>
          </fin>
       </article>
@@ -13997,6 +14017,7 @@
             <choice>
                <variant>pilata (pahalla silmällä)</variant>
                <variant>noitua</variant>
+               <variant>turmella</variant>
             </choice>
          </fin>
          <cf>
