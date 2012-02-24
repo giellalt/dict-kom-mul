@@ -46885,7 +46885,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>sulkea silmänsä</variant>
+               <variant>sulkea silmät</variant>
             </choice>
          </fin>
       </article>
@@ -46904,7 +46904,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>siristellä??</variant>
+               <variant>siristää (silmiä)</variant>
             </choice>
          </fin>
          <cf>
@@ -46927,7 +46927,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>siristää silmänsä</variant>
+               <variant>siristää (silmiä)</variant>
             </choice>
          </fin>
          <cf>
@@ -46951,7 +46951,8 @@
          </eng>
          <fin>
             <choice>
-               <variant/>
+               <variant>kylpeä</variant>
+               <variant>kylvettää</variant>
             </choice>
          </fin>
          <cf>
@@ -47040,7 +47041,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>??</variant>
+               <variant>kujertaa (kyyhkysistä)</variant>
                <variant>kehrätä (kissasta)</variant>
             </choice>
          </fin>
@@ -48013,7 +48014,7 @@
          </eng>
          <fin>
             <choice>
-               <variant/>
+               <variant>tuulastaa</variant>
             </choice>
          </fin>
          <cf>
@@ -49038,6 +49039,7 @@
          <fin>
             <choice>
                <variant>käydä ympäri?? (monessa paikassa)</variant>
+               <variant>kierrellä</variant>
             </choice>
          </fin>
          <cf>
@@ -59096,6 +59098,7 @@
          <fin>
             <choice>
                <variant>lastata</variant>
+               <variant>kuormata</variant>
                <variant>lisätä</variant>
                <variant>hankkia??</variant>
             </choice>
@@ -60771,8 +60774,9 @@
          </eng>
          <fin>
             <choice>
-               <variant>heitellä palloa</variant>
+               <variant>heittää palloa</variant>
                <variant>leikkiä pallolla</variant>
+               <variant>pelata palloa</variant>
             </choice>
          </fin>
          <pro>
@@ -62278,6 +62282,8 @@
          </eng>
          <fin>
             <choice>
+               <variant>silottaa</variant>
+               <variant>tasoittaa</variant>
                <variant>silittää</variant>
             </choice>
          </fin>
@@ -63497,7 +63503,8 @@
          <fin>
             <choice>
                <variant>tukea</variant>
-               <variant>nojata??</variant>
+               <variant>pönkittää</variant>
+               <variant>nojata</variant>
             </choice>
          </fin>
          <cf>
@@ -63522,6 +63529,8 @@
          <fin>
             <choice>
                <variant>perustua (jhonk)</variant>
+               <variant>nojautua</variant>
+               <variant>tukeutua</variant>
             </choice>
          </fin>
       </article>
@@ -63540,6 +63549,7 @@
          <fin>
             <choice>
                <variant>perustuen</variant>
+               <variant>nojautuen</variant>
                <variant>johdosta</variant>
             </choice>
          </fin>
@@ -63980,7 +63990,9 @@
          </eng>
          <fin>
             <choice>
-               <variant>raataa??</variant>
+               <variant>raataa</variant>
+               <variant>ahertaa</variant>
+               <variant>uurastaa</variant>
             </choice>
          </fin>
       </article>
@@ -64153,7 +64165,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>ojentaa??</variant>
+               <variant>ojentaa</variant>
             </choice>
          </fin>
          <cf>
@@ -68176,7 +68188,7 @@
          <fin>
             <choice>
                <variant>odottaa (vähän)</variant>
-               <variant>maltata??</variant>
+               <variant>malttaa</variant>
             </choice>
          </fin>
          <cf>
@@ -70495,7 +70507,8 @@
          <fin>
             <choice>
                <variant>raapia</variant>
-               <variant>kynsiä??</variant>
+               <variant>kynsiä</variant>
+               <variant>hajottaa</variant>
             </choice>
          </fin>
          <cf>
@@ -70874,7 +70887,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>??asua huoneistossa</variant>
+               <variant>asua vuokrahuoneistossa</variant>
             </choice>
          </fin>
       </article>
@@ -71641,6 +71654,7 @@
          <fin>
             <choice>
                <variant>näyttää</variant>
+               <variant>osoittaa</variant>
             </choice>
          </fin>
       </article>
