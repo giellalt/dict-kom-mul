@@ -24,7 +24,7 @@
          </eng>
          <fin>
             <choice>
-               <variant>tekeytyä köyhäksi</variant>
+               <variant>teeskennellä varatonta</variant>
                <variant>valittaa puutetta</variant>
             </choice>
          </fin>
@@ -65303,6 +65303,7 @@
          <fin>
             <choice>
                <variant>repäistä</variant>
+               <variant>nykäistä irti</variant>
             </choice>
          </fin>
          <cf>
@@ -69247,7 +69248,7 @@
       </article>
    </entry>
    <entry>
-      <lemma>отсаввны</lemma>
+      <lemma>отсаввны??</lemma>
       <stem>отсавл</stem>
       <contlex>Verb1</contlex>
       <pos>V</pos>
@@ -100292,7 +100293,8 @@
          </eng>
          <fin>
             <choice>
-               <variant/>
+               <variant>yhdistää</variant>
+               <variant>liittää yhteen</variant>
             </choice>
          </fin>
          <cf>
@@ -100557,7 +100559,7 @@
          <fin>
             <choice>
                <variant>ripustaa</variant>
-               <variant>hiirtää</variant>
+               <variant>hirttää</variant>
             </choice>
          </fin>
       </article>
@@ -100577,7 +100579,7 @@
          <fin>
             <choice>
                <variant>roikkua</variant>
-               <variant>hirtäytyä</variant>
+               <variant>hirttäytyä</variant>
             </choice>
          </fin>
       </article>
