@@ -1,376 +1,404 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
-      <lemma>кытчӧ</lemma>
-      <stem/>
-      <contlex>PRON-REL</contlex>
+      <lg>
+         <l>кытчӧ</l>
+         <stg>
+            <st komContlex="PRON-REL">кытчӧ</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>where (to)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>ILL</msp>
-      </article>
+      <e>
+         <drv komMorph="CX-ӧ"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>where (to)</t>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ӧта-мӧд</lemma>
-      <stem/>
-      <contlex>PRON-RECIPR</contlex>
+      <lg>
+         <l>ӧта-мӧд</l>
+         <stg>
+            <st komContlex="PRON-RECIPR">ӧта-мӧд</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>each other</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>toisensa</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>each other</t>
+            </tg>
+            <tg lang="fin">
+               <t>toisensa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кытчӧдз</lemma>
-      <stem/>
-      <contlex>PRON-REL</contlex>
+      <lg>
+         <l>кытчӧдз</l>
+         <stg>
+            <st komContlex="PRON-REL">кытчӧдз</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>until </variant>
-               <variant> till</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kunnes</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>TERM</msp>
-      </article>
+      <e>
+         <drv komMorph="CX-ӧдз"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>until</t>
+               <t>till</t>
+            </tg>
+            <tg lang="fin">
+               <t>kunnes</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кытӧні</lemma>
-      <stem/>
-      <contlex>PRON-REL</contlex>
+      <lg>
+         <l>кытӧні</l>
+         <stg>
+            <st komContlex="PRON-REL">кытӧні</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>where</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>missä</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>INE</msp>
-      </article>
+      <e>
+         <drv komMorph="CX-ын"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>where</t>
+            </tg>
+            <tg lang="fin">
+               <t>missä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кытысь</lemma>
-      <stem/>
-      <contlex>PRON-REL</contlex>
+      <lg>
+         <l>кытысь</l>
+         <stg>
+            <st komContlex="PRON-REL">кытысь</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>where ... from </variant>
-               <variant> whence</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>josta</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>ELA</msp>
-      </article>
+      <e>
+         <drv komMorph="CX-ысь"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>where ... from</t>
+               <t>whence</t>
+            </tg>
+            <tg lang="fin">
+               <t>josta</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>коді</lemma>
-      <stem>код</stem>
-      <contlex>PRON-REL-HUM</contlex>
+      <lg>
+         <l>коді</l>
+         <stg>
+            <st komContlex="PRON-REL-HUM">код</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>who </variant>
-               <variant> that </variant>
-               <variant> which</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>joka</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>who</t>
+               <t>that</t>
+               <t>which</t>
+            </tg>
+            <tg lang="fin">
+               <t>joka</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>коді</lemma>
-      <stem>код</stem>
-      <contlex>PRON-REL</contlex>
+      <lg>
+         <l>коді</l>
+         <stg>
+            <st komContlex="PRON-REL">код</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>who </variant>
-               <variant> that </variant>
-               <variant> which</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>joka</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>who</t>
+               <t>that</t>
+               <t>which</t>
+            </tg>
+            <tg lang="fin">
+               <t>joka</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кор</lemma>
-      <stem/>
-      <contlex>PRON-REL</contlex>
+      <lg>
+         <l>кор</l>
+         <stg>
+            <st komContlex="PRON-REL">кор</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>when</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kun</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>when</t>
+            </tg>
+            <tg lang="fin">
+               <t>kun</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>корджык</lemma>
-      <stem/>
-      <contlex>PRON-REL</contlex>
+      <lg>
+         <l>корджык</l>
+         <stg>
+            <st komContlex="PRON-REL">корджык</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>(more precisely) when</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>(tarkemmin) milloin</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>(more precisely) when</t>
+            </tg>
+            <tg lang="fin">
+               <t>(tarkemmin) milloin</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>некысь</lemma>
-      <stem/>
-      <contlex>PRON-NEG</contlex>
+      <lg>
+         <l>некысь</l>
+         <stg>
+            <st komContlex="PRON-NEG">некысь</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>from nowhere</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ei mistään</variant>
-            </choice>
-         </fin>
-         <msp>ELA</msp>
-      </article>
+      <e>
+         <drv komMorph="CX-ысь"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>from nowhere</t>
+            </tg>
+            <tg lang="fin">
+               <t>ei mistään</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>некытчӧ</lemma>
-      <stem/>
-      <contlex>PRON-NEG</contlex>
+      <lg>
+         <l>некытчӧ</l>
+         <stg>
+            <st komContlex="PRON-NEG">некытчӧ</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>nowhere</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ei minnekään</variant>
-            </choice>
-         </fin>
-         <msp>ILL</msp>
-      </article>
+      <e>
+         <drv komMorph="CX-ӧ" lemmaID="некытысь_PRON"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>nowhere</t>
+            </tg>
+            <tg lang="fin">
+               <t>ei minnekään</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>некыті</lemma>
-      <stem/>
-      <contlex>PRON-NEG</contlex>
+      <lg>
+         <l>некыті</l>
+         <stg>
+            <st komContlex="PRON-NEG">некыті</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>nowhere</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ei minnekään</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>nowhere</t>
+            </tg>
+            <tg lang="fin">
+               <t>ei minnekään</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>некытысь</lemma>
-      <stem/>
-      <contlex>PRON-NEG</contlex>
+      <lg>
+         <l>некытысь</l>
+         <stg>
+            <st komContlex="PRON-NEG">некытысь</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>from nowhere</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ei mistään</variant>
-            </choice>
-         </fin>
-         <msp>ELA</msp>
-      </article>
+      <e>
+         <drv komMorph="CX-ысь"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>from nowhere</t>
+            </tg>
+            <tg lang="fin">
+               <t>ei mistään</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>некод</lemma>
-      <stem/>
-      <contlex>PRON-NEG-HUM</contlex>
+      <lg>
+         <l>некод</l>
+         <stg>
+            <st komContlex="PRON-NEG-HUM">некод</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>no one</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ei kukaan</variant>
-            </choice>
-         </fin>
-      </article>
-      <article>
-         <eng>
-            <choice>
-               <variant>not one </variant>
-               <variant> neither</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ei kukaan (meistä, teistä, heistä)</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>no one</t>
+            </tg>
+            <tg lang="fin">
+               <t>ei kukaan</t>
+            </tg>
+         </mg>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>not one</t>
+               <t>neither</t>
+            </tg>
+            <tg lang="fin">
+               <t>ei kukaan (meistä, teistä, heistä)</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>некодар</lemma>
-      <stem/>
-      <contlex>PRON-NEG</contlex>
+      <lg>
+         <l>некодар</l>
+         <stg>
+            <st komContlex="PRON-NEG">некодар</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>нем</lemma>
-      <stem/>
-      <contlex>PRON-NEG</contlex>
+      <lg>
+         <l>нем</l>
+         <stg>
+            <st komContlex="PRON-NEG">нем</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>nothing</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ei mitään</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>nothing</t>
+            </tg>
+            <tg lang="fin">
+               <t>ei mitään</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>немтор</lemma>
-      <stem>немторй</stem>
-      <contlex>PRON-NEG</contlex>
+      <lg>
+         <l>немтор</l>
+         <stg>
+            <st komContlex="PRON-NEG">немторй</st>
+         </stg>
+      </lg>
       <pos>PRON</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
-</dict>
+</r>
