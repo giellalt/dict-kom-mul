@@ -119,6 +119,7 @@
          <xs:enumeration value="MANNER-INDEF"/>
          <xs:enumeration value="ADV-PARENTHETIC"/>
          <xs:enumeration value="PRT_ADV-PARENTHETIC"/>
+         <xs:enumeration value="V_ADV-PARENTHETIC"/>
          <xs:enumeration value="ADV-POSITION"/>
          <xs:enumeration value="SPAT-0ARG"/>
          <xs:enumeration value="SPAT-0ARG-INTERR"/>
@@ -268,6 +269,7 @@
          <xs:restriction base="xs:string">
             <xs:enumeration value="BIB"/>
             <xs:enumeration value="PS"/>
+            <xs:enumeration value="Toropov"/>
          </xs:restriction>
       </xs:simpleType>
    </xs:attribute>
@@ -517,6 +519,7 @@
    <xs:attribute name="drvType">
       <xs:simpleType>
          <xs:restriction base="xs:string">
+            <xs:enumeration value="Allegro"/>
             <xs:enumeration value="DIM"/>
             <xs:enumeration value="Dim/не"/>
             <xs:enumeration value="Dim/ке"/>
@@ -552,6 +555,14 @@
                   <xs:enumeration value="f"/>
                   <xs:enumeration value="m"/>
                   <xs:enumeration value="n"/>
+               </xs:restriction>
+            </xs:simpleType>
+         </xs:attribute>
+         <xs:attribute name="gloss">
+            <xs:simpleType>
+               <xs:restriction base="xs:string">
+                  <xs:enumeration value="+"/>
+                  <xs:enumeration value="0"/>
                </xs:restriction>
             </xs:simpleType>
          </xs:attribute>
@@ -594,12 +605,29 @@
    <xs:attribute name="komMorph">
       <xs:simpleType>
          <xs:restriction base="xs:string">
+            <xs:enumeration value="CX-аддза"/>
+            <xs:enumeration value="CX-лань"/>
+            <xs:enumeration value="CX-ӧ"/>
+            <xs:enumeration value="CX-ӧн"/>
+            <xs:enumeration value="CX-нас"/>
+            <xs:enumeration value="CX-сянь"/>
+            <xs:enumeration value="CX-ті"/>
+            <xs:enumeration value="CX-тӧг"/>
+            <xs:enumeration value="CX-ӧдз"/>
+            <xs:enumeration value="CX-ысь"/>
+            <xs:enumeration value="CX-ын"/>
+            <xs:enumeration value="DA-а"/>
             <xs:enumeration value="DV-ыл"/>
             <xs:enumeration value="DV-ышт"/>
+            <xs:enumeration value="DN-а"/>
             <xs:enumeration value="DN-ась"/>
             <xs:enumeration value="DN-ін"/>
+            <xs:enumeration value="DN-са"/>
+            <xs:enumeration value="DN-ся"/>
             <xs:enumeration value="DN-торй"/>
             <xs:enumeration value="DN-тӧм"/>
+            <xs:enumeration value="DV-игӧн"/>
+            <xs:enumeration value="DV-мӧн"/>
             <xs:enumeration value="DV-ӧм"/>
             <xs:enumeration value="DV-тӧм"/>
             <xs:enumeration value="DV-сь"/>
@@ -607,14 +635,18 @@
             <xs:enumeration value="DV-чы"/>
             <xs:enumeration value="DV-зьы"/>
             <xs:enumeration value="DV-ӧд"/>
+            <xs:enumeration value="DV-тӧг"/>
+            <xs:enumeration value="DV-тӧдз"/>
             <xs:enumeration value="DV-ал"/>
             <xs:enumeration value="DV-ысь"/>
             <xs:enumeration value="DN-мӧд"/>
             <xs:enumeration value="DN-мы"/>
             <xs:enumeration value="DV-лы"/>
             <xs:enumeration value="DV-л"/>
+            <xs:enumeration value="DV-ся"/>
             <xs:enumeration value="DN-ал"/>
             <!--denominal and deverbal morphology-->
+            <xs:enumeration value="FIN-3Sg"/>
          </xs:restriction>
       </xs:simpleType>
    </xs:attribute>
@@ -700,7 +732,7 @@
             <xs:simpleType>
                <xs:restriction base="xs:string">
                   <xs:enumeration value="+"/>
-                  <xs:enumeration value="-"/>
+                  <xs:enumeration value="0"/>
                </xs:restriction>
             </xs:simpleType>
          </xs:attribute>
@@ -944,7 +976,11 @@
    <xs:attribute name="isaType">
       <xs:simpleType>
          <xs:restriction base="xs:string">
+            <xs:enumeration value="TERM"/>
+            <!--"TERM" This is a peculiarity of some dictionaries and must be dealt with.-->
             <xs:enumeration value="old_foreign_word"/>
+            <xs:enumeration value="comparative_form"/>
+            <xs:enumeration value="ideophone"/>
             <xs:enumeration value="incoative_verb"/>
             <xs:enumeration value="ideophonic_verb"/>
             <xs:enumeration value="reciprocal_verb"/>
@@ -952,6 +988,7 @@
             <xs:enumeration value="beverage"/>
             <xs:enumeration value="bird"/>
             <xs:enumeration value="body_part"/>
+            <xs:enumeration value="color"/>
             <xs:enumeration value="company"/>
             <xs:enumeration value="domestic_animal"/>
             <xs:enumeration value="wild_animal"/>
