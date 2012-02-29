@@ -1,567 +1,643 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <!--    <entry exclude="fst"> -->
-   <!--       <lemma>CiprianAndTrond</lemma> -->
-   <!--       <stem>FixThis</stem> -->
-   <!--       <contlex>#</contlex> -->
-   <!--       <pos>N</pos> -->
-   <!--       <article> -->
-   <!--       <eng>We need an attr saying _do not make lexc_</eng> -->
-   <!--       <fin>The answer is: exclude="fst"</fin> -->
-   <!--       </article> -->
-   <!--    </entry> -->
+<r xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <!--
+<entry exclude="fst"> -->
+   <!-- <lg><l>CiprianAndTrond</l><stg> -->
+   <!-- <st>FixThis</st> -->
+   <!-- <contlex>#</contlex> -->
+   <!-- <pos>N</pos><e> -->
+   <!-- <mg><m><head></head></m> -->
+   <!-- <tg lang="eng">We need an attr saying _do not make lexc_</tg> -->
+   <!-- <tg lang="fin">The answer is: exclude="fst"</tg> -->
+   <!-- </mg> -->
+   <!-- </e></entry> -->
    <entry>
-      <lemma>ме</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG1-NOM</contlex>
+      <lg>
+         <l>ме</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG1-NOM">ме</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>I</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>minä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>I</t>
+            </tg>
+            <tg lang="fin">
+               <t>minä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мем</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG1-DAT</contlex>
+      <lg>
+         <l>мем</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG1-DAT">мем</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <msp>DAT SG1</msp>
-         <eng>
-            <choice>
-               <variant>to me</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>minulle</variant>
-            </choice>
-         </fin>
-         <syno>меным</syno>
-      </article>
+      <e>
+         <drv komMorph="CX-DAT" lemmaID="ме_PERS"/>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="меным_PERS" semRelType="synonym"/>
+            </m>
+            <tg lang="eng">
+               <t>to me</t>
+            </tg>
+            <tg lang="fin">
+               <t>minulle</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мен</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG1-DAT</contlex>
+      <lg>
+         <l>мен</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG1-DAT">мен</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <msp>DAT SG1</msp>
-         <eng>
-            <choice>
-               <variant>to me</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>minulle</variant>
-            </choice>
-         </fin>
-         <syno>меным</syno>
-      </article>
+      <e>
+         <drv komMorph="CX-DAT" lemmaID="ме_PERS"/>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="меным_PERS" semRelType="synonym"/>
+            </m>
+            <tg lang="eng">
+               <t>to me</t>
+            </tg>
+            <tg lang="fin">
+               <t>minulle</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>менам</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG1-GEN</contlex>
+      <lg>
+         <l>менам</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG1-GEN">менам</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <msp>GEN SG1</msp>
-         <eng>
-            <choice>
-               <variant>my </variant>
-               <variant> I have</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>minun </variant>
-               <variant> minulla</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <drv komMorph="CX-GEN" lemmaID="ме_PERS"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>my</t>
+               <t>I have</t>
+            </tg>
+            <tg lang="fin">
+               <t>minun</t>
+               <t>minulla</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>меным</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG1-DAT</contlex>
+      <lg>
+         <l>меным</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG1-DAT">меным</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <msp>DAT SG1</msp>
-         <eng>
-            <choice>
-               <variant>to me</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>minulle</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant>мем</variant>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <drv komMorph="CX-DAT" lemmaID="ме_PERS"/>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="мем" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <t>to me</t>
+            </tg>
+            <tg lang="fin">
+               <t>minulle</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>менсьым</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG1-ELA</contlex>
+      <lg>
+         <l>менсьым</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG1-ELA">менсьым</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <msp>ELA SG1</msp>
-         <eng>
-            <choice>
-               <variant>from me</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>minulta</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <drv komMorph="CX-ысь" lemmaID="ме_PERS"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>from me</t>
+            </tg>
+            <tg lang="fin">
+               <t>minulta</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ми</lemma>
-      <stem/>
-      <contlex>PRON-PERS-PL1-NOM</contlex>
+      <lg>
+         <l>ми</l>
+         <stg>
+            <st komContlex="PRON-PERS-PL1-NOM">ми</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>we</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>me</variant>
-            </choice>
-         </fin>
-         <syn>@SUBJ</syn>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>@SUBJ</typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>we</t>
+            </tg>
+            <tg lang="fin">
+               <t>me</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мийӧ</lemma>
-      <stem/>
-      <contlex>PRON-PERS-PL1-NOM</contlex>
+      <lg>
+         <l>мийӧ</l>
+         <stg>
+            <st komContlex="PRON-PERS-PL1-NOM">мийӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>we</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>me</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant>ми</variant>
-            </choice>
-         </cf>
-         <msp>NOM PL</msp>
-         <syn>@SUBJ</syn>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="ми" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <t>we</t>
+            </tg>
+            <tg lang="fin">
+               <t>me</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>на</lemma>
-      <stem/>
-      <contlex>PRON-PERS-PL3-NOM</contlex>
+      <lg>
+         <l>на</l>
+         <stg>
+            <st komContlex="PRON-PERS-PL3-NOM">на</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>they</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>he </variant>
-               <variant> ne</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>they</t>
+            </tg>
+            <tg lang="fin">
+               <t>he</t>
+               <t>ne</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>найӧ</lemma>
-      <stem/>
-      <contlex>PRON-PERS-PL3-NOM</contlex>
+      <lg>
+         <l>найӧ</l>
+         <stg>
+            <st komContlex="PRON-PERS-PL3-NOM">найӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>they</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>he</variant>
-               <variant>ne</variant>
-            </choice>
-         </fin>
-         <msp>NOM PL3</msp>
-         <syn>@SUBJ</syn>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>they</t>
+            </tg>
+            <tg lang="fin">
+               <t>he</t>
+               <t>ne</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>найӧ</lemma>
-      <stem/>
-      <contlex>PRON-PERS-PL3-NOM</contlex>
+      <lg>
+         <l>найӧ</l>
+         <stg>
+            <st komContlex="PRON-PERS-PL3-NOM">найӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>they</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>he</variant>
-               <variant>ne</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>they</t>
+            </tg>
+            <tg lang="fin">
+               <t>he</t>
+               <t>ne</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>найӧс</lemma>
-      <stem/>
-      <contlex>PRON-PERS-PL3-ACC</contlex>
+      <lg>
+         <l>найӧс</l>
+         <stg>
+            <st komContlex="PRON-PERS-PL3-ACC">найӧс</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>them</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>heitä </variant>
-               <variant> heidät </variant>
-               <variant> niitä </variant>
-               <variant> ne</variant>
-            </choice>
-         </fin>
-         <syn>@OBJ</syn>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>@OBJ</typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>them</t>
+            </tg>
+            <tg lang="fin">
+               <t>heitä</t>
+               <t>heidät</t>
+               <t>niitä</t>
+               <t>ne</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>сійӧ</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG3-NOM</contlex>
+      <lg>
+         <l>сійӧ</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG3-NOM">сійӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>he/ she/ it</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>hän </variant>
-               <variant> se</variant>
-            </choice>
-         </fin>
-         <syn>@SUBJ</syn>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>@SUBJ</typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>he/ she/ it</t>
+            </tg>
+            <tg lang="fin">
+               <t>hän</t>
+               <t>se</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>сійӧс</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG3-ACC</contlex>
+      <lg>
+         <l>сійӧс</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG3-ACC">сійӧс</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>him</variant>
-               <variant>her</variant>
-               <variant>it</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>hänet</variant>
-               <variant>sen</variant>
-            </choice>
-         </fin>
-         <syn>@OBJ</syn>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>@OBJ</typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>him</t>
+               <t>her</t>
+               <t>it</t>
+            </tg>
+            <tg lang="fin">
+               <t>hänet</t>
+               <t>sen</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>сы</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG3-NOM</contlex>
+      <lg>
+         <l>сы</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG3-NOM">сы</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>he</variant>
-               <variant>she</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>hän</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant>сійӧ</variant>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="сійӧ" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <t>he</t>
+               <t>she</t>
+            </tg>
+            <tg lang="fin">
+               <t>hän</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>сы</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG3-OBL</contlex>
+      <lg>
+         <l>сы</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG3-OBL">сы</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>he</variant>
-               <variant>she</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>hän</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant>сійӧ</variant>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="сійӧ" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <t>he</t>
+               <t>she</t>
+            </tg>
+            <tg lang="fin">
+               <t>hän</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>та</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG3-NOM</contlex>
+      <lg>
+         <l>та</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG3-NOM">та</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>he</variant>
-               <variant>she</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>hän</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>he</t>
+               <t>she</t>
+            </tg>
+            <tg lang="fin">
+               <t>hän</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тайӧ</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG3-NOM</contlex>
+      <lg>
+         <l>тайӧ</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG3-NOM">тайӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>this</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>tämä</variant>
-            </choice>
-         </fin>
-         <msp>NOM SG</msp>
-         <syn>@SUBJ</syn>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>this</t>
+            </tg>
+            <tg lang="fin">
+               <t>tämä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тайӧяс</lemma>
-      <stem/>
-      <contlex>PRON-PERS-PL3-NOM</contlex>
+      <lg>
+         <l>тайӧяс</l>
+         <stg>
+            <st komContlex="PRON-PERS-PL3-NOM">тайӧяс</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>these</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>nämä</variant>
-            </choice>
-         </fin>
-         <msp>PL</msp>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>these</t>
+            </tg>
+            <tg lang="fin">
+               <t>nämä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тэ</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG2-NOM</contlex>
+      <lg>
+         <l>тэ</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG2-NOM">тэ</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>you</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>sinä</variant>
-            </choice>
-         </fin>
-         <msp>SG2</msp>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>you</t>
+            </tg>
+            <tg lang="fin">
+               <t>sinä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тэд</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG2-DAT</contlex>
+      <lg>
+         <l>тэд</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG2-DAT">тэд</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>to you</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>sinulle</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant>тэныд</variant>
-            </choice>
-         </cf>
-         <msp>DAT SG2</msp>
-      </article>
+      <e>
+         <drv komMorph="CX-DAT" lemmaID="тэ_PERS"/>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="тэныд" semRelType="synonym"/>
+            </m>
+            <tg lang="eng">
+               <t>to you</t>
+            </tg>
+            <tg lang="fin">
+               <t>sinulle</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тэн</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG2-DAT</contlex>
+      <lg>
+         <l>тэн</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG2-DAT">тэн</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>to you</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>sinulle</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant>тэныд</variant>
-            </choice>
-         </cf>
-         <msp>DAT SG2</msp>
-      </article>
+      <e>
+         <drv cx="dat" px="2Sg"/>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="тэныд" semRelType="synonym"/>
+            </m>
+            <tg lang="eng">
+               <t>to you</t>
+            </tg>
+            <tg lang="fin">
+               <t>sinulle</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тэнад</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG2-GEN</contlex>
+      <lg>
+         <l>тэнад</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG2-GEN">тэнад</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>your</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>sinun</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>GEN SG2</msp>
-      </article>
+      <e>
+         <drv cx="gen" px="2Sg"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>your</t>
+            </tg>
+            <tg lang="fin">
+               <t>sinun</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тэныд</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG2-DAT</contlex>
+      <lg>
+         <l>тэныд</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG2-DAT">тэныд</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>to you</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>sinulle</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>DAT SG2</msp>
-      </article>
+      <e>
+         <drv cx="dat" px="2Sg"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>to you</t>
+            </tg>
+            <tg lang="fin">
+               <t>sinulle</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тэнсьыд</lemma>
-      <stem/>
-      <contlex>PRON-PERS-SG2-ABL</contlex>
+      <lg>
+         <l>тэнсьыд</l>
+         <stg>
+            <st komContlex="PRON-PERS-SG2-ABL">тэнсьыд</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>from you</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>sinulta</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>ABL SG2</msp>
-      </article>
+      <e>
+         <drv cx="ela" px="2Sg"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>from you</t>
+            </tg>
+            <tg lang="fin">
+               <t>sinulta</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ті</lemma>
-      <stem/>
-      <contlex>PRON-PERS-PL2-NOM</contlex>
+      <lg>
+         <l>ті</l>
+         <stg>
+            <st komContlex="PRON-PERS-PL2-NOM">ті</st>
+         </stg>
+      </lg>
       <pos>PRON-PERS</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>you</variant>
-            </choice>
-         </eng>
-         <msp>PL2</msp>
-      </article>
+      <e>
+         <drv cx="nom" px="2Pl"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>you</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
-</dict>
+</r>
