@@ -1,433 +1,464 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
-      <lemma>кӧні</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>where</variant>
-            </choice>
-         </eng>
-         <msp>ADV</msp>
-         <fin>
-            <choice>
-               <variant>missä</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>кӧні</l>
+         <stg>
+            <st komContlex="PRONQTAG">кӧні</st>
+         </stg>
+      </lg>
+      <pos>SPAT-INTERR</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>where</t>
+            </tg>
+            <tg lang="fin">
+               <t>missä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кытӧн</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>where</variant>
-            </choice>
-         </eng>
-         <msp>ADV</msp>
-         <fin>
-            <choice>
-               <variant>missä</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>кытӧн</l>
+         <stg>
+            <st komContlex="PRONQTAG">кытӧн</st>
+         </stg>
+      </lg>
+      <pos>SPAT-INTERR</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>where</t>
+            </tg>
+            <tg lang="fin">
+               <t>missä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кыдзи</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>how</variant>
-               <variant> in what way</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>кыдзи</l>
+         <stg>
+            <st komContlex="PRONQTAG">кыдзи</st>
+         </stg>
+      </lg>
+      <pos>MANNER-INTERR</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>how</t>
+               <t>in what way</t>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кысь</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <msp>ELA</msp>
-         <eng>
-            <choice>
-               <variant>where from</variant>
-               <variant>whence</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>mistä</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant>кытысь</variant>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>кысь</l>
+         <stg>
+            <st komContlex="PRONQTAG">кысь</st>
+         </stg>
+      </lg>
+      <pos>SPAT-INTERR</pos>
+      <e>
+         <drv komMorph="CX-ысь"/>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="кытысь" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <t>where from</t>
+               <t>whence</t>
+            </tg>
+            <tg lang="fin">
+               <t>mistä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кытчӧ</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <msp>ILL</msp>
-         <eng>
-            <choice>
-               <variant>where ... to </variant>
-               <variant> whither</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>mihin </variant>
-               <variant> minne</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>кытчӧ</l>
+         <stg>
+            <st komContlex="PRONQTAG">кытчӧ</st>
+         </stg>
+      </lg>
+      <pos>SPAT-INTERR</pos>
+      <e>
+         <drv komMorph="CX-ӧ" lemmaID="кытысь"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>where ... to</t>
+               <t>whither</t>
+            </tg>
+            <tg lang="fin">
+               <t>mihin</t>
+               <t>minne</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кытчӧдз</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>up to what place</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>TERM</msp>
-      </article>
+      <lg>
+         <l>кытчӧдз</l>
+         <stg>
+            <st komContlex="PRONQTAG">кытчӧдз</st>
+         </stg>
+      </lg>
+      <pos>SPAT-INTERR</pos>
+      <e>
+         <drv komMorph="CX-ӧдз" lemmaID="кытысь"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>up to what place</t>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кыті</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>what way</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>mitä kautta</variant>
-            </choice>
-         </fin>
-         <msp>PROL2</msp>
-      </article>
+      <lg>
+         <l>кыті</l>
+         <stg>
+            <st komContlex="PRONQTAG">кыті</st>
+         </stg>
+      </lg>
+      <pos>SPAT-INTERR</pos>
+      <e>
+         <drv komMorph="CX-ті"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>what way</t>
+            </tg>
+            <tg lang="fin">
+               <t>mitä kautta</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кытысь</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>where ... from </variant>
-               <variant> whence</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>mistä</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant>кысь</variant>
-            </choice>
-         </cf>
-         <msp>ELA</msp>
-      </article>
+      <lg>
+         <l>кытысь</l>
+         <stg>
+            <st komContlex="PRONQTAG">кытысь</st>
+         </stg>
+      </lg>
+      <pos>SPAT-INTERR</pos>
+      <e>
+         <drv komMorph="CX-ысь"/>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="кысь" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <t>where ... from</t>
+               <t>whence</t>
+            </tg>
+            <tg lang="fin">
+               <t>mistä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кодар</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>what</variant>
-               <variant>which</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>mikä </variant>
-               <variant> kumpi</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>кодар</l>
+         <stg>
+            <st komContlex="PRONQTAG">кодар</st>
+         </stg>
+      </lg>
+      <pos>DET-INTERR</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>what</t>
+               <t>which</t>
+            </tg>
+            <tg lang="fin">
+               <t>mikä</t>
+               <t>kumpi</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>коді</lemma>
-      <stem>код</stem>
-      <contlex>PRON-INTER-HUM</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>who</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kuka</variant>
-            </choice>
-         </fin>
-         <msp>NOM SG</msp>
-      </article>
+      <lg>
+         <l>коді</l>
+         <stg>
+            <st komContlex="PRON-INTER-HUM">код</st>
+         </stg>
+      </lg>
+      <pos>PERS-INTERR</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>who</t>
+            </tg>
+            <tg lang="fin">
+               <t>kuka</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кодыр</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>when</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>milloin</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>кодыр</l>
+         <stg>
+            <st komContlex="PRONQTAG">кодыр</st>
+         </stg>
+      </lg>
+      <pos>TEMP-INTERR</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>when</t>
+            </tg>
+            <tg lang="fin">
+               <t>milloin</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кодъяс</lemma>
-      <stem/>
-      <contlex>PRONQTAGPL</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>who</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ketkä</variant>
-            </choice>
-         </fin>
-         <msp>PL</msp>
-      </article>
+      <lg>
+         <l>кодъяс</l>
+         <stg>
+            <st komContlex="PRONQTAGPL">кодъяс</st>
+         </stg>
+      </lg>
+      <pos>PERS-INTERR</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>who</t>
+            </tg>
+            <tg lang="fin">
+               <t>ketkä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кор</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>when</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>milloin</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>кор</l>
+         <stg>
+            <st komContlex="PRONQTAG">кор</st>
+         </stg>
+      </lg>
+      <pos>TEMP-INTERR</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>when</t>
+            </tg>
+            <tg lang="fin">
+               <t>milloin</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>корджык</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>about when</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>suunnilleen milloin</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>корджык</l>
+         <stg>
+            <st komContlex="PRONQTAG">корджык</st>
+         </stg>
+      </lg>
+      <pos>TEMP-INTERR</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>about when</t>
+            </tg>
+            <tg lang="fin">
+               <t>suunnilleen milloin</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кутшӧм</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>what kind of</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>millainen </variant>
-               <variant> minkälainen</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>кутшӧм</l>
+         <stg>
+            <st komContlex="PRONQTAG">кутшӧм</st>
+         </stg>
+      </lg>
+      <pos>A-INTERR</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>what kind of</t>
+            </tg>
+            <tg lang="fin">
+               <t>millainen</t>
+               <t>minkälainen</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кутшӧма</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>how</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>miten </variant>
-               <variant> kuinka</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>кутшӧма</l>
+         <stg>
+            <st komContlex="PRONQTAG">кутшӧма</st>
+         </stg>
+      </lg>
+      <pos>MANNER-INTERR</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>how</t>
+            </tg>
+            <tg lang="fin">
+               <t>miten</t>
+               <t>kuinka</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кутшӧм</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>мыетш</l>
+         <stg>
+            <st komContlex="PRONQTAG">мыетш</st>
+         </stg>
+      </lg>
+      <pos>QNT-INTERR</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>to what extent</t>
+            </tg>
+            <tg lang="fin">
+               <t>minkä verran</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мыетш</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>to what extent</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>minkä verran</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>мый</l>
+         <stg>
+            <st komContlex="PRON-INTER-NONHUM">мый</st>
+         </stg>
+      </lg>
+      <pos>N-INTERR</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>what</t>
+            </tg>
+            <tg lang="fin">
+               <t>mikä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мый</lemma>
-      <stem/>
-      <contlex>PRON-INTER-NONHUM</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>what</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>mikä</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>мыйла</l>
+         <stg>
+            <st komContlex="PRONQTAG">мыйла</st>
+         </stg>
+      </lg>
+      <pos>REASON-INTERR</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>why</t>
+               <t>how come</t>
+            </tg>
+            <tg lang="fin">
+               <t>miksi</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мыйла</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>why </variant>
-               <variant> how come</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>miksi</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>мыйта</l>
+         <stg>
+            <st komContlex="PRONQTAG">мыйта</st>
+         </stg>
+      </lg>
+      <pos>QNT-INTERR</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>how much</t>
+               <t>to what extent</t>
+            </tg>
+            <tg lang="fin">
+               <t>kuinka paljon</t>
+               <t>minkä verran</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
-   <entry>
-      <lemma>мыйта</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-INTER</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>how much </variant>
-               <variant> to what extent</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kuinka paljon </variant>
-               <variant> minkä verran</variant>
-            </choice>
-         </fin>
-      </article>
-   </entry>
-</dict>
+</r>
