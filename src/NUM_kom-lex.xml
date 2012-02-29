@@ -1,924 +1,1064 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
-      <lemma>дас</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>дас</l>
+         <stg>
+            <st komContlex="CARD">дас</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>ten</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kymmenen</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>ten</t>
+            </tg>
+            <tg lang="fin">
+               <t>kymmenen</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>дзурс</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>дзурс</l>
+         <stg>
+            <st komContlex="CARD">дзурс</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>million</variant>
-            </choice>
-         </eng>
-         <dial>
-            <choice>
-               <variant>SDW</variant>
-            </choice>
-         </dial>
-         <fin>
-            <choice>
-               <variant>miljoona</variant>
-            </choice>
-         </fin>
-         <sci>1,000,000</sci>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <range dialect="SDW" rangeSpat="dialect"/>
+                  <sci>1,000,000</sci>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>million</t>
+            </tg>
+            <tg lang="fin">
+               <t>miljoona</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>этша</lemma>
-      <stem/>
-      <contlex>DET</contlex>
+      <lg>
+         <l>этша</l>
+         <stg>
+            <st komContlex="DET">этша</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>little</variant>
-               <variant>few</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>vähän</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>little</t>
+               <t>few</t>
+            </tg>
+            <tg lang="fin">
+               <t>vähän</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ӧкмыс</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>ӧкмыс</l>
+         <stg>
+            <st komContlex="CARD">ӧкмыс</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>nine</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>yhdeksän</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>nine</t>
+            </tg>
+            <tg lang="fin">
+               <t>yhdeksän</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ӧкмысдас</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>ӧкмысдас</l>
+         <stg>
+            <st komContlex="CARD">ӧкмысдас</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>ninety</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>yhdeksänkymmentä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>ninety</t>
+            </tg>
+            <tg lang="fin">
+               <t>yhdeksänkymmentä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ӧкмыссё</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>ӧкмыссё</l>
+         <stg>
+            <st komContlex="CARD">ӧкмыссё</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>nine hundred</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>yhdeksänsataa</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>nine hundred</t>
+            </tg>
+            <tg lang="fin">
+               <t>yhdeksänsataa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ӧт</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>ӧт</l>
+         <stg>
+            <st komContlex="CARD">ӧт</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>one (part of compound words)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>yksi (yhdyssanoissa)</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>one (part of compound words)</t>
+            </tg>
+            <tg lang="fin">
+               <t>yksi (yhdyssanoissa)</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ӧти</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>ӧти</l>
+         <stg>
+            <st komContlex="CARD">ӧти</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>one </variant>
-               <variant> same</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>yksi </variant>
-               <variant> sama</variant>
-            </choice>
-         </fin>
-         <eg>
-            <komi>ӧти бӧрся мӧд</komi>
-            <!-- pos>IDIOM -->
-            <eng>
-               <choice>
-                  <variant>one after the other</variant>
-               </choice>
-            </eng>
-            <fin>
-               <choice>
-                  <variant>yksi toisensa jälkeen</variant>
-               </choice>
-            </fin>
-         </eg>
-         <eg>
-            <komi>ӧти и сійӧ жӧ</komi>
-            <eng>
-               <choice>
-                  <variant>one and the same</variant>
-               </choice>
-            </eng>
-            <fin>
-               <choice>
-                  <variant>yksi ja sama</variant>
-               </choice>
-            </fin>
-         </eg>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>one</t>
+               <t>same</t>
+            </tg>
+            <tg lang="fin">
+               <t>yksi</t>
+               <t>sama</t>
+            </tg>
+            <xg>
+               <x>ӧти бӧрся мӧд</x>
+               <xt lang="eng">one after the other</xt>
+               <xt lang="fin">yksi toisensa jälkeen</xt>
+            </xg>
+            <xg>
+               <x>ӧти и сійӧ жӧ</x>
+               <xt lang="eng">one and the same</xt>
+               <xt lang="fin">yksi ja sama</xt>
+            </xg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ӧтиысь</lemma>
-      <stem/>
-      <contlex>ADVTAG</contlex>
-      <pos>ADV</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>once</variant>
-            </choice>
-         </eng>
-         <msp>ADV</msp>
-         <fin>
-            <choice>
-               <variant>kerran</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>ӧтиысь</l>
+         <stg>
+            <st komContlex="ADVTAG">ӧтиысь</st>
+         </stg>
+      </lg>
+      <pos>ITER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>once</t>
+            </tg>
+            <tg lang="fin">
+               <t>kerran</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ӧтик</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>ӧтик</l>
+         <stg>
+            <st komContlex="CARD">ӧтик</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>one </variant>
-               <variant> same</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>yksi </variant>
-               <variant> sama</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>one</t>
+               <t>same</t>
+            </tg>
+            <tg lang="fin">
+               <t>yksi</t>
+               <t>sama</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ӧткымын</lemma>
-      <stem/>
-      <contlex>DET</contlex>
+      <lg>
+         <l>ӧткымын</l>
+         <stg>
+            <st komContlex="DET">ӧткымын</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>a few</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>muutama</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>a few</t>
+            </tg>
+            <tg lang="fin">
+               <t>muutama</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кӧкъямыс</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>кӧкъямыс</l>
+         <stg>
+            <st komContlex="CARD">кӧкъямыс</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>eight</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kahdeksan</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>eight</t>
+            </tg>
+            <tg lang="fin">
+               <t>kahdeksan</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кӧкъямысдас</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>кӧкъямысдас</l>
+         <stg>
+            <st komContlex="CARD">кӧкъямысдас</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>eighty</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kahdeksankymmentä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>eighty</t>
+            </tg>
+            <tg lang="fin">
+               <t>kahdeksankymmentä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кӧкъямыссё</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>кӧкъямыссё</l>
+         <stg>
+            <st komContlex="CARD">кӧкъямыссё</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>eight hundred</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kahdeksansataa</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>eight hundred</t>
+            </tg>
+            <tg lang="fin">
+               <t>kahdeksansataa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кык</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>кык</l>
+         <stg>
+            <st komContlex="CARD">кык</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>two</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kaksi</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>two</t>
+            </tg>
+            <tg lang="fin">
+               <t>kaksi</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кыксё</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>кыксё</l>
+         <stg>
+            <st komContlex="CARD">кыксё</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>two hundred</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kaksisataa</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>two hundred</t>
+            </tg>
+            <tg lang="fin">
+               <t>kaksisataa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кызь</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>кызь</l>
+         <stg>
+            <st komContlex="CARD">кызь</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>twenty</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kaksikymmentä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>twenty</t>
+            </tg>
+            <tg lang="fin">
+               <t>kaksikymmentä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>коимӧд</lemma>
-      <stem/>
-      <contlex>ORD</contlex>
+      <lg>
+         <l>коимӧд</l>
+         <stg>
+            <st komContlex="ORD">коимӧд</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>third</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kolmas</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>third</t>
+            </tg>
+            <tg lang="fin">
+               <t>kolmas</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>коймӧд</lemma>
-      <stem/>
-      <contlex>ORD</contlex>
+      <lg>
+         <l>коймӧд</l>
+         <stg>
+            <st komContlex="ORD">коймӧд</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>(the) third</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kolmas</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>(the) third</t>
+            </tg>
+            <tg lang="fin">
+               <t>kolmas</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>комын</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>комын</l>
+         <stg>
+            <st komContlex="CARD">комын</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>thirty</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kolmekymmentä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>thirty</t>
+            </tg>
+            <tg lang="fin">
+               <t>kolmekymmentä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>куим</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>куим</l>
+         <stg>
+            <st komContlex="CARD">куим</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>three</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kolme</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>three</t>
+            </tg>
+            <tg lang="fin">
+               <t>kolme</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>куимсё</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>куимсё</l>
+         <stg>
+            <st komContlex="CARD">куимсё</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>three hundred</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kolmesataa</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>three hundred</t>
+            </tg>
+            <tg lang="fin">
+               <t>kolmesataa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>квайт</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>квайт</l>
+         <stg>
+            <st komContlex="CARD">квайт</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>six</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kuusi</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>six</t>
+            </tg>
+            <tg lang="fin">
+               <t>kuusi</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>квайтымын</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>квайтымын</l>
+         <stg>
+            <st komContlex="CARD">квайтымын</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>sixty</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kuusikymmentä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>sixty</t>
+            </tg>
+            <tg lang="fin">
+               <t>kuusikymmentä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>квайтсё</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>квайтсё</l>
+         <stg>
+            <st komContlex="CARD">квайтсё</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>six hundred</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kuusisataa</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>six hundred</t>
+            </tg>
+            <tg lang="fin">
+               <t>kuusisataa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мӧд</lemma>
-      <stem/>
-      <contlex>ORD</contlex>
+      <lg>
+         <l>мӧд</l>
+         <stg>
+            <st komContlex="ORD">мӧд</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>second </variant>
-               <variant> other</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>toinen</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>second</t>
+               <t>other</t>
+            </tg>
+            <tg lang="fin">
+               <t>toinen</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мӧдӧд</lemma>
-      <stem/>
-      <contlex>ORD</contlex>
+      <lg>
+         <l>мӧдӧд</l>
+         <stg>
+            <st komContlex="ORD">мӧдӧд</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>second </variant>
-               <variant> other</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>toinen</variant>
-            </choice>
-         </fin>
-         <syno>мӧд</syno>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="мӧд" semRelType="synonym"/>
+            </m>
+            <tg lang="eng">
+               <t>second</t>
+               <t>other</t>
+            </tg>
+            <tg lang="fin">
+               <t>toinen</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>миллиард</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>миллиард</l>
+         <stg>
+            <st komContlex="CARD">миллиард</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>billion (AmE) </variant>
-               <variant> milliard (BrE)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>miljaardi</variant>
-            </choice>
-         </fin>
-         <sci>1,000,000,000</sci>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <sci>1,000,000,000</sci>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>billion (AmE)</t>
+               <t>milliard (BrE)</t>
+            </tg>
+            <tg lang="fin">
+               <t>miljaardi</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>миллион</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>миллион</l>
+         <stg>
+            <st komContlex="CARD">миллион</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>million</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>miljoona</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>million</t>
+            </tg>
+            <tg lang="fin">
+               <t>miljoona</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>нелямын</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>нелямын</l>
+         <stg>
+            <st komContlex="CARD">нелямын</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>forty</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>neljäkymmentä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>forty</t>
+            </tg>
+            <tg lang="fin">
+               <t>neljäkymmentä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>нёль</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>нёль</l>
+         <stg>
+            <st komContlex="CARD">нёль</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>four</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>neljä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>four</t>
+            </tg>
+            <tg lang="fin">
+               <t>neljä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>нёльсё</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>нёльсё</l>
+         <stg>
+            <st komContlex="CARD">нёльсё</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>four hundred</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>neljäsataa</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>four hundred</t>
+            </tg>
+            <tg lang="fin">
+               <t>neljäsataa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>первӧй</lemma>
-      <stem/>
-      <contlex>ORD</contlex>
+      <lg>
+         <l>первӧй</l>
+         <stg>
+            <st komContlex="ORD">первӧй</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>first</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ensimmäinen</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant>медводдза</variant>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="медводдза" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <t>first</t>
+            </tg>
+            <tg lang="fin">
+               <t>ensimmäinen</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>первой</lemma>
-      <stem/>
-      <contlex>ORD</contlex>
+      <lg>
+         <l>первой</l>
+         <stg>
+            <st komContlex="ORD">первой</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>first</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ensimmäinen</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant>медводдза</variant>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="медводдза" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <t>first</t>
+            </tg>
+            <tg lang="fin">
+               <t>ensimmäinen</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>сизим</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>сизим</l>
+         <stg>
+            <st komContlex="CARD">сизим</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>seven</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>seitsemän</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>seven</t>
+            </tg>
+            <tg lang="fin">
+               <t>seitsemän</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>сизимдас</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>сизимдас</l>
+         <stg>
+            <st komContlex="CARD">сизимдас</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>seventy</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>seitsemänkymmentä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>seventy</t>
+            </tg>
+            <tg lang="fin">
+               <t>seitsemänkymmentä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>сизимсё</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>сизимсё</l>
+         <stg>
+            <st komContlex="CARD">сизимсё</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>seven hundred</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>seitsemänsataa</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>seven hundred</t>
+            </tg>
+            <tg lang="fin">
+               <t>seitsemänsataa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>сё</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>сё</l>
+         <stg>
+            <st komContlex="CARD">сё</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>hundred</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>sata</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>hundred</t>
+            </tg>
+            <tg lang="fin">
+               <t>sata</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>сюрс</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>сюрс</l>
+         <stg>
+            <st komContlex="CARD">сюрс</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>thousand</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>tuhat</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>thousand</t>
+            </tg>
+            <tg lang="fin">
+               <t>tuhat</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тысяча</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>тысяча</l>
+         <stg>
+            <st komContlex="CARD">тысяча</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>thousand</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>tuhat</variant>
-            </choice>
-         </fin>
-         <see>
-            <choice>
-               <variant>сюрс</variant>
-            </choice>
-         </see>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="сюрс" semRelType="see"/>
+            </m>
+            <tg lang="eng">
+               <t>thousand</t>
+            </tg>
+            <tg lang="fin">
+               <t>tuhat</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>триллион</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>триллион</l>
+         <stg>
+            <st komContlex="CARD">триллион</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant lang="en_US">trillion</variant>
-               <variant lang="en_UK">billion</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>biljoona</variant>
-            </choice>
-         </fin>
-         <sci>1,000,000,000,000</sci>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <sci>1,000,000,000,000</sci>
+               </head>
+            </m>
+            <tg lang="eng_US">
+               <t>trillion</t>
+            </tg>
+            <tg lang="eng_UK">
+               <t>billion</t>
+            </tg>
+            <tg lang="fin">
+               <t>biljoona</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>уна</lemma>
-      <stem/>
-      <contlex>DET</contlex>
+      <lg>
+         <l>уна</l>
+         <stg>
+            <st komContlex="DET">уна</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>many</variant>
-               <variant>several</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>useampi</variant>
-            </choice>
-         </fin>
-      </article>
-      <article>
-         <eng>
-            <choice>
-               <variant>much </variant>
-               <variant> a lot of </variant>
-               <variant> plenty of</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>paljon </variant>
-               <variant> monta</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>many</t>
+               <t>several</t>
+            </tg>
+            <tg lang="fin">
+               <t>useampi</t>
+            </tg>
+         </mg>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>much</t>
+               <t>a lot of</t>
+               <t>plenty of</t>
+            </tg>
+            <tg lang="fin">
+               <t>paljon</t>
+               <t>monta</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ветымын</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>ветымын</l>
+         <stg>
+            <st komContlex="CARD">ветымын</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>fifty</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>viisikymmentä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>fifty</t>
+            </tg>
+            <tg lang="fin">
+               <t>viisikymmentä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>вит</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>вит</l>
+         <stg>
+            <st komContlex="CARD">вит</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>five</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>viisi</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>five</t>
+            </tg>
+            <tg lang="fin">
+               <t>viisi</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>витӧд</lemma>
-      <stem/>
-      <contlex>ORD</contlex>
+      <lg>
+         <l>витӧд</l>
+         <stg>
+            <st komContlex="ORD">витӧд</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>(the) fifth</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>viides</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>(the) fifth</t>
+            </tg>
+            <tg lang="fin">
+               <t>viides</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>витсё</lemma>
-      <stem/>
-      <contlex>CARD</contlex>
+      <lg>
+         <l>витсё</l>
+         <stg>
+            <st komContlex="CARD">витсё</st>
+         </stg>
+      </lg>
       <pos>NUM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>five hundred</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>viisisataa</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>five hundred</t>
+            </tg>
+            <tg lang="fin">
+               <t>viisisataa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
-</dict>
+</r>
