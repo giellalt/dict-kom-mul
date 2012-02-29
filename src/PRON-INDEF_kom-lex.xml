@@ -1,262 +1,312 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema"
-      xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
-      <lemma>кӧнкӧ</lemma>
-      <stem/>
-      <contlex>PRONINDEFTAG</contlex>
+      <lg>
+         <l>кӧнкӧ</l>
+         <stg>
+            <st komContlex="PRONINDEFTAG">кӧнкӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-INDEF</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>somewhere</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jossain</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>somewhere</t>
+            </tg>
+            <tg lang="fin">
+               <t>jossain</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кымынкӧ</lemma>
-      <stem/>
-      <contlex>PRONINDEFTAG</contlex>
+      <lg>
+         <l>кымынкӧ</l>
+         <stg>
+            <st komContlex="PRONINDEFTAG">кымынкӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-INDEF</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>a few</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>muutama</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>a few</t>
+            </tg>
+            <tg lang="fin">
+               <t>muutama</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кыськӧ</lemma>
-      <stem/>
-      <contlex>PRONINDEFTAG</contlex>
+      <lg>
+         <l>кыськӧ</l>
+         <stg>
+            <st komContlex="PRONINDEFTAG">кыськӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-INDEF</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>from somewhere</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jostakin </variant>
-               <variant> jostain</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>from somewhere</t>
+            </tg>
+            <tg lang="fin">
+               <t>jostakin</t>
+               <t>jostain</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кытчӧкӧ</lemma>
-      <stem/>
-      <contlex>PRONINDEFTAG</contlex>
+      <lg>
+         <l>кытчӧкӧ</l>
+         <stg>
+            <st komContlex="PRONINDEFTAG">кытчӧкӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-INDEF</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>to somewhere</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jonnekin</variant>
-            </choice>
-         </fin>
-         <msp>ILL</msp>
-      </article>
+      <e>
+         <drv komMorph="CX-ӧ" lemmaID="кытыськӧ_PRON"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>to somewhere</t>
+            </tg>
+            <tg lang="fin">
+               <t>jonnekin</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кытыськӧ</lemma>
-      <stem/>
-      <contlex>PRONINDEFTAG</contlex>
+      <lg>
+         <l>кытыськӧ</l>
+         <stg>
+            <st komContlex="PRONINDEFTAG">кытыськӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-INDEF</pos>
-      <article>
-         <msp>ELA</msp>
-         <eng>
-            <choice>
-               <variant>from somewhere</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jostain</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <drv komMorph="CX-ысь"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>from somewhere</t>
+            </tg>
+            <tg lang="fin">
+               <t>jostain</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кодкӧ</lemma>
-      <stem>код</stem>
-      <contlex>PRONINDEFTAG-KO</contlex>
+      <lg>
+         <l>кодкӧ</l>
+         <stg>
+            <st komContlex="PRONINDEFTAG-KO">код</st>
+         </stg>
+      </lg>
       <pos>PRON-INDEF</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>someone</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>joku</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>someone</t>
+            </tg>
+            <tg lang="fin">
+               <t>joku</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кодсюрӧ</lemma>
-      <stem/>
-      <contlex>PRONINDEFTAG</contlex>
+      <lg>
+         <l>кодсюрӧ</l>
+         <stg>
+            <st komContlex="PRONINDEFTAG">кодсюрӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-INDEF</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>somebody </variant>
-               <variant> anybody</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>joku </variant>
-               <variant> kuka tahansa</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>somebody</t>
+               <t>anybody</t>
+            </tg>
+            <tg lang="fin">
+               <t>joku</t>
+               <t>kuka tahansa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кутшӧмкӧ</lemma>
-      <stem/>
-      <contlex>PRONINDEFTAG</contlex>
+      <lg>
+         <l>кутшӧмкӧ</l>
+         <stg>
+            <st komContlex="PRONINDEFTAG">кутшӧмкӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-INDEF</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>some kind of</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jonkinlainen</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>some kind of</t>
+            </tg>
+            <tg lang="fin">
+               <t>jonkinlainen</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кутшӧмсюрӧ</lemma>
-      <stem/>
-      <contlex>PRONINDEFTAG</contlex>
+      <lg>
+         <l>кутшӧмсюрӧ</l>
+         <stg>
+            <st komContlex="PRONINDEFTAG">кутшӧмсюрӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-INDEF</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>some kind of </variant>
-               <variant> any kind of</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jonkinlainen </variant>
-               <variant> minkälainen tahansa</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>some kind of</t>
+               <t>any kind of</t>
+            </tg>
+            <tg lang="fin">
+               <t>jonkinlainen</t>
+               <t>minkälainen tahansa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мыйкӧ</lemma>
-      <stem>мый</stem>
-      <contlex>PRONINDEFTAG-KO</contlex>
+      <lg>
+         <l>мыйкӧ</l>
+         <stg>
+            <st komContlex="PRONINDEFTAG-KO">мый</st>
+         </stg>
+      </lg>
       <pos>PRON-INDEF</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>something</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jokin </variant>
-               <variant> jotakin</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>something</t>
+            </tg>
+            <tg lang="fin">
+               <t>jokin</t>
+               <t>jotakin</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мыйлакӧ</lemma>
-      <stem/>
-      <contlex>PRONINDEFTAG</contlex>
+      <lg>
+         <l>мыйлакӧ</l>
+         <stg>
+            <st komContlex="PRONINDEFTAG">мыйлакӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-INDEF</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>for some reason</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jostain syystä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>for some reason</t>
+            </tg>
+            <tg lang="fin">
+               <t>jostain syystä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мыйсюрӧ</lemma>
-      <stem/>
-      <contlex>PRONINDEFTAG</contlex>
+      <lg>
+         <l>мыйсюрӧ</l>
+         <stg>
+            <st komContlex="PRONINDEFTAG">мыйсюрӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-INDEF</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>something</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jotakin </variant>
-               <variant> jokin</variant>
-            </choice>
-         </fin>
-      </article>
-      <article>
-         <eng>
-            <choice>
-               <variant>anything</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>mikä tahansa </variant>
-               <variant> mitä tahansa</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>something</t>
+            </tg>
+            <tg lang="fin">
+               <t>jotakin</t>
+               <t>jokin</t>
+            </tg>
+         </mg>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>anything</t>
+            </tg>
+            <tg lang="fin">
+               <t>mikä tahansa</t>
+               <t>mitä tahansa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мыйтакӧ</lemma>
-      <stem/>
-      <contlex>PRONINDEFTAG</contlex>
+      <lg>
+         <l>мыйтакӧ</l>
+         <stg>
+            <st komContlex="PRONINDEFTAG">мыйтакӧ</st>
+         </stg>
+      </lg>
       <pos>PRON-INDEF</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>to some extent</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jonkin verran</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>to some extent</t>
+            </tg>
+            <tg lang="fin">
+               <t>jonkin verran</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
-</dict>
+</r>
