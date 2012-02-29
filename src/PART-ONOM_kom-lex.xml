@@ -1,349 +1,343 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
-      <lemma>бау</lemma>
-      <stem/>
-      <contlex>ONOM</contlex>
+      <lg>
+         <l>бау</l>
+         <stg>
+            <st komContlex="ONOM">бау</st>
+         </stg>
+      </lg>
       <pos>PART-ONOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>(what a cow says) </variant>
-               <variant> moo</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>(mitä lehmä sanoo) </variant>
-               <variant> muu</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>(what a cow says)</t>
+               <t>moo</t>
+            </tg>
+            <tg lang="fin">
+               <t>(mitä lehmä sanoo)</t>
+               <t>muu</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>быз</lemma>
-      <stem/>
-      <contlex>ONOM</contlex>
+      <lg>
+         <l>быз</l>
+         <stg>
+            <st komContlex="ONOM">быз</st>
+         </stg>
+      </lg>
       <pos>PART-ONOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>plop </variant>
-               <variant> splash</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>molskahdus</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>plop</t>
+               <t>splash</t>
+            </tg>
+            <tg lang="fin">
+               <t>molskahdus</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>бультік</lemma>
-      <stem/>
-      <contlex>ONOM</contlex>
+      <lg>
+         <l>бультік</l>
+         <stg>
+            <st komContlex="ONOM">бультік</st>
+         </stg>
+      </lg>
       <pos>PART-ONOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>plop! </variant>
-               <variant> splash!</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>polskis</variant>
-            </choice>
-         </fin>
-         <pro>
-            <choice>
-               <variant/>
-            </choice>
-         </pro>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>plop!</t>
+               <t>splash!</t>
+            </tg>
+            <tg lang="fin">
+               <t>polskis</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>бут</lemma>
-      <stem/>
-      <contlex>ONOM</contlex>
+      <lg>
+         <l>бут</l>
+         <stg>
+            <st komContlex="ONOM">бут</st>
+         </stg>
+      </lg>
       <pos>PART-ONOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>slam!</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>??paiskis </variant>
-               <variant> (esineen heittämisestä)</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>slam!</t>
+            </tg>
+            <tg lang="fin">
+               <t>??paiskis</t>
+               <t>(esineen heittämisestä)</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>дзиз</lemma>
-      <stem/>
-      <contlex>ONOM</contlex>
+      <lg>
+         <l>дзиз</l>
+         <stg>
+            <st komContlex="ONOM">дзиз</st>
+         </stg>
+      </lg>
       <pos>PART-ONOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>humming </variant>
-               <variant> buzzing</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>surina </variant>
-               <variant> hyristä</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>humming</t>
+               <t>buzzing</t>
+            </tg>
+            <tg lang="fin">
+               <t>surina</t>
+               <t>hyristä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>герч</lemma>
-      <stem/>
-      <contlex>ONOM</contlex>
+      <lg>
+         <l>герч</l>
+         <stg>
+            <st komContlex="ONOM">герч</st>
+         </stg>
+      </lg>
       <pos>PART-ONOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>гизь</lemma>
-      <stem/>
-      <contlex>ONOM</contlex>
-      <pos>PART-ONOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>next to each other </variant>
-               <variant> side by side</variant>
-            </choice>
-         </eng>
-         <msp>ADV</msp>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>гизь</l>
+         <stg>
+            <st komContlex="ADVTAG">гизь</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>next to each other</t>
+               <t>side by side</t>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>голь</lemma>
-      <stem/>
-      <contlex>ONOM</contlex>
+      <lg>
+         <l>голь</l>
+         <stg>
+            <st komContlex="ONOM">голь</st>
+         </stg>
+      </lg>
       <pos>PART-ONOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>??</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>??</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>??</t>
+            </tg>
+            <tg lang="fin">
+               <t>??</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>гольс</lemma>
-      <stem/>
-      <contlex>ONOM</contlex>
+      <lg>
+         <l>гольс</l>
+         <stg>
+            <st komContlex="ONOM">гольс</st>
+         </stg>
+      </lg>
       <pos>PART-ONOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>гудж</lemma>
-      <stem/>
-      <contlex>ONOM</contlex>
+      <lg>
+         <l>гудж</l>
+         <stg>
+            <st komContlex="ONOM">гудж</st>
+         </stg>
+      </lg>
       <pos>PART-ONOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>гур</lemma>
-      <stem/>
-      <contlex>ONOM</contlex>
+      <lg>
+         <l>гур</l>
+         <stg>
+            <st komContlex="ONOM">гур</st>
+         </stg>
+      </lg>
       <pos>PART-ONOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>bang!</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <pro>
-            <choice>
-               <variant/>
-            </choice>
-         </pro>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>bang!</t>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кам</lemma>
-      <stem/>
-      <contlex>ONOM</contlex>
-      <pos>PART-ONOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <msp>ADV</msp>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>кам</l>
+         <stg>
+            <st komContlex="ADVTAG">кам</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тарк</lemma>
-      <stem/>
-      <contlex>ONOM</contlex>
+      <lg>
+         <l>тарк</l>
+         <stg>
+            <st komContlex="ONOM">тарк</st>
+         </stg>
+      </lg>
       <pos>PART-ONOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>knock</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kopp</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>knock</t>
+            </tg>
+            <tg lang="fin">
+               <t>kopp</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тулуллу</lemma>
-      <stem/>
-      <contlex>ONOM</contlex>
+      <lg>
+         <l>тулуллу</l>
+         <stg>
+            <st komContlex="ONOM">тулуллу</st>
+         </stg>
+      </lg>
       <pos>PART-ONOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>зур</lemma>
-      <stem/>
-      <contlex>ONOM</contlex>
+      <lg>
+         <l>зур</l>
+         <stg>
+            <st komContlex="ONOM">зур</st>
+         </stg>
+      </lg>
       <pos>PART-ONOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>sound a thrust</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>(survaisemisen ääni)</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>sound a thrust</t>
+            </tg>
+            <tg lang="fin">
+               <t>(survaisemisen ääni)</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
-</dict>
+</r>
