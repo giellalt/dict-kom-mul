@@ -1,224 +1,228 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema"
-      xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
-      <lemma>эсійӧ</lemma>
-      <stem>эс</stem>
-      <contlex>PRONDEMTAG-ES</contlex>
-      <pos>PRON-DEM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>that</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>tuo</variant>
-            </choice>
-         </fin>
-         <msp>NOM SG</msp>
-      </article>
+      <lg>
+         <l>эсійӧ</l>
+         <stg>
+            <st komContlex="PRONDEMTAG-ES">эс</st>
+         </stg>
+      </lg>
+      <pos>DEM-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>that</t>
+            </tg>
+            <tg lang="fin">
+               <t>tuo</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тайӧ</lemma>
-      <stem>та</stem>
-      <contlex>PRONDEMTAGSG-TA</contlex>
-      <pos>PRON-DEM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>that</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>tuo</variant>
-            </choice>
-         </fin>
-         <msp>NOM SG</msp>
-      </article>
+      <lg>
+         <l>тайӧ</l>
+         <stg>
+            <st komContlex="PRONDEMTAGSG-TA">та</st>
+         </stg>
+      </lg>
+      <pos>DEM-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>that</t>
+            </tg>
+            <tg lang="fin">
+               <t>tuo</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry exclude="fst">
+      <lg>
+         <l>эсійӧяс</l>
+         <stg>
+            <st komContlex="PRONDEMTAGPL">эсійӧяс</st>
+         </stg>
+      </lg>
+      <pos>DEM-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>those (further away)</t>
+            </tg>
+            <tg lang="fin">
+               <t>nuo (kauempana)</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>эсійӧяс</lemma>
-      <stem/>
-      <contlex>PRONDEMTAGPL</contlex>
-      <pos>PRON-DEM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>those (further away)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>nuo (kauempana)</variant>
-            </choice>
-         </fin>
-         <msp>PL</msp>
-      </article>
+      <lg>
+         <l>эсы</l>
+         <stg>
+            <st komContlex="PRONDEMTAG">эсы</st>
+         </stg>
+      </lg>
+      <pos>DEM-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="эсійӧ" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <t>that</t>
+            </tg>
+            <tg lang="fin">
+               <t>tuo</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>эсы</lemma>
-      <stem/>
-      <contlex>PRONDEMTAG</contlex>
-      <pos>PRON-DEM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>that</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>tuo</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant>эсійӧ</variant>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>эта</l>
+         <stg>
+            <st komContlex="PRONDEMTAG">эта</st>
+         </stg>
+      </lg>
+      <pos>DEM-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>this very one</t>
+            </tg>
+            <tg lang="fin">
+               <t>juuri tämä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>эта</lemma>
-      <stem/>
-      <contlex>PRONDEMTAG</contlex>
-      <pos>PRON-DEM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>this very one</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>juuri tämä</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>этайӧ</l>
+         <stg>
+            <st komContlex="PRONDEMTAGSG-TA">эта</st>
+         </stg>
+      </lg>
+      <pos>DEM-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>this very one</t>
+            </tg>
+            <tg lang="fin">
+               <t>juuri tämä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>этайӧ</lemma>
-      <stem>эта</stem>
-      <contlex>PRONDEMTAGSG-TA</contlex>
-      <pos>PRON-DEM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>this very one</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>juuri tämä</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>NOM SG</msp>
-         <syn>@SUBJ</syn>
-      </article>
+      <lg>
+         <l>этійӧ</l>
+         <stg>
+            <st komContlex="PRONDEMTAG">этійӧ</st>
+         </stg>
+      </lg>
+      <pos>DEM-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>this</t>
+               <t>this one</t>
+            </tg>
+            <tg lang="fin">
+               <t>juuri tämä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>этійӧ</lemma>
-      <stem/>
-      <contlex>PRONDEMTAG</contlex>
-      <pos>PRON-DEM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>this </variant>
-               <variant> this one</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>juuri tämä</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>NOM SG</msp>
-      </article>
+      <lg>
+         <l>сэтӧні</l>
+         <stg>
+            <st komContlex="PRONDEMTAG">сэтӧні</st>
+         </stg>
+      </lg>
+      <pos>DEM-PRON</pos>
+      <e>
+         <drv komMorph="CX-ын"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>сэтӧні</lemma>
-      <stem/>
-      <contlex>PRONDEMTAG</contlex>
-      <pos>PRON-DEM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>INE</msp>
-      </article>
+      <lg>
+         <l>со</l>
+         <stg>
+            <st komContlex="PRONDEMTAG">со</st>
+         </stg>
+      </lg>
+      <pos>DEM-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>that (far away)</t>
+            </tg>
+            <tg lang="fin">
+               <t>tuo (kaukana oleva)</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>со</lemma>
-      <stem/>
-      <contlex>PRONDEMTAG</contlex>
-      <pos>PRON-DEM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>that (far away)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>tuo (kaukana oleva)</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>татӧні</l>
+         <stg>
+            <st komContlex="PRONDEMTAG">татӧні</st>
+         </stg>
+      </lg>
+      <pos>DEM-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
-   <entry>
-      <lemma>татӧні</lemma>
-      <stem/>
-      <contlex>PRONDEMTAG</contlex>
-      <pos>PRON-DEM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
-   </entry>
-</dict>
+</r>
