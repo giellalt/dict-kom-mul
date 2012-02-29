@@ -646,7 +646,9 @@
             <xs:enumeration value="DV-ся"/>
             <xs:enumeration value="DN-ал"/>
             <!--denominal and deverbal morphology-->
-            <xs:enumeration value="FIN-3Sg"/>
+            <xs:enumeration value="FIN-PRES-3Sg"/>
+            <xs:enumeration value="FIN-IMP-2Pl"/>
+            <xs:enumeration value="FIN-IMP-2Sg"/>
          </xs:restriction>
       </xs:simpleType>
    </xs:attribute>
