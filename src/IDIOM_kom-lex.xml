@@ -1,843 +1,917 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
-      <lemma>ало</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>hello (on the phone instead of using name)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>haloo! (puhelimessa nimen sijasta)</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>ало</l>
+         <stg>
+            <st komContlex="EndInterj">ало</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>hello (on the phone instead of using name)</t>
+            </tg>
+            <tg lang="fin">
+               <t>haloo! (puhelimessa nimen sijasta)</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>аттьӧ</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>thank you</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kiitos</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>аттьӧ</l>
+         <stg>
+            <st komContlex="EndInterj">аттьӧ</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>thank you</t>
+            </tg>
+            <tg lang="fin">
+               <t>kiitos</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>бур асыв</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>good morning</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>hyvää huomenta</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>бур асыв</l>
+         <stg>
+            <st komContlex="EndInterj">бур асыв</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>good morning</t>
+            </tg>
+            <tg lang="fin">
+               <t>hyvää huomenta</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>бур лун</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>good afternoon </variant>
-               <variant> good morning</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>hyvää päivää</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>бур лун</l>
+         <stg>
+            <st komContlex="EndInterj">бур лун</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>good afternoon</t>
+               <t>good morning</t>
+            </tg>
+            <tg lang="fin">
+               <t>hyvää päivää</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>бур рыт</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>good evening</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>hyvää iltaa</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>бур рыт</l>
+         <stg>
+            <st komContlex="EndInterj">бур рыт</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>good evening</t>
+            </tg>
+            <tg lang="fin">
+               <t>hyvää iltaa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>бур вылӧ</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>your welcome </variant>
-               <variant> don't mention it</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ole hyvä </variant>
-               <variant> olkaa hyvä</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>бур вылӧ</l>
+         <stg>
+            <st komContlex="EndInterj">бур вылӧ</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>your welcome</t>
+               <t>don't mention it</t>
+            </tg>
+            <tg lang="fin">
+               <t>ole hyvä</t>
+               <t>olkaa hyvä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>бур вой</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>good night</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>hyvää yötä (nukkumaan mentäessä)</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>бур вой</l>
+         <stg>
+            <st komContlex="EndInterj">бур вой</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>good night</t>
+            </tg>
+            <tg lang="fin">
+               <t>hyvää yötä (nukkumaan mentäessä)</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>чолӧм</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>hi! </variant>
-               <variant> hello!</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>hei! </variant>
-               <variant> moi! </variant>
-               <variant> terve!</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>чолӧм</l>
+         <stg>
+            <st komContlex="EndInterj">чолӧм</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>hi!</t>
+               <t>hello!</t>
+            </tg>
+            <tg lang="fin">
+               <t>hei!</t>
+               <t>moi!</t>
+               <t>terve!</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>эм нисьӧ абу</lemma>
-      <stem/>
-      <contlex>End1</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>very little </variant>
-               <variant> almost nothing</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>erittäin vähän </variant>
-               <variant> häviävän vähän</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>эм нисьӧ абу</l>
+         <stg>
+            <st komContlex="End1">эм нисьӧ абу</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>very little</t>
+               <t>almost nothing</t>
+            </tg>
+            <tg lang="fin">
+               <t>erittäin vähän</t>
+               <t>häviävän vähän</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>энӧ дивитӧй</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>exuse me (lit. don't judge)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>antakaa anteeksi (kirj. älkää tuomitko)</variant>
-            </choice>
-         </fin>
-         <pro>
-            <choice>
-               <variant/>
-            </choice>
-         </pro>
-         <msp>PL2</msp>
-      </article>
+      <lg>
+         <l>энӧ дивитӧй</l>
+         <stg>
+            <st komContlex="EndInterj">энӧ дивитӧй</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <drv komMorph="FIN-IMP-2Pl"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>exuse me (lit. don't judge)</t>
+            </tg>
+            <tg lang="fin">
+               <t>antakaa anteeksi (kirj. älkää tuomitko)</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>эн дивит</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>excuse me (lit. don't judge)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>anna anteeksi (kirj. älä tuomitse)</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>SG2</msp>
-      </article>
+      <lg>
+         <l>эн дивит</l>
+         <stg>
+            <st komContlex="EndInterj">эн дивит</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <drv komMorph="FIN-IMP-2Sg"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>excuse me (lit. don't judge)</t>
+            </tg>
+            <tg lang="fin">
+               <t>anna anteeksi (kirj. älä tuomitse)</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ӧввӧ</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>bye-bye (as in a lully-bye)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>tuu-tuu (lasta tuuditettaessa)</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>ӧввӧ</l>
+         <stg>
+            <st komContlex="EndInterj">ӧввӧ</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>bye-bye (as in a lully-bye)</t>
+            </tg>
+            <tg lang="fin">
+               <t>tuu-tuu (lasta tuuditettaessa)</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ыджыд аттьӧ</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>thank you very much!</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>suurkiitos!</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>ыджыд аттьӧ</l>
+         <stg>
+            <st komContlex="EndInterj">ыджыд аттьӧ</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>thank you very much!</t>
+            </tg>
+            <tg lang="fin">
+               <t>suurkiitos!</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кыв ни джын</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>not a word</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ei sanaakaan</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>кыв ни джын</l>
+         <stg>
+            <st komContlex="EndInterj">кыв ни джын</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>not a word</t>
+            </tg>
+            <tg lang="fin">
+               <t>ei sanaakaan</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>код тӧдас</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>who knows</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kenties</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>код тӧдас</l>
+         <stg>
+            <st komContlex="EndInterj">код тӧдас</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>who knows</t>
+            </tg>
+            <tg lang="fin">
+               <t>kenties</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ладнӧ</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>okay</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>selvä </variant>
-               <variant> hyvä on</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>ладнӧ</l>
+         <stg>
+            <st komContlex="EndInterj">ладнӧ</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>okay</t>
+            </tg>
+            <tg lang="fin">
+               <t>selvä</t>
+               <t>hyvä on</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>лунысь лунӧ</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>лунысь лунӧ</l>
+         <stg>
+            <st komContlex="EndInterj">лунысь лунӧ</st>
+         </stg>
+      </lg>
+      <pos>TEMP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>морыс мед нуас</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>морыс мед нуас</l>
+         <stg>
+            <st komContlex="EndInterj">морыс мед нуас</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>морыс тӧдӧ</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>морыс тӧдӧ</l>
+         <stg>
+            <st komContlex="EndInterj">морыс тӧдӧ</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>нырсер мунӧма</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>нырсер мунӧма</l>
+         <stg>
+            <st komContlex="EndInterj">нырсер мунӧма</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>нолӧ</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>нолӧ</l>
+         <stg>
+            <st komContlex="EndInterj">нолӧ</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ном мында</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>a whole lot</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>ном мында</l>
+         <stg>
+            <st komContlex="EndInterj">ном мында</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>a whole lot</t>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>онь ни бус</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>онь ни бус</l>
+         <stg>
+            <st komContlex="EndInterj">онь ни бус</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>пару</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>пару</l>
+         <stg>
+            <st komContlex="EndInterj">пару</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>пасибӧ</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <pro>
-            <choice>
-               <variant>аттьӧ</variant>
-            </choice>
-         </pro>
-      </article>
+      <lg>
+         <l>пасибӧ</l>
+         <stg>
+            <st komContlex="EndInterj">пасибӧ</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="аттьӧ" semRelType="pro"/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>пӧжалуйста</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>be my guest </variant>
-               <variant> help yourself </variant>
-               <variant> _ XXX-utf-8</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ole hyvä </variant>
-               <variant> olkaa hyvä</variant>
-            </choice>
-         </fin>
-         <see>
-            <choice>
-               <variant>бур_вылӧ</variant>
-            </choice>
-         </see>
-      </article>
+      <lg>
+         <l>пӧжалуйста</l>
+         <stg>
+            <st komContlex="EndInterj">пӧжалуйста</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="бур вылӧ" semRelType="see"/>
+            </m>
+            <tg lang="eng">
+               <t>be my guest</t>
+               <t>help yourself</t>
+               <t>_ XXX-utf-8</t>
+            </tg>
+            <tg lang="fin">
+               <t>ole hyvä</t>
+               <t>olkaa hyvä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>пемыдысь пемыдӧ</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>from dawn till dusk</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>пемыдысь пемыдӧ</l>
+         <stg>
+            <st komContlex="EndInterj">пемыдысь пемыдӧ</st>
+         </stg>
+      </lg>
+      <pos>TEMP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>from dawn till dusk</t>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>шыдтӧ азялӧм бӧрын казялін</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <syn>SAYING</syn>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>шыдтӧ азялӧм бӧрын казялін</l>
+         <stg>
+            <st komContlex="EndInterj">шыдтӧ азялӧм бӧрын казялін</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>SAYING</typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>сідз водзӧ</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>et cetra</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ja niin edelleen</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>сідз водзӧ</l>
+         <stg>
+            <st komContlex="EndInterj">сідз водзӧ</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>et cetra</t>
+            </tg>
+            <tg lang="fin">
+               <t>ja niin edelleen</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>сё мокасьтӧ</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>сё мокасьтӧ</l>
+         <stg>
+            <st komContlex="EndInterj">сё мокасьтӧ</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тай</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>apparently </variant>
-               <variant> I see </variant>
-               <variant> you know</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>-han </variant>
-               <variant> -pa</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>тай</l>
+         <stg>
+            <st komContlex="EndInterj">тай</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>apparently</t>
+               <t>I see</t>
+               <t>you know</t>
+            </tg>
+            <tg lang="fin">
+               <t>-han</t>
+               <t>-pa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тӧлк ни слӧй</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>тӧлк ни слӧй</l>
+         <stg>
+            <st komContlex="EndInterj">тӧлк ни слӧй</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тшаква</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>that's nothing</variant>
-            </choice>
-         </eng>
-         <usage>FIG</usage>
-         <fin>
-            <choice>
-               <variant>ei se mitään</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>тшаква</l>
+         <stg>
+            <st komContlex="EndInterj">тшаква</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <sense sense="figurative"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>that's nothing</t>
+            </tg>
+            <tg lang="fin">
+               <t>ei se mitään</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>тшыг нисьӧ пӧт</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>(neither hungry nor full) half-starved</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>(ei nälässä eikä kylläinen) puoliksi nälissään</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>тшыг нисьӧ пӧт</l>
+         <stg>
+            <st komContlex="EndInterj">тшыг нисьӧ пӧт</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>(neither hungry nor full) half-starved</t>
+            </tg>
+            <tg lang="fin">
+               <t>(ei nälässä eikä kylläinen) puoliksi nälissään</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ув ни парч</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>ув ни парч</l>
+         <stg>
+            <st komContlex="EndInterj">ув ни парч</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>видза колян</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>see you later</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>näkemiin</variant>
-            </choice>
-         </fin>
-         <msp>SG2</msp>
-      </article>
+      <lg>
+         <l>видза колян</l>
+         <stg>
+            <st komContlex="EndInterj">видза колян</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <drv komMorph="FIN-IMP-2Sg"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>see you later</t>
+            </tg>
+            <tg lang="fin">
+               <t>näkemiin</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>видза колянныд</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>see you later</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>näkemiin</variant>
-            </choice>
-         </fin>
-         <msp>PL2</msp>
-      </article>
+      <lg>
+         <l>видза колянныд</l>
+         <stg>
+            <st komContlex="EndInterj">видза колянныд</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <drv komMorph="FIN-IMP-2Pl"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>see you later</t>
+            </tg>
+            <tg lang="fin">
+               <t>näkemiin</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>видза олан</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>hello</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>hyvää päivää</variant>
-            </choice>
-         </fin>
-         <msp>SG2</msp>
-      </article>
+      <lg>
+         <l>видза олан</l>
+         <stg>
+            <st komContlex="EndInterj">видза олан</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <drv komMorph="FIN-IMP-2Sg"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>hello</t>
+            </tg>
+            <tg lang="fin">
+               <t>hyvää päivää</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>видза оланныд</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>hello</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>hyvää päivää</variant>
-            </choice>
-         </fin>
-         <msp>PL2</msp>
-      </article>
+      <lg>
+         <l>видза оланныд</l>
+         <stg>
+            <st komContlex="EndInterj">видза оланныд</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <drv komMorph="FIN-IMP-2Pl"/>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>hello</t>
+            </tg>
+            <tg lang="fin">
+               <t>hyvää päivää</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>вот и бур</lemma>
-      <stem/>
-      <contlex>EndInterj</contlex>
-      <pos>IDIOM</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>that's great</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>mainiota </variant>
-               <variant> ihanaa</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>вот и бур</l>
+         <stg>
+            <st komContlex="EndInterj">вот и бур</st>
+         </stg>
+      </lg>
+      <pos>FORMULAIC</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>that's great</t>
+            </tg>
+            <tg lang="fin">
+               <t>mainiota</t>
+               <t>ihanaa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
-</dict>
+</r>
