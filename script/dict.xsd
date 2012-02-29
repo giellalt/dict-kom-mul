@@ -118,12 +118,13 @@
          <xs:enumeration value="ADV-INTERR"/>
          <xs:enumeration value="MANNER"/>
          <xs:enumeration value="MANNER-INDEF"/>
+         <xs:enumeration value="MANNER-INTERR"/>
          <xs:enumeration value="ADV-PARENTHETIC"/>
          <xs:enumeration value="PRT_ADV-PARENTHETIC"/>
          <xs:enumeration value="V_ADV-PARENTHETIC"/>
          <xs:enumeration value="ADV-POSITION"/>
          <xs:enumeration value="SPAT-0ARG"/>
-         <xs:enumeration value="SPAT-0ARG-INTERR"/>
+         <xs:enumeration value="SPAT-INTERR"/>
          <xs:enumeration value="SPAT-INDEF"/>
          <xs:enumeration value="SPAT-DEM"/>
          <xs:enumeration value="SPAT-DISTR"/>
@@ -131,7 +132,7 @@
          <xs:enumeration value="ADV-STATE"/>
          <xs:enumeration value="TEMP-0ARG"/>
          <xs:enumeration value="TEMP-0ARG-INDEF"/>
-         <xs:enumeration value="TEMP-0ARG-INTERR"/>
+         <xs:enumeration value="TEMP-INTERR"/>
          <xs:enumeration value="TEMP-0ARG-REL"/>
          <xs:enumeration value="TEMP-INDEF"/>
          <xs:enumeration value="TEMP-DEICT"/>
@@ -148,6 +149,7 @@
          <xs:enumeration value="DET-PRON"/>
          <xs:enumeration value="DET-ADN"/>
          <xs:enumeration value="DET-PL"/>
+         <xs:enumeration value="DET-INTERR"/>
          <xs:enumeration value="FORMULAIC"/>
          <xs:enumeration value="GEN-ATTR"/>
          <xs:enumeration value="ABE_A"/>
@@ -234,6 +236,7 @@
          <xs:enumeration value="SPAT-DEICT"/>
          <xs:enumeration value="SPAT-INDEP"/>
          <xs:enumeration value="SPAT-DEPEND"/>
+         <xs:enumeration value="PERS-INTERR"/>
          <xs:enumeration value="SPAT-INTERR"/>
          <xs:enumeration value="STATE"/>
          <xs:enumeration value="SUMMON"/>
@@ -254,6 +257,9 @@
          <xs:enumeration value="V-FINITE"/>
          <xs:enumeration value="V-NEG"/>
          <xs:enumeration value="V-IMP-PRT"/>
+         <xs:enumeration value="A-INTERR"/>
+         <xs:enumeration value="N-INTERR"/>
+         <xs:enumeration value="REASON-INTERR"/>
       </xs:restriction>
    </xs:simpleType>
    <xs:element name="src">
@@ -942,6 +948,9 @@
             <xs:enumeration value="a-iran"/>
             <!-- Ancient Iran?? -->
             <xs:enumeration value="kom"/>
+            <xs:enumeration value="kpv">
+               <!--This is the ISO 639-3 code for Zyrian Komis-->
+            </xs:enumeration>
             <xs:enumeration value="lat"/>
             <xs:enumeration value="mdf"/>
             <xs:enumeration value="rus"/>
@@ -1259,6 +1268,7 @@
          </xs:restriction>
       </xs:simpleType>
    </xs:attribute>
+   <!--"CX" might be adapted for several languages but there are a lot of issues to deal with -->
    <xs:attribute name="cx">
       <xs:simpleType>
          <xs:restriction base="xs:string">
