@@ -107,6 +107,7 @@
          <xs:enumeration value="A-ADN"/>
          <xs:enumeration value="A-1ARG"/>
          <xs:enumeration value="A-INDEF"/>
+         <xs:enumeration value="A-SUPERL"/>
          <xs:enumeration value="V-GEN_A"/>
          <xs:enumeration value="ADV"/>
          <xs:enumeration value="CEK_ADV"/>
@@ -928,6 +929,8 @@
             <xs:enumeration value="ell"/>
             <!-- Modern Greek -->
             <xs:enumeration value="eng"/>
+            <xs:enumeration value="eng_US"/>
+            <xs:enumeration value="eng_UK"/>
             <xs:enumeration value="erz"/>
             <!--Language users would have prefered ERZ from the Russian Gos, but for some reason ISO decided they wanted something NEW and LACKING in any mnemonic value; they elected to impliment MYV. How long did it take for ISO to accept both GER and DEU?-->
             <xs:enumeration value="myv"/>
