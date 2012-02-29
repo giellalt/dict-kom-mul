@@ -1,1440 +1,1543 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
-      <lemma>аддза</lemma>
-      <stem/>
-      <contlex>PO-PX</contlex>
+      <lg>
+         <l>аддза</l>
+         <stg>
+            <st komContlex="PO-PX">аддза</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>for the sake of?? (also added directly to the head word)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>vuoksi (toimii myös päätteenä)</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant>вӧсна</variant>
-               <variant> жаляддза</variant>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="вӧсна" semRelType="confer"/>
+               <semRel lemmaID=" жаляддза" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <t>for the sake of?? (also added directly to the head word)</t>
+            </tg>
+            <tg lang="fin">
+               <t>vuoksi (toimii myös päätteenä)</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>бӧр</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>бӧр</l>
+         <stg>
+            <st komContlex="POSTP1">бӧр</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>behind</variant>
-               <variant> beyond</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>taka-</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant>сай</variant>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="сай" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <t>behind</t>
+               <t>beyond</t>
+            </tg>
+            <tg lang="fin">
+               <t>taka-</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>бӧрся</lemma>
-      <stem>бӧр</stem>
-      <contlex>PO-COMP</contlex>
+      <lg>
+         <l>бӧрся</l>
+         <stg>
+            <st komContlex="PO-COMP">бӧр</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>after</variant>
-            </choice>
-         </eng>
-         <dom>TIME</dom>
-         <fin>
-            <choice>
-               <variant>jälkeen</variant>
-            </choice>
-         </fin>
-      </article>
-      <article>
-         <eng>
-            <choice>
-               <variant>after</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jälkeen</variant>
-               <variant> perään</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa semClass="TIME"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>after</t>
+            </tg>
+            <tg lang="fin">
+               <t>jälkeen</t>
+            </tg>
+         </mg>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>after</t>
+            </tg>
+            <tg lang="fin">
+               <t>jälkeen</t>
+               <t>perään</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>бӧрті</lemma>
-      <stem>бӧр</stem>
-      <contlex>PO-TRA</contlex>
+      <lg>
+         <l>бӧрті</l>
+         <stg>
+            <st komContlex="PO-TRA">бӧр</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>after sm</variant>
-               <variant> following sm</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jälkeen</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>after sm</t>
+               <t>following sm</t>
+            </tg>
+            <tg lang="fin">
+               <t>jälkeen</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>берд</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>берд</l>
+         <stg>
+            <st komContlex="POSTP1">берд</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <syn>NNOM ENG </syn>
-         <fin>
-            <choice>
-               <variant>ääri</variant>
-               <variant> vieri</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant>дін</variant>
-               <variant> дор</variant>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>NNOM ENG </typical>
+                     </arg>
+                  </argg>
+               </head>
+               <semRel lemmaID="дін" semRelType="confer"/>
+               <semRel lemmaID=" дор" semRelType="confer"/>
+            </m>
+            <tg lang="fin">
+               <t>ääri</t>
+               <t>vieri</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>боки</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>боки</l>
+         <stg>
+            <st komContlex="POSTP1">боки</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <dial>
-            <choice>
-               <variant/>
-            </choice>
-         </dial>
-         <eng>
-            <choice>
-               <variant>by sm's side</variant>
-               <variant> near sm or smth</variant>
-               <variant> past sm</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jkn vieressä</variant>
-               <variant> jkn lähellä</variant>
-               <variant> jkn ohi</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>by sm's side</t>
+               <t>near sm or smth</t>
+               <t>past sm</t>
+            </tg>
+            <tg lang="fin">
+               <t>jkn vieressä</t>
+               <t>jkn lähellä</t>
+               <t>jkn ohi</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>бокиті</lemma>
-      <stem/>
-      <contlex>PO-TRA</contlex>
+      <lg>
+         <l>бокиті</l>
+         <stg>
+            <st komContlex="PO-TRA">бокиті</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>past</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ohitse</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>past</t>
+            </tg>
+            <tg lang="fin">
+               <t>ohitse</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>боксянь</lemma>
-      <stem>бок</stem>
-      <contlex>PO-EGR</contlex>
+      <lg>
+         <l>боксянь</l>
+         <stg>
+            <st komContlex="PO-EGR">бок</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>from a stand point</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kannalta</variant>
-            </choice>
-         </fin>
-      </article>
-      <article>
-         <eng>
-            <choice>
-               <variant>from the side</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>sivulta</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>from a stand point</t>
+            </tg>
+            <tg lang="fin">
+               <t>kannalta</t>
+            </tg>
+         </mg>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>from the side</t>
+            </tg>
+            <tg lang="fin">
+               <t>sivulta</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>вöсна</lemma>
-      <stem/>
-      <contlex>PO-PX</contlex>
+      <lg>
+         <l>вöсна</l>
+         <stg>
+            <st komContlex="PO-PX">вöсна</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>for</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>vuoksi</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>for</t>
+            </tg>
+            <tg lang="fin">
+               <t>vuoksi</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>йылысь</lemma>
-      <stem>йыл</stem>
-      <contlex>PO-ELA</contlex>
+      <lg>
+         <l>йылысь</l>
+         <stg>
+            <st komContlex="PO-ELA">йыл</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>about</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>-stA</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>about</t>
+            </tg>
+            <tg lang="fin">
+               <t>-stA</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>чӧж</lemma>
-      <stem/>
-      <contlex>POST1</contlex>
+      <lg>
+         <l>чӧж</l>
+         <stg>
+            <st komContlex="POST1">чӧж</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>during</variant>
-               <variant>in the course (of time)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jnk kuluessa</variant>
-               <variant> jnk ajan</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>during</t>
+               <t>in the course (of time)</t>
+            </tg>
+            <tg lang="fin">
+               <t>jnk kuluessa</t>
+               <t>jnk ajan</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>дырйи</lemma>
-      <stem/>
-      <contlex>PO-PX</contlex>
+      <lg>
+         <l>дырйи</l>
+         <stg>
+            <st komContlex="PO-PX">дырйи</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <syn>NOMN ENG </syn>
-         <fin>
-            <choice>
-               <variant>-n aikana</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>NOMN ENG </typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="fin">
+               <t>-n aikana</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ӧтдор</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>ӧтдор</l>
+         <stg>
+            <st komContlex="POSTP1">ӧтдор</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <syn>P/-ысь</syn>
-         <eng>
-            <choice>
-               <variant>besides</variant>
-               <variant> in addition to</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>paitsi</variant>
-               <variant> -n lisäksi</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>P/-ысь</typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>besides</t>
+               <t>in addition to</t>
+            </tg>
+            <tg lang="fin">
+               <t>paitsi</t>
+               <t>-n lisäksi</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>гӧгӧр</lemma>
-      <stem/>
-      <contlex>POSTP-NOUN</contlex>
+      <lg>
+         <l>гӧгӧр</l>
+         <stg>
+            <st komContlex="POSTP-NOUN">гӧгӧр</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <syn>NOM</syn>
-         <eng>
-            <choice>
-               <variant>around</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ympärillä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>NOM</typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>around</t>
+            </tg>
+            <tg lang="fin">
+               <t>ympärillä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>гырся</lemma>
-      <stem>гыр</stem>
-      <contlex>PO-COMP</contlex>
+      <lg>
+         <l>гырся</l>
+         <stg>
+            <st komContlex="PO-COMP">гыр</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>with the size of</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>with the size of</t>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ылӧс</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>ылӧс</l>
+         <stg>
+            <st komContlex="POSTP1">ылӧс</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>йитӧдын</lemma>
-      <stem>йитӧд</stem>
-      <contlex>PO-INE</contlex>
+      <lg>
+         <l>йитӧдын</l>
+         <stg>
+            <st komContlex="PO-INE">йитӧд</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eg>
-            <komi>такӧд йитӧдын</komi>
-            <eng>
-               <choice>
-                  <variant>in conjuction with this</variant>
-               </choice>
-            </eng>
-            <fin>
-               <choice>
-                  <variant>näissä merkeissä</variant>
-               </choice>
-            </fin>
-         </eg>
-         <syn>P/-кӧд</syn>
-         <eng>
-            <choice>
-               <variant>with regard to</variant>
-               <variant> in conjunction with</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>yhteydessä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>P/-кӧд</typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>with regard to</t>
+               <t>in conjunction with</t>
+            </tg>
+            <tg lang="fin">
+               <t>yhteydessä</t>
+            </tg>
+            <xg>
+               <x>такӧд йитӧдын</x>
+               <xt lang="eng">in conjuction with this</xt>
+               <xt lang="fin">näissä merkeissä</xt>
+            </xg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>катыдын</lemma>
-      <stem>катыд</stem>
-      <contlex>PO-INE</contlex>
+      <lg>
+         <l>катыдын</l>
+         <stg>
+            <st komContlex="PO-INE">катыд</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>up stream (used with names of rivers)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>up stream (used with names of rivers)</t>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кежлӧ</lemma>
-      <stem>кежл</stem>
-      <contlex>PO-ILL</contlex>
+      <lg>
+         <l>кежлӧ</l>
+         <stg>
+            <st komContlex="PO-ILL">кежл</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>for ...(a period of time)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>-ksi (joksikin ajaksi)</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>for ...(a period of time)</t>
+            </tg>
+            <tg lang="fin">
+               <t>-ksi (joksikin ajaksi)</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кындзи</lemma>
-      <stem/>
-      <contlex>PO-PX</contlex>
+      <lg>
+         <l>кындзи</l>
+         <stg>
+            <st komContlex="PO-PX">кындзи</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <der>
-            <choice>
-               <variant>-ысь</variant>
-            </choice>
-         </der>
-         <eng>
-            <choice>
-               <variant>along side</variant>
-               <variant> in addition to</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ohella</variant>
-               <variant> lisäksi</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <drv>-ысь</drv>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>along side</t>
+               <t>in addition to</t>
+            </tg>
+            <tg lang="fin">
+               <t>ohella</t>
+               <t>lisäksi</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кузя</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>кузя</l>
+         <stg>
+            <st komContlex="POSTP1">кузя</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <syn>NOM/POSTP</syn>
-         <eng>
-            <choice>
-               <variant>along</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>pitkin</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>NOM/POSTP</typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>along</t>
+            </tg>
+            <tg lang="fin">
+               <t>pitkin</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>лыд</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>лыд</l>
+         <stg>
+            <st komContlex="POSTP1">лыд</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <syn>P-ын</syn>
-         <syn>P-ысь</syn>
-         <syn>P-ӧ</syn>
-         <eng>
-            <choice>
-               <variant>amidst</variant>
-               <variant> among</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>joukossa</variant>
-               <variant> keskuudessa</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>P-ын</typical>
+                     </arg>
+                  </argg>
+                  <argg>
+                     <arg>
+                        <typical>P-ысь</typical>
+                     </arg>
+                  </argg>
+                  <argg>
+                     <arg>
+                        <typical>P-ӧ</typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>amidst</t>
+               <t>among</t>
+            </tg>
+            <tg lang="fin">
+               <t>joukossa</t>
+               <t>keskuudessa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мат</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>мат</l>
+         <stg>
+            <st komContlex="POSTP1">мат</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <syn>P-ын</syn>
-         <syn>P-ысь</syn>
-         <syn>P-ӧ</syn>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>P-ын</typical>
+                     </arg>
+                  </argg>
+                  <argg>
+                     <arg>
+                        <typical>P-ысь</typical>
+                     </arg>
+                  </argg>
+                  <argg>
+                     <arg>
+                        <typical>P-ӧ</typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мӧдар</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>мӧдар</l>
+         <stg>
+            <st komContlex="POSTP1">мӧдар</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>on the other side of</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>-n toisella puolella</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>on the other side of</t>
+            </tg>
+            <tg lang="fin">
+               <t>-n toisella puolella</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мӧдлапӧв</lemma>
-      <stem>мӧдлапӧл</stem>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>мӧдлапӧв</l>
+         <stg>
+            <st komContlex="POSTP1">мӧдлапӧл</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <syn>P-ын</syn>
-         <syn>P-ысь</syn>
-         <syn>P-ӧ</syn>
-         <eng>
-            <choice>
-               <variant>on the other side of (it)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>P-ын</typical>
+                     </arg>
+                  </argg>
+                  <argg>
+                     <arg>
+                        <typical>P-ысь</typical>
+                     </arg>
+                  </argg>
+                  <argg>
+                     <arg>
+                        <typical>P-ӧ</typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>on the other side of (it)</t>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мында</lemma>
-      <stem/>
-      <contlex>PO-PX</contlex>
+      <lg>
+         <l>мында</l>
+         <stg>
+            <st komContlex="PO-PX">мында</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>as much as</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>niin paljon kuin</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>as much as</t>
+            </tg>
+            <tg lang="fin">
+               <t>niin paljon kuin</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мысти</lemma>
-      <stem/>
-      <contlex>PO-PX</contlex>
+      <lg>
+         <l>мысти</l>
+         <stg>
+            <st komContlex="PO-PX">мысти</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>in</variant>
-               <variant> from now</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>-n kuluttua</variant>
-               <variant> päästä</variant>
-               <variant> välein</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>in</t>
+               <t>from now</t>
+            </tg>
+            <tg lang="fin">
+               <t>-n kuluttua</t>
+               <t>päästä</t>
+               <t>välein</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мысьт</lemma>
-      <stem/>
-      <contlex>PO-PX</contlex>
+      <lg>
+         <l>мысьт</l>
+         <stg>
+            <st komContlex="PO-PX">мысьт</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>in</variant>
-               <variant> from now</variant>
-            </choice>
-         </eng>
-         <dom>TIME</dom>
-         <fin>
-            <choice>
-               <variant>-n kuluttua</variant>
-               <variant> päästä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa semClass="TIME"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>in</t>
+               <t>from now</t>
+            </tg>
+            <tg lang="fin">
+               <t>-n kuluttua</t>
+               <t>päästä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>моз</lemma>
-      <stem/>
-      <contlex>PO-PX</contlex>
+      <lg>
+         <l>моз</l>
+         <stg>
+            <st komContlex="PO-PX">моз</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>such as</variant>
-               <variant> just like</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>niin kuin</variant>
-               <variant> aivan kuin</variant>
-               <variant> kuten</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>such as</t>
+               <t>just like</t>
+            </tg>
+            <tg lang="fin">
+               <t>niin kuin</t>
+               <t>aivan kuin</t>
+               <t>kuten</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ног</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>ног</l>
+         <stg>
+            <st komContlex="POSTP1">ног</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>-wise</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>-ttain</variant>
-            </choice>
-         </fin>
-      </article>
-      <article>
-         <eng>
-            <choice>
-               <variant>by</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>-ltaan</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>-wise</t>
+            </tg>
+            <tg lang="fin">
+               <t>-ttain</t>
+            </tg>
+         </mg>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>by</t>
+            </tg>
+            <tg lang="fin">
+               <t>-ltaan</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ногӧн</lemma>
-      <stem/>
-      <contlex>PO-INSTR</contlex>
+      <lg>
+         <l>ногӧн</l>
+         <stg>
+            <st komContlex="PO-INSTR">ногӧн</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ньылыд</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>ньылыд</l>
+         <stg>
+            <st komContlex="POSTP1">ньылыд</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eg>
-            <komi>ва ньылыд</komi>
-            <eng>
-               <choice>
-                  <variant>down stream</variant>
-               </choice>
-            </eng>
-            <fin>
-               <choice>
-                  <variant>virtaa pitkin</variant>
-                  <variant> virtaa myöten</variant>
-               </choice>
-            </fin>
-         </eg>
-         <eng>
-            <choice>
-               <variant>down</variant>
-               <variant> along</variant>
-               <variant> the way of</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>pitkin</variant>
-               <variant> myöten</variant>
-               <variant> myötä</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant>паныд</variant>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="паныд" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <t>down</t>
+               <t>along</t>
+               <t>the way of</t>
+            </tg>
+            <tg lang="fin">
+               <t>pitkin</t>
+               <t>myöten</t>
+               <t>myötä</t>
+            </tg>
+            <xg>
+               <x>ва ньылыд</x>
+               <xt lang="eng">down stream</xt>
+               <xt lang="fin">virtaa pitkin</xt>
+               <xt lang="fin">virtaa myöten</xt>
+            </xg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>орд</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>орд</l>
+         <stg>
+            <st komContlex="POSTP1">орд</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <der>
-            <choice>
-               <variant>-ӧ</variant>
-            </choice>
-         </der>
-         <der>
-            <choice>
-               <variant>-ын</variant>
-            </choice>
-         </der>
-         <der>
-            <choice>
-               <variant>-ысь</variant>
-            </choice>
-         </der>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <drv>-ӧ</drv>
+         <drv>-ын</drv>
+         <drv>-ысь</drv>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>паныд</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>паныд</l>
+         <stg>
+            <st komContlex="POSTP1">паныд</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eg>
-            <komi>ю паныд</komi>
-            <eng>
-               <choice>
-                  <variant>up stream</variant>
-               </choice>
-            </eng>
-            <fin>
-               <choice>
-                  <variant>jokea ylös (vastavirtaan)</variant>
-               </choice>
-            </fin>
-         </eg>
-         <eng>
-            <choice>
-               <variant>against</variant>
-               <variant> up</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>vasten</variant>
-               <variant> vastaan</variant>
-               <variant> ylös</variant>
-            </choice>
-         </fin>
-         <ant>кырул</ant>
-      </article>
-      <article>
-         <eng>
-            <choice>
-               <variant>preceding</variant>
-            </choice>
-         </eng>
-         <dom>TIME</dom>
-         <fin>
-            <choice>
-               <variant>vasten</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="кырул" semRelType="antonym"/>
+            </m>
+            <tg lang="eng">
+               <t>against</t>
+               <t>up</t>
+            </tg>
+            <tg lang="fin">
+               <t>vasten</t>
+               <t>vastaan</t>
+               <t>ylös</t>
+            </tg>
+            <xg>
+               <x>ю паныд</x>
+               <xt lang="eng">up stream</xt>
+               <xt lang="fin">jokea ylös (vastavirtaan)</xt>
+            </xg>
+         </mg>
+         <mg>
+            <m>
+               <head>
+                  <isa semClass="TIME"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>preceding</t>
+            </tg>
+            <tg lang="fin">
+               <t>vasten</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>паныдӧн</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>паныдӧн</l>
+         <stg>
+            <st komContlex="POSTP1">паныдӧн</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <syn>P/-кӧд</syn>
-         <der>
-            <choice>
-               <variant>DADV-ӧн</variant>
-            </choice>
-         </der>
-         <syn>P/-лы</syn>
-         <eng>
-            <choice>
-               <variant>opposite</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>vastapäätä</variant>
-            </choice>
-         </fin>
-      </article>
-      <article>
-         <syn>P/-lany</syn>
-         <der>
-            <choice>
-               <variant>DADV-ӧн</variant>
-            </choice>
-         </der>
-         <eng>
-            <choice>
-               <variant>facing</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>päin</variant>
-            </choice>
-         </fin>
-         <ant>мышкӧн</ant>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>P/-кӧд</typical>
+                     </arg>
+                  </argg>
+                  <argg>
+                     <arg>
+                        <typical>DADV-ӧн</typical>
+                     </arg>
+                  </argg>
+                  <argg>
+                     <arg>
+                        <typical>P/-лы</typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>opposite</t>
+            </tg>
+            <tg lang="fin">
+               <t>vastapäätä</t>
+            </tg>
+         </mg>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>P/-lany</typical>
+                     </arg>
+                  </argg>
+                  <argg>
+                     <arg>
+                        <typical>DADV-ӧн</typical>
+                     </arg>
+                  </argg>
+               </head>
+               <semRel lemmaID="мышкӧн" semRelType="antonym"/>
+            </m>
+            <tg lang="eng">
+               <t>facing</t>
+            </tg>
+            <tg lang="fin">
+               <t>päin</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>пасьтала</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>пасьтала</l>
+         <stg>
+            <st komContlex="POSTP1">пасьтала</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>throughout</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ympäri</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>throughout</t>
+            </tg>
+            <tg lang="fin">
+               <t>ympäri</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>пӧлӧн</lemma>
-      <stem/>
-      <contlex>PO-INSTR</contlex>
+      <lg>
+         <l>пӧлӧн</l>
+         <stg>
+            <st komContlex="PO-INSTR">пӧлӧн</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>along</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>pitkin</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>along</t>
+            </tg>
+            <tg lang="fin">
+               <t>pitkin</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>пӧвст</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>пӧвст</l>
+         <stg>
+            <st komContlex="POSTP1">пӧвст</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <der>
-            <choice>
-               <variant>-ын</variant>
-            </choice>
-         </der>
-         <der>
-            <choice>
-               <variant>-ӧ</variant>
-            </choice>
-         </der>
-         <der>
-            <choice>
-               <variant>-ысь</variant>
-            </choice>
-         </der>
-         <cf>
-            <choice>
-               <variant>пи</variant>
-               <variant> кост</variant>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <drv>-ын</drv>
+         <drv>-ӧ</drv>
+         <drv>-ысь</drv>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="пи" semRelType="confer"/>
+               <semRel lemmaID=" кост" semRelType="confer"/>
+            </m>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>пи</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>пи</l>
+         <stg>
+            <st komContlex="POSTP1">пи</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <der>
-            <choice>
-               <variant>-ын</variant>
-            </choice>
-         </der>
-         <der>
-            <choice>
-               <variant>-ӧ</variant>
-            </choice>
-         </der>
-         <der>
-            <choice>
-               <variant>-ысь</variant>
-            </choice>
-         </der>
-         <eng>
-            <choice>
-               <variant>among</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>-n joukossa</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <drv>-ын</drv>
+         <drv>-ӧ</drv>
+         <drv>-ысь</drv>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>among</t>
+            </tg>
+            <tg lang="fin">
+               <t>-n joukossa</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>пыдди</lemma>
-      <stem/>
-      <contlex>PO-PX</contlex>
+      <lg>
+         <l>пыдди</l>
+         <stg>
+            <st komContlex="PO-PX">пыдди</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>instead of</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>-n asemesta</variant>
-               <variant> -n sijasta</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>instead of</t>
+            </tg>
+            <tg lang="fin">
+               <t>-n asemesta</t>
+               <t>-n sijasta</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>пыр</lemma>
-      <stem/>
-      <contlex>PO-PX</contlex>
+      <lg>
+         <l>пыр</l>
+         <stg>
+            <st komContlex="PO-PX">пыр</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eg>
-            <komi>телефон пыр тӧдмасьӧм</komi>
-            <eng>
-               <choice>
-                  <variant>becoming acqainted over the phone</variant>
-               </choice>
-            </eng>
-            <fin>
-               <choice>
-                  <variant>tutustuminen puhelimitse</variant>
-               </choice>
-            </fin>
-         </eg>
-         <eng>
-            <choice>
-               <variant>through</variant>
-               <variant> over</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>läpi</variant>
-               <variant> kautta</variant>
-               <variant> -tse</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>through</t>
+               <t>over</t>
+            </tg>
+            <tg lang="fin">
+               <t>läpi</t>
+               <t>kautta</t>
+               <t>-tse</t>
+            </tg>
+            <xg>
+               <x>телефон пыр тӧдмасьӧм</x>
+               <xt lang="eng">becoming acqainted over the phone</xt>
+               <xt lang="fin">tutustuminen puhelimitse</xt>
+            </xg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>пытш</lemma>
-      <stem>пытшк</stem>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>пытш</l>
+         <stg>
+            <st komContlex="POSTP1">пытшк</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <der>
-            <choice>
-               <variant>-ын</variant>
-            </choice>
-         </der>
-         <der>
-            <choice>
-               <variant>-ӧ</variant>
-            </choice>
-         </der>
-         <der>
-            <choice>
-               <variant>-ысь</variant>
-            </choice>
-         </der>
-         <eng>
-            <choice>
-               <variant>inside</variant>
-               <variant> from within</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>sisällä</variant>
-               <variant> sisälle</variant>
-               <variant> sisältä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <drv>-ын</drv>
+         <drv>-ӧ</drv>
+         <drv>-ысь</drv>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>inside</t>
+               <t>from within</t>
+            </tg>
+            <tg lang="fin">
+               <t>sisällä</t>
+               <t>sisälle</t>
+               <t>sisältä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>понда</lemma>
-      <stem/>
-      <contlex>PO-PX</contlex>
+      <lg>
+         <l>понда</l>
+         <stg>
+            <st komContlex="PO-PX">понда</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>for some reason</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jstak syystä</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>for some reason</t>
+            </tg>
+            <tg lang="fin">
+               <t>jstak syystä</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ради</lemma>
-      <stem/>
-      <contlex>PO-PX</contlex>
+      <lg>
+         <l>ради</l>
+         <stg>
+            <st komContlex="PO-PX">ради</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>сай</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>сай</l>
+         <stg>
+            <st komContlex="POSTP1">сай</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <der>
-            <choice>
-               <variant>-ын</variant>
-            </choice>
-         </der>
-         <der>
-            <choice>
-               <variant>-ӧ</variant>
-            </choice>
-         </der>
-         <der>
-            <choice>
-               <variant>-ысь</variant>
-            </choice>
-         </der>
-         <der>
-            <choice>
-               <variant>-ӧдз</variant>
-            </choice>
-         </der>
-      </article>
+      <e>
+         <drv>-ын</drv>
+         <drv>-ӧ</drv>
+         <drv>-ысь</drv>
+         <drv>-ӧдз</drv>
+         <mg>
+            <m>
+               <head/>
+            </m>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>серти</lemma>
-      <stem/>
-      <contlex>PO-PX</contlex>
+      <lg>
+         <l>серти</l>
+         <stg>
+            <st komContlex="PO-PX">серти</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <syn>H/NOM</syn>
-         <eng>
-            <choice>
-               <variant>according to</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>-n mukaan</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>H/NOM</typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>according to</t>
+            </tg>
+            <tg lang="fin">
+               <t>-n mukaan</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>уліті</lemma>
-      <stem/>
-      <contlex>PO-TRA</contlex>
+      <lg>
+         <l>уліті</l>
+         <stg>
+            <st komContlex="PO-TRA">уліті</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>past (beneath)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>alitse</variant>
-               <variant> alakautta</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>past (beneath)</t>
+            </tg>
+            <tg lang="fin">
+               <t>alitse</t>
+               <t>alakautta</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ув</lemma>
-      <stem>ул</stem>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>ув</l>
+         <stg>
+            <st komContlex="POSTP1">ул</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <der>
-            <choice>
-               <variant>-ын</variant>
-            </choice>
-         </der>
-         <der>
-            <choice>
-               <variant>-ӧ</variant>
-            </choice>
-         </der>
-         <der>
-            <choice>
-               <variant>-ысь</variant>
-            </choice>
-         </der>
-      </article>
+      <e>
+         <drv>-ын</drv>
+         <drv>-ӧ</drv>
+         <drv>-ысь</drv>
+         <mg>
+            <m>
+               <head/>
+            </m>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>вӧсна</lemma>
-      <stem/>
-      <contlex>PO-PX</contlex>
+      <lg>
+         <l>вӧсна</l>
+         <stg>
+            <st komContlex="PO-PX">вӧсна</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eg>
-            <komi>висьӧм вӧсна</komi>
-            <eng>
-               <choice>
-                  <variant>due to illness</variant>
-               </choice>
-            </eng>
-            <fin>
-               <choice>
-                  <variant>sairauden vuoksi</variant>
-               </choice>
-            </fin>
-         </eg>
-         <eng>
-            <choice>
-               <variant>due to</variant>
-               <variant> because of</variant>
-               <variant> on behalf of</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>takia</variant>
-               <variant> vuoksi</variant>
-               <variant> puolesta</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>due to</t>
+               <t>because of</t>
+               <t>on behalf of</t>
+            </tg>
+            <tg lang="fin">
+               <t>takia</t>
+               <t>vuoksi</t>
+               <t>puolesta</t>
+            </tg>
+            <xg>
+               <x>висьӧм вӧсна</x>
+               <xt lang="eng">due to illness</xt>
+               <xt lang="fin">sairauden vuoksi</xt>
+            </xg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>веркыд</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>веркыд</l>
+         <stg>
+            <st komContlex="POSTP1">веркыд</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>веськыдладор</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>веськыдладор</l>
+         <stg>
+            <st komContlex="POSTP1">веськыдладор</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <syn>H/NOM</syn>
-         <eng>
-            <choice>
-               <variant>on the right side of</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>-n oikealla puolella</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <argg>
+                     <arg>
+                        <typical>H/NOM</typical>
+                     </arg>
+                  </argg>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>on the right side of</t>
+            </tg>
+            <tg lang="fin">
+               <t>-n oikealla puolella</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>весьт</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>весьт</l>
+         <stg>
+            <st komContlex="POSTP1">весьт</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <der>
-            <choice>
-               <variant>-ын</variant>
-            </choice>
-         </der>
-         <der>
-            <choice>
-               <variant>-ӧ</variant>
-            </choice>
-         </der>
-         <der>
-            <choice>
-               <variant>-ысь</variant>
-            </choice>
-         </der>
-      </article>
+      <e>
+         <drv>-ын</drv>
+         <drv>-ӧ</drv>
+         <drv>-ысь</drv>
+         <mg>
+            <m>
+               <head/>
+            </m>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>выйӧн</lemma>
-      <stem/>
-      <contlex>PO-INSTR</contlex>
+      <lg>
+         <l>выйӧн</l>
+         <stg>
+            <st komContlex="PO-INSTR">выйӧн</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>выліті</lemma>
-      <stem/>
-      <contlex>PO-TRA</contlex>
+      <lg>
+         <l>выліті</l>
+         <stg>
+            <st komContlex="PO-TRA">выліті</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>on high</variant>
-               <variant> from high up</variant>
-               <variant> from above</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>korkeuksissa</variant>
-               <variant> korkealta</variant>
-               <variant> yläpuolelta</variant>
-            </choice>
-         </fin>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>on high</t>
+               <t>from high up</t>
+               <t>from above</t>
+            </tg>
+            <tg lang="fin">
+               <t>korkeuksissa</t>
+               <t>korkealta</t>
+               <t>yläpuolelta</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>вывті</lemma>
-      <stem/>
-      <contlex>PO-TRA</contlex>
+      <lg>
+         <l>вывті</l>
+         <stg>
+            <st komContlex="PO-TRA">вывті</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>водз</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>водз</l>
+         <stg>
+            <st komContlex="POSTP1">водз</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>вом</lemma>
-      <stem/>
-      <contlex>POSTP1</contlex>
+      <lg>
+         <l>вом</l>
+         <stg>
+            <st komContlex="POSTP1">вом</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eg>
-            <komi>вомас</komi>
-            <eng>
-               <choice>
-                  <variant>for (temp)</variant>
-               </choice>
-            </eng>
-            <fin>
-               <choice>
-                  <variant>aikana</variant>
-               </choice>
-            </fin>
-         </eg>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <xg>
+               <x>вомас</x>
+               <xt lang="eng">for (temp)</xt>
+               <xt lang="fin">aikana</xt>
+            </xg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>вомӧн</lemma>
-      <stem>вом</stem>
-      <contlex>PO-INSTR</contlex>
+      <lg>
+         <l>вомӧн</l>
+         <stg>
+            <st komContlex="PO-INSTR">вом</st>
+         </stg>
+      </lg>
       <pos>POSTP</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>over</variant>
-               <variant> across</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>yli</variant>
-               <variant> poikki</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>over</t>
+               <t>across</t>
+            </tg>
+            <tg lang="fin">
+               <t>yli</t>
+               <t>poikki</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
-</dict>
+</r>
