@@ -249,6 +249,7 @@
          <xs:enumeration value="QNT-ITER"/>
          <xs:enumeration value="QNT-UNIV"/>
          <xs:enumeration value="V"/>
+         <xs:enumeration value="V-INST"/>
          <xs:enumeration value="VT"/>
          <xs:enumeration value="VT-IMP"/>
          <xs:enumeration value="VI"/>
@@ -481,9 +482,15 @@
       <xs:complexType>
          <xs:simpleContent>
             <xs:extension base="xs:string">
+               <xs:attribute ref="cx"/>
                <xs:attribute ref="drvType"/>
+               <xs:attribute ref="dx"/>
                <xs:attribute ref="lemmaID"/>
                <xs:attribute ref="komMorph"/>
+               <xs:attribute ref="mx"/>
+               <xs:attribute ref="nx"/>
+               <xs:attribute ref="px"/>
+               <xs:attribute ref="tx"/>
             </xs:extension>
          </xs:simpleContent>
       </xs:complexType>
@@ -612,6 +619,10 @@
    <xs:attribute name="komMorph">
       <xs:simpleType>
          <xs:restriction base="xs:string">
+            <xs:enumeration value="CX-ACC"/>
+            <xs:enumeration value="CX-DAT"/>
+            <xs:enumeration value="CX-GEN"/>
+            <xs:enumeration value="CX-NOM"/>
             <xs:enumeration value="CX-аддза"/>
             <xs:enumeration value="CX-лань"/>
             <xs:enumeration value="CX-ӧ"/>
@@ -923,6 +934,7 @@
             <xs:enumeration value="SW"/>
             <xs:enumeration value="U"/>
             <xs:enumeration value="Udora"/>
+            <xs:enumeration value="V"/>
          </xs:restriction>
       </xs:simpleType>
    </xs:attribute>
@@ -998,22 +1010,58 @@
             <xs:enumeration value="incoative_verb"/>
             <xs:enumeration value="ideophonic_verb"/>
             <xs:enumeration value="reciprocal_verb"/>
+            <!--Grammar and such before this point-->
+            <xs:enumeration value="acronym"/>
             <xs:enumeration value="adult"/>
+            <xs:enumeration value="archipelago"/>
             <xs:enumeration value="beverage"/>
             <xs:enumeration value="bird"/>
+            <xs:enumeration value="body of water"/>
             <xs:enumeration value="body_part"/>
+            <xs:enumeration value="city"/>
             <xs:enumeration value="color"/>
             <xs:enumeration value="company"/>
+            <xs:enumeration value="continent"/>
+            <xs:enumeration value="document"/>
             <xs:enumeration value="domestic_animal"/>
             <xs:enumeration value="wild_animal"/>
+            <xs:enumeration value="era"/>
             <xs:enumeration value="female"/>
+            <xs:enumeration value="female given name"/>
+            <xs:enumeration value="female surname"/>
+            <xs:enumeration value="fund"/>
             <xs:enumeration value="game"/>
             <!--fin="leikki"-->
+            <xs:enumeration value="heavenly body"/>
+            <xs:enumeration value="holiday"/>
             <xs:enumeration value="human"/>
+            <xs:enumeration value="institution"/>
             <xs:enumeration value="kin_term"/>
             <xs:enumeration value="parent"/>
+            <xs:enumeration value="lake"/>
             <xs:enumeration value="male"/>
+            <xs:enumeration value="male given name"/>
             <xs:enumeration value="mamal"/>
+            <xs:enumeration value="name"/>
+            <xs:enumeration value="newspaper"/>
+            <xs:enumeration value="oblast"/>
+            <xs:enumeration value="ocean"/>
+            <xs:enumeration value="patronym"/>
+            <xs:enumeration value="peninsula"/>
+            <xs:enumeration value="planet"/>
+            <xs:enumeration value="posyolok"/>
+            <xs:enumeration value="raion"/>
+            <xs:enumeration value="region"/>
+            <xs:enumeration value="river"/>
+            <xs:enumeration value="river basin"/>
+            <xs:enumeration value="sea"/>
+            <xs:enumeration value="settlement"/>
+            <xs:enumeration value="sovkhoz"/>
+            <xs:enumeration value="star"/>
+            <xs:enumeration value="surname"/>
+            <xs:enumeration value="toponym"/>
+            <xs:enumeration value="village"/>
+            <xs:enumeration value="war"/>
             <xs:enumeration value="weekday"/>
             <xs:enumeration value="month"/>
             <xs:enumeration value="capacity"/>
@@ -1270,6 +1318,7 @@
    </xs:attribute>
    <!--"CX" might be adapted for several languages but there are a lot of issues to deal with -->
    <xs:attribute name="cx">
+      <!--case marker-->
       <xs:simpleType>
          <xs:restriction base="xs:string">
             <xs:enumeration value="abe"/>
@@ -1292,12 +1341,58 @@
       </xs:simpleType>
    </xs:attribute>
    <xs:attribute name="dx">
+      <!--determiner marking-->
       <xs:simpleType>
          <xs:restriction base="xs:string">
             <xs:enumeration value="defPl"/>
             <xs:enumeration value="defSg"/>
             <xs:enumeration value="indef"/>
             <xs:enumeration value="poss"/>
+         </xs:restriction>
+      </xs:simpleType>
+   </xs:attribute>
+   <xs:attribute name="mx">
+      <xs:simpleType>
+         <xs:restriction base="xs:string">
+            <xs:enumeration value="ind"/>
+            <xs:enumeration value="imp"/>
+            <xs:enumeration value="opt"/>
+            <xs:enumeration value="desid"/>
+            <xs:enumeration value="cond"/>
+            <xs:enumeration value="conj"/>
+            <xs:enumeration value="cond-conj"/>
+            <xs:enumeration value="conj-cond"/>
+         </xs:restriction>
+      </xs:simpleType>
+   </xs:attribute>
+   <xs:attribute name="px">
+      <!--person marker-->
+      <xs:simpleType>
+         <xs:restriction base="xs:string">
+            <xs:enumeration value="1"/>
+            <xs:enumeration value="1Sg"/>
+            <xs:enumeration value="1Pl"/>
+            <xs:enumeration value="1Du"/>
+            <xs:enumeration value="2"/>
+            <xs:enumeration value="2Sg"/>
+            <xs:enumeration value="2Pl"/>
+            <xs:enumeration value="2Du"/>
+            <xs:enumeration value="3"/>
+            <xs:enumeration value="3Sg"/>
+            <xs:enumeration value="3Pl"/>
+            <xs:enumeration value="3Du"/>
+         </xs:restriction>
+      </xs:simpleType>
+   </xs:attribute>
+   <xs:attribute name="tx">
+      <!--tense marker-->
+      <xs:simpleType>
+         <xs:restriction base="xs:string">
+            <xs:enumeration value="non-past"/>
+            <xs:enumeration value="pres"/>
+            <xs:enumeration value="fut"/>
+            <xs:enumeration value="pret1"/>
+            <xs:enumeration value="pret2"/>
          </xs:restriction>
       </xs:simpleType>
    </xs:attribute>
