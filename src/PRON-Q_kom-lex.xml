@@ -1,359 +1,419 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
-      <lemma>быд</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>each</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>joka</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>быд</l>
+         <stg>
+            <st komContlex="PRONQTAG">быд</st>
+         </stg>
+      </lg>
+      <pos>QNT-UNIV-ADN</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>each</t>
+            </tg>
+            <tg lang="fin">
+               <t>joka</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>быдӧн</lemma>
-      <stem/>
-      <contlex>PRONQ-COLL</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>everyone </variant>
-               <variant> everybody</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>jokainen</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>быдӧн</l>
+         <stg>
+            <st komContlex="PRONQ-COLL">быдӧн</st>
+         </stg>
+      </lg>
+      <pos>QNT-UNIV-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>everyone</t>
+               <t>everybody</t>
+            </tg>
+            <tg lang="fin">
+               <t>jokainen</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>быдся</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>each </variant>
-               <variant> every </variant>
-               <variant> all kinds of</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>joka </variant>
-               <variant> jokainen </variant>
-               <variant> mikä tahansa </variant>
-               <variant> kaikenlainen</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>быдся</l>
+         <stg>
+            <st komContlex="PRONQTAG">быдся</st>
+         </stg>
+      </lg>
+      <pos>QNT-UNIV-ADN</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>each</t>
+               <t>every</t>
+               <t>all kinds of</t>
+            </tg>
+            <tg lang="fin">
+               <t>joka</t>
+               <t>jokainen</t>
+               <t>mikä tahansa</t>
+               <t>kaikenlainen</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>быдсяма</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>each </variant>
-               <variant> every </variant>
-               <variant> all kinds of</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>joka </variant>
-               <variant> jokainen </variant>
-               <variant> mikä tahansa </variant>
-               <variant> kaikenlainen</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>быдсяма</l>
+         <stg>
+            <st komContlex="PRONQTAG">быдсяма</st>
+         </stg>
+      </lg>
+      <pos>QNT-UNIV-ADN</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>each</t>
+               <t>every</t>
+               <t>all kinds of</t>
+            </tg>
+            <tg lang="fin">
+               <t>joka</t>
+               <t>jokainen</t>
+               <t>mikä tahansa</t>
+               <t>kaikenlainen</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>быдсӧн</lemma>
-      <stem/>
-      <contlex>PRONQ-COLL</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>all </variant>
-               <variant> everybody</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kaikki </variant>
-               <variant> jokainen</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>быдсӧн</l>
+         <stg>
+            <st komContlex="PRONQ-COLL">быдсӧн</st>
+         </stg>
+      </lg>
+      <pos>QNT-UNIV-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>all</t>
+               <t>everybody</t>
+            </tg>
+            <tg lang="fin">
+               <t>kaikki</t>
+               <t>jokainen</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>этшаӧн</lemma>
-      <stem/>
-      <contlex>PRONQ-COLL</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>few</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>harvat</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>этшаӧн</l>
+         <stg>
+            <st komContlex="PRONQ-COLL">этшаӧн</st>
+         </stg>
+      </lg>
+      <pos>QNT-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>few</t>
+            </tg>
+            <tg lang="fin">
+               <t>harvat</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ӧтар</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>one (of two)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>toinen (kahdesta)</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>ӧтар</l>
+         <stg>
+            <st komContlex="PRONQTAG">ӧтар</st>
+         </stg>
+      </lg>
+      <pos>QNT-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="мӧдар_QNT" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <tCtn>
+                  <t>one</t>
+                  <re>of two</re>
+               </tCtn>
+            </tg>
+            <tg lang="fin">
+               <tCtn>
+                  <t>toinen</t>
+                  <re>kahdesta</re>
+               </tCtn>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>кымын</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>??</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>??</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-      </article>
+      <lg>
+         <l>кымын</l>
+         <stg>
+            <st komContlex="PRONQTAG">кымын</st>
+         </stg>
+      </lg>
+      <pos>Q_QNT</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>how many</t>
+            </tg>
+            <tg lang="fin">
+               <t>kuinka monta</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мӧдар</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>other</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>toinen</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>мӧдар</l>
+         <stg>
+            <st komContlex="PRONQTAG">мӧдар</st>
+         </stg>
+      </lg>
+      <pos>QNT-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <semRel lemmaID="ӧтар_QNT" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <t>other</t>
+            </tg>
+            <tg lang="fin">
+               <t>toinen</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>мукӧд</lemma>
-      <stem/>
-      <contlex>PRONQ-MUKOD</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>other </variant>
-               <variant> remaining</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>muu</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>мукӧд</l>
+         <stg>
+            <st komContlex="PRONQ-MUKOD">мукӧд</st>
+         </stg>
+      </lg>
+      <pos>QNT-ADN</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>other</t>
+               <t>remaining</t>
+            </tg>
+            <tg lang="fin">
+               <t>muu</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>неуна</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>a little</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>hieman </variant>
-               <variant> vähän</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>неуна</l>
+         <stg>
+            <st komContlex="PRONQTAG">неуна</st>
+         </stg>
+      </lg>
+      <pos>QNT-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>a little</t>
+            </tg>
+            <tg lang="fin">
+               <t>hieman</t>
+               <t>vähän</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ньӧти</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>not at all </variant>
-               <variant> not even once </variant>
-               <variant> none</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ei lainkaan </variant>
-               <variant> ei ollenkaan </variant>
-               <variant> ei kertaakaan</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>ньӧти</l>
+         <stg>
+            <st komContlex="PRONQTAG">ньӧти</st>
+         </stg>
+      </lg>
+      <pos>QNT-ADN</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>not at all</t>
+               <t>not even once</t>
+               <t>none</t>
+            </tg>
+            <tg lang="fin">
+               <t>ei lainkaan</t>
+               <t>ei ollenkaan</t>
+               <t>ei kertaakaan</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>став</lemma>
-      <stem/>
-      <contlex>PRONQ-STAV</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>all </variant>
-               <variant> whole </variant>
-               <variant> very </variant>
-               <variant> entirely</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kaikki </variant>
-               <variant> koko </variant>
-               <variant> erittäin </variant>
-               <variant> täysin</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>став</l>
+         <stg>
+            <st komContlex="PRONQ-STAV">став</st>
+         </stg>
+      </lg>
+      <pos>QNT-ADN</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>all</t>
+               <t>whole</t>
+               <t>very</t>
+               <t>entirely</t>
+            </tg>
+            <tg lang="fin">
+               <t>kaikki</t>
+               <t>koko</t>
+               <t>erittäin</t>
+               <t>täysin</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>став</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <!-- word class?? -->
-         <eng>
-            <choice>
-               <variant>all</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kaikki</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>став</l>
+         <stg>
+            <st komContlex="PRONQTAG">став</st>
+         </stg>
+      </lg>
+      <pos>QNT-UNIV-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <!-- word class?? -->
+            <tg lang="eng">
+               <t>all</t>
+            </tg>
+            <tg lang="fin">
+               <t>kaikki</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ставӧн</lemma>
-      <stem/>
-      <contlex>PRONQ-COLL</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>everyone </variant>
-               <variant> everybody</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kaikki</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>ставӧн</l>
+         <stg>
+            <st komContlex="PRONQ-COLL">ставӧн</st>
+         </stg>
+      </lg>
+      <pos>QNT-UNIV-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>everyone</t>
+               <t>everybody</t>
+            </tg>
+            <tg lang="fin">
+               <t>kaikki</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>ставыс</lemma>
-      <stem/>
-      <contlex>PRONQTAG</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>all </variant>
-               <variant> everything</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>kaikki</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>ставыс</l>
+         <stg>
+            <st komContlex="PRONQTAG">ставыс</st>
+         </stg>
+      </lg>
+      <pos>QNT-UNIV-PRON</pos>
+      <e>
+         <drv cx="nom" lemmaID="став_QNT" px="3Sg"/>
+         <mg>
+            <m>
+               <head>
+                  <isa isaType="pronoun"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>all</t>
+               <t>everything</t>
+            </tg>
+            <tg lang="fin">
+               <t>kaikki</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry>
-      <lemma>унаӧн</lemma>
-      <stem/>
-      <contlex>PRONQ-COLL</contlex>
-      <pos>PRON-Q</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>many people</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>monet </variant>
-               <variant> useat</variant>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>унаӧн</l>
+         <stg>
+            <st komContlex="PRONQ-COLL">унаӧн</st>
+         </stg>
+      </lg>
+      <pos>QNT-PRON</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>many people</t>
+            </tg>
+            <tg lang="fin">
+               <t>monet</t>
+               <t>useat</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
-</dict>
+</r>
