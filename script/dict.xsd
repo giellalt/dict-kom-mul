@@ -125,6 +125,7 @@
          <xs:enumeration value="ADV-POSITION"/>
          <xs:enumeration value="SPAT-0ARG"/>
          <xs:enumeration value="SPAT-INTERR"/>
+         <xs:enumeration value="SPAT-REL"/>
          <xs:enumeration value="SPAT-INDEF"/>
          <xs:enumeration value="SPAT-DEM"/>
          <xs:enumeration value="SPAT-DISTR"/>
@@ -218,6 +219,7 @@
          <xs:enumeration value="PERS-DAT"/>
          <xs:enumeration value="PRON-RECIP"/>
          <xs:enumeration value="PRON-REFL"/>
+         <xs:enumeration value="ADN-REFL"/>
          <xs:enumeration value="PRON-REL"/>
          <xs:enumeration value="PROP"/>
          <xs:enumeration value="PROP-ANIM"/>
@@ -820,6 +822,7 @@
       <xs:complexType>
          <xs:simpleContent>
             <xs:extension base="xs:string">
+               <xs:attributeGroup ref="inherentMarking"/>
                <xs:attribute ref="isaType"/>
                <xs:attribute ref="semClass"/>
                <xs:attribute ref="lemmaID"/>
@@ -1009,6 +1012,9 @@
             <xs:enumeration value="ideophone"/>
             <xs:enumeration value="incoative_verb"/>
             <xs:enumeration value="ideophonic_verb"/>
+            <xs:enumeration value="pronoun"/>
+            <xs:enumeration value="personal_pronoun"/>
+            <xs:enumeration value="personal_intensive_pronoun"/>
             <xs:enumeration value="reciprocal_verb"/>
             <!--Grammar and such before this point-->
             <xs:enumeration value="acronym"/>
@@ -1027,7 +1033,7 @@
             <xs:enumeration value="wild_animal"/>
             <xs:enumeration value="era"/>
             <xs:enumeration value="female"/>
-            <xs:enumeration value="female given name"/>
+            <xs:enumeration value="female_given_name"/>
             <xs:enumeration value="female surname"/>
             <xs:enumeration value="fund"/>
             <xs:enumeration value="game"/>
@@ -1040,7 +1046,7 @@
             <xs:enumeration value="parent"/>
             <xs:enumeration value="lake"/>
             <xs:enumeration value="male"/>
-            <xs:enumeration value="male given name"/>
+            <xs:enumeration value="male_given_name"/>
             <xs:enumeration value="mamal"/>
             <xs:enumeration value="name"/>
             <xs:enumeration value="newspaper"/>
@@ -1053,7 +1059,7 @@
             <xs:enumeration value="raion"/>
             <xs:enumeration value="region"/>
             <xs:enumeration value="river"/>
-            <xs:enumeration value="river basin"/>
+            <xs:enumeration value="river_basin"/>
             <xs:enumeration value="sea"/>
             <xs:enumeration value="settlement"/>
             <xs:enumeration value="sovkhoz"/>
@@ -1316,6 +1322,11 @@
          </xs:restriction>
       </xs:simpleType>
    </xs:attribute>
+   <xs:attributeGroup name="inherentMarking">
+      <xs:attribute ref="cx"/>
+      <xs:attribute ref="nx"/>
+      <xs:attribute ref="px"/>
+   </xs:attributeGroup>
    <!--"CX" might be adapted for several languages but there are a lot of issues to deal with -->
    <xs:attribute name="cx">
       <!--case marker-->
@@ -1324,6 +1335,7 @@
             <xs:enumeration value="abe"/>
             <xs:enumeration value="abl"/>
             <xs:enumeration value="abs"/>
+            <xs:enumeration value="acc"/>
             <xs:enumeration value="comp"/>
             <xs:enumeration value="comit"/>
             <xs:enumeration value="dat"/>
