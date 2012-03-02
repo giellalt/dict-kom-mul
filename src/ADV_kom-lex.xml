@@ -6,7 +6,7 @@
       <lg>
          <l>кыдз</l>
          <stg>
-            <st komContlex="ADVTAG">кыдз</st>
+            <st kpvContlex="ADVTAG">кыдз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -29,7 +29,7 @@
       <lg>
          <l>явӧ</l>
          <stg>
-            <st komContlex="ADVTAG">явӧ</st>
+            <st kpvContlex="ADVTAG">явӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -55,7 +55,7 @@
       <lg>
          <l>абуджык</l>
          <stg>
-            <st komContlex="ADVTAG">абуджык</st>
+            <st kpvContlex="ADVTAG">абуджык</st>
          </stg>
       </lg>
       <pos>AD-A</pos>
@@ -79,7 +79,7 @@
       <lg>
          <l>кадысь кадӧ</l>
          <stg>
-            <st komContlex="ADVTAG">кадысь кадӧ</st>
+            <st kpvContlex="ADVTAG">кадысь кадӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -101,7 +101,7 @@
       <lg>
          <l>абу вывті</l>
          <stg>
-            <st komContlex="ADVTAG">абу вывті</st>
+            <st kpvContlex="ADVTAG">абу вывті</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -123,7 +123,7 @@
       <lg>
          <l>аддзымӧн</l>
          <stg>
-            <st komContlex="ADVTAG">аддзымӧн</st>
+            <st kpvContlex="ADVTAG">аддзымӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -145,7 +145,7 @@
       <lg>
          <l>аддзымӧнъя</l>
          <stg>
-            <st komContlex="ADVTAG">аддзымӧнъя</st>
+            <st kpvContlex="ADVTAG">аддзымӧнъя</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -167,12 +167,12 @@
       <lg>
          <l>аддзысьлытӧдз</l>
          <stg>
-            <st komContlex="ADVTAG">аддзысьлытӧдз</st>
+            <st kpvContlex="ADVTAG">аддзысьлытӧдз</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
       <e>
-         <drv komMorph="DV-тӧдз"/>
+         <drv kpvMorph="DV-тӧдз"/>
          <mg>
             <m>
                <head/>
@@ -187,7 +187,7 @@
       <lg>
          <l>арбыд</l>
          <stg>
-            <st komContlex="ADVTAG">арбыд</st>
+            <st kpvContlex="ADVTAG">арбыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -211,7 +211,7 @@
       <lg>
          <l>арлыдвыв</l>
          <stg>
-            <st komContlex="ADVTAG">арлыдвыл</st>
+            <st kpvContlex="ADVTAG">арлыдвыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -239,7 +239,7 @@
       <lg>
          <l>арнас</l>
          <stg>
-            <st komContlex="ADVTAG">арнас</st>
+            <st kpvContlex="ADVTAG">арнас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -261,7 +261,7 @@
       <lg>
          <l>асывбыд</l>
          <stg>
-            <st komContlex="ADVTAG">асывбыд</st>
+            <st kpvContlex="ADVTAG">асывбыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -284,7 +284,7 @@
       <lg>
          <l>асывнас</l>
          <stg>
-            <st komContlex="ADVTAG">асывнас</st>
+            <st kpvContlex="ADVTAG">асывнас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -306,7 +306,7 @@
       <lg>
          <l>асывъяснас</l>
          <stg>
-            <st komContlex="ADVTAG">асывъяснас</st>
+            <st kpvContlex="ADVTAG">асывъяснас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -328,7 +328,7 @@
       <lg>
          <l>аски</l>
          <stg>
-            <st komContlex="ADVTAG">аски</st>
+            <st kpvContlex="ADVTAG">аски</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -350,7 +350,7 @@
       <lg>
          <l>аскомысь</l>
          <stg>
-            <st komContlex="ADVTAG">аскомысь</st>
+            <st kpvContlex="ADVTAG">аскомысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -372,7 +372,7 @@
       <lg>
          <l>асъядор</l>
          <stg>
-            <st komContlex="ADVTAG">асъядор</st>
+            <st kpvContlex="ADVTAG">асъядор</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -394,7 +394,7 @@
       <lg>
          <l>асъя войнас</l>
          <stg>
-            <st komContlex="ADVTAG">асъя войнас</st>
+            <st kpvContlex="ADVTAG">асъя войнас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -416,12 +416,12 @@
       <lg>
          <l>ас кадӧ</l>
          <stg>
-            <st komContlex="ADVTAG">ас кадӧ</st>
+            <st kpvContlex="ADVTAG">ас кадӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧ"/>
+         <drv kpvMorph="CX-ӧ"/>
          <mg>
             <m>
                <head/>
@@ -440,7 +440,7 @@
       <lg>
          <l>ас шодйӧн</l>
          <stg>
-            <st komContlex="ADVTAG">ас шодйӧн</st>
+            <st kpvContlex="ADVTAG">ас шодйӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -463,7 +463,7 @@
       <lg>
          <l>азыма</l>
          <stg>
-            <st komContlex="ADVTAG">азыма</st>
+            <st kpvContlex="ADVTAG">азыма</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -485,7 +485,7 @@
       <lg>
          <l>бара</l>
          <stg>
-            <st komContlex="ADVTAG">бара</st>
+            <st kpvContlex="ADVTAG">бара</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -508,7 +508,7 @@
       <lg>
          <l>барай</l>
          <stg>
-            <st komContlex="ADVTAG">барай</st>
+            <st kpvContlex="ADVTAG">барай</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -531,7 +531,7 @@
       <lg>
          <l>барышнӧ</l>
          <stg>
-            <st komContlex="ADVTAG">барышнӧ</st>
+            <st kpvContlex="ADVTAG">барышнӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -555,7 +555,7 @@
       <lg>
          <l>бӧльӧ</l>
          <stg>
-            <st komContlex="ADVTAG">бӧльӧ</st>
+            <st kpvContlex="ADVTAG">бӧльӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -579,7 +579,7 @@
       <lg>
          <l>бӧр</l>
          <stg>
-            <st komContlex="ADVTAG">бӧр</st>
+            <st kpvContlex="ADVTAG">бӧр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -624,7 +624,7 @@
       <lg>
          <l>бӧрасджык</l>
          <stg>
-            <st komContlex="ADVTAG">бӧрасджык</st>
+            <st kpvContlex="ADVTAG">бӧрасджык</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -647,7 +647,7 @@
       <lg>
          <l>бӧрӧ</l>
          <stg>
-            <st komContlex="ADVTAG">бӧрӧ</st>
+            <st kpvContlex="ADVTAG">бӧрӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -671,7 +671,7 @@
       <lg>
          <l>бӧрӧн</l>
          <stg>
-            <st komContlex="ADVTAG">бӧрӧн</st>
+            <st kpvContlex="ADVTAG">бӧрӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -704,7 +704,7 @@
       <lg>
          <l>бӧрсӧ</l>
          <stg>
-            <st komContlex="ADVTAG">бӧрсӧ</st>
+            <st kpvContlex="ADVTAG">бӧрсӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -726,7 +726,7 @@
       <lg>
          <l>бӧрсі</l>
          <stg>
-            <st komContlex="ADVTAG">бӧрсі</st>
+            <st kpvContlex="ADVTAG">бӧрсі</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -751,7 +751,7 @@
       <lg>
          <l>бӧрти</l>
          <stg>
-            <st komContlex="ADVTAG">бӧрти</st>
+            <st kpvContlex="ADVTAG">бӧрти</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -776,7 +776,7 @@
       <lg>
          <l>бӧрвылас</l>
          <stg>
-            <st komContlex="ADVTAG">бӧрвылас</st>
+            <st kpvContlex="ADVTAG">бӧрвылас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -802,7 +802,7 @@
       <lg>
          <l>бӧрын</l>
          <stg>
-            <st komContlex="ADV-SPAT">бӧр</st>
+            <st kpvContlex="ADV-SPAT">бӧр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -824,7 +824,7 @@
       <lg>
          <l>бӧрвыв</l>
          <stg>
-            <st komContlex="ADVTAG">бӧрвыл</st>
+            <st kpvContlex="ADVTAG">бӧрвыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -848,7 +848,7 @@
       <lg>
          <l>бӧръяысьсӧ</l>
          <stg>
-            <st komContlex="ADVTAG">бӧръяысьсӧ</st>
+            <st kpvContlex="ADVTAG">бӧръяысьсӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -870,7 +870,7 @@
       <lg>
          <l>бӧръявыв</l>
          <stg>
-            <st komContlex="ADVTAG">бӧръявыл</st>
+            <st kpvContlex="ADVTAG">бӧръявыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -893,7 +893,7 @@
       <lg>
          <l>бӧжвыв</l>
          <stg>
-            <st komContlex="ADVTAG">бӧжвыл</st>
+            <st kpvContlex="ADVTAG">бӧжвыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -917,7 +917,7 @@
       <lg>
          <l>беда</l>
          <stg>
-            <st komContlex="ADVTAG">беда</st>
+            <st kpvContlex="ADVTAG">беда</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -941,7 +941,7 @@
       <lg>
          <l>бережнӧя</l>
          <stg>
-            <st komContlex="ADVTAG">бережнӧя</st>
+            <st kpvContlex="ADVTAG">бережнӧя</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -966,7 +966,7 @@
       <lg>
          <l>беспути</l>
          <stg>
-            <st komContlex="ADVTAG">беспути</st>
+            <st kpvContlex="ADVTAG">беспути</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -992,7 +992,7 @@
       <lg>
          <l>безвиннӧ</l>
          <stg>
-            <st komContlex="ADVTAG">безвиннӧ</st>
+            <st kpvContlex="ADVTAG">безвиннӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1017,7 +1017,7 @@
       <lg>
          <l>быдсӧн</l>
          <stg>
-            <st komContlex="ADVTAG">быдсӧн</st>
+            <st kpvContlex="ADVTAG">быдсӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1039,7 +1039,7 @@
       <lg>
          <l>быдторйын</l>
          <stg>
-            <st komContlex="ADVTAG">быдторйын</st>
+            <st kpvContlex="ADVTAG">быдторйын</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1061,7 +1061,7 @@
       <lg>
          <l>бырс</l>
          <stg>
-            <st komContlex="ADVTAG">бырс</st>
+            <st kpvContlex="ADVTAG">бырс</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1085,7 +1085,7 @@
       <lg>
          <l>бытш</l>
          <stg>
-            <st komContlex="ADVTAG">бытш</st>
+            <st kpvContlex="ADVTAG">бытш</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1109,7 +1109,7 @@
       <lg>
          <l>бокала</l>
          <stg>
-            <st komContlex="ADVTAG">бокала</st>
+            <st kpvContlex="ADVTAG">бокала</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1132,7 +1132,7 @@
       <lg>
          <l>бокшӧн</l>
          <stg>
-            <st komContlex="ADVTAG">бокшӧн</st>
+            <st kpvContlex="ADVTAG">бокшӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1154,7 +1154,7 @@
       <lg>
          <l>боквыв</l>
          <stg>
-            <st komContlex="ADVTAG">боквыл</st>
+            <st kpvContlex="ADVTAG">боквыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1178,7 +1178,7 @@
       <lg>
          <l>бонбус</l>
          <stg>
-            <st komContlex="ADVTAG">бонбус</st>
+            <st kpvContlex="ADVTAG">бонбус</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1204,7 +1204,7 @@
       <lg>
          <l>бон</l>
          <stg>
-            <st komContlex="ADVTAG">бон</st>
+            <st kpvContlex="ADVTAG">бон</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1229,7 +1229,7 @@
       <lg>
          <l>бордйыв</l>
          <stg>
-            <st komContlex="ADVTAG">бордйыл</st>
+            <st kpvContlex="ADVTAG">бордйыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1258,7 +1258,7 @@
       <lg>
          <l>брӧд</l>
          <stg>
-            <st komContlex="ADVTAG">брӧд</st>
+            <st kpvContlex="ADVTAG">брӧд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1284,7 +1284,7 @@
       <lg>
          <l>брызь</l>
          <stg>
-            <st komContlex="ADVTAG">брызь</st>
+            <st kpvContlex="ADVTAG">брызь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1308,7 +1308,7 @@
       <lg>
          <l>бриньк</l>
          <stg>
-            <st komContlex="ADVTAG">бриньк</st>
+            <st kpvContlex="ADVTAG">бриньк</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1334,7 +1334,7 @@
       <lg>
          <l>бри да бра</l>
          <stg>
-            <st komContlex="ADVTAG">бри да бра</st>
+            <st kpvContlex="ADVTAG">бри да бра</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1358,7 +1358,7 @@
       <lg>
          <l>брон</l>
          <stg>
-            <st komContlex="ADVTAG">брон</st>
+            <st kpvContlex="ADVTAG">брон</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1381,7 +1381,7 @@
       <lg>
          <l>бугри</l>
          <stg>
-            <st komContlex="ADVTAG">бугри</st>
+            <st kpvContlex="ADVTAG">бугри</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1404,7 +1404,7 @@
       <lg>
          <l>бура</l>
          <stg>
-            <st komContlex="ADVTAG">бура</st>
+            <st kpvContlex="ADVTAG">бура</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1445,7 +1445,7 @@
       <lg>
          <l>буракӧ</l>
          <stg>
-            <st komContlex="ADVTAG">буракӧ</st>
+            <st kpvContlex="ADVTAG">буракӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1468,7 +1468,7 @@
       <lg>
          <l>буракодь</l>
          <stg>
-            <st komContlex="ADVTAG">буракодь</st>
+            <st kpvContlex="ADVTAG">буракодь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1490,7 +1490,7 @@
       <lg>
          <l>буретш</l>
          <stg>
-            <st komContlex="ADVTAG">буретш</st>
+            <st kpvContlex="ADVTAG">буретш</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1539,7 +1539,7 @@
       <lg>
          <l>буриндзика</l>
          <stg>
-            <st komContlex="ADVTAG">буриндзика</st>
+            <st kpvContlex="ADVTAG">буриндзика</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1564,7 +1564,7 @@
       <lg>
          <l>буриника</l>
          <stg>
-            <st komContlex="ADVTAG">буриника</st>
+            <st kpvContlex="ADVTAG">буриника</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1589,7 +1589,7 @@
       <lg>
          <l>бурпырысь</l>
          <stg>
-            <st komContlex="ADVTAG">бурпырысь</st>
+            <st kpvContlex="ADVTAG">бурпырысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1614,7 +1614,7 @@
       <lg>
          <l>бурс</l>
          <stg>
-            <st komContlex="ADVTAG">бурс</st>
+            <st kpvContlex="ADVTAG">бурс</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1638,7 +1638,7 @@
       <lg>
          <l>буз</l>
          <stg>
-            <st komContlex="ADVTAG">буз</st>
+            <st kpvContlex="ADVTAG">буз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1663,7 +1663,7 @@
       <lg>
          <l>час</l>
          <stg>
-            <st komContlex="ADVTAG">час</st>
+            <st kpvContlex="ADVTAG">час</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1696,7 +1696,7 @@
       <lg>
          <l>частӧ</l>
          <stg>
-            <st komContlex="ADVTAG">частӧ</st>
+            <st kpvContlex="ADVTAG">частӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1719,7 +1719,7 @@
       <lg>
          <l>чав</l>
          <stg>
-            <st komContlex="ADVTAG">чав</st>
+            <st kpvContlex="ADVTAG">чав</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1749,7 +1749,7 @@
       <lg>
          <l>чаж</l>
          <stg>
-            <st komContlex="ADVTAG">чаж</st>
+            <st kpvContlex="ADVTAG">чаж</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1771,7 +1771,7 @@
       <lg>
          <l>чӧла</l>
          <stg>
-            <st komContlex="ADVTAG">чӧла</st>
+            <st kpvContlex="ADVTAG">чӧла</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1794,7 +1794,7 @@
       <lg>
          <l>чӧвтігкості</l>
          <stg>
-            <st komContlex="ADVTAG">чӧвтігкості</st>
+            <st kpvContlex="ADVTAG">чӧвтігкості</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1816,7 +1816,7 @@
       <lg>
          <l>чиг</l>
          <stg>
-            <st komContlex="ADVTAG">чигй</st>
+            <st kpvContlex="ADVTAG">чигй</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1839,7 +1839,7 @@
       <lg>
          <l>чожа</l>
          <stg>
-            <st komContlex="ADVTAG">чожа</st>
+            <st kpvContlex="ADVTAG">чожа</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1863,7 +1863,7 @@
       <lg>
          <l>да</l>
          <stg>
-            <st komContlex="ADVTAG">да</st>
+            <st kpvContlex="ADVTAG">да</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1886,7 +1886,7 @@
       <lg>
          <l>дарӧм</l>
          <stg>
-            <st komContlex="ADVTAG">дарӧм</st>
+            <st kpvContlex="ADVTAG">дарӧм</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1930,7 +1930,7 @@
       <lg>
          <l>дас мында</l>
          <stg>
-            <st komContlex="ADVTAG">дас мында</st>
+            <st kpvContlex="ADVTAG">дас мында</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1952,7 +1952,7 @@
       <lg>
          <l>дас пӧв</l>
          <stg>
-            <st komContlex="ADVTAG">дас_пӧл</st>
+            <st kpvContlex="ADVTAG">дас_пӧл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -1974,7 +1974,7 @@
       <lg>
          <l>дӧбельки</l>
          <stg>
-            <st komContlex="ADVTAG">дӧбельки</st>
+            <st kpvContlex="ADVTAG">дӧбельки</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2000,7 +2000,7 @@
       <lg>
          <l>дӧсьмерти</l>
          <stg>
-            <st komContlex="ADVTAG">дӧсьмерти</st>
+            <st kpvContlex="ADVTAG">дӧсьмерти</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2026,7 +2026,7 @@
       <lg>
          <l>дӧвӧль</l>
          <stg>
-            <st komContlex="ADVTAG">дӧвӧль</st>
+            <st kpvContlex="ADVTAG">дӧвӧль</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2059,7 +2059,7 @@
       <lg>
          <l>дӧзмӧмпырысь</l>
          <stg>
-            <st komContlex="ADVTAG">дӧзмӧмпырысь</st>
+            <st kpvContlex="ADVTAG">дӧзмӧмпырысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2082,7 +2082,7 @@
       <lg>
          <l>дерт</l>
          <stg>
-            <st komContlex="ADVTAG">дерт</st>
+            <st kpvContlex="ADVTAG">дерт</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2107,7 +2107,7 @@
       <lg>
          <l>дыр</l>
          <stg>
-            <st komContlex="ADVTAG">дыр</st>
+            <st kpvContlex="ADVTAG">дыр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2129,7 +2129,7 @@
       <lg>
          <l>дивъя</l>
          <stg>
-            <st komContlex="ADVTAG">дивъя</st>
+            <st kpvContlex="ADVTAG">дивъя</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2163,7 +2163,7 @@
       <lg>
          <l>долыдпырысь</l>
          <stg>
-            <st komContlex="ADVTAG">долыдпырысь</st>
+            <st kpvContlex="ADVTAG">долыдпырысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2185,7 +2185,7 @@
       <lg>
          <l>дорала</l>
          <stg>
-            <st komContlex="ADVTAG">дорала</st>
+            <st kpvContlex="ADVTAG">дорала</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2207,7 +2207,7 @@
       <lg>
          <l>дорыньӧн</l>
          <stg>
-            <st komContlex="ADVTAG">дорыньӧн</st>
+            <st kpvContlex="ADVTAG">дорыньӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2254,7 +2254,7 @@
       <lg>
          <l>дорвыв</l>
          <stg>
-            <st komContlex="ADVTAG">дорвыл</st>
+            <st kpvContlex="ADVTAG">дорвыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2300,7 +2300,7 @@
       <lg>
          <l>доза</l>
          <stg>
-            <st komContlex="ADVTAG">доза</st>
+            <st kpvContlex="ADVTAG">доза</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2330,7 +2330,7 @@
       <lg>
          <l>друг</l>
          <stg>
-            <st komContlex="ADVTAG">друг</st>
+            <st kpvContlex="ADVTAG">друг</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2352,7 +2352,7 @@
       <lg>
          <l>другӧн</l>
          <stg>
-            <st komContlex="ADVTAG">другӧн</st>
+            <st kpvContlex="ADVTAG">другӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2375,12 +2375,12 @@
       <lg>
          <l>дугдывтӧг</l>
          <stg>
-            <st komContlex="ADVTAG">дугдывтӧг</st>
+            <st kpvContlex="ADVTAG">дугдывтӧг</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="DV-тӧг"/>
+         <drv kpvMorph="DV-тӧг"/>
          <mg>
             <m>
                <head/>
@@ -2395,7 +2395,7 @@
       <lg>
          <l>дув</l>
          <stg>
-            <st komContlex="ADVTAG">дув</st>
+            <st kpvContlex="ADVTAG">дув</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2428,7 +2428,7 @@
       <lg>
          <l>джӧм</l>
          <stg>
-            <st komContlex="ADVTAG">джӧм</st>
+            <st kpvContlex="ADVTAG">джӧм</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2450,7 +2450,7 @@
       <lg>
          <l>джынвыйӧ</l>
          <stg>
-            <st komContlex="ADVTAG">джынвыйӧ</st>
+            <st kpvContlex="ADVTAG">джынвыйӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2472,7 +2472,7 @@
       <lg>
          <l>дзар</l>
          <stg>
-            <st komContlex="ADVTAG">дзар</st>
+            <st kpvContlex="ADVTAG">дзар</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2499,7 +2499,7 @@
       <lg>
          <l>дзик пыр</l>
          <stg>
-            <st komContlex="ADVTAG">дзик пыр</st>
+            <st kpvContlex="ADVTAG">дзик пыр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2521,7 +2521,7 @@
       <lg>
          <l>дзирйыв</l>
          <stg>
-            <st komContlex="ADVTAG">дзирйыл</st>
+            <st kpvContlex="ADVTAG">дзирйыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2543,7 +2543,7 @@
       <lg>
          <l>дзольӧбӧн</l>
          <stg>
-            <st komContlex="ADVTAG">дзольӧбӧн</st>
+            <st kpvContlex="ADVTAG">дзольӧбӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2566,7 +2566,7 @@
       <lg>
          <l>дзоньнас</l>
          <stg>
-            <st komContlex="ADVTAG">дзоньнас</st>
+            <st kpvContlex="ADVTAG">дзоньнас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2594,7 +2594,7 @@
       <lg>
          <l>дзурс</l>
          <stg>
-            <st komContlex="ADVTAG">дзурс</st>
+            <st kpvContlex="ADVTAG">дзурс</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2619,7 +2619,7 @@
       <lg>
          <l>дзув</l>
          <stg>
-            <st komContlex="ADVTAG">дзув</st>
+            <st kpvContlex="ADVTAG">дзув</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2641,7 +2641,7 @@
       <lg>
          <l>дзув</l>
          <stg>
-            <st komContlex="ADVTAG">дзув</st>
+            <st kpvContlex="ADVTAG">дзув</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2668,7 +2668,7 @@
       <lg>
          <l>эсся</l>
          <stg>
-            <st komContlex="ADVTAG">эсся</st>
+            <st kpvContlex="ADVTAG">эсся</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2692,7 +2692,7 @@
       <lg>
          <l>этшаысь</l>
          <stg>
-            <st komContlex="ADVTAG">этшаысь</st>
+            <st kpvContlex="ADVTAG">этшаысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2714,7 +2714,7 @@
       <lg>
          <l>этшаника</l>
          <stg>
-            <st komContlex="ADVTAG">этшаника</st>
+            <st kpvContlex="ADVTAG">этшаника</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2736,7 +2736,7 @@
       <lg>
          <l>этша вылӧ</l>
          <stg>
-            <st komContlex="ADVTAG">этша вылӧ</st>
+            <st kpvContlex="ADVTAG">этша вылӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2759,7 +2759,7 @@
       <lg>
          <l>ӧдйӧ</l>
          <stg>
-            <st komContlex="ADVTAG">ӧдйӧ</st>
+            <st kpvContlex="ADVTAG">ӧдйӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2781,7 +2781,7 @@
       <lg>
          <l>ӧдва</l>
          <stg>
-            <st komContlex="ADVTAG">ӧдва</st>
+            <st kpvContlex="ADVTAG">ӧдва</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2804,7 +2804,7 @@
       <lg>
          <l>ӧдвакӧ</l>
          <stg>
-            <st komContlex="ADVTAG">ӧдвакӧ</st>
+            <st kpvContlex="ADVTAG">ӧдвакӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2828,7 +2828,7 @@
       <lg>
          <l>ӧнӧдз</l>
          <stg>
-            <st komContlex="ADVTAG">ӧнӧдз</st>
+            <st kpvContlex="ADVTAG">ӧнӧдз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2850,7 +2850,7 @@
       <lg>
          <l>ӧні</l>
          <stg>
-            <st komContlex="ADVTAG">ӧні</st>
+            <st kpvContlex="ADVTAG">ӧні</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2872,7 +2872,7 @@
       <lg>
          <l>ӧтчыд</l>
          <stg>
-            <st komContlex="ADVTAG">ӧтчыд</st>
+            <st kpvContlex="ADVTAG">ӧтчыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2895,7 +2895,7 @@
       <lg>
          <l>ӧтчыдысь</l>
          <stg>
-            <st komContlex="ADVTAG">ӧтчыдысь</st>
+            <st kpvContlex="ADVTAG">ӧтчыдысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2918,7 +2918,7 @@
       <lg>
          <l>ӧткӧн</l>
          <stg>
-            <st komContlex="ADVTAG">ӧткӧн</st>
+            <st kpvContlex="ADVTAG">ӧткӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2940,7 +2940,7 @@
       <lg>
          <l>ӧткымынлаын</l>
          <stg>
-            <st komContlex="ADV-SPAT">ӧткымынла</st>
+            <st kpvContlex="ADV-SPAT">ӧткымынла</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -2963,7 +2963,7 @@
       <lg>
          <l>ӧтлаын</l>
          <stg>
-            <st komContlex="ADVTAG">ӧтлаын</st>
+            <st kpvContlex="ADVTAG">ӧтлаын</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3003,7 +3003,7 @@
       <lg>
          <l>ӧтмоза</l>
          <stg>
-            <st komContlex="ADVTAG">ӧтмоза</st>
+            <st kpvContlex="ADVTAG">ӧтмоза</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3026,7 +3026,7 @@
       <lg>
          <l>ӧтпыр</l>
          <stg>
-            <st komContlex="ADVTAG">ӧтпыр</st>
+            <st kpvContlex="ADVTAG">ӧтпыр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3059,12 +3059,12 @@
       <lg>
          <l>ӧтпырйӧ</l>
          <stg>
-            <st komContlex="ADVTAG">ӧтпырйӧ</st>
+            <st kpvContlex="ADVTAG">ӧтпырйӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧ"/>
+         <drv kpvMorph="CX-ӧ"/>
          <mg>
             <m>
                <head/>
@@ -3084,7 +3084,7 @@
       <lg>
          <l>ӧтпырйӧмоз</l>
          <stg>
-            <st komContlex="ADVTAG">ӧтпырйӧмоз</st>
+            <st kpvContlex="ADVTAG">ӧтпырйӧмоз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3106,7 +3106,7 @@
       <lg>
          <l>ӧтпыр друг</l>
          <stg>
-            <st komContlex="ADVTAG">ӧтпыр друг</st>
+            <st kpvContlex="ADVTAG">ӧтпыр друг</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3129,12 +3129,12 @@
       <lg>
          <l>ӧтсӧгласӧн</l>
          <stg>
-            <st komContlex="ADVTAG">ӧтсӧгласӧн</st>
+            <st kpvContlex="ADVTAG">ӧтсӧгласӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧн"/>
+         <drv kpvMorph="CX-ӧн"/>
          <mg>
             <m>
                <head/>
@@ -3149,7 +3149,7 @@
       <lg>
          <l>ӧттшӧтш</l>
          <stg>
-            <st komContlex="ADVTAG">ӧттшӧтш</st>
+            <st kpvContlex="ADVTAG">ӧттшӧтш</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3172,7 +3172,7 @@
       <lg>
          <l>ӧтув</l>
          <stg>
-            <st komContlex="ADVTAG">ӧтул</st>
+            <st kpvContlex="ADVTAG">ӧтул</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3200,7 +3200,7 @@
       <lg>
          <l>ӧтвылысь</l>
          <stg>
-            <st komContlex="ADVTAG">ӧтвылысь</st>
+            <st kpvContlex="ADVTAG">ӧтвылысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3228,7 +3228,7 @@
       <lg>
          <l>ӧтвыв</l>
          <stg>
-            <st komContlex="ADVTAG">ӧтвыв</st>
+            <st kpvContlex="ADVTAG">ӧтвыв</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3250,7 +3250,7 @@
       <lg>
          <l>ен милӧстьӧн</l>
          <stg>
-            <st komContlex="ADVTAG">ен милӧстьӧн</st>
+            <st kpvContlex="ADVTAG">ен милӧстьӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3272,7 +3272,7 @@
       <lg>
          <l>ещӧ</l>
          <stg>
-            <st komContlex="ADVTAG">ещӧ</st>
+            <st kpvContlex="ADVTAG">ещӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3297,7 +3297,7 @@
       <lg>
          <l>гатш</l>
          <stg>
-            <st komContlex="ADVTAG">гатш</st>
+            <st kpvContlex="ADVTAG">гатш</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3322,7 +3322,7 @@
       <lg>
          <l>гажаа</l>
          <stg>
-            <st komContlex="ADVTAG">гажаа</st>
+            <st kpvContlex="ADVTAG">гажаа</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3344,7 +3344,7 @@
       <lg>
          <l>гӧгӧр</l>
          <stg>
-            <st komContlex="ADVTAG">гӧгӧр</st>
+            <st kpvContlex="ADVTAG">гӧгӧр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3368,7 +3368,7 @@
       <lg>
          <l>гӧгӧрбок</l>
          <stg>
-            <st komContlex="ADVTAG">гӧгӧрбок</st>
+            <st kpvContlex="ADVTAG">гӧгӧрбок</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3390,7 +3390,7 @@
       <lg>
          <l>гӧгӧрпӧв</l>
          <stg>
-            <st komContlex="ADVTAG">гӧгӧрпӧл</st>
+            <st kpvContlex="ADVTAG">гӧгӧрпӧл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3412,12 +3412,12 @@
       <lg>
          <l>гӧлӧс быртӧдзыд</l>
          <stg>
-            <st komContlex="ADVTAG">гӧлӧс быртӧдзыд</st>
+            <st kpvContlex="ADVTAG">гӧлӧс быртӧдзыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="DV-тӧдз"/>
+         <drv kpvMorph="DV-тӧдз"/>
          <mg>
             <m>
                <head/>
@@ -3432,7 +3432,7 @@
       <lg>
          <l>гӧлиндзи</l>
          <stg>
-            <st komContlex="ADVTAG">гӧлиндзи</st>
+            <st kpvContlex="ADVTAG">гӧлиндзи</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3454,7 +3454,7 @@
       <lg>
          <l>гӧнеч</l>
          <stg>
-            <st komContlex="ADVTAG">гӧнеч</st>
+            <st kpvContlex="ADVTAG">гӧнеч</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3477,7 +3477,7 @@
       <lg>
          <l>гӧн ньылыд</l>
          <stg>
-            <st komContlex="ADVTAG">гӧн ньылыд</st>
+            <st kpvContlex="ADVTAG">гӧн ньылыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3500,7 +3500,7 @@
       <lg>
          <l>гӧн паныд</l>
          <stg>
-            <st komContlex="ADVTAG">гӧн паныд</st>
+            <st kpvContlex="ADVTAG">гӧн паныд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3522,7 +3522,7 @@
       <lg>
          <l>гежӧда</l>
          <stg>
-            <st komContlex="ADVTAG">гежӧда</st>
+            <st kpvContlex="ADVTAG">гежӧда</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3545,7 +3545,7 @@
       <lg>
          <l>гымкылӧ</l>
          <stg>
-            <st komContlex="ADVTAG">гымкылӧ</st>
+            <st kpvContlex="ADVTAG">гымкылӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3568,7 +3568,7 @@
       <lg>
          <l>гонь</l>
          <stg>
-            <st komContlex="ADVTAG">гонь</st>
+            <st kpvContlex="ADVTAG">гонь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3590,12 +3590,12 @@
       <lg>
          <l>гораа</l>
          <stg>
-            <st komContlex="ADVTAG">гораа</st>
+            <st kpvContlex="ADVTAG">гораа</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="DA-а"/>
+         <drv kpvMorph="DA-а"/>
          <mg>
             <m>
                <head/>
@@ -3615,12 +3615,12 @@
       <lg>
          <l>горӧн</l>
          <stg>
-            <st komContlex="ADVTAG">горӧн</st>
+            <st kpvContlex="ADVTAG">горӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧн"/>
+         <drv kpvMorph="CX-ӧн"/>
          <mg>
             <m>
                <head/>
@@ -3635,7 +3635,7 @@
       <lg>
          <l>гожӧмбыд</l>
          <stg>
-            <st komContlex="ADVTAG">гожӧмбыд</st>
+            <st kpvContlex="ADVTAG">гожӧмбыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3657,12 +3657,12 @@
       <lg>
          <l>гожӧмнас</l>
          <stg>
-            <st komContlex="ADVTAG">гожӧмнас</st>
+            <st kpvContlex="ADVTAG">гожӧмнас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-нас"/>
+         <drv kpvMorph="CX-нас"/>
          <mg>
             <m>
                <head/>
@@ -3677,7 +3677,7 @@
       <lg>
          <l>гурйыв восьса</l>
          <stg>
-            <st komContlex="ADVTAG">гурйыв восьса</st>
+            <st kpvContlex="ADVTAG">гурйыв восьса</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3699,7 +3699,7 @@
       <lg>
          <l>гусьӧн</l>
          <stg>
-            <st komContlex="ADVTAG">гусьӧн</st>
+            <st kpvContlex="ADVTAG">гусьӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3721,7 +3721,7 @@
       <lg>
          <l>гусьӧник</l>
          <stg>
-            <st komContlex="ADVTAG">гусьӧник</st>
+            <st kpvContlex="ADVTAG">гусьӧник</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3754,7 +3754,7 @@
       <lg>
          <l>гусьӧник</l>
          <stg>
-            <st komContlex="ADVTAG">гусьӧник</st>
+            <st kpvContlex="ADVTAG">гусьӧник</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3776,7 +3776,7 @@
       <lg>
          <l>ылӧдз</l>
          <stg>
-            <st komContlex="ADVTAG">ылӧдз</st>
+            <st kpvContlex="ADVTAG">ылӧдз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3800,7 +3800,7 @@
       <lg>
          <l>ылӧс</l>
          <stg>
-            <st komContlex="ADVTAG">ылӧс</st>
+            <st kpvContlex="ADVTAG">ылӧс</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3824,7 +3824,7 @@
       <lg>
          <l>ылӧсас</l>
          <stg>
-            <st komContlex="ADVTAG">ылӧсас</st>
+            <st kpvContlex="ADVTAG">ылӧсас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3848,7 +3848,7 @@
       <lg>
          <l>ичӧт дырйи</l>
          <stg>
-            <st komContlex="ADVTAG">ичӧт дырйи</st>
+            <st kpvContlex="ADVTAG">ичӧт дырйи</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3871,7 +3871,7 @@
       <lg>
          <l>йӧйла</l>
          <stg>
-            <st komContlex="ADVTAG">йӧйла</st>
+            <st kpvContlex="ADVTAG">йӧйла</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3893,12 +3893,12 @@
       <lg>
          <l>йӧзаддза</l>
          <stg>
-            <st komContlex="ADVTAG">йӧзаддза</st>
+            <st kpvContlex="ADVTAG">йӧзаддза</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-аддза"/>
+         <drv kpvMorph="CX-аддза"/>
          <mg>
             <m>
                <head/>
@@ -3913,7 +3913,7 @@
       <lg>
          <l>йигӧр</l>
          <stg>
-            <st komContlex="ADVTAG">йигӧр</st>
+            <st kpvContlex="ADVTAG">йигӧр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3936,7 +3936,7 @@
       <lg>
          <l>кадысь водз</l>
          <stg>
-            <st komContlex="ADVTAG">кадысь водз</st>
+            <st kpvContlex="ADVTAG">кадысь водз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3958,7 +3958,7 @@
       <lg>
          <l>калтурно</l>
          <stg>
-            <st komContlex="ADVTAG">калтурно</st>
+            <st kpvContlex="ADVTAG">калтурно</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -3982,7 +3982,7 @@
       <lg>
          <l>канебӧн</l>
          <stg>
-            <st komContlex="ADVTAG">канебӧн</st>
+            <st kpvContlex="ADVTAG">канебӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4006,7 +4006,7 @@
       <lg>
          <l>капитальнӧя</l>
          <stg>
-            <st komContlex="ADVTAG">капитальнӧя</st>
+            <st kpvContlex="ADVTAG">капитальнӧя</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4029,7 +4029,7 @@
       <lg>
          <l>катчӧс</l>
          <stg>
-            <st komContlex="ADVTAG">катчӧс</st>
+            <st kpvContlex="ADVTAG">катчӧс</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4051,7 +4051,7 @@
       <lg>
          <l>кӧмтӧм</l>
          <stg>
-            <st komContlex="ADVTAG">кӧмтӧм</st>
+            <st kpvContlex="ADVTAG">кӧмтӧм</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4075,7 +4075,7 @@
       <lg>
          <l>кӧн</l>
          <stg>
-            <st komContlex="ADVTAG">кӧн</st>
+            <st kpvContlex="ADVTAG">кӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4097,7 +4097,7 @@
       <lg>
          <l>кӧнджык</l>
          <stg>
-            <st komContlex="ADVTAG">кӧнджык</st>
+            <st kpvContlex="ADVTAG">кӧнджык</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4119,7 +4119,7 @@
       <lg>
          <l>кӧнсюрӧ</l>
          <stg>
-            <st komContlex="ADVTAG">кӧнсюрӧ</st>
+            <st kpvContlex="ADVTAG">кӧнсюрӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4141,7 +4141,7 @@
       <lg>
          <l>кыдзкӧ</l>
          <stg>
-            <st komContlex="ADVTAG">кыдзкӧ</st>
+            <st kpvContlex="ADVTAG">кыдзкӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4163,7 +4163,7 @@
       <lg>
          <l>кыкӧн</l>
          <stg>
-            <st komContlex="ADVTAG">кыкӧн</st>
+            <st kpvContlex="ADVTAG">кыкӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4186,7 +4186,7 @@
       <lg>
          <l>кыкысь</l>
          <stg>
-            <st komContlex="ADVTAG">кыкысь</st>
+            <st kpvContlex="ADVTAG">кыкысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4209,7 +4209,7 @@
       <lg>
          <l>кык пӧв</l>
          <stg>
-            <st komContlex="ADVTAG">кык_пӧл</st>
+            <st kpvContlex="ADVTAG">кык_пӧл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4233,7 +4233,7 @@
       <lg>
          <l>кымын</l>
          <stg>
-            <st komContlex="ADVTAG">кымын</st>
+            <st kpvContlex="ADVTAG">кымын</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4273,7 +4273,7 @@
       <lg>
          <l>кымыньӧн</l>
          <stg>
-            <st komContlex="ADVTAG">кымыньӧн</st>
+            <st kpvContlex="ADVTAG">кымыньӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4299,7 +4299,7 @@
       <lg>
          <l>кысянь</l>
          <stg>
-            <st komContlex="ADVTAG">кысянь</st>
+            <st kpvContlex="ADVTAG">кысянь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4321,7 +4321,7 @@
       <lg>
          <l>кысь</l>
          <stg>
-            <st komContlex="ADVTAG">кысь</st>
+            <st kpvContlex="ADVTAG">кысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4346,7 +4346,7 @@
       <lg>
          <l>кывкӧрталигӧн</l>
          <stg>
-            <st komContlex="ADVTAG">кывкӧрталигӧн</st>
+            <st kpvContlex="ADVTAG">кывкӧрталигӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4368,7 +4368,7 @@
       <lg>
          <l>кызвыйӧ</l>
          <stg>
-            <st komContlex="ADVTAG">кызвыйӧ</st>
+            <st kpvContlex="ADVTAG">кызвыйӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4394,7 +4394,7 @@
       <lg>
          <l>кийывсӧн</l>
          <stg>
-            <st komContlex="ADVTAG">кийывсӧн</st>
+            <st kpvContlex="ADVTAG">кийывсӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4416,7 +4416,7 @@
       <lg>
          <l>кийывсӧн</l>
          <stg>
-            <st komContlex="ADVTAG">кийывсӧн</st>
+            <st kpvContlex="ADVTAG">кийывсӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4440,7 +4440,7 @@
       <lg>
          <l>кикимльӧс</l>
          <stg>
-            <st komContlex="ADVTAG">кикимльӧс</st>
+            <st kpvContlex="ADVTAG">кикимльӧс</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4462,7 +4462,7 @@
       <lg>
          <l>кикурӧда</l>
          <stg>
-            <st komContlex="ADVTAG">кикурӧда</st>
+            <st kpvContlex="ADVTAG">кикурӧда</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4485,7 +4485,7 @@
       <lg>
          <l>кималасӧн</l>
          <stg>
-            <st komContlex="ADVTAG">кималасӧн</st>
+            <st kpvContlex="ADVTAG">кималасӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4508,7 +4508,7 @@
       <lg>
          <l>кимльӧскивыв</l>
          <stg>
-            <st komContlex="ADVTAG">кимльӧскивыл</st>
+            <st kpvContlex="ADVTAG">кимльӧскивыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4530,7 +4530,7 @@
       <lg>
          <l>кивыв</l>
          <stg>
-            <st komContlex="ADVTAG">кивыл</st>
+            <st kpvContlex="ADVTAG">кивыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4556,7 +4556,7 @@
       <lg>
          <l>ки маласӧн</l>
          <stg>
-            <st komContlex="ADVTAG">ки маласӧн</st>
+            <st kpvContlex="ADVTAG">ки маласӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4579,7 +4579,7 @@
       <lg>
          <l>кодакості</l>
          <stg>
-            <st komContlex="ADVTAG">кодакості</st>
+            <st kpvContlex="ADVTAG">кодакості</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4603,7 +4603,7 @@
       <lg>
          <l>кодарлань</l>
          <stg>
-            <st komContlex="ADVTAG">кодарлань</st>
+            <st kpvContlex="ADVTAG">кодарлань</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4626,7 +4626,7 @@
       <lg>
          <l>коймӧдысь</l>
          <stg>
-            <st komContlex="ADVTAG">коймӧдысь</st>
+            <st kpvContlex="ADVTAG">коймӧдысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4648,7 +4648,7 @@
       <lg>
          <l>кокйыв</l>
          <stg>
-            <st komContlex="ADVTAG">кокйыл</st>
+            <st kpvContlex="ADVTAG">кокйыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4670,7 +4670,7 @@
       <lg>
          <l>кокньыда</l>
          <stg>
-            <st komContlex="ADVTAG">кокньыда</st>
+            <st kpvContlex="ADVTAG">кокньыда</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4694,7 +4694,7 @@
       <lg>
          <l>кок маласӧн</l>
          <stg>
-            <st komContlex="ADVTAG">кок маласӧн</st>
+            <st kpvContlex="ADVTAG">кок маласӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4716,7 +4716,7 @@
       <lg>
          <l>колян воӧ</l>
          <stg>
-            <st komContlex="ADVTAG">колян воӧ</st>
+            <st kpvContlex="ADVTAG">колян воӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4738,7 +4738,7 @@
       <lg>
          <l>колӧкӧ</l>
          <stg>
-            <st komContlex="ADVTAG">колӧкӧ</st>
+            <st kpvContlex="ADVTAG">колӧкӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4761,7 +4761,7 @@
       <lg>
          <l>колӧкӧ</l>
          <stg>
-            <st komContlex="ADVTAG">колӧкӧ</st>
+            <st kpvContlex="ADVTAG">колӧкӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4787,7 +4787,7 @@
       <lg>
          <l>коркӧ</l>
          <stg>
-            <st komContlex="ADVTAG">коркӧ</st>
+            <st kpvContlex="ADVTAG">коркӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4809,7 +4809,7 @@
       <lg>
          <l>корсюрӧ</l>
          <stg>
-            <st komContlex="ADVTAG">корсюрӧ</st>
+            <st kpvContlex="ADVTAG">корсюрӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4835,7 +4835,7 @@
       <lg>
          <l>котӧрӧн</l>
          <stg>
-            <st komContlex="ADVTAG">котӧрӧн</st>
+            <st kpvContlex="ADVTAG">котӧрӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4857,7 +4857,7 @@
       <lg>
          <l>кулан выйын</l>
          <stg>
-            <st komContlex="ADVTAG">кулан выйын</st>
+            <st kpvContlex="ADVTAG">кулан выйын</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4879,7 +4879,7 @@
       <lg>
          <l>куш</l>
          <stg>
-            <st komContlex="ADVTAG">куш</st>
+            <st kpvContlex="ADVTAG">куш</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4903,7 +4903,7 @@
       <lg>
          <l>кутшӧмкӧ</l>
          <stg>
-            <st komContlex="ADVTAG">кутшӧмкӧ</st>
+            <st kpvContlex="ADVTAG">кутшӧмкӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4925,7 +4925,7 @@
       <lg>
          <l>кузяла ног</l>
          <stg>
-            <st komContlex="ADVTAG">кузяла ног</st>
+            <st kpvContlex="ADVTAG">кузяла ног</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4947,7 +4947,7 @@
       <lg>
          <l>ладӧн</l>
          <stg>
-            <st komContlex="ADVTAG">ладӧн</st>
+            <st kpvContlex="ADVTAG">ладӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4972,7 +4972,7 @@
       <lg>
          <l>ладтӧг</l>
          <stg>
-            <st komContlex="ADVTAG">ладтӧг</st>
+            <st kpvContlex="ADVTAG">ладтӧг</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -4994,12 +4994,12 @@
       <lg>
          <l>лад вылӧ</l>
          <stg>
-            <st komContlex="ADVTAG">лад вылӧ</st>
+            <st kpvContlex="ADVTAG">лад вылӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧ"/>
+         <drv kpvMorph="CX-ӧ"/>
          <mg>
             <m>
                <head>
@@ -5024,7 +5024,7 @@
       <lg>
          <l>лайкыда</l>
          <stg>
-            <st komContlex="ADVTAG">лайкыда</st>
+            <st kpvContlex="ADVTAG">лайкыда</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5046,7 +5046,7 @@
       <lg>
          <l>лайкйӧн</l>
          <stg>
-            <st komContlex="ADVTAG">лайкйӧн</st>
+            <st kpvContlex="ADVTAG">лайкйӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5068,7 +5068,7 @@
       <lg>
          <l>ланьтӧмӧн</l>
          <stg>
-            <st komContlex="ADVTAG">ланьтӧмӧн</st>
+            <st kpvContlex="ADVTAG">ланьтӧмӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5090,7 +5090,7 @@
       <lg>
          <l>лажмыда</l>
          <stg>
-            <st komContlex="ADVTAG">лажмыда</st>
+            <st kpvContlex="ADVTAG">лажмыда</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5112,7 +5112,7 @@
       <lg>
          <l>лӧгпырысь</l>
          <stg>
-            <st komContlex="ADVTAG">лӧгпырысь</st>
+            <st kpvContlex="ADVTAG">лӧгпырысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5134,7 +5134,7 @@
       <lg>
          <l>лӧня</l>
          <stg>
-            <st komContlex="ADVTAG">лӧня</st>
+            <st kpvContlex="ADVTAG">лӧня</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5156,7 +5156,7 @@
       <lg>
          <l>лӧсьыда</l>
          <stg>
-            <st komContlex="ADVTAG">лӧсьыда</st>
+            <st kpvContlex="ADVTAG">лӧсьыда</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5179,7 +5179,7 @@
       <lg>
          <l>лӧсьыдтӧма</l>
          <stg>
-            <st komContlex="ADVTAG">лӧсьыдтӧма</st>
+            <st kpvContlex="ADVTAG">лӧсьыдтӧма</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5201,7 +5201,7 @@
       <lg>
          <l>лымйӧсь</l>
          <stg>
-            <st komContlex="ADVTAG">лымйӧсь</st>
+            <st kpvContlex="ADVTAG">лымйӧсь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5224,7 +5224,7 @@
       <lg>
          <l>лызгым</l>
          <stg>
-            <st komContlex="ADVTAG">лызгым</st>
+            <st kpvContlex="ADVTAG">лызгым</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5246,7 +5246,7 @@
       <lg>
          <l>лёка</l>
          <stg>
-            <st komContlex="ADVTAG">лёка</st>
+            <st kpvContlex="ADVTAG">лёка</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5270,7 +5270,7 @@
       <lg>
          <l>лёкаддза</l>
          <stg>
-            <st komContlex="ADVTAG">лёкаддза</st>
+            <st kpvContlex="ADVTAG">лёкаддза</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5294,7 +5294,7 @@
       <lg>
          <l>лёкысь</l>
          <stg>
-            <st komContlex="ADVTAG">лёкысь</st>
+            <st kpvContlex="ADVTAG">лёкысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5316,7 +5316,7 @@
       <lg>
          <l>лёлльӧн</l>
          <stg>
-            <st komContlex="ADVTAG">лёлльӧн</st>
+            <st kpvContlex="ADVTAG">лёлльӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5338,7 +5338,7 @@
       <lg>
          <l>лёт</l>
          <stg>
-            <st komContlex="ADVTAG">лёт</st>
+            <st kpvContlex="ADVTAG">лёт</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5360,7 +5360,7 @@
       <lg>
          <l>ловйӧн</l>
          <stg>
-            <st komContlex="ADVTAG">ловйӧн</st>
+            <st kpvContlex="ADVTAG">ловйӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5383,7 +5383,7 @@
       <lg>
          <l>люб</l>
          <stg>
-            <st komContlex="ADVTAG">люб</st>
+            <st kpvContlex="ADVTAG">люб</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5405,7 +5405,7 @@
       <lg>
          <l>любӧ</l>
          <stg>
-            <st komContlex="ADVTAG">любӧ</st>
+            <st kpvContlex="ADVTAG">любӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5427,7 +5427,7 @@
       <lg>
          <l>любӧпырысь</l>
          <stg>
-            <st komContlex="ADVTAG">любӧпырысь</st>
+            <st kpvContlex="ADVTAG">любӧпырысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5450,7 +5450,7 @@
       <lg>
          <l>лючки</l>
          <stg>
-            <st komContlex="ADVTAG">лючки</st>
+            <st kpvContlex="ADVTAG">лючки</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5475,7 +5475,7 @@
       <lg>
          <l>лучӧ</l>
          <stg>
-            <st komContlex="ADVTAG">лучӧ</st>
+            <st kpvContlex="ADVTAG">лучӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5497,7 +5497,7 @@
       <lg>
          <l>лукава</l>
          <stg>
-            <st komContlex="ADVTAG">лукава</st>
+            <st kpvContlex="ADVTAG">лукава</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5519,7 +5519,7 @@
       <lg>
          <l>луна</l>
          <stg>
-            <st komContlex="ADVTAG">луна</st>
+            <st kpvContlex="ADVTAG">луна</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5541,7 +5541,7 @@
       <lg>
          <l>лунысйӧн</l>
          <stg>
-            <st komContlex="ADVTAG">лунысйӧн</st>
+            <st kpvContlex="ADVTAG">лунысйӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5563,7 +5563,7 @@
       <lg>
          <l>лункосмӧс</l>
          <stg>
-            <st komContlex="ADVTAG">лункосмӧс</st>
+            <st kpvContlex="ADVTAG">лункосмӧс</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5585,7 +5585,7 @@
       <lg>
          <l>лункосмӧсӧн</l>
          <stg>
-            <st komContlex="ADVTAG">лункосмӧсӧн</st>
+            <st kpvContlex="ADVTAG">лункосмӧсӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5607,7 +5607,7 @@
       <lg>
          <l>лункосмысь</l>
          <stg>
-            <st komContlex="ADVTAG">лункосмысь</st>
+            <st kpvContlex="ADVTAG">лункосмысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5629,7 +5629,7 @@
       <lg>
          <l>луннас</l>
          <stg>
-            <st komContlex="ADVTAG">луннас</st>
+            <st kpvContlex="ADVTAG">луннас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5651,7 +5651,7 @@
       <lg>
          <l>лунтыр</l>
          <stg>
-            <st komContlex="ADVTAG">лунтыр</st>
+            <st kpvContlex="ADVTAG">лунтыр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5674,7 +5674,7 @@
       <lg>
          <l>лунъяснас</l>
          <stg>
-            <st komContlex="ADVTAG">лунъяснас</st>
+            <st kpvContlex="ADVTAG">лунъяснас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5696,12 +5696,12 @@
       <lg>
          <l>лун шӧр лунӧ</l>
          <stg>
-            <st komContlex="ADVTAG">лун шӧр лунӧ</st>
+            <st kpvContlex="ADVTAG">лун шӧр лунӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧ"/>
+         <drv kpvMorph="CX-ӧ"/>
          <mg>
             <m>
                <head/>
@@ -5719,7 +5719,7 @@
       <lg>
          <l>маетнӧ</l>
          <stg>
-            <st komContlex="ADVTAG">маетнӧ</st>
+            <st kpvContlex="ADVTAG">маетнӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5741,7 +5741,7 @@
       <lg>
          <l>манливӧ</l>
          <stg>
-            <st komContlex="ADVTAG">манливӧ</st>
+            <st kpvContlex="ADVTAG">манливӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5763,7 +5763,7 @@
       <lg>
          <l>матӧ</l>
          <stg>
-            <st komContlex="ADVTAG">матӧ</st>
+            <st kpvContlex="ADVTAG">матӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5787,7 +5787,7 @@
       <lg>
          <l>маті</l>
          <stg>
-            <st komContlex="ADVTAG">маті</st>
+            <st kpvContlex="ADVTAG">маті</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5809,12 +5809,12 @@
       <lg>
          <l>матіникӧ</l>
          <stg>
-            <st komContlex="ADVTAG">матіникӧ</st>
+            <st kpvContlex="ADVTAG">матіникӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧ"/>
+         <drv kpvMorph="CX-ӧ"/>
          <mg>
             <m>
                <head/>
@@ -5832,12 +5832,12 @@
       <lg>
          <l>мӧдарӧ</l>
          <stg>
-            <st komContlex="ADVTAG">мӧдарӧ</st>
+            <st kpvContlex="ADVTAG">мӧдарӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧ"/>
+         <drv kpvMorph="CX-ӧ"/>
          <mg>
             <m>
                <head/>
@@ -5855,7 +5855,7 @@
       <lg>
          <l>мӧдысь</l>
          <stg>
-            <st komContlex="ADVTAG">мӧдысь</st>
+            <st kpvContlex="ADVTAG">мӧдысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5878,7 +5878,7 @@
       <lg>
          <l>мӧдйӧз</l>
          <stg>
-            <st komContlex="ADVTAG">мӧдйӧз</st>
+            <st kpvContlex="ADVTAG">мӧдйӧз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5901,7 +5901,7 @@
       <lg>
          <l>мӧдлаын</l>
          <stg>
-            <st komContlex="ADV-SPAT">мӧдла</st>
+            <st kpvContlex="ADV-SPAT">мӧдла</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5923,7 +5923,7 @@
       <lg>
          <l>мӧд луннас</l>
          <stg>
-            <st komContlex="ADVTAG">мӧд луннас</st>
+            <st kpvContlex="ADVTAG">мӧд луннас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5945,7 +5945,7 @@
       <lg>
          <l>мӧд ног</l>
          <stg>
-            <st komContlex="ADVTAG">мӧд ног</st>
+            <st kpvContlex="ADVTAG">мӧд ног</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5967,7 +5967,7 @@
       <lg>
          <l>мӧд пӧв</l>
          <stg>
-            <st komContlex="ADVTAG">мӧд пӧв</st>
+            <st kpvContlex="ADVTAG">мӧд пӧв</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -5992,7 +5992,7 @@
       <lg>
          <l>мед</l>
          <stg>
-            <st komContlex="ADVTAG">мед</st>
+            <st kpvContlex="ADVTAG">мед</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6015,7 +6015,7 @@
       <lg>
          <l>медбӧрын</l>
          <stg>
-            <st komContlex="ADVTAG">медбӧрын</st>
+            <st kpvContlex="ADVTAG">медбӧрын</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6037,7 +6037,7 @@
       <lg>
          <l>медбӧрти</l>
          <stg>
-            <st komContlex="ADVTAG">медбӧрти</st>
+            <st kpvContlex="ADVTAG">медбӧрти</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6060,7 +6060,7 @@
       <lg>
          <l>медбӧръяысь</l>
          <stg>
-            <st komContlex="ADVTAG">медбӧръяысь</st>
+            <st kpvContlex="ADVTAG">медбӧръяысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6082,7 +6082,7 @@
       <lg>
          <l>медэтшасӧ</l>
          <stg>
-            <st komContlex="ADVTAG">медэтшасӧ</st>
+            <st kpvContlex="ADVTAG">медэтшасӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6104,7 +6104,7 @@
       <lg>
          <l>медся</l>
          <stg>
-            <st komContlex="ADVTAG">медся</st>
+            <st kpvContlex="ADVTAG">медся</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6134,7 +6134,7 @@
       <lg>
          <l>медсясӧ</l>
          <stg>
-            <st komContlex="ADVTAG">медсясӧ</st>
+            <st kpvContlex="ADVTAG">медсясӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6156,7 +6156,7 @@
       <lg>
          <l>медуна</l>
          <stg>
-            <st komContlex="ADVTAG">медуна</st>
+            <st kpvContlex="ADVTAG">медуна</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6178,7 +6178,7 @@
       <lg>
          <l>медводдзаысь</l>
          <stg>
-            <st komContlex="ADVTAG">медводдзаысь</st>
+            <st kpvContlex="ADVTAG">медводдзаысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6200,7 +6200,7 @@
       <lg>
          <l>медвойдӧр</l>
          <stg>
-            <st komContlex="ADV-SUPERL">медвойдӧр</st>
+            <st kpvContlex="ADV-SUPERL">медвойдӧр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6222,7 +6222,7 @@
       <lg>
          <l>медъёнасӧ</l>
          <stg>
-            <st komContlex="ADVTAG">медъёнасӧ</st>
+            <st kpvContlex="ADVTAG">медъёнасӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6244,12 +6244,12 @@
       <lg>
          <l>мера тӧдтӧг</l>
          <stg>
-            <st komContlex="ADVTAG">мера тӧдтӧг</st>
+            <st kpvContlex="ADVTAG">мера тӧдтӧг</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="DV-тӧг"/>
+         <drv kpvMorph="DV-тӧг"/>
          <mg>
             <m>
                <head/>
@@ -6264,12 +6264,12 @@
       <lg>
          <l>мыйӧн</l>
          <stg>
-            <st komContlex="ADVTAG">мыйӧн</st>
+            <st kpvContlex="ADVTAG">мыйӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧн"/>
+         <drv kpvMorph="CX-ӧн"/>
          <mg>
             <m>
                <head/>
@@ -6284,7 +6284,7 @@
       <lg>
          <l>мырдӧн</l>
          <stg>
-            <st komContlex="ADVTAG">мырдӧн</st>
+            <st kpvContlex="ADVTAG">мырдӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6306,7 +6306,7 @@
       <lg>
          <l>миянладорӧ</l>
          <stg>
-            <st komContlex="ADVTAG">миянладорӧ</st>
+            <st kpvContlex="ADVTAG">миянладорӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6328,7 +6328,7 @@
       <lg>
          <l>миян кадӧдз</l>
          <stg>
-            <st komContlex="ADVTAG">миян кадӧдз</st>
+            <st kpvContlex="ADVTAG">миян кадӧдз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6351,7 +6351,7 @@
       <lg>
          <l>мичаа</l>
          <stg>
-            <st komContlex="ADVTAG">мичаа</st>
+            <st kpvContlex="ADVTAG">мичаа</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6373,7 +6373,7 @@
       <lg>
          <l>мисьтӧма</l>
          <stg>
-            <st komContlex="ADVTAG">мисьтӧма</st>
+            <st kpvContlex="ADVTAG">мисьтӧма</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6395,7 +6395,7 @@
       <lg>
          <l>мода вылас</l>
          <stg>
-            <st komContlex="ADVTAG">мода вылас</st>
+            <st kpvContlex="ADVTAG">мода вылас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6417,7 +6417,7 @@
       <lg>
          <l>мог</l>
          <stg>
-            <st komContlex="ADVTAG">мог</st>
+            <st kpvContlex="ADVTAG">мог</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6440,7 +6440,7 @@
       <lg>
          <l>мон</l>
          <stg>
-            <st komContlex="ADVTAG">мон</st>
+            <st kpvContlex="ADVTAG">мон</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6463,12 +6463,12 @@
       <lg>
          <l>морӧн</l>
          <stg>
-            <st komContlex="ADVTAG">морӧн</st>
+            <st kpvContlex="ADVTAG">морӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧн"/>
+         <drv kpvMorph="CX-ӧн"/>
          <mg>
             <m>
                <head>
@@ -6491,7 +6491,7 @@
       <lg>
          <l>моз</l>
          <stg>
-            <st komContlex="ADVTAG">моз</st>
+            <st kpvContlex="ADVTAG">моз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6514,12 +6514,12 @@
       <lg>
          <l>мудзтӧдз</l>
          <stg>
-            <st komContlex="ADVTAG">мудзтӧдз</st>
+            <st kpvContlex="ADVTAG">мудзтӧдз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="DV-тӧдз"/>
+         <drv kpvMorph="DV-тӧдз"/>
          <mg>
             <m>
                <head/>
@@ -6535,7 +6535,7 @@
       <lg>
          <l>мукӧддырйи</l>
          <stg>
-            <st komContlex="ADVTAG">мукӧддырйи</st>
+            <st kpvContlex="ADVTAG">мукӧддырйи</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6557,7 +6557,7 @@
       <lg>
          <l>нач</l>
          <stg>
-            <st komContlex="ADVTAG">нач</st>
+            <st kpvContlex="ADVTAG">нач</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6579,7 +6579,7 @@
       <lg>
          <l>надурнӧ</l>
          <stg>
-            <st komContlex="ADVTAG">надурнӧ</st>
+            <st kpvContlex="ADVTAG">надурнӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6601,7 +6601,7 @@
       <lg>
          <l>надзӧн</l>
          <stg>
-            <st komContlex="ADVTAG">надзӧн</st>
+            <st kpvContlex="ADVTAG">надзӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6623,7 +6623,7 @@
       <lg>
          <l>надзӧникӧн</l>
          <stg>
-            <st komContlex="ADVTAG">надзӧникӧн</st>
+            <st kpvContlex="ADVTAG">надзӧникӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6646,8 +6646,8 @@
       <lg>
          <l>наизусьт</l>
          <stg>
-            <st komContlex="ADVTAG">наизусьт</st>
-            <st komContlex="ADVTAG" stOrth="ru">наизусть</st>
+            <st kpvContlex="ADVTAG">наизусьт</st>
+            <st kpvContlex="ADVTAG" stOrth="ru">наизусть</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6669,7 +6669,7 @@
       <lg>
          <l>наперво</l>
          <stg>
-            <st komContlex="ADVTAG">наперво</st>
+            <st kpvContlex="ADVTAG">наперво</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6691,7 +6691,7 @@
       <lg>
          <l>нарӧшнӧ</l>
          <stg>
-            <st komContlex="ADVTAG">нарӧшнӧ</st>
+            <st kpvContlex="ADVTAG">нарӧшнӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6713,7 +6713,7 @@
       <lg>
          <l>наридз</l>
          <stg>
-            <st komContlex="ADVTAG">наридз</st>
+            <st kpvContlex="ADVTAG">наридз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6735,7 +6735,7 @@
       <lg>
          <l>нарошнӧ</l>
          <stg>
-            <st komContlex="ADVTAG">нарошнӧ</st>
+            <st kpvContlex="ADVTAG">нарошнӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6758,7 +6758,7 @@
       <lg>
          <l>навыскок</l>
          <stg>
-            <st komContlex="ADVTAG">навыскок</st>
+            <st kpvContlex="ADVTAG">навыскок</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6780,7 +6780,7 @@
       <lg>
          <l>нэмсӧ</l>
          <stg>
-            <st komContlex="ADVTAG">нэмсӧ</st>
+            <st kpvContlex="ADVTAG">нэмсӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6803,7 +6803,7 @@
       <lg>
          <l>нӧбовтас мында</l>
          <stg>
-            <st komContlex="ADVTAG">нӧбовтас мында</st>
+            <st kpvContlex="ADVTAG">нӧбовтас мында</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6825,7 +6825,7 @@
       <lg>
          <l>нӧшта</l>
          <stg>
-            <st komContlex="ADVTAG">нӧшта</st>
+            <st kpvContlex="ADVTAG">нӧшта</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6847,7 +6847,7 @@
       <lg>
          <l>нӧшта на</l>
          <stg>
-            <st komContlex="ADVTAG">нӧшта на</st>
+            <st kpvContlex="ADVTAG">нӧшта на</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6869,7 +6869,7 @@
       <lg>
          <l>небурысь</l>
          <stg>
-            <st komContlex="ADVTAG">небурысь</st>
+            <st kpvContlex="ADVTAG">небурысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6891,7 +6891,7 @@
       <lg>
          <l>недапӧштӧ</l>
          <stg>
-            <st komContlex="ADVTAG">недапӧштӧ</st>
+            <st kpvContlex="ADVTAG">недапӧштӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6913,7 +6913,7 @@
       <lg>
          <l>недыр</l>
          <stg>
-            <st komContlex="ADVTAG">недыр</st>
+            <st kpvContlex="ADVTAG">недыр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6937,7 +6937,7 @@
       <lg>
          <l>неӧтчыд</l>
          <stg>
-            <st komContlex="ADVTAG">неӧтчыд</st>
+            <st kpvContlex="ADVTAG">неӧтчыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -6960,12 +6960,12 @@
       <lg>
          <l>неылын</l>
          <stg>
-            <st komContlex="ADV-SPAT">неыл</st>
+            <st kpvContlex="ADV-SPAT">неыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ын"/>
+         <drv kpvMorph="CX-ын"/>
          <mg>
             <m>
                <head>
@@ -6989,7 +6989,7 @@
       <lg>
          <l>некӧн</l>
          <stg>
-            <st komContlex="ADVTAG">некӧн</st>
+            <st kpvContlex="ADVTAG">некӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7011,7 +7011,7 @@
       <lg>
          <l>некӧні</l>
          <stg>
-            <st komContlex="ADVTAG">некӧні</st>
+            <st kpvContlex="ADVTAG">некӧні</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7033,7 +7033,7 @@
       <lg>
          <l>некыдз</l>
          <stg>
-            <st komContlex="ADVTAG">некыдз</st>
+            <st kpvContlex="ADVTAG">некыдз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7055,7 +7055,7 @@
       <lg>
          <l>некор</l>
          <stg>
-            <st komContlex="ADVTAG">некор</st>
+            <st kpvContlex="ADVTAG">некор</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7077,7 +7077,7 @@
       <lg>
          <l>нелючки</l>
          <stg>
-            <st komContlex="ADVTAG">нелючки</st>
+            <st kpvContlex="ADVTAG">нелючки</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7099,7 +7099,7 @@
       <lg>
          <l>неморт ног</l>
          <stg>
-            <st komContlex="ADVTAG">неморт ног</st>
+            <st kpvContlex="ADVTAG">неморт ног</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7121,12 +7121,12 @@
       <lg>
          <l>нем жалиттӧг</l>
          <stg>
-            <st komContlex="ADVTAG">нем жалиттӧг</st>
+            <st kpvContlex="ADVTAG">нем жалиттӧг</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="DV-тӧг"/>
+         <drv kpvMorph="DV-тӧг"/>
          <mg>
             <m>
                <head/>
@@ -7141,7 +7141,7 @@
       <lg>
          <l>ненарошнӧ</l>
          <stg>
-            <st komContlex="ADVTAG">ненарошнӧ</st>
+            <st kpvContlex="ADVTAG">ненарошнӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7163,7 +7163,7 @@
       <lg>
          <l>неногӧн</l>
          <stg>
-            <st komContlex="ADVTAG">неногӧн</st>
+            <st kpvContlex="ADVTAG">неногӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7185,7 +7185,7 @@
       <lg>
          <l>неокота</l>
          <stg>
-            <st komContlex="ADVTAG">неокота</st>
+            <st kpvContlex="ADVTAG">неокота</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7207,7 +7207,7 @@
       <lg>
          <l>непӧру</l>
          <stg>
-            <st komContlex="ADVTAG">непӧру</st>
+            <st kpvContlex="ADVTAG">непӧру</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7229,7 +7229,7 @@
       <lg>
          <l>непременнӧ</l>
          <stg>
-            <st komContlex="ADVTAG">непременнӧ</st>
+            <st kpvContlex="ADVTAG">непременнӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7251,7 +7251,7 @@
       <lg>
          <l>непроч</l>
          <stg>
-            <st komContlex="ADVTAG">непроч</st>
+            <st kpvContlex="ADVTAG">непроч</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7273,7 +7273,7 @@
       <lg>
          <l>нетӧштӧ</l>
          <stg>
-            <st komContlex="ADVTAG">нетӧштӧ</st>
+            <st kpvContlex="ADVTAG">нетӧштӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7295,7 +7295,7 @@
       <lg>
          <l>неуна</l>
          <stg>
-            <st komContlex="ADVTAG">неуна</st>
+            <st kpvContlex="ADVTAG">неуна</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7318,12 +7318,12 @@
       <lg>
          <l>неважӧн</l>
          <stg>
-            <st komContlex="ADVTAG">неважӧн</st>
+            <st kpvContlex="ADVTAG">неважӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧн"/>
+         <drv kpvMorph="CX-ӧн"/>
          <mg>
             <m>
                <head/>
@@ -7339,7 +7339,7 @@
       <lg>
          <l>нырӧн</l>
          <stg>
-            <st komContlex="ADVTAG">нырӧн</st>
+            <st kpvContlex="ADVTAG">нырӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7367,7 +7367,7 @@
       <lg>
          <l>нырвыв</l>
          <stg>
-            <st komContlex="ADVTAG">нырвыл</st>
+            <st kpvContlex="ADVTAG">нырвыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7389,7 +7389,7 @@
       <lg>
          <l>нимкодьпырысь</l>
          <stg>
-            <st komContlex="ADVTAG">нимкодьпырысь</st>
+            <st kpvContlex="ADVTAG">нимкодьпырысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7411,7 +7411,7 @@
       <lg>
          <l>нин</l>
          <stg>
-            <st komContlex="ADVTAG">нин</st>
+            <st kpvContlex="ADVTAG">нин</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7453,7 +7453,7 @@
       <lg>
          <l>нинӧм</l>
          <stg>
-            <st komContlex="ADVTAG">нинӧм</st>
+            <st kpvContlex="ADVTAG">нинӧм</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7475,7 +7475,7 @@
       <lg>
          <l>нинӧмӧн</l>
          <stg>
-            <st komContlex="ADVTAG">нинӧмӧн</st>
+            <st kpvContlex="ADVTAG">нинӧмӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7497,7 +7497,7 @@
       <lg>
          <l>нивӧю</l>
          <stg>
-            <st komContlex="ADVTAG">нивӧю</st>
+            <st kpvContlex="ADVTAG">нивӧю</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7519,12 +7519,12 @@
       <lg>
          <l>нор гӧлӧсӧн</l>
          <stg>
-            <st komContlex="ADVTAG">нор гӧлӧсӧн</st>
+            <st kpvContlex="ADVTAG">нор гӧлӧсӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧн"/>
+         <drv kpvMorph="CX-ӧн"/>
          <mg>
             <m>
                <head/>
@@ -7539,7 +7539,7 @@
       <lg>
          <l>нюдз</l>
          <stg>
-            <st komContlex="ADVTAG">нюдз</st>
+            <st kpvContlex="ADVTAG">нюдз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7561,12 +7561,12 @@
       <lg>
          <l>нюжмасьтӧг</l>
          <stg>
-            <st komContlex="ADVTAG">нюжмасьтӧг</st>
+            <st kpvContlex="ADVTAG">нюжмасьтӧг</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="DV-тӧг"/>
+         <drv kpvMorph="DV-тӧг"/>
          <mg>
             <m>
                <head/>
@@ -7581,7 +7581,7 @@
       <lg>
          <l>нумӧн</l>
          <stg>
-            <st komContlex="ADVTAG">нумӧн</st>
+            <st kpvContlex="ADVTAG">нумӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7603,7 +7603,7 @@
       <lg>
          <l>ньӧтчыд</l>
          <stg>
-            <st komContlex="ADVTAG">ньӧтчыд</st>
+            <st kpvContlex="ADVTAG">ньӧтчыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7627,7 +7627,7 @@
       <lg>
          <l>ньӧтчыдысь</l>
          <stg>
-            <st komContlex="ADVTAG">ньӧтчыдысь</st>
+            <st kpvContlex="ADVTAG">ньӧтчыдысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7651,7 +7651,7 @@
       <lg>
          <l>ньӧжйӧ</l>
          <stg>
-            <st komContlex="ADVTAG">ньӧжйӧ</st>
+            <st kpvContlex="ADVTAG">ньӧжйӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7674,7 +7674,7 @@
       <lg>
          <l>ньӧжйӧн</l>
          <stg>
-            <st komContlex="ADVTAG">ньӧжйӧн</st>
+            <st kpvContlex="ADVTAG">ньӧжйӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7697,7 +7697,7 @@
       <lg>
          <l>ньылыд</l>
          <stg>
-            <st komContlex="ADVTAG">ньылыд</st>
+            <st kpvContlex="ADVTAG">ньылыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7724,7 +7724,7 @@
       <lg>
          <l>ёна</l>
          <stg>
-            <st komContlex="ADVTAG">ёна</st>
+            <st kpvContlex="ADVTAG">ёна</st>
          </stg>
       </lg>
       <pos>AD-A</pos>
@@ -7751,7 +7751,7 @@
       <lg>
          <l>ёнакодь</l>
          <stg>
-            <st komContlex="ADVTAG">ёнакодь</st>
+            <st kpvContlex="ADVTAG">ёнакодь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7773,7 +7773,7 @@
       <lg>
          <l>ёнджыкасӧ</l>
          <stg>
-            <st komContlex="ADVTAG">ёнджыкасӧ</st>
+            <st kpvContlex="ADVTAG">ёнджыкасӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7796,7 +7796,7 @@
       <lg>
          <l>ок</l>
          <stg>
-            <st komContlex="ADVTAG">ок</st>
+            <st kpvContlex="ADVTAG">ок</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7818,7 +7818,7 @@
       <lg>
          <l>окотапырысь</l>
          <stg>
-            <st komContlex="ADVTAG">окотапырысь</st>
+            <st kpvContlex="ADVTAG">окотапырысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7840,7 +7840,7 @@
       <lg>
          <l>омӧля</l>
          <stg>
-            <st komContlex="ADVTAG">омӧля</st>
+            <st kpvContlex="ADVTAG">омӧля</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7867,7 +7867,7 @@
       <lg>
          <l>орччӧн</l>
          <stg>
-            <st komContlex="ADVTAG">орччӧн</st>
+            <st kpvContlex="ADVTAG">орччӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7887,7 +7887,7 @@
       <lg>
          <l>ортсыӧ</l>
          <stg>
-            <st komContlex="ADVTAG">ортсыӧ</st>
+            <st kpvContlex="ADVTAG">ортсыӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7911,7 +7911,7 @@
       <lg>
          <l>пачводз</l>
          <stg>
-            <st komContlex="ADVTAG">пачводз</st>
+            <st kpvContlex="ADVTAG">пачводз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7934,7 +7934,7 @@
       <lg>
          <l>падера</l>
          <stg>
-            <st komContlex="ADVTAG">падера</st>
+            <st kpvContlex="ADVTAG">падера</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7956,7 +7956,7 @@
       <lg>
          <l>паныд</l>
          <stg>
-            <st komContlex="ADVTAG">паныд</st>
+            <st kpvContlex="ADVTAG">паныд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -7995,7 +7995,7 @@
       <lg>
          <l>пасьтала</l>
          <stg>
-            <st komContlex="ADVTAG">пасьтала</st>
+            <st kpvContlex="ADVTAG">пасьтала</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8019,7 +8019,7 @@
       <lg>
          <l>пасьта ног</l>
          <stg>
-            <st komContlex="ADVTAG">пасьта ног</st>
+            <st kpvContlex="ADVTAG">пасьта ног</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8041,7 +8041,7 @@
       <lg>
          <l>пӧди</l>
          <stg>
-            <st komContlex="ADVTAG">пӧди</st>
+            <st kpvContlex="ADVTAG">пӧди</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8065,7 +8065,7 @@
       <lg>
          <l>пӧдлинӧ</l>
          <stg>
-            <st komContlex="ADVTAG">пӧдлинӧ</st>
+            <st kpvContlex="ADVTAG">пӧдлинӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8087,12 +8087,12 @@
       <lg>
          <l>пӧрйӧ</l>
          <stg>
-            <st komContlex="ADVTAG">пӧрйӧ</st>
+            <st kpvContlex="ADVTAG">пӧрйӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧ"/>
+         <drv kpvMorph="CX-ӧ"/>
          <mg>
             <m>
                <head/>
@@ -8110,7 +8110,7 @@
       <lg>
          <l>пӧшти</l>
          <stg>
-            <st komContlex="ADVTAG">пӧшти</st>
+            <st kpvContlex="ADVTAG">пӧшти</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8133,7 +8133,7 @@
       <lg>
          <l>пӧся</l>
          <stg>
-            <st komContlex="ADVTAG">пӧся</st>
+            <st kpvContlex="ADVTAG">пӧся</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8157,12 +8157,12 @@
       <lg>
          <l>пӧтмӧн</l>
          <stg>
-            <st komContlex="ADVTAG">пӧтмӧн</st>
+            <st kpvContlex="ADVTAG">пӧтмӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="DV-мӧн"/>
+         <drv kpvMorph="DV-мӧн"/>
          <mg>
             <m>
                <head/>
@@ -8177,12 +8177,12 @@
       <lg>
          <l>пӧттӧдз</l>
          <stg>
-            <st komContlex="ADVTAG">пӧттӧдз</st>
+            <st kpvContlex="ADVTAG">пӧттӧдз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="DV-тӧдз"/>
+         <drv kpvMorph="DV-тӧдз"/>
          <mg>
             <m>
                <head/>
@@ -8197,7 +8197,7 @@
       <lg>
          <l>пельвыв</l>
          <stg>
-            <st komContlex="ADVTAG">пельвыл</st>
+            <st kpvContlex="ADVTAG">пельвыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8219,7 +8219,7 @@
       <lg>
          <l>пемыдгорув</l>
          <stg>
-            <st komContlex="ADVTAG">пемыдгорул</st>
+            <st kpvContlex="ADVTAG">пемыдгорул</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8241,7 +8241,7 @@
       <lg>
          <l>пемыднас</l>
          <stg>
-            <st komContlex="ADVTAG">пемыднас</st>
+            <st kpvContlex="ADVTAG">пемыднас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8263,7 +8263,7 @@
       <lg>
          <l>первӧй</l>
          <stg>
-            <st komContlex="ADVTAG">первӧй</st>
+            <st kpvContlex="ADVTAG">первӧй</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8287,7 +8287,7 @@
       <lg>
          <l>первӧйӧн</l>
          <stg>
-            <st komContlex="ADVTAG">первӧйӧн</st>
+            <st kpvContlex="ADVTAG">первӧйӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8311,7 +8311,7 @@
       <lg>
          <l>первойысьсӧ</l>
          <stg>
-            <st komContlex="ADVTAG">первойысьсӧ</st>
+            <st kpvContlex="ADVTAG">первойысьсӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8333,7 +8333,7 @@
       <lg>
          <l>первойсӧ</l>
          <stg>
-            <st komContlex="ADVTAG">первойсӧ</st>
+            <st kpvContlex="ADVTAG">первойсӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8355,7 +8355,7 @@
       <lg>
          <l>петлӧ</l>
          <stg>
-            <st komContlex="ADVTAG">петлӧ</st>
+            <st kpvContlex="ADVTAG">петлӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8377,7 +8377,7 @@
       <lg>
          <l>пыдди</l>
          <stg>
-            <st komContlex="ADVTAG">пыдди</st>
+            <st kpvContlex="ADVTAG">пыдди</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8399,12 +8399,12 @@
       <lg>
          <l>пыдісянь</l>
          <stg>
-            <st komContlex="ADVTAG">пыдісянь</st>
+            <st kpvContlex="ADVTAG">пыдісянь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-сянь"/>
+         <drv kpvMorph="CX-сянь"/>
          <mg>
             <m>
                <head/>
@@ -8419,12 +8419,12 @@
       <lg>
          <l>пыдын</l>
          <stg>
-            <st komContlex="ADVTAG">пыдын</st>
+            <st kpvContlex="ADVTAG">пыдын</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ын"/>
+         <drv kpvMorph="CX-ын"/>
          <mg>
             <m>
                <head/>
@@ -8442,7 +8442,7 @@
       <lg>
          <l>пыр</l>
          <stg>
-            <st komContlex="ADVTAG">пыр</st>
+            <st kpvContlex="ADVTAG">пыр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8472,7 +8472,7 @@
       <lg>
          <l>пырджык</l>
          <stg>
-            <st komContlex="ADVTAG">пырджык</st>
+            <st kpvContlex="ADVTAG">пырджык</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8495,7 +8495,7 @@
       <lg>
          <l>пыр на</l>
          <stg>
-            <st komContlex="ADVTAG">пыр на</st>
+            <st kpvContlex="ADVTAG">пыр на</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8517,7 +8517,7 @@
       <lg>
          <l>пласьт</l>
          <stg>
-            <st komContlex="ADVTAG">пласьт</st>
+            <st kpvContlex="ADVTAG">пласьт</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8539,7 +8539,7 @@
       <lg>
          <l>плӧть</l>
          <stg>
-            <st komContlex="ADVTAG">плӧть</st>
+            <st kpvContlex="ADVTAG">плӧть</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8561,7 +8561,7 @@
       <lg>
          <l>подӧн</l>
          <stg>
-            <st komContlex="ADVTAG">подӧн</st>
+            <st kpvContlex="ADVTAG">подӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8585,7 +8585,7 @@
       <lg>
          <l>полӧмпырысь</l>
          <stg>
-            <st komContlex="ADVTAG">полӧмпырысь</st>
+            <st kpvContlex="ADVTAG">полӧмпырысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8607,7 +8607,7 @@
       <lg>
          <l>помала</l>
          <stg>
-            <st komContlex="ADVTAG">помала</st>
+            <st kpvContlex="ADVTAG">помала</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8629,7 +8629,7 @@
       <lg>
          <l>помся</l>
          <stg>
-            <st komContlex="ADVTAG">помся</st>
+            <st kpvContlex="ADVTAG">помся</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8653,7 +8653,7 @@
       <lg>
          <l>помвыв</l>
          <stg>
-            <st komContlex="ADVTAG">помвыл</st>
+            <st kpvContlex="ADVTAG">помвыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8675,7 +8675,7 @@
       <lg>
          <l>прамӧясӧ</l>
          <stg>
-            <st komContlex="ADVTAG">прамӧясӧ</st>
+            <st kpvContlex="ADVTAG">прамӧясӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8697,7 +8697,7 @@
       <lg>
          <l>прамӧ</l>
          <stg>
-            <st komContlex="ADVTAG">прамӧ</st>
+            <st kpvContlex="ADVTAG">прамӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8720,7 +8720,7 @@
       <lg>
          <l>прӧшви</l>
          <stg>
-            <st komContlex="ADVTAG">прӧшви</st>
+            <st kpvContlex="ADVTAG">прӧшви</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8742,7 +8742,7 @@
       <lg>
          <l>прӧстӧ</l>
          <stg>
-            <st komContlex="ADVTAG">прӧстӧ</st>
+            <st kpvContlex="ADVTAG">прӧстӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8764,7 +8764,7 @@
       <lg>
          <l>прӧстӧйиника</l>
          <stg>
-            <st komContlex="ADVTAG">прӧстӧйиника</st>
+            <st kpvContlex="ADVTAG">прӧстӧйиника</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8786,7 +8786,7 @@
       <lg>
          <l>прӧтив</l>
          <stg>
-            <st komContlex="ADVTAG">прӧтив</st>
+            <st kpvContlex="ADVTAG">прӧтив</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8808,7 +8808,7 @@
       <lg>
          <l>проч</l>
          <stg>
-            <st komContlex="ADVTAG">проч</st>
+            <st kpvContlex="ADVTAG">проч</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8830,7 +8830,7 @@
       <lg>
          <l>пугырӧн</l>
          <stg>
-            <st komContlex="ADVTAG">пугырӧн</st>
+            <st kpvContlex="ADVTAG">пугырӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8852,7 +8852,7 @@
       <lg>
          <l>рад</l>
          <stg>
-            <st komContlex="ADVTAG">рад</st>
+            <st kpvContlex="ADVTAG">рад</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8874,7 +8874,7 @@
       <lg>
          <l>радпырысь</l>
          <stg>
-            <st komContlex="ADVTAG">радпырысь</st>
+            <st kpvContlex="ADVTAG">радпырысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8896,12 +8896,12 @@
       <lg>
          <l>рама пиӧ</l>
          <stg>
-            <st komContlex="ADVTAG">рама пиӧ</st>
+            <st kpvContlex="ADVTAG">рама пиӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧ"/>
+         <drv kpvMorph="CX-ӧ"/>
          <mg>
             <m>
                <head/>
@@ -8919,7 +8919,7 @@
       <lg>
          <l>рӧзвал</l>
          <stg>
-            <st komContlex="ADVTAG">рӧзвал</st>
+            <st kpvContlex="ADVTAG">рӧзвал</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8941,7 +8941,7 @@
       <lg>
          <l>регыд</l>
          <stg>
-            <st komContlex="ADVTAG">регыд</st>
+            <st kpvContlex="ADVTAG">регыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8965,7 +8965,7 @@
       <lg>
          <l>рытгорув</l>
          <stg>
-            <st komContlex="ADVTAG">рытгорул</st>
+            <st kpvContlex="ADVTAG">рытгорул</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -8987,7 +8987,7 @@
       <lg>
          <l>рытывбыд</l>
          <stg>
-            <st komContlex="ADVTAG">рытывбыд</st>
+            <st kpvContlex="ADVTAG">рытывбыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9009,7 +9009,7 @@
       <lg>
          <l>рытнас</l>
          <stg>
-            <st komContlex="ADVTAG">рытнас</st>
+            <st kpvContlex="ADVTAG">рытнас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9031,7 +9031,7 @@
       <lg>
          <l>рытъянас</l>
          <stg>
-            <st komContlex="ADVTAG">рытъянас</st>
+            <st kpvContlex="ADVTAG">рытъянас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9053,7 +9053,7 @@
       <lg>
          <l>рочӧн</l>
          <stg>
-            <st komContlex="ADVTAG">рочӧн</st>
+            <st kpvContlex="ADVTAG">рочӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9077,7 +9077,7 @@
       <lg>
          <l>шӧри</l>
          <stg>
-            <st komContlex="ADVTAG">шӧри</st>
+            <st kpvContlex="ADVTAG">шӧри</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9100,12 +9100,12 @@
       <lg>
          <l>шӧрын</l>
          <stg>
-            <st komContlex="ADV-SPAT">шӧр</st>
+            <st kpvContlex="ADV-SPAT">шӧр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ын" lemmaID="шӧр_N"/>
+         <drv kpvMorph="CX-ын" lemmaID="шӧр_N"/>
          <mg>
             <m>
                <head/>
@@ -9124,7 +9124,7 @@
       <lg>
          <l>шӧркодя</l>
          <stg>
-            <st komContlex="ADVTAG">шӧркодя</st>
+            <st kpvContlex="ADVTAG">шӧркодя</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9146,7 +9146,7 @@
       <lg>
          <l>шӧрвыйӧ</l>
          <stg>
-            <st komContlex="ADVTAG">шӧрвыйӧ</st>
+            <st kpvContlex="ADVTAG">шӧрвыйӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9168,7 +9168,7 @@
       <lg>
          <l>шняп</l>
          <stg>
-            <st komContlex="ADVTAG">шняп</st>
+            <st kpvContlex="ADVTAG">шняп</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9190,7 +9190,7 @@
       <lg>
          <l>шнич</l>
          <stg>
-            <st komContlex="ADVTAG">шнич</st>
+            <st kpvContlex="ADVTAG">шнич</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9212,7 +9212,7 @@
       <lg>
          <l>шоча</l>
          <stg>
-            <st komContlex="ADVTAG">шоча</st>
+            <st kpvContlex="ADVTAG">шоча</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9236,7 +9236,7 @@
       <lg>
          <l>шогпырысь</l>
          <stg>
-            <st komContlex="ADVTAG">шогпырысь</st>
+            <st kpvContlex="ADVTAG">шогпырысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9258,7 +9258,7 @@
       <lg>
          <l>шонді ньылыд</l>
          <stg>
-            <st komContlex="ADVTAG">шонді ньылыд</st>
+            <st kpvContlex="ADVTAG">шонді ньылыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9280,7 +9280,7 @@
       <lg>
          <l>шонді паныд</l>
          <stg>
-            <st komContlex="ADVTAG">шонді паныд</st>
+            <st kpvContlex="ADVTAG">шонді паныд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9302,7 +9302,7 @@
       <lg>
          <l>шурк</l>
          <stg>
-            <st komContlex="ADVTAG">шурк</st>
+            <st kpvContlex="ADVTAG">шурк</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9324,7 +9324,7 @@
       <lg>
          <l>сактыр</l>
          <stg>
-            <st komContlex="ADVTAG">сактыр</st>
+            <st kpvContlex="ADVTAG">сактыр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9346,7 +9346,7 @@
       <lg>
          <l>саридзладорсянь</l>
          <stg>
-            <st komContlex="ADVTAG">саридзладорсянь</st>
+            <st kpvContlex="ADVTAG">саридзладорсянь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9368,7 +9368,7 @@
       <lg>
          <l>сбыльысьсӧ</l>
          <stg>
-            <st komContlex="ADVTAG">сбыльысьсӧ</st>
+            <st kpvContlex="ADVTAG">сбыльысьсӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9390,7 +9390,7 @@
       <lg>
          <l>сэк</l>
          <stg>
-            <st komContlex="ADVTAG">сэк</st>
+            <st kpvContlex="ADVTAG">сэк</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9412,7 +9412,7 @@
       <lg>
          <l>сэки</l>
          <stg>
-            <st komContlex="ADVTAG">сэки</st>
+            <st kpvContlex="ADVTAG">сэки</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9434,7 +9434,7 @@
       <lg>
          <l>сэкся кадӧ</l>
          <stg>
-            <st komContlex="ADVTAG">сэкся кадӧ</st>
+            <st kpvContlex="ADVTAG">сэкся кадӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9457,7 +9457,7 @@
       <lg>
          <l>сэн</l>
          <stg>
-            <st komContlex="ADVTAG">сэн</st>
+            <st kpvContlex="ADVTAG">сэн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9481,7 +9481,7 @@
       <lg>
          <l>сэні</l>
          <stg>
-            <st komContlex="ADVTAG">сэні</st>
+            <st kpvContlex="ADVTAG">сэні</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9505,7 +9505,7 @@
       <lg>
          <l>сэнъясын</l>
          <stg>
-            <st komContlex="ADV-SPAT">сэнъяс</st>
+            <st kpvContlex="ADV-SPAT">сэнъяс</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9527,7 +9527,7 @@
       <lg>
          <l>сэсянь</l>
          <stg>
-            <st komContlex="ADVTAG">сэсянь</st>
+            <st kpvContlex="ADVTAG">сэсянь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9549,7 +9549,7 @@
       <lg>
          <l>сэсся</l>
          <stg>
-            <st komContlex="ADVTAG">сэсся</st>
+            <st kpvContlex="ADVTAG">сэсся</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9572,7 +9572,7 @@
       <lg>
          <l>сэсь</l>
          <stg>
-            <st komContlex="ADVTAG">сэсь</st>
+            <st kpvContlex="ADVTAG">сэсь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9595,7 +9595,7 @@
       <lg>
          <l>сэсь аскомысь</l>
          <stg>
-            <st komContlex="ADVTAG">сэсь аскомысь</st>
+            <st kpvContlex="ADVTAG">сэсь аскомысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9617,7 +9617,7 @@
       <lg>
          <l>сэт</l>
          <stg>
-            <st komContlex="ADVTAG">сэт</st>
+            <st kpvContlex="ADVTAG">сэт</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9639,7 +9639,7 @@
       <lg>
          <l>сэтӧн</l>
          <stg>
-            <st komContlex="ADVTAG">сэтӧн</st>
+            <st kpvContlex="ADVTAG">сэтӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9661,7 +9661,7 @@
       <lg>
          <l>сэтчань</l>
          <stg>
-            <st komContlex="ADVTAG">сэтчань</st>
+            <st kpvContlex="ADVTAG">сэтчань</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9684,12 +9684,12 @@
       <lg>
          <l>сэтчӧ</l>
          <stg>
-            <st komContlex="ADVTAG">сэтчӧ</st>
+            <st kpvContlex="ADVTAG">сэтчӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧ" lemmaID="сэтысь"/>
+         <drv kpvMorph="CX-ӧ" lemmaID="сэтысь"/>
          <mg>
             <m>
                <head/>
@@ -9709,12 +9709,12 @@
       <lg>
          <l>сэтчӧдз</l>
          <stg>
-            <st komContlex="ADVTAG">сэтчӧдз</st>
+            <st kpvContlex="ADVTAG">сэтчӧдз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧдз"/>
+         <drv kpvMorph="CX-ӧдз"/>
          <mg>
             <m>
                <head/>
@@ -9732,7 +9732,7 @@
       <lg>
          <l>сэті</l>
          <stg>
-            <st komContlex="ADVTAG">сэті</st>
+            <st kpvContlex="ADVTAG">сэті</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9754,12 +9754,12 @@
       <lg>
          <l>сэтысь</l>
          <stg>
-            <st komContlex="ADVTAG">сэтысь</st>
+            <st kpvContlex="ADVTAG">сэтысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ысь"/>
+         <drv kpvMorph="CX-ысь"/>
          <mg>
             <m>
                <head/>
@@ -9777,7 +9777,7 @@
       <lg>
          <l>сэтшӧма</l>
          <stg>
-            <st komContlex="ADVTAG">сэтшӧма</st>
+            <st kpvContlex="ADVTAG">сэтшӧма</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9799,7 +9799,7 @@
       <lg>
          <l>сӧгласен</l>
          <stg>
-            <st komContlex="ADVTAG">сӧгласен</st>
+            <st kpvContlex="ADVTAG">сӧгласен</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9823,8 +9823,8 @@
          <l>сӧлсем</l>
          <stg>
             <stCtn>
-               <st komContlex="ADVTAG">сӧлсем</st>
-               <src komSrc="Toropov"/>
+               <st kpvContlex="ADVTAG">сӧлсем</st>
+               <src kpvSrc="Toropov"/>
             </stCtn>
          </stg>
       </lg>
@@ -9847,7 +9847,7 @@
       <lg>
          <l>сӧмын</l>
          <stg>
-            <st komContlex="ADVTAG">сӧмын</st>
+            <st kpvContlex="ADVTAG">сӧмын</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9882,7 +9882,7 @@
       <lg>
          <l>сӧвсем</l>
          <stg>
-            <st komContlex="ADVTAG">сӧвсем</st>
+            <st kpvContlex="ADVTAG">сӧвсем</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9906,7 +9906,7 @@
       <lg>
          <l>сідз</l>
          <stg>
-            <st komContlex="ADVTAG">сідз</st>
+            <st kpvContlex="ADVTAG">сідз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9928,7 +9928,7 @@
       <lg>
          <l>сідзи</l>
          <stg>
-            <st komContlex="ADVTAG">сідзи</st>
+            <st kpvContlex="ADVTAG">сідзи</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9952,7 +9952,7 @@
       <lg>
          <l>сідзжӧ</l>
          <stg>
-            <st komContlex="ADVTAG">сідзжӧ</st>
+            <st kpvContlex="ADVTAG">сідзжӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9974,7 +9974,7 @@
       <lg>
          <l>сыэтш</l>
          <stg>
-            <st komContlex="ADVTAG">сыэтш</st>
+            <st kpvContlex="ADVTAG">сыэтш</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -9997,7 +9997,7 @@
       <lg>
          <l>сымда</l>
          <stg>
-            <st komContlex="ADVTAG">сымда</st>
+            <st kpvContlex="ADVTAG">сымда</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10020,7 +10020,7 @@
       <lg>
          <l>сымын</l>
          <stg>
-            <st komContlex="ADVTAG">сымын</st>
+            <st kpvContlex="ADVTAG">сымын</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10048,7 +10048,7 @@
       <lg>
          <l>сынисадь</l>
          <stg>
-            <st komContlex="ADVTAG">сынисадь</st>
+            <st kpvContlex="ADVTAG">сынисадь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10070,7 +10070,7 @@
       <lg>
          <l>сырк</l>
          <stg>
-            <st komContlex="ADVTAG">сырк</st>
+            <st kpvContlex="ADVTAG">сырк</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10092,7 +10092,7 @@
       <lg>
          <l>скач</l>
          <stg>
-            <st komContlex="ADVTAG">скач</st>
+            <st kpvContlex="ADVTAG">скач</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10115,7 +10115,7 @@
       <lg>
          <l>скӧнь</l>
          <stg>
-            <st komContlex="ADVTAG">скӧнь</st>
+            <st kpvContlex="ADVTAG">скӧнь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10137,7 +10137,7 @@
       <lg>
          <l>скӧра</l>
          <stg>
-            <st komContlex="ADVTAG">скӧра</st>
+            <st kpvContlex="ADVTAG">скӧра</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10159,7 +10159,7 @@
       <lg>
          <l>склян</l>
          <stg>
-            <st komContlex="ADVTAG">склян</st>
+            <st kpvContlex="ADVTAG">склян</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10181,7 +10181,7 @@
       <lg>
          <l>скрипъю</l>
          <stg>
-            <st komContlex="ADVTAG">скрипъю</st>
+            <st kpvContlex="ADVTAG">скрипъю</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10203,7 +10203,7 @@
       <lg>
          <l>сквӧзь</l>
          <stg>
-            <st komContlex="ADVTAG">сквӧзь</st>
+            <st kpvContlex="ADVTAG">сквӧзь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10225,7 +10225,7 @@
       <lg>
          <l>сёысь</l>
          <stg>
-            <st komContlex="ADVTAG">сёысь</st>
+            <st kpvContlex="ADVTAG">сёысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10248,7 +10248,7 @@
       <lg>
          <l>сёрджык</l>
          <stg>
-            <st komContlex="ADVTAG">сёрджык</st>
+            <st kpvContlex="ADVTAG">сёрджык</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10270,7 +10270,7 @@
       <lg>
          <l>сёрӧн</l>
          <stg>
-            <st komContlex="ADVTAG">сёрӧн</st>
+            <st kpvContlex="ADVTAG">сёрӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10292,7 +10292,7 @@
       <lg>
          <l>сорнад</l>
          <stg>
-            <st komContlex="ADVTAG">сорнад</st>
+            <st kpvContlex="ADVTAG">сорнад</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10316,7 +10316,7 @@
       <lg>
          <l>спутю</l>
          <stg>
-            <st komContlex="ADVTAG">спутю</st>
+            <st kpvContlex="ADVTAG">спутю</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10338,7 +10338,7 @@
       <lg>
          <l>ставнас</l>
          <stg>
-            <st komContlex="ADVTAG">ставнас</st>
+            <st kpvContlex="ADVTAG">ставнас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10362,7 +10362,7 @@
       <lg>
          <l>стӧч</l>
          <stg>
-            <st komContlex="ADVTAG">стӧч</st>
+            <st kpvContlex="ADVTAG">стӧч</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10384,7 +10384,7 @@
       <lg>
          <l>сюся</l>
          <stg>
-            <st komContlex="ADVTAG">сюся</st>
+            <st kpvContlex="ADVTAG">сюся</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10406,7 +10406,7 @@
       <lg>
          <l>суткинас</l>
          <stg>
-            <st komContlex="ADVTAG">суткинас</st>
+            <st kpvContlex="ADVTAG">суткинас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10428,7 +10428,7 @@
       <lg>
          <l>сувтсӧн</l>
          <stg>
-            <st komContlex="ADVTAG">сувтсӧн</st>
+            <st kpvContlex="ADVTAG">сувтсӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10450,7 +10450,7 @@
       <lg>
          <l>сьӧд</l>
          <stg>
-            <st komContlex="ADVTAG">сьӧд</st>
+            <st kpvContlex="ADVTAG">сьӧд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10474,7 +10474,7 @@
       <lg>
          <l>сьӧкыдпырысь</l>
          <stg>
-            <st komContlex="ADVTAG">сьӧкыдпырысь</st>
+            <st kpvContlex="ADVTAG">сьӧкыдпырысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10496,7 +10496,7 @@
       <lg>
          <l>сьывйӧ</l>
          <stg>
-            <st komContlex="ADVTAG">сьывйӧ</st>
+            <st kpvContlex="ADVTAG">сьывйӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10518,7 +10518,7 @@
       <lg>
          <l>тадз</l>
          <stg>
-            <st komContlex="ADVTAG">тадз</st>
+            <st kpvContlex="ADVTAG">тадз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10541,7 +10541,7 @@
       <lg>
          <l>тадзи</l>
          <stg>
-            <st komContlex="ADVTAG">тадзи</st>
+            <st kpvContlex="ADVTAG">тадзи</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10564,7 +10564,7 @@
       <lg>
          <l>тадзи</l>
          <stg>
-            <st komContlex="ADVTAG">тадзи</st>
+            <st kpvContlex="ADVTAG">тадзи</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10586,7 +10586,7 @@
       <lg>
          <l>тайкӧ</l>
          <stg>
-            <st komContlex="ADVTAG">тайкӧ</st>
+            <st kpvContlex="ADVTAG">тайкӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10608,7 +10608,7 @@
       <lg>
          <l>тайнӧ</l>
          <stg>
-            <st komContlex="ADVTAG">тайнӧ</st>
+            <st kpvContlex="ADVTAG">тайнӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10631,12 +10631,12 @@
       <lg>
          <l>талань</l>
          <stg>
-            <st komContlex="ADVTAG">талань</st>
+            <st kpvContlex="ADVTAG">талань</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-лань"/>
+         <drv kpvMorph="CX-лань"/>
          <mg>
             <m>
                <head/>
@@ -10651,7 +10651,7 @@
       <lg>
          <l>талун</l>
          <stg>
-            <st komContlex="ADVTAG">талун</st>
+            <st kpvContlex="ADVTAG">талун</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10673,7 +10673,7 @@
       <lg>
          <l>тан</l>
          <stg>
-            <st komContlex="ADVTAG">тан</st>
+            <st kpvContlex="ADVTAG">тан</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10697,7 +10697,7 @@
       <lg>
          <l>тані</l>
          <stg>
-            <st komContlex="ADVTAG">тані</st>
+            <st kpvContlex="ADVTAG">тані</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10721,7 +10721,7 @@
       <lg>
          <l>тарыт</l>
          <stg>
-            <st komContlex="ADVTAG">тарыт</st>
+            <st kpvContlex="ADVTAG">тарыт</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10744,7 +10744,7 @@
       <lg>
          <l>тасянь</l>
          <stg>
-            <st komContlex="ADVTAG">тасянь</st>
+            <st kpvContlex="ADVTAG">тасянь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10766,7 +10766,7 @@
       <lg>
          <l>тасыв</l>
          <stg>
-            <st komContlex="ADVTAG">тасыл</st>
+            <st kpvContlex="ADVTAG">тасыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10790,7 +10790,7 @@
       <lg>
          <l>тась</l>
          <stg>
-            <st komContlex="ADVTAG">тась</st>
+            <st kpvContlex="ADVTAG">тась</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10812,7 +10812,7 @@
       <lg>
          <l>татчань</l>
          <stg>
-            <st komContlex="ADVTAG">татчань</st>
+            <st kpvContlex="ADVTAG">татчань</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10834,7 +10834,7 @@
       <lg>
          <l>татчӧ</l>
          <stg>
-            <st komContlex="ADVTAG">татчӧ</st>
+            <st kpvContlex="ADVTAG">татчӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10857,7 +10857,7 @@
       <lg>
          <l>татӧн</l>
          <stg>
-            <st komContlex="ADVTAG">татӧн</st>
+            <st kpvContlex="ADVTAG">татӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10879,7 +10879,7 @@
       <lg>
          <l>таті</l>
          <stg>
-            <st komContlex="ADVTAG">таті</st>
+            <st kpvContlex="ADVTAG">таті</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10902,7 +10902,7 @@
       <lg>
          <l>татысь</l>
          <stg>
-            <st komContlex="ADVTAG">татысь</st>
+            <st kpvContlex="ADVTAG">татысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10925,7 +10925,7 @@
       <lg>
          <l>таво</l>
          <stg>
-            <st komContlex="ADVTAG">таво</st>
+            <st kpvContlex="ADVTAG">таво</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10947,7 +10947,7 @@
       <lg>
          <l>тавой</l>
          <stg>
-            <st komContlex="ADVTAG">тавой</st>
+            <st kpvContlex="ADVTAG">тавой</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -10982,7 +10982,7 @@
       <lg>
          <l>тӧдӧмысь</l>
          <stg>
-            <st komContlex="ADVTAG">тӧдӧмысь</st>
+            <st kpvContlex="ADVTAG">тӧдӧмысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11004,7 +11004,7 @@
       <lg>
          <l>тӧдчымӧн</l>
          <stg>
-            <st komContlex="ADVTAG">тӧдчымӧн</st>
+            <st kpvContlex="ADVTAG">тӧдчымӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11030,7 +11030,7 @@
       <lg>
          <l>тӧкӧтьӧ</l>
          <stg>
-            <st komContlex="ADVTAG">тӧкӧтьӧ</st>
+            <st kpvContlex="ADVTAG">тӧкӧтьӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11052,12 +11052,12 @@
       <lg>
          <l>тӧлысьнас</l>
          <stg>
-            <st komContlex="ADVTAG">тӧлысьнас</st>
+            <st kpvContlex="ADVTAG">тӧлысьнас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-нас"/>
+         <drv kpvMorph="CX-нас"/>
          <mg>
             <m>
                <head/>
@@ -11072,12 +11072,12 @@
       <lg>
          <l>тӧлкӧн</l>
          <stg>
-            <st komContlex="ADVTAG">тӧлкӧн</st>
+            <st kpvContlex="ADVTAG">тӧлкӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧн"/>
+         <drv kpvMorph="CX-ӧн"/>
          <mg>
             <m>
                <head/>
@@ -11093,7 +11093,7 @@
       <lg>
          <l>тӧндзи</l>
          <stg>
-            <st komContlex="ADVTAG">тӧндзи</st>
+            <st kpvContlex="ADVTAG">тӧндзи</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11115,7 +11115,7 @@
       <lg>
          <l>тӧнлун</l>
          <stg>
-            <st komContlex="ADVTAG">тӧнлун</st>
+            <st kpvContlex="ADVTAG">тӧнлун</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11137,7 +11137,7 @@
       <lg>
          <l>тӧрыт</l>
          <stg>
-            <st komContlex="ADVTAG">тӧрыт</st>
+            <st kpvContlex="ADVTAG">тӧрыт</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11162,7 +11162,7 @@
       <lg>
          <l>тӧвбыд</l>
          <stg>
-            <st komContlex="ADVTAG">тӧвбыд</st>
+            <st kpvContlex="ADVTAG">тӧвбыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11184,7 +11184,7 @@
       <lg>
          <l>тӧвбыдӧн</l>
          <stg>
-            <st komContlex="ADVTAG">тӧвбыдӧн</st>
+            <st kpvContlex="ADVTAG">тӧвбыдӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11206,7 +11206,7 @@
       <lg>
          <l>тӧвнас</l>
          <stg>
-            <st komContlex="ADVTAG">тӧвнас</st>
+            <st kpvContlex="ADVTAG">тӧвнас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11228,7 +11228,7 @@
       <lg>
          <l>тӧвъяснас</l>
          <stg>
-            <st komContlex="ADVTAG">тӧвъяснас</st>
+            <st kpvContlex="ADVTAG">тӧвъяснас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11250,7 +11250,7 @@
       <lg>
          <l>телепит</l>
          <stg>
-            <st komContlex="ADVTAG">телепит</st>
+            <st kpvContlex="ADVTAG">телепит</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11273,7 +11273,7 @@
       <lg>
          <l>тырмымӧн</l>
          <stg>
-            <st komContlex="ADVTAG">тырмымӧн</st>
+            <st kpvContlex="ADVTAG">тырмымӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11296,7 +11296,7 @@
       <lg>
          <l>тырвыйӧ</l>
          <stg>
-            <st komContlex="ADVTAG">тырвыйӧ</st>
+            <st kpvContlex="ADVTAG">тырвыйӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11318,7 +11318,7 @@
       <lg>
          <l>том дырйи</l>
          <stg>
-            <st komContlex="ADVTAG">том дырйи</st>
+            <st kpvContlex="ADVTAG">том дырйи</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11341,7 +11341,7 @@
       <lg>
          <l>топ</l>
          <stg>
-            <st komContlex="ADVTAG">топ</st>
+            <st kpvContlex="ADVTAG">топ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11363,12 +11363,12 @@
       <lg>
          <l>торйӧн</l>
          <stg>
-            <st komContlex="ADVTAG">торйӧн</st>
+            <st kpvContlex="ADVTAG">торйӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧн"/>
+         <drv kpvMorph="CX-ӧн"/>
          <mg>
             <m>
                <head/>
@@ -11404,7 +11404,7 @@
       <lg>
          <l>торйӧн нин</l>
          <stg>
-            <st komContlex="ADVTAG">торйӧн нин</st>
+            <st kpvContlex="ADVTAG">торйӧн нин</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11427,7 +11427,7 @@
       <lg>
          <l>тот</l>
          <stg>
-            <st komContlex="ADVTAG">тот</st>
+            <st kpvContlex="ADVTAG">тот</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11449,7 +11449,7 @@
       <lg>
          <l>тотшкӧдчӧмӧн</l>
          <stg>
-            <st komContlex="ADVTAG">тотшкӧдчӧмӧн</st>
+            <st kpvContlex="ADVTAG">тотшкӧдчӧмӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11471,7 +11471,7 @@
       <lg>
          <l>тшӧкыда</l>
          <stg>
-            <st komContlex="ADVTAG">тшӧкыда</st>
+            <st kpvContlex="ADVTAG">тшӧкыда</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11493,7 +11493,7 @@
       <lg>
          <l>тшук</l>
          <stg>
-            <st komContlex="ADVTAG">тшук</st>
+            <st kpvContlex="ADVTAG">тшук</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11515,7 +11515,7 @@
       <lg>
          <l>тут</l>
          <stg>
-            <st komContlex="ADVTAG">тут</st>
+            <st kpvContlex="ADVTAG">тут</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11537,7 +11537,7 @@
       <lg>
          <l>юрӧн и кокӧн</l>
          <stg>
-            <st komContlex="ADVTAG">юрӧн и кокӧн</st>
+            <st kpvContlex="ADVTAG">юрӧн и кокӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11559,7 +11559,7 @@
       <lg>
          <l>юр выв тырыс</l>
          <stg>
-            <st komContlex="ADVTAG">юр выв тырыс</st>
+            <st kpvContlex="ADVTAG">юр выв тырыс</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11581,7 +11581,7 @@
       <lg>
          <l>удобнӧ</l>
          <stg>
-            <st komContlex="ADVTAG">удобнӧ</st>
+            <st kpvContlex="ADVTAG">удобнӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11603,12 +11603,12 @@
       <lg>
          <l>улӧ</l>
          <stg>
-            <st komContlex="ADVTAG">улӧ</st>
+            <st kpvContlex="ADVTAG">улӧ</st>
          </stg>
       </lg>
       <pos>SPAT-0ARG</pos>
       <e>
-         <drv komMorph="CX-ӧ"/>
+         <drv kpvMorph="CX-ӧ"/>
          <mg>
             <m>
                <head/>
@@ -11626,12 +11626,12 @@
       <lg>
          <l>улын</l>
          <stg>
-            <st komContlex="ADV-SPAT">ул</st>
+            <st kpvContlex="ADV-SPAT">ул</st>
          </stg>
       </lg>
       <pos>SPAT-0ARG</pos>
       <e>
-         <drv komMorph="CX-ын"/>
+         <drv kpvMorph="CX-ын"/>
          <mg>
             <m>
                <head/>
@@ -11649,7 +11649,7 @@
       <lg>
          <l>унаысь</l>
          <stg>
-            <st komContlex="ADVTAG">унаысь</st>
+            <st kpvContlex="ADVTAG">унаысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11672,7 +11672,7 @@
       <lg>
          <l>унджык</l>
          <stg>
-            <st komContlex="ADVTAG">унджык</st>
+            <st kpvContlex="ADVTAG">унджык</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11696,7 +11696,7 @@
       <lg>
          <l>уровйӧ</l>
          <stg>
-            <st komContlex="ADVTAG">уровйӧ</st>
+            <st kpvContlex="ADVTAG">уровйӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11718,12 +11718,12 @@
       <lg>
          <l>усур орӧмысь</l>
          <stg>
-            <st komContlex="ADVTAG">усур орӧмысь</st>
+            <st kpvContlex="ADVTAG">усур орӧмысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ысь"/>
+         <drv kpvMorph="CX-ысь"/>
          <mg>
             <m>
                <head/>
@@ -11741,7 +11741,7 @@
       <lg>
          <l>ылын</l>
          <stg>
-            <st komContlex="ADV-SPAT">ыл</st>
+            <st kpvContlex="ADV-SPAT">ыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11763,7 +11763,7 @@
       <lg>
          <l>вач</l>
          <stg>
-            <st komContlex="ADVTAG">вач</st>
+            <st kpvContlex="ADVTAG">вач</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11786,7 +11786,7 @@
       <lg>
          <l>варкйӧн</l>
          <stg>
-            <st komContlex="ADVTAG">варкйӧн</st>
+            <st kpvContlex="ADVTAG">варкйӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11808,7 +11808,7 @@
       <lg>
          <l>ваз</l>
          <stg>
-            <st komContlex="ADVTAG">ваз</st>
+            <st kpvContlex="ADVTAG">ваз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11830,7 +11830,7 @@
       <lg>
          <l>важӧн</l>
          <stg>
-            <st komContlex="ADVTAG">важӧн</st>
+            <st kpvContlex="ADVTAG">важӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11853,7 +11853,7 @@
       <lg>
          <l>важысянь</l>
          <stg>
-            <st komContlex="ADVTAG">важысянь</st>
+            <st kpvContlex="ADVTAG">важысянь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11876,7 +11876,7 @@
       <lg>
          <l>важ моз</l>
          <stg>
-            <st komContlex="ADVTAG">важ моз</st>
+            <st kpvContlex="ADVTAG">важ моз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11898,7 +11898,7 @@
       <lg>
          <l>ва бӧр</l>
          <stg>
-            <st komContlex="ADVTAG">ва бӧр</st>
+            <st kpvContlex="ADVTAG">ва бӧр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11920,7 +11920,7 @@
       <lg>
          <l>ва катчӧс</l>
          <stg>
-            <st komContlex="ADVTAG">ва катчӧс</st>
+            <st kpvContlex="ADVTAG">ва катчӧс</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11942,7 +11942,7 @@
       <lg>
          <l>ва кывтчӧс</l>
          <stg>
-            <st komContlex="ADVTAG">ва кывтчӧс</st>
+            <st kpvContlex="ADVTAG">ва кывтчӧс</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11964,7 +11964,7 @@
       <lg>
          <l>ва ньылыд</l>
          <stg>
-            <st komContlex="ADVTAG">ва ньылыд</st>
+            <st kpvContlex="ADVTAG">ва ньылыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -11986,7 +11986,7 @@
       <lg>
          <l>ва паныд</l>
          <stg>
-            <st komContlex="ADVTAG">ва паныд</st>
+            <st kpvContlex="ADVTAG">ва паныд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12008,7 +12008,7 @@
       <lg>
          <l>вӧляникысь</l>
          <stg>
-            <st komContlex="ADVTAG">вӧляникысь</st>
+            <st kpvContlex="ADVTAG">вӧляникысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12030,7 +12030,7 @@
       <lg>
          <l>вӧлисти</l>
          <stg>
-            <st komContlex="ADVTAG">вӧлисти</st>
+            <st kpvContlex="ADVTAG">вӧлисти</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12052,7 +12052,7 @@
       <lg>
          <l>вӧлись</l>
          <stg>
-            <st komContlex="ADVTAG">вӧлись</st>
+            <st kpvContlex="ADVTAG">вӧлись</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12074,7 +12074,7 @@
       <lg>
          <l>век</l>
          <stg>
-            <st komContlex="ADVTAG">век</st>
+            <st kpvContlex="ADVTAG">век</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12100,7 +12100,7 @@
       <lg>
          <l>векджык</l>
          <stg>
-            <st komContlex="ADVTAG">векджык</st>
+            <st kpvContlex="ADVTAG">векджык</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12123,7 +12123,7 @@
       <lg>
          <l>велалӧмпырысь</l>
          <stg>
-            <st komContlex="ADVTAG">велалӧмпырысь</st>
+            <st kpvContlex="ADVTAG">велалӧмпырысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12145,7 +12145,7 @@
       <lg>
          <l>вель</l>
          <stg>
-            <st komContlex="ADVTAG">вель</st>
+            <st kpvContlex="ADVTAG">вель</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12171,7 +12171,7 @@
       <lg>
          <l>верзилӧ</l>
          <stg>
-            <st komContlex="ADVTAG">верзилӧ</st>
+            <st kpvContlex="ADVTAG">верзилӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12194,7 +12194,7 @@
       <lg>
          <l>весиг</l>
          <stg>
-            <st komContlex="ADVTAG">весиг</st>
+            <st kpvContlex="ADVTAG">весиг</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12217,7 +12217,7 @@
       <lg>
          <l>весь</l>
          <stg>
-            <st komContlex="ADVTAG">весь</st>
+            <st kpvContlex="ADVTAG">весь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12240,7 +12240,7 @@
       <lg>
          <l>веськыда</l>
          <stg>
-            <st komContlex="ADVTAG">веськыда</st>
+            <st kpvContlex="ADVTAG">веськыда</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12264,7 +12264,7 @@
       <lg>
          <l>веськыдасӧ</l>
          <stg>
-            <st komContlex="ADVTAG">веськыдасӧ</st>
+            <st kpvContlex="ADVTAG">веськыдасӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12286,7 +12286,7 @@
       <lg>
          <l>весьшӧрӧ</l>
          <stg>
-            <st komContlex="ADVTAG">весьшӧрӧ</st>
+            <st kpvContlex="ADVTAG">весьшӧрӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12308,7 +12308,7 @@
       <lg>
          <l>вежмӧн</l>
          <stg>
-            <st komContlex="ADVTAG">вежмӧн</st>
+            <st kpvContlex="ADVTAG">вежмӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12330,7 +12330,7 @@
       <lg>
          <l>вылісянь</l>
          <stg>
-            <st komContlex="ADVTAG">вылісянь</st>
+            <st kpvContlex="ADVTAG">вылісянь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12352,12 +12352,12 @@
       <lg>
          <l>вылын</l>
          <stg>
-            <st komContlex="ADV-SPAT">выл</st>
+            <st kpvContlex="ADV-SPAT">выл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ын"/>
+         <drv kpvMorph="CX-ын"/>
          <mg>
             <m>
                <head/>
@@ -12375,7 +12375,7 @@
       <lg>
          <l>вывті</l>
          <stg>
-            <st komContlex="ADVTAG">вывті</st>
+            <st kpvContlex="ADVTAG">вывті</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12399,7 +12399,7 @@
       <lg>
          <l>видзшысьӧмӧн</l>
          <stg>
-            <st komContlex="ADVTAG">видзшысьӧмӧн</st>
+            <st kpvContlex="ADVTAG">видзшысьӧмӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12421,12 +12421,12 @@
       <lg>
          <l>видзӧдӧ</l>
          <stg>
-            <st komContlex="ADVTAG">видзӧдӧ</st>
+            <st kpvContlex="ADVTAG">видзӧдӧ</st>
          </stg>
       </lg>
       <pos>V_ADV-PARENTHETIC</pos>
       <e>
-         <drv komMorph="FIN-PRES-3Sg"/>
+         <drv kpvMorph="FIN-PRES-3Sg"/>
          <mg>
             <m>
                <head/>
@@ -12441,7 +12441,7 @@
       <lg>
          <l>видзӧдтӧг</l>
          <stg>
-            <st komContlex="ADVTAG">видзӧдтӧг</st>
+            <st kpvContlex="ADVTAG">видзӧдтӧг</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12474,7 +12474,7 @@
       <lg>
          <l>вирскӧб</l>
          <stg>
-            <st komContlex="ADVTAG">вирскӧб</st>
+            <st kpvContlex="ADVTAG">вирскӧб</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12496,7 +12496,7 @@
       <lg>
          <l>виш</l>
          <stg>
-            <st komContlex="ADVTAG">виш</st>
+            <st kpvContlex="ADVTAG">виш</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12518,7 +12518,7 @@
       <lg>
          <l>витысь</l>
          <stg>
-            <st komContlex="ADVTAG">витысь</st>
+            <st kpvContlex="ADVTAG">витысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12541,7 +12541,7 @@
       <lg>
          <l>визгыр</l>
          <stg>
-            <st komContlex="ADVTAG">визгыр</st>
+            <st kpvContlex="ADVTAG">визгыр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12563,7 +12563,7 @@
       <lg>
          <l>вобыд</l>
          <stg>
-            <st komContlex="ADVTAG">вобыд</st>
+            <st kpvContlex="ADVTAG">вобыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12585,7 +12585,7 @@
       <lg>
          <l>воча</l>
          <stg>
-            <st komContlex="ADVTAG">воча</st>
+            <st kpvContlex="ADVTAG">воча</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12607,7 +12607,7 @@
       <lg>
          <l>вочасӧн</l>
          <stg>
-            <st komContlex="ADVTAG">вочасӧн</st>
+            <st kpvContlex="ADVTAG">вочасӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12631,7 +12631,7 @@
       <lg>
          <l>водз</l>
          <stg>
-            <st komContlex="ADVTAG">водз</st>
+            <st kpvContlex="ADVTAG">водз</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12653,12 +12653,12 @@
       <lg>
          <l>водзӧ</l>
          <stg>
-            <st komContlex="ADVTAG">водзӧ</st>
+            <st kpvContlex="ADVTAG">водзӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ӧ"/>
+         <drv kpvMorph="CX-ӧ"/>
          <mg>
             <m>
                <head/>
@@ -12678,7 +12678,7 @@
       <lg>
          <l>водзкодь</l>
          <stg>
-            <st komContlex="ADVTAG">водзкодь</st>
+            <st kpvContlex="ADVTAG">водзкодь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12700,12 +12700,12 @@
       <lg>
          <l>водзті</l>
          <stg>
-            <st komContlex="ADVTAG">водзті</st>
+            <st kpvContlex="ADVTAG">водзті</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="CX-ті"/>
+         <drv kpvMorph="CX-ті"/>
          <mg>
             <m>
                <head/>
@@ -12720,7 +12720,7 @@
       <lg>
          <l>водзвыв</l>
          <stg>
-            <st komContlex="ADVTAG">водзвыл</st>
+            <st kpvContlex="ADVTAG">водзвыл</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12745,7 +12745,7 @@
       <lg>
          <l>войяснас</l>
          <stg>
-            <st komContlex="ADVTAG">войяснас</st>
+            <st kpvContlex="ADVTAG">войяснас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12768,7 +12768,7 @@
       <lg>
          <l>войбыд</l>
          <stg>
-            <st komContlex="ADVTAG">войбыд</st>
+            <st kpvContlex="ADVTAG">войбыд</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12790,7 +12790,7 @@
       <lg>
          <l>войдӧр</l>
          <stg>
-            <st komContlex="ADVTAG">войдӧр</st>
+            <st kpvContlex="ADVTAG">войдӧр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12812,7 +12812,7 @@
       <lg>
          <l>войдӧр</l>
          <stg>
-            <st komContlex="ADVTAG">войдӧр</st>
+            <st kpvContlex="ADVTAG">войдӧр</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12838,7 +12838,7 @@
       <lg>
          <l>войдӧрлун</l>
          <stg>
-            <st komContlex="ADVTAG">войдӧрлун</st>
+            <st kpvContlex="ADVTAG">войдӧрлун</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12860,7 +12860,7 @@
       <lg>
          <l>войколӧн</l>
          <stg>
-            <st komContlex="ADVTAG">войколӧн</st>
+            <st kpvContlex="ADVTAG">войколӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12888,7 +12888,7 @@
       <lg>
          <l>войнас</l>
          <stg>
-            <st komContlex="ADVTAG">войнас</st>
+            <st kpvContlex="ADVTAG">войнас</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12910,7 +12910,7 @@
       <lg>
          <l>войвывланьынджык</l>
          <stg>
-            <st komContlex="ADVTAG">войвывланьынджык</st>
+            <st kpvContlex="ADVTAG">войвывланьынджык</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12932,7 +12932,7 @@
       <lg>
          <l>вомӧн ног</l>
          <stg>
-            <st komContlex="ADVTAG">вомӧн ног</st>
+            <st kpvContlex="ADVTAG">вомӧн ног</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12954,7 +12954,7 @@
       <lg>
          <l>вомлала</l>
          <stg>
-            <st komContlex="ADVTAG">вомлала</st>
+            <st kpvContlex="ADVTAG">вомлала</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12976,7 +12976,7 @@
       <lg>
          <l>вожала</l>
          <stg>
-            <st komContlex="ADVTAG">вожала</st>
+            <st kpvContlex="ADVTAG">вожала</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -12998,7 +12998,7 @@
       <lg>
          <l>вожка</l>
          <stg>
-            <st komContlex="ADVTAG">вожка</st>
+            <st kpvContlex="ADVTAG">вожка</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13020,7 +13020,7 @@
       <lg>
          <l>вуж выйӧ</l>
          <stg>
-            <st komContlex="ADVTAG">вуж выйӧ</st>
+            <st kpvContlex="ADVTAG">вуж выйӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13042,7 +13042,7 @@
       <lg>
          <l>вуж выйӧн</l>
          <stg>
-            <st komContlex="ADVTAG">вуж выйӧн</st>
+            <st kpvContlex="ADVTAG">вуж выйӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13064,7 +13064,7 @@
       <lg>
          <l>жалядзза</l>
          <stg>
-            <st komContlex="ADVTAG">жалядзза</st>
+            <st kpvContlex="ADVTAG">жалядзза</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13087,7 +13087,7 @@
       <lg>
          <l>жальпырысь</l>
          <stg>
-            <st komContlex="ADVTAG">жальпырысь</st>
+            <st kpvContlex="ADVTAG">жальпырысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13111,7 +13111,7 @@
       <lg>
          <l>жальпырысь</l>
          <stg>
-            <st komContlex="ADVTAG">жальпырысь</st>
+            <st kpvContlex="ADVTAG">жальпырысь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13134,7 +13134,7 @@
       <lg>
          <l>журӧбӧн</l>
          <stg>
-            <st komContlex="ADVTAG">журӧбӧн</st>
+            <st kpvContlex="ADVTAG">журӧбӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13160,7 +13160,7 @@
       <lg>
          <l>журк</l>
          <stg>
-            <st komContlex="ADVTAG">журк</st>
+            <st kpvContlex="ADVTAG">журк</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13184,7 +13184,7 @@
       <lg>
          <l>забыль</l>
          <stg>
-            <st komContlex="ADVTAG">забыль</st>
+            <st kpvContlex="ADVTAG">забыль</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13209,7 +13209,7 @@
       <lg>
          <l>загреки</l>
          <stg>
-            <st komContlex="ADVTAG">загреки</st>
+            <st kpvContlex="ADVTAG">загреки</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13231,7 +13231,7 @@
       <lg>
          <l>загреки</l>
          <stg>
-            <st komContlex="ADVTAG">загреки</st>
+            <st kpvContlex="ADVTAG">загреки</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13253,12 +13253,12 @@
       <lg>
          <l>заводитчигӧн</l>
          <stg>
-            <st komContlex="ADVTAG">заводитчигӧн</st>
+            <st kpvContlex="ADVTAG">заводитчигӧн</st>
          </stg>
       </lg>
       <pos>ADV</pos>
       <e>
-         <drv komMorph="DV-игӧн"/>
+         <drv kpvMorph="DV-игӧн"/>
          <mg>
             <m>
                <head/>
@@ -13273,7 +13273,7 @@
       <lg>
          <l>завсе</l>
          <stg>
-            <st komContlex="ADVTAG">завсе</st>
+            <st kpvContlex="ADVTAG">завсе</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13300,7 +13300,7 @@
       <lg>
          <l>збыль</l>
          <stg>
-            <st komContlex="ADVTAG">збыль</st>
+            <st kpvContlex="ADVTAG">збыль</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13322,7 +13322,7 @@
       <lg>
          <l>здӧвӧль</l>
          <stg>
-            <st komContlex="ADVTAG">здӧвӧль</st>
+            <st kpvContlex="ADVTAG">здӧвӧль</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13346,7 +13346,7 @@
       <lg>
          <l>зэлыдакодя</l>
          <stg>
-            <st komContlex="ADVTAG">зэлыдакодя</st>
+            <st kpvContlex="ADVTAG">зэлыдакодя</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13374,7 +13374,7 @@
       <lg>
          <l>зэв</l>
          <stg>
-            <st komContlex="ADVTAG">зэв</st>
+            <st kpvContlex="ADVTAG">зэв</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13399,7 +13399,7 @@
       <lg>
          <l>зезьӧ</l>
          <stg>
-            <st komContlex="ADVTAG">зезьӧ</st>
+            <st kpvContlex="ADVTAG">зезьӧ</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13423,7 +13423,7 @@
       <lg>
          <l>зигзаг</l>
          <stg>
-            <st komContlex="ADVTAG">зигзаг</st>
+            <st kpvContlex="ADVTAG">зигзаг</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13445,7 +13445,7 @@
       <lg>
          <l>зёль</l>
          <stg>
-            <st komContlex="ADVTAG">зёль</st>
+            <st kpvContlex="ADVTAG">зёль</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13470,7 +13470,7 @@
       <lg>
          <l>зумыда</l>
          <stg>
-            <st komContlex="ADVTAG">зумыда</st>
+            <st kpvContlex="ADVTAG">зумыда</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13495,7 +13495,7 @@
       <lg>
          <l>зьвирк</l>
          <stg>
-            <st komContlex="ADVTAG">зьвирк</st>
+            <st kpvContlex="ADVTAG">зьвирк</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -13519,4 +13519,283 @@
          </mg>
       </e>
    </entry>
+   <entry>
+      <lg>
+         <l>быдлаын</l>
+         <stg>
+            <st kpvContlex="ADV-SPAT-LA">быдла</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+              <head>
+                  <isa isaType="spatial_adverb"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>everywhere</t>
+            </tg>
+            <tg lang="fin">
+               <t>(kaikkialla, kaikkialle, kaikkialta)??</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӧтилаын</l>
+         <stg>
+            <st kpvContlex="ADV-SPAT-LA">ӧтила</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa isaType="spatial_adverb"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>one place</t>
+            </tg>
+            <tg lang="fin">
+               <t>yksi paikka</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӧткымынлаын</l>
+         <stg>
+            <st kpvContlex="ADV-SPAT-LA">ӧткымынла</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa isaType="spatial_adverb"/>
+               </head>
+               <semRel lemmaID="ӧткымынлаӧ" semRelType="confer"/>
+               <semRel lemmaID="ӧткымынлаысь" semRelType="confer"/>
+               <semRel lemmaID="ӧткымынлаті" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӧтлаын</l>
+         <stg>
+            <st kpvContlex="ADV-SPAT-LA">ӧтла</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa isaType="spatial_adverb"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>гежӧдлаын</l>
+         <stg>
+            <st kpvContlex="ADV-SPAT-LA">гежӧдла</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa isaType="spatial_adverb"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>few places</t>
+            </tg>
+            <tg lang="fin">
+               <t>??harva paikka</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кызвынлаын</l>
+         <stg>
+            <st kpvContlex="ADV-SPAT-LA">кызвынла</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa isaType="spatial_adverb"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>majority of places</t>
+            </tg>
+            <tg lang="fin">
+               <t>valtaosa paikoista</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мӧдлаын</l>
+         <stg>
+            <st kpvContlex="ADV-SPAT-LA">мӧдла</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa isaType="spatial_adverb"/>
+               </head>
+               <semRel lemmaID="мӧдлаын" semRelType="confer"/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мукӧдлаын</l>
+         <stg>
+            <st kpvContlex="ADV-SPAT-LA">мукӧдла</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa isaType="spatial_adverb"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>another place</t>
+            </tg>
+            <tg lang="fin">
+               <t>muu paikka</t>
+            </tg>
+            <xg>
+               <x>мукӧдлаын</x>
+               <xt lang="eng">elsewhere</xt>
+               <xt lang="fin">muualla</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>уналаын</l>
+         <stg>
+            <st kpvContlex="ADV-SPAT-LA">унала</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa isaType="spatial_adverb"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>many places</t>
+            </tg>
+            <tg lang="fin">
+               <t>moni paikka</t>
+            </tg>
+            <xg>
+               <x>уналаын</x>
+               <xt lang="eng">in many places</xt>
+               <xt lang="fin">monessa paikassa</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>унджыклаын</l>
+         <stg>
+            <st kpvContlex="ADV-SPAT-LA">унджыкла</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa isaType="spatial_adverb"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>more places</t>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>выльлаын</l>
+         <stg>
+            <st kpvContlex="ADV-SPAT-LA">выльла</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa isaType="spatial_adverb"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>new place</t>
+            </tg>
+            <tg lang="fin">
+               <t>uusi ??paikka</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+
 </r>
