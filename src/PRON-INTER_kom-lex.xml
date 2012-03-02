@@ -9,7 +9,7 @@
             <st komContlex="PRONQTAG">кӧні</st>
          </stg>
       </lg>
-      <pos>SPAT-INTERR</pos>
+      <pos>Q_SPAT</pos>
       <e>
          <mg>
             <m>
@@ -31,7 +31,7 @@
             <st komContlex="PRONQTAG">кытӧн</st>
          </stg>
       </lg>
-      <pos>SPAT-INTERR</pos>
+      <pos>Q_SPAT</pos>
       <e>
          <mg>
             <m>
@@ -53,7 +53,7 @@
             <st komContlex="PRONQTAG">кыдзи</st>
          </stg>
       </lg>
-      <pos>MANNER-INTERR</pos>
+      <pos>Q_MANNER</pos>
       <e>
          <mg>
             <m>
@@ -76,7 +76,7 @@
             <st komContlex="PRONQTAG">кысь</st>
          </stg>
       </lg>
-      <pos>SPAT-INTERR</pos>
+      <pos>Q_SPAT</pos>
       <e>
          <drv komMorph="CX-ысь"/>
          <mg>
@@ -101,7 +101,7 @@
             <st komContlex="PRONQTAG">кытчӧ</st>
          </stg>
       </lg>
-      <pos>SPAT-INTERR</pos>
+      <pos>Q_SPAT</pos>
       <e>
          <drv komMorph="CX-ӧ" lemmaID="кытысь"/>
          <mg>
@@ -126,7 +126,7 @@
             <st komContlex="PRONQTAG">кытчӧдз</st>
          </stg>
       </lg>
-      <pos>SPAT-INTERR</pos>
+      <pos>Q_SPAT</pos>
       <e>
          <drv komMorph="CX-ӧдз" lemmaID="кытысь"/>
          <mg>
@@ -149,7 +149,7 @@
             <st komContlex="PRONQTAG">кыті</st>
          </stg>
       </lg>
-      <pos>SPAT-INTERR</pos>
+      <pos>Q_SPAT</pos>
       <e>
          <drv komMorph="CX-ті"/>
          <mg>
@@ -172,7 +172,7 @@
             <st komContlex="PRONQTAG">кытысь</st>
          </stg>
       </lg>
-      <pos>SPAT-INTERR</pos>
+      <pos>Q_SPAT</pos>
       <e>
          <drv komMorph="CX-ысь"/>
          <mg>
@@ -197,7 +197,7 @@
             <st komContlex="PRONQTAG">кодар</st>
          </stg>
       </lg>
-      <pos>DET-INTERR</pos>
+      <pos>Q_DET</pos>
       <e>
          <mg>
             <m>
@@ -221,7 +221,7 @@
             <st komContlex="PRON-INTER-HUM">код</st>
          </stg>
       </lg>
-      <pos>PERS-INTERR</pos>
+      <pos>Q_PERS</pos>
       <e>
          <mg>
             <m>
@@ -243,7 +243,7 @@
             <st komContlex="PRONQTAG">кодыр</st>
          </stg>
       </lg>
-      <pos>TEMP-INTERR</pos>
+      <pos>Q_TEMP</pos>
       <e>
          <mg>
             <m>
@@ -265,7 +265,7 @@
             <st komContlex="PRONQTAGPL">кодъяс</st>
          </stg>
       </lg>
-      <pos>PERS-INTERR</pos>
+      <pos>Q_PERS</pos>
       <e>
          <mg>
             <m>
@@ -287,7 +287,7 @@
             <st komContlex="PRONQTAG">кор</st>
          </stg>
       </lg>
-      <pos>TEMP-INTERR</pos>
+      <pos>Q_TEMP</pos>
       <e>
          <mg>
             <m>
@@ -309,7 +309,7 @@
             <st komContlex="PRONQTAG">корджык</st>
          </stg>
       </lg>
-      <pos>TEMP-INTERR</pos>
+      <pos>Q_TEMP</pos>
       <e>
          <mg>
             <m>
@@ -331,7 +331,7 @@
             <st komContlex="PRONQTAG">кутшӧм</st>
          </stg>
       </lg>
-      <pos>A-INTERR</pos>
+      <pos>Q_A</pos>
       <e>
          <mg>
             <m>
@@ -354,7 +354,7 @@
             <st komContlex="PRONQTAG">кутшӧма</st>
          </stg>
       </lg>
-      <pos>MANNER-INTERR</pos>
+      <pos>Q_MANNER</pos>
       <e>
          <mg>
             <m>
@@ -377,7 +377,7 @@
             <st komContlex="PRONQTAG">мыетш</st>
          </stg>
       </lg>
-      <pos>QNT-INTERR</pos>
+      <pos>Q_QNT</pos>
       <e>
          <mg>
             <m>
@@ -399,7 +399,7 @@
             <st komContlex="PRON-INTER-NONHUM">мый</st>
          </stg>
       </lg>
-      <pos>N-INTERR</pos>
+      <pos>Q_N</pos>
       <e>
          <mg>
             <m>
@@ -421,7 +421,7 @@
             <st komContlex="PRONQTAG">мыйла</st>
          </stg>
       </lg>
-      <pos>REASON-INTERR</pos>
+      <pos>Q_REASON</pos>
       <e>
          <mg>
             <m>
@@ -444,7 +444,7 @@
             <st komContlex="PRONQTAG">мыйта</st>
          </stg>
       </lg>
-      <pos>QNT-INTERR</pos>
+      <pos>Q_QNT</pos>
       <e>
          <mg>
             <m>
