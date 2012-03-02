@@ -18,10 +18,16 @@
                <semRel lemmaID=" жаляддза" semRelType="confer"/>
             </m>
             <tg lang="eng">
-               <t>for the sake of?? (also added directly to the head word)</t>
+               <tCtn>
+                  <t>for the sake of??</t>
+                  <re>also added directly to the head word</re>
+               </tCtn>
             </tg>
             <tg lang="fin">
-               <t>vuoksi (toimii myös päätteenä)</t>
+               <tCtn>
+                  <t>vuoksi</t>
+                  <re>toimii myös päätteenä</re>
+               </tCtn>
             </tg>
          </mg>
       </e>
