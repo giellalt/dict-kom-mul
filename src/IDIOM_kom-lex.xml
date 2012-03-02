@@ -16,10 +16,16 @@
                <head/>
             </m>
             <tg lang="eng">
-               <t>hello (on the phone instead of using name)</t>
+               <tCtn>
+                  <t>hello</t>
+                  <re>on the phone instead of using name</re>
+               </tCtn>
             </tg>
             <tg lang="fin">
-               <t>haloo! (puhelimessa nimen sijasta)</t>
+               <tCtn>
+                  <t>haloo!</t>
+                  <re>puhelimessa nimen sijasta</re>
+               </tCtn>
             </tg>
          </mg>
       </e>
@@ -154,7 +160,10 @@
                <t>good night</t>
             </tg>
             <tg lang="fin">
-               <t>hyvää yötä (nukkumaan mentäessä)</t>
+               <tCtn>
+                  <t>hyvää yötä</t>
+                  <re>nukkumaan mentäessä</re>
+               </tCtn>
             </tg>
          </mg>
       </e>
@@ -223,10 +232,16 @@
                <head/>
             </m>
             <tg lang="eng">
-               <t>exuse me (lit. don't judge)</t>
+               <tCtn>
+                  <t>exuse me</t>
+                  <re>lit. don't judge</re>
+               </tCtn>
             </tg>
             <tg lang="fin">
-               <t>antakaa anteeksi (kirj. älkää tuomitko)</t>
+               <tCtn>
+                  <t>antakaa anteeksi</t>
+                  <re>kirj. älkää tuomitko</re>
+               </tCtn>
             </tg>
          </mg>
       </e>
