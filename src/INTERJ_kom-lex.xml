@@ -16,10 +16,16 @@
                <head/>
             </m>
             <tg lang="eng">
-               <t>(expression of pity, hate, joy)</t>
+               <tCtn>
+                  <t/>
+                  <re>expression of pity, hate, joy</re>
+               </tCtn>
             </tg>
             <tg lang="fin">
-               <t>(ilmaisee sääliä, vihaa, iloa)</t>
+               <tCtn>
+                  <t/>
+                  <re>ilmaisee sääliä, vihaa, iloa</re>
+               </tCtn>
             </tg>
          </mg>
       </e>
@@ -218,11 +224,24 @@
                <head/>
             </m>
             <tg lang="eng">
-               <t>my, how (of wonder)</t>
+               <tCtn>
+                  <t>my, how</t>
+                  <re>of wonder</re>
+               </tCtn>
+               <tCtn>
+                  <t>how</t>
+                  <re>of wonder</re>
+               </tCtn>
             </tg>
             <tg lang="fin">
-               <t>miten</t>
-               <t>kuinka (ihmettely)</t>
+               <tCtn>
+                  <t>miten</t>
+                  <re>ihmettely</re>
+               </tCtn>
+               <tCtn>
+                  <t>kuinka</t>
+                  <re>ihmettely</re>
+               </tCtn>
             </tg>
          </mg>
       </e>
