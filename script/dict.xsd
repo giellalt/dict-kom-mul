@@ -63,7 +63,8 @@
       <xs:complexType mixed="true">
          <xs:sequence/>
          <xs:attribute ref="contlex"/>
-         <xs:attribute ref="komContlex"/>
+         <xs:attribute ref="erzContlex"/>
+         <xs:attribute ref="kpvContlex"/>
          <xs:attribute name="stOrth">
             <xs:simpleType>
                <xs:restriction base="xs:string">
@@ -115,17 +116,13 @@
          <xs:enumeration value="ADV-GEN"/>
          <xs:enumeration value="ADV-IDEOPH"/>
          <!--вырк, ноцк, штёлк-->
-         <xs:enumeration value="ADV-INTERR"/>
          <xs:enumeration value="MANNER"/>
          <xs:enumeration value="MANNER-INDEF"/>
-         <xs:enumeration value="MANNER-INTERR"/>
          <xs:enumeration value="ADV-PARENTHETIC"/>
          <xs:enumeration value="PRT_ADV-PARENTHETIC"/>
          <xs:enumeration value="V_ADV-PARENTHETIC"/>
          <xs:enumeration value="ADV-POSITION"/>
          <xs:enumeration value="SPAT-0ARG"/>
-         <xs:enumeration value="SPAT-INTERR"/>
-         <xs:enumeration value="SPAT-REL"/>
          <xs:enumeration value="SPAT-INDEF"/>
          <xs:enumeration value="SPAT-DEM"/>
          <xs:enumeration value="SPAT-DISTR"/>
@@ -133,8 +130,6 @@
          <xs:enumeration value="ADV-STATE"/>
          <xs:enumeration value="TEMP-0ARG"/>
          <xs:enumeration value="TEMP-0ARG-INDEF"/>
-         <xs:enumeration value="TEMP-INTERR"/>
-         <xs:enumeration value="TEMP-0ARG-REL"/>
          <xs:enumeration value="TEMP-INDEF"/>
          <xs:enumeration value="TEMP-DEICT"/>
          <xs:enumeration value="ART"/>
@@ -150,7 +145,6 @@
          <xs:enumeration value="DET-PRON"/>
          <xs:enumeration value="DET-ADN"/>
          <xs:enumeration value="DET-PL"/>
-         <xs:enumeration value="DET-INTERR"/>
          <xs:enumeration value="FORMULAIC"/>
          <xs:enumeration value="GEN-ATTR"/>
          <xs:enumeration value="ABE_A"/>
@@ -166,7 +160,6 @@
          <xs:enumeration value="INTERJ"/>
          <xs:enumeration value="INTERJ-IMP"/>
          <xs:enumeration value="INTERJ-CONATIVE"/>
-         <xs:enumeration value="PRT_INTERR"/>
          <xs:enumeration value="MODIFIER"/>
          <xs:enumeration value="DV_N"/>
          <xs:enumeration value="N"/>
@@ -184,10 +177,8 @@
          <xs:enumeration value="CARD-APPR"/>
          <xs:enumeration value="CARD-ITER"/>
          <xs:enumeration value="ITER"/>
-         <xs:enumeration value="CARD-ITER-INTERR"/>
          <xs:enumeration value="CARD-PL"/>
          <xs:enumeration value="ORD"/>
-         <xs:enumeration value="ORD-INTERR"/>
          <xs:enumeration value="ORD-ITER"/>
          <xs:enumeration value="PART"/>
          <xs:enumeration value="PART-DEICT"/>
@@ -212,7 +203,6 @@
          <xs:enumeration value="PRON-EXCL"/>
          <xs:enumeration value="PRON-GEN"/>
          <xs:enumeration value="PRON-INDEF"/>
-         <xs:enumeration value="PRON-INTERR"/>
          <xs:enumeration value="PRON-NONSPEC"/>
          <xs:enumeration value="PRON-PERS"/>
          <xs:enumeration value="PRON-PERS-INTENSIVE"/>
@@ -220,7 +210,6 @@
          <xs:enumeration value="PRON-RECIP"/>
          <xs:enumeration value="PRON-REFL"/>
          <xs:enumeration value="ADN-REFL"/>
-         <xs:enumeration value="PRON-REL"/>
          <xs:enumeration value="PROP"/>
          <xs:enumeration value="PROP-ANIM"/>
          <xs:enumeration value="PROP-DEITY"/>
@@ -238,18 +227,19 @@
          <xs:enumeration value="SPAT-DEICT"/>
          <xs:enumeration value="SPAT-INDEP"/>
          <xs:enumeration value="SPAT-DEPEND"/>
-         <xs:enumeration value="PERS-INTERR"/>
-         <xs:enumeration value="SPAT-INTERR"/>
          <xs:enumeration value="STATE"/>
          <xs:enumeration value="SUMMON"/>
          <xs:enumeration value="TEMP"/>
          <xs:enumeration value="QNT"/>
+         <xs:enumeration value="QNT-ADN"/>
+         <xs:enumeration value="QNT-PRON"/>
          <xs:enumeration value="QNT-INDEF"/>
-         <xs:enumeration value="QNT-INTERR"/>
          <xs:enumeration value="QNT-DISTR"/>
          <xs:enumeration value="QNT-GEN"/>
          <xs:enumeration value="QNT-ITER"/>
          <xs:enumeration value="QNT-UNIV"/>
+         <xs:enumeration value="QNT-UNIV-ADN"/>
+         <xs:enumeration value="QNT-UNIV-PRON"/>
          <xs:enumeration value="V"/>
          <xs:enumeration value="V-INST"/>
          <xs:enumeration value="VT"/>
@@ -260,21 +250,37 @@
          <xs:enumeration value="V-FINITE"/>
          <xs:enumeration value="V-NEG"/>
          <xs:enumeration value="V-IMP-PRT"/>
-         <xs:enumeration value="A-INTERR"/>
-         <xs:enumeration value="N-INTERR"/>
-         <xs:enumeration value="REASON-INTERR"/>
+         <xs:enumeration value="Q_A"/>
+         <xs:enumeration value="Q_ADV"/>
+         <xs:enumeration value="Q_DET"/>
+         <xs:enumeration value="Q_CARD-ITER"/>
+         <xs:enumeration value="Q_MANNER"/>
+         <xs:enumeration value="Q_N"/>
+         <xs:enumeration value="Q_ORD"/>
+         <xs:enumeration value="Q_ORD-ITER"/>
+         <xs:enumeration value="Q_PRON"/>
+         <xs:enumeration value="Q_PERS"/>
+         <xs:enumeration value="Q_QNT"/>
+         <xs:enumeration value="Q_REASON"/>
+         <xs:enumeration value="Q_SPAT"/>
+         <xs:enumeration value="Q_SPAT"/>
+         <xs:enumeration value="Q_TEMP"/>
+         <xs:enumeration value="R_SPAT"/>
+         <xs:enumeration value="R_TEMP"/>
+         <xs:enumeration value="PRT_INTERR"/>
+         <xs:enumeration value="R_PRON"/>
       </xs:restriction>
    </xs:simpleType>
    <xs:element name="src">
       <xs:complexType>
          <xs:simpleContent>
             <xs:extension base="xs:string">
-               <xs:attribute ref="komSrc"/>
+               <xs:attribute ref="kpvSrc"/>
             </xs:extension>
          </xs:simpleContent>
       </xs:complexType>
    </xs:element>
-   <xs:attribute name="komSrc">
+   <xs:attribute name="kpvSrc">
       <xs:simpleType>
          <xs:restriction base="xs:string">
             <xs:enumeration value="BIB"/>
@@ -423,7 +429,7 @@
          <xs:attribute ref="No"/>
       </xs:complexType>
    </xs:element>
-   <xs:attribute name="komContlex" type="xs:string"/>
+   <xs:attribute name="kpvContlex" type="xs:string"/>
    <xs:attribute name="erzContlex">
       <xs:simpleType>
          <xs:restriction base="xs:string">
@@ -488,7 +494,8 @@
                <xs:attribute ref="drvType"/>
                <xs:attribute ref="dx"/>
                <xs:attribute ref="lemmaID"/>
-               <xs:attribute ref="komMorph"/>
+               <xs:attribute ref="erzMorph"/>
+               <xs:attribute ref="kpvMorph"/>
                <xs:attribute ref="mx"/>
                <xs:attribute ref="nx"/>
                <xs:attribute ref="px"/>
@@ -618,7 +625,7 @@
          </xs:restriction>
       </xs:simpleType>
    </xs:attribute>
-   <xs:attribute name="komMorph">
+   <xs:attribute name="kpvMorph">
       <xs:simpleType>
          <xs:restriction base="xs:string">
             <xs:enumeration value="CX-ACC"/>
@@ -962,6 +969,7 @@
             <!-- Ancient Greek -->
             <xs:enumeration value="a-iran"/>
             <!-- Ancient Iran?? -->
+            <xs:enumeration value="koi"/>
             <xs:enumeration value="kom"/>
             <xs:enumeration value="kpv">
                <!--This is the ISO 639-3 code for Zyrian Komis-->
@@ -1016,6 +1024,8 @@
             <xs:enumeration value="personal_pronoun"/>
             <xs:enumeration value="personal_intensive_pronoun"/>
             <xs:enumeration value="reciprocal_verb"/>
+            <xs:enumeration value="spatial_adverb"/>
+            <xs:enumeration value="temporal_adverb"/>
             <!--Grammar and such before this point-->
             <xs:enumeration value="acronym"/>
             <xs:enumeration value="adult"/>
@@ -1324,8 +1334,10 @@
    </xs:attribute>
    <xs:attributeGroup name="inherentMarking">
       <xs:attribute ref="cx"/>
+      <xs:attribute ref="mx"/>
       <xs:attribute ref="nx"/>
       <xs:attribute ref="px"/>
+      <xs:attribute ref="tx"/>
    </xs:attributeGroup>
    <!--"CX" might be adapted for several languages but there are a lot of issues to deal with -->
    <xs:attribute name="cx">
@@ -1335,14 +1347,19 @@
             <xs:enumeration value="abe"/>
             <xs:enumeration value="abl"/>
             <xs:enumeration value="abs"/>
-            <xs:enumeration value="acc"/>
+            <xs:enumeration value="acc">
+               <!--[kvp: -ӧс]-->
+            </xs:enumeration>
             <xs:enumeration value="comp"/>
-            <xs:enumeration value="comit"/>
+            <xs:enumeration value="com"/>
             <xs:enumeration value="dat"/>
             <xs:enumeration value="ela"/>
             <xs:enumeration value="gen"/>
             <xs:enumeration value="ill"/>
             <xs:enumeration value="ine"/>
+            <xs:enumeration value="instr">
+               <!--[kvp: -ӧн]-->
+            </xs:enumeration>
             <xs:enumeration value="lat"/>
             <xs:enumeration value="loc"/>
             <xs:enumeration value="nom"/>
