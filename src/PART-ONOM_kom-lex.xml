@@ -16,12 +16,16 @@
                <head/>
             </m>
             <tg lang="eng">
-               <t>(what a cow says)</t>
-               <t>moo</t>
+               <tCtn>
+                  <t>moo</t>
+                  <re>what a cow says</re>
+               </tCtn>
             </tg>
             <tg lang="fin">
-               <t>(mitä lehmä sanoo)</t>
-               <t>muu</t>
+               <tCtn>
+                  <t>muu</t>
+                  <re>mitä lehmä sanoo</re>
+               </tCtn>
             </tg>
          </mg>
       </e>
