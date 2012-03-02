@@ -23275,7 +23275,8 @@
                <t>run</t>
             </tg>
             <tg lang="fin">
-               <t>juosta??</t>
+               <t>juosta</t>
+               <t>juoksennella</t>
             </tg>
          </mg>
       </e>
@@ -23586,9 +23587,9 @@
                <t>be hospitable to</t>
             </tg>
             <tg lang="fin">
-               <t>tarjota??</t>
+               <t>tarjota</t>
                <t>kestitä</t>
-               <t>majoittaa</t>
+               <t>majoittaa??</t>
             </tg>
          </mg>
       </e>
@@ -24674,7 +24675,10 @@
                <t>clench one's fists</t>
             </tg>
             <tg lang="fin">
-               <t>puristaa nyrkkiä</t>
+               <t>puristaa nyrkkiä??</t>
+               <t>paiskata kättä</t>
+               <t>rutistaa</t>
+               <t>rypistää</t>
             </tg>
          </mg>
          <mg>
@@ -24687,6 +24691,7 @@
             </tg>
             <tg lang="fin">
                <t>vaivata (taikinaa, savea)</t>
+               <t>survoa</t>
             </tg>
          </mg>
       </e>
@@ -24819,7 +24824,7 @@
                <t>buzz</t>
             </tg>
             <tg lang="fin">
-               <t>(sahasta)</t>
+               <t>vinkua (sahasta)</t>
             </tg>
          </mg>
          <mg>
@@ -24911,6 +24916,8 @@
             </tg>
             <tg lang="fin">
                <t>kätkeä</t>
+               <t>piilottaa</t>
+               <t>haudata</t>
             </tg>
          </mg>
       </e>
@@ -24941,6 +24948,7 @@
             <tg lang="fin">
                <t>olla piilossa</t>
                <t>piiloutua</t>
+               <t>kätkeytyä</t>
             </tg>
          </mg>
       </e>
@@ -25065,6 +25073,7 @@
             </tg>
             <tg lang="fin">
                <t>lyödä, että tärisee??</t>
+               <t>läimäyttää</t>
             </tg>
          </mg>
          <mg>
@@ -25187,6 +25196,7 @@
             </tg>
             <tg lang="fin">
                <t>panna vankilaan</t>
+               <t>vangita</t>
             </tg>
          </mg>
          <mg>
@@ -25367,7 +25377,7 @@
                <t>well up (of tears)</t>
             </tg>
             <tg lang="fin">
-               <t>??tulla näkyviin (kyynelistä)</t>
+               <t>tulvahtaa (kyynelistä)</t>
             </tg>
          </mg>
       </e>
