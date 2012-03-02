@@ -16,15 +16,21 @@
                <head/>
             </m>
             <tg lang="eng">
-               <t>did it (question phrase following a statement??)</t>
+               <tCtn>
+                  <t>did it</t>
+                  <re>question phrase following a statement??</re>
+               </tCtn>
             </tg>
             <tg lang="fin">
-               <t>vai (jälkikysymyksenä väitelauseen jälkeen??)</t>
+               <tCtn>
+                  <t>vai</t>
+                  <re>jälkikysymyksenä väitelauseen jälkeen??</re>
+               </tCtn>
             </tg>
             <xg>
                <x>мыйкӧ лои, а?</x>
-               <xt lang="eng">something happened, did it</xt>
-               <xt lang="fin">jotain tapahtui, vai</xt>
+               <xt lang="eng">something happened, did it?</xt>
+               <xt lang="fin">jotain tapahtui, vai?</xt>
             </xg>
          </mg>
          <mg>
