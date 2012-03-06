@@ -6,7 +6,7 @@
       <lg>
          <l>кӧнкӧ</l>
          <stg>
-            <st komContlex="PRONINDEFTAG">кӧнкӧ</st>
+            <st kpvContlex="PRONINDEFTAG">кӧнкӧ</st>
          </stg>
       </lg>
       <pos>PRON-INDEF</pos>
@@ -28,7 +28,7 @@
       <lg>
          <l>кымынкӧ</l>
          <stg>
-            <st komContlex="PRONINDEFTAG">кымынкӧ</st>
+            <st kpvContlex="PRONINDEFTAG">кымынкӧ</st>
          </stg>
       </lg>
       <pos>PRON-INDEF</pos>
@@ -50,7 +50,7 @@
       <lg>
          <l>кыськӧ</l>
          <stg>
-            <st komContlex="PRONINDEFTAG">кыськӧ</st>
+            <st kpvContlex="PRONINDEFTAG">кыськӧ</st>
          </stg>
       </lg>
       <pos>PRON-INDEF</pos>
@@ -73,12 +73,12 @@
       <lg>
          <l>кытчӧкӧ</l>
          <stg>
-            <st komContlex="PRONINDEFTAG">кытчӧкӧ</st>
+            <st kpvContlex="PRONINDEFTAG">кытчӧкӧ</st>
          </stg>
       </lg>
       <pos>PRON-INDEF</pos>
       <e>
-         <drv komMorph="CX-ӧ" lemmaID="кытыськӧ_PRON"/>
+         <drv kpvMorph="CX-ӧ" lemmaID="кытыськӧ_PRON"/>
          <mg>
             <m>
                <head/>
@@ -96,12 +96,12 @@
       <lg>
          <l>кытыськӧ</l>
          <stg>
-            <st komContlex="PRONINDEFTAG">кытыськӧ</st>
+            <st kpvContlex="PRONINDEFTAG">кытыськӧ</st>
          </stg>
       </lg>
       <pos>PRON-INDEF</pos>
       <e>
-         <drv komMorph="CX-ысь"/>
+         <drv kpvMorph="CX-ысь"/>
          <mg>
             <m>
                <head/>
@@ -119,7 +119,7 @@
       <lg>
          <l>кодкӧ</l>
          <stg>
-            <st komContlex="PRONINDEFTAG-KO">код</st>
+            <st kpvContlex="PRONINDEFTAG-KO">код</st>
          </stg>
       </lg>
       <pos>PRON-INDEF</pos>
@@ -141,7 +141,7 @@
       <lg>
          <l>кодсюрӧ</l>
          <stg>
-            <st komContlex="PRONINDEFTAG">кодсюрӧ</st>
+            <st kpvContlex="PRONINDEFTAG">кодсюрӧ</st>
          </stg>
       </lg>
       <pos>PRON-INDEF</pos>
@@ -165,7 +165,7 @@
       <lg>
          <l>кутшӧмкӧ</l>
          <stg>
-            <st komContlex="PRONINDEFTAG">кутшӧмкӧ</st>
+            <st kpvContlex="PRONINDEFTAG">кутшӧмкӧ</st>
          </stg>
       </lg>
       <pos>PRON-INDEF</pos>
@@ -187,7 +187,7 @@
       <lg>
          <l>кутшӧмсюрӧ</l>
          <stg>
-            <st komContlex="PRONINDEFTAG">кутшӧмсюрӧ</st>
+            <st kpvContlex="PRONINDEFTAG">кутшӧмсюрӧ</st>
          </stg>
       </lg>
       <pos>PRON-INDEF</pos>
@@ -211,7 +211,7 @@
       <lg>
          <l>мыйкӧ</l>
          <stg>
-            <st komContlex="PRONINDEFTAG-KO">мый</st>
+            <st kpvContlex="PRONINDEFTAG-KO">мый</st>
          </stg>
       </lg>
       <pos>PRON-INDEF</pos>
@@ -234,7 +234,7 @@
       <lg>
          <l>мыйлакӧ</l>
          <stg>
-            <st komContlex="PRONINDEFTAG">мыйлакӧ</st>
+            <st kpvContlex="PRONINDEFTAG">мыйлакӧ</st>
          </stg>
       </lg>
       <pos>PRON-INDEF</pos>
@@ -256,7 +256,7 @@
       <lg>
          <l>мыйсюрӧ</l>
          <stg>
-            <st komContlex="PRONINDEFTAG">мыйсюрӧ</st>
+            <st kpvContlex="PRONINDEFTAG">мыйсюрӧ</st>
          </stg>
       </lg>
       <pos>PRON-INDEF</pos>
@@ -291,7 +291,7 @@
       <lg>
          <l>мыйтакӧ</l>
          <stg>
-            <st komContlex="PRONINDEFTAG">мыйтакӧ</st>
+            <st kpvContlex="PRONINDEFTAG">мыйтакӧ</st>
          </stg>
       </lg>
       <pos>PRON-INDEF</pos>
