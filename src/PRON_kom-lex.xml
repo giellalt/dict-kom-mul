@@ -6,7 +6,7 @@
       <lg>
          <l>кытчӧ</l>
          <stg>
-            <st komContlex="PRON-REL">кытчӧ</st>
+            <st kpvContlex="PRON-REL">кытчӧ</st>
          </stg>
       </lg>
       <pos>PRON</pos>
@@ -29,7 +29,7 @@
       <lg>
          <l>ӧта-мӧд</l>
          <stg>
-            <st komContlex="PRON-RECIPR">ӧта-мӧд</st>
+            <st kpvContlex="PRON-RECIPR">ӧта-мӧд</st>
          </stg>
       </lg>
       <pos>PRON</pos>
@@ -51,12 +51,12 @@
       <lg>
          <l>кытчӧдз</l>
          <stg>
-            <st komContlex="PRON-REL">кытчӧдз</st>
+            <st kpvContlex="PRON-REL">кытчӧдз</st>
          </stg>
       </lg>
       <pos>PRON</pos>
       <e>
-         <drv komMorph="CX-ӧдз"/>
+         <drv kpvMorph="CX-ӧдз"/>
          <mg>
             <m>
                <head/>
@@ -75,12 +75,12 @@
       <lg>
          <l>кытӧні</l>
          <stg>
-            <st komContlex="PRON-REL">кытӧні</st>
+            <st kpvContlex="PRON-REL">кытӧні</st>
          </stg>
       </lg>
       <pos>PRON</pos>
       <e>
-         <drv komMorph="CX-ын"/>
+         <drv kpvMorph="CX-ын"/>
          <mg>
             <m>
                <head/>
@@ -98,12 +98,12 @@
       <lg>
          <l>кытысь</l>
          <stg>
-            <st komContlex="PRON-REL">кытысь</st>
+            <st kpvContlex="PRON-REL">кытысь</st>
          </stg>
       </lg>
       <pos>PRON</pos>
       <e>
-         <drv komMorph="CX-ысь"/>
+         <drv kpvMorph="CX-ысь"/>
          <mg>
             <m>
                <head/>
@@ -122,7 +122,7 @@
       <lg>
          <l>коді</l>
          <stg>
-            <st komContlex="PRON-REL-HUM">код</st>
+            <st kpvContlex="PRON-REL-HUM">код</st>
          </stg>
       </lg>
       <pos>PRON</pos>
@@ -146,7 +146,7 @@
       <lg>
          <l>коді</l>
          <stg>
-            <st komContlex="PRON-REL">код</st>
+            <st kpvContlex="PRON-REL">код</st>
          </stg>
       </lg>
       <pos>PRON</pos>
@@ -170,7 +170,7 @@
       <lg>
          <l>кор</l>
          <stg>
-            <st komContlex="PRON-REL">кор</st>
+            <st kpvContlex="PRON-REL">кор</st>
          </stg>
       </lg>
       <pos>PRON</pos>
@@ -192,7 +192,7 @@
       <lg>
          <l>корджык</l>
          <stg>
-            <st komContlex="PRON-REL">корджык</st>
+            <st kpvContlex="PRON-REL">корджык</st>
          </stg>
       </lg>
       <pos>PRON</pos>
@@ -214,12 +214,12 @@
       <lg>
          <l>некысь</l>
          <stg>
-            <st komContlex="PRON-NEG">некысь</st>
+            <st kpvContlex="PRON-NEG">некысь</st>
          </stg>
       </lg>
       <pos>PRON</pos>
       <e>
-         <drv komMorph="CX-ысь"/>
+         <drv kpvMorph="CX-ысь"/>
          <mg>
             <m>
                <head/>
@@ -237,12 +237,12 @@
       <lg>
          <l>некытчӧ</l>
          <stg>
-            <st komContlex="PRON-NEG">некытчӧ</st>
+            <st kpvContlex="PRON-NEG">некытчӧ</st>
          </stg>
       </lg>
       <pos>PRON</pos>
       <e>
-         <drv komMorph="CX-ӧ" lemmaID="некытысь_PRON"/>
+         <drv kpvMorph="CX-ӧ" lemmaID="некытысь_PRON"/>
          <mg>
             <m>
                <head/>
@@ -260,7 +260,7 @@
       <lg>
          <l>некыті</l>
          <stg>
-            <st komContlex="PRON-NEG">некыті</st>
+            <st kpvContlex="PRON-NEG">некыті</st>
          </stg>
       </lg>
       <pos>PRON</pos>
@@ -282,12 +282,12 @@
       <lg>
          <l>некытысь</l>
          <stg>
-            <st komContlex="PRON-NEG">некытысь</st>
+            <st kpvContlex="PRON-NEG">некытысь</st>
          </stg>
       </lg>
       <pos>PRON</pos>
       <e>
-         <drv komMorph="CX-ысь"/>
+         <drv kpvMorph="CX-ысь"/>
          <mg>
             <m>
                <head/>
@@ -305,7 +305,7 @@
       <lg>
          <l>некод</l>
          <stg>
-            <st komContlex="PRON-NEG-HUM">некод</st>
+            <st kpvContlex="PRON-NEG-HUM">некод</st>
          </stg>
       </lg>
       <pos>PRON</pos>
@@ -339,7 +339,7 @@
       <lg>
          <l>некодар</l>
          <stg>
-            <st komContlex="PRON-NEG">некодар</st>
+            <st kpvContlex="PRON-NEG">некодар</st>
          </stg>
       </lg>
       <pos>PRON</pos>
@@ -361,7 +361,7 @@
       <lg>
          <l>нем</l>
          <stg>
-            <st komContlex="PRON-NEG">нем</st>
+            <st kpvContlex="PRON-NEG">нем</st>
          </stg>
       </lg>
       <pos>PRON</pos>
@@ -383,7 +383,7 @@
       <lg>
          <l>немтор</l>
          <stg>
-            <st komContlex="PRON-NEG">немторй</st>
+            <st kpvContlex="PRON-NEG">немторй</st>
          </stg>
       </lg>
       <pos>PRON</pos>
