@@ -6,7 +6,7 @@
       <lg>
          <l>дас</l>
          <stg>
-            <st komContlex="CARD">дас</st>
+            <st kpvContlex="CARD">дас</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -28,7 +28,7 @@
       <lg>
          <l>дзурс</l>
          <stg>
-            <st komContlex="CARD">дзурс</st>
+            <st kpvContlex="CARD">дзурс</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -53,7 +53,7 @@
       <lg>
          <l>этша</l>
          <stg>
-            <st komContlex="DET">этша</st>
+            <st kpvContlex="DET">этша</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -76,7 +76,7 @@
       <lg>
          <l>ӧкмыс</l>
          <stg>
-            <st komContlex="CARD">ӧкмыс</st>
+            <st kpvContlex="CARD">ӧкмыс</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -98,7 +98,7 @@
       <lg>
          <l>ӧкмысдас</l>
          <stg>
-            <st komContlex="CARD">ӧкмысдас</st>
+            <st kpvContlex="CARD">ӧкмысдас</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -120,7 +120,7 @@
       <lg>
          <l>ӧкмыссё</l>
          <stg>
-            <st komContlex="CARD">ӧкмыссё</st>
+            <st kpvContlex="CARD">ӧкмыссё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -142,7 +142,7 @@
       <lg>
          <l>ӧт</l>
          <stg>
-            <st komContlex="CARD">ӧт</st>
+            <st kpvContlex="CARD">ӧт</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -164,7 +164,7 @@
       <lg>
          <l>ӧти</l>
          <stg>
-            <st komContlex="CARD">ӧти</st>
+            <st kpvContlex="CARD">ӧти</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -198,7 +198,7 @@
       <lg>
          <l>ӧтиысь</l>
          <stg>
-            <st komContlex="ADVTAG">ӧтиысь</st>
+            <st kpvContlex="ADVTAG">ӧтиысь</st>
          </stg>
       </lg>
       <pos>ITER</pos>
@@ -220,7 +220,7 @@
       <lg>
          <l>ӧтик</l>
          <stg>
-            <st komContlex="CARD">ӧтик</st>
+            <st kpvContlex="CARD">ӧтик</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -244,7 +244,7 @@
       <lg>
          <l>ӧткымын</l>
          <stg>
-            <st komContlex="DET">ӧткымын</st>
+            <st kpvContlex="DET">ӧткымын</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -266,7 +266,7 @@
       <lg>
          <l>кӧкъямыс</l>
          <stg>
-            <st komContlex="CARD">кӧкъямыс</st>
+            <st kpvContlex="CARD">кӧкъямыс</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -288,7 +288,7 @@
       <lg>
          <l>кӧкъямысдас</l>
          <stg>
-            <st komContlex="CARD">кӧкъямысдас</st>
+            <st kpvContlex="CARD">кӧкъямысдас</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -310,7 +310,7 @@
       <lg>
          <l>кӧкъямыссё</l>
          <stg>
-            <st komContlex="CARD">кӧкъямыссё</st>
+            <st kpvContlex="CARD">кӧкъямыссё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -332,7 +332,7 @@
       <lg>
          <l>кык</l>
          <stg>
-            <st komContlex="CARD">кык</st>
+            <st kpvContlex="CARD">кык</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -354,7 +354,7 @@
       <lg>
          <l>кыксё</l>
          <stg>
-            <st komContlex="CARD">кыксё</st>
+            <st kpvContlex="CARD">кыксё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -376,7 +376,7 @@
       <lg>
          <l>кызь</l>
          <stg>
-            <st komContlex="CARD">кызь</st>
+            <st kpvContlex="CARD">кызь</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -398,7 +398,7 @@
       <lg>
          <l>коимӧд</l>
          <stg>
-            <st komContlex="ORD">коимӧд</st>
+            <st kpvContlex="ORD">коимӧд</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -420,7 +420,7 @@
       <lg>
          <l>коймӧд</l>
          <stg>
-            <st komContlex="ORD">коймӧд</st>
+            <st kpvContlex="ORD">коймӧд</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -442,7 +442,7 @@
       <lg>
          <l>комын</l>
          <stg>
-            <st komContlex="CARD">комын</st>
+            <st kpvContlex="CARD">комын</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -464,7 +464,7 @@
       <lg>
          <l>куим</l>
          <stg>
-            <st komContlex="CARD">куим</st>
+            <st kpvContlex="CARD">куим</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -486,7 +486,7 @@
       <lg>
          <l>куимсё</l>
          <stg>
-            <st komContlex="CARD">куимсё</st>
+            <st kpvContlex="CARD">куимсё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -508,7 +508,7 @@
       <lg>
          <l>квайт</l>
          <stg>
-            <st komContlex="CARD">квайт</st>
+            <st kpvContlex="CARD">квайт</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -530,7 +530,7 @@
       <lg>
          <l>квайтымын</l>
          <stg>
-            <st komContlex="CARD">квайтымын</st>
+            <st kpvContlex="CARD">квайтымын</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -552,7 +552,7 @@
       <lg>
          <l>квайтсё</l>
          <stg>
-            <st komContlex="CARD">квайтсё</st>
+            <st kpvContlex="CARD">квайтсё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -574,7 +574,7 @@
       <lg>
          <l>мӧд</l>
          <stg>
-            <st komContlex="ORD">мӧд</st>
+            <st kpvContlex="ORD">мӧд</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -597,7 +597,7 @@
       <lg>
          <l>мӧдӧд</l>
          <stg>
-            <st komContlex="ORD">мӧдӧд</st>
+            <st kpvContlex="ORD">мӧдӧд</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -621,7 +621,7 @@
       <lg>
          <l>миллиард</l>
          <stg>
-            <st komContlex="CARD">миллиард</st>
+            <st kpvContlex="CARD">миллиард</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -646,7 +646,7 @@
       <lg>
          <l>миллион</l>
          <stg>
-            <st komContlex="CARD">миллион</st>
+            <st kpvContlex="CARD">миллион</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -668,7 +668,7 @@
       <lg>
          <l>нелямын</l>
          <stg>
-            <st komContlex="CARD">нелямын</st>
+            <st kpvContlex="CARD">нелямын</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -690,7 +690,7 @@
       <lg>
          <l>нёль</l>
          <stg>
-            <st komContlex="CARD">нёль</st>
+            <st kpvContlex="CARD">нёль</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -712,7 +712,7 @@
       <lg>
          <l>нёльсё</l>
          <stg>
-            <st komContlex="CARD">нёльсё</st>
+            <st kpvContlex="CARD">нёльсё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -734,7 +734,7 @@
       <lg>
          <l>первӧй</l>
          <stg>
-            <st komContlex="ORD">первӧй</st>
+            <st kpvContlex="ORD">первӧй</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -757,7 +757,7 @@
       <lg>
          <l>первой</l>
          <stg>
-            <st komContlex="ORD">первой</st>
+            <st kpvContlex="ORD">первой</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -780,7 +780,7 @@
       <lg>
          <l>сизим</l>
          <stg>
-            <st komContlex="CARD">сизим</st>
+            <st kpvContlex="CARD">сизим</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -802,7 +802,7 @@
       <lg>
          <l>сизимдас</l>
          <stg>
-            <st komContlex="CARD">сизимдас</st>
+            <st kpvContlex="CARD">сизимдас</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -824,7 +824,7 @@
       <lg>
          <l>сизимсё</l>
          <stg>
-            <st komContlex="CARD">сизимсё</st>
+            <st kpvContlex="CARD">сизимсё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -846,7 +846,7 @@
       <lg>
          <l>сё</l>
          <stg>
-            <st komContlex="CARD">сё</st>
+            <st kpvContlex="CARD">сё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -868,7 +868,7 @@
       <lg>
          <l>сюрс</l>
          <stg>
-            <st komContlex="CARD">сюрс</st>
+            <st kpvContlex="CARD">сюрс</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -890,7 +890,7 @@
       <lg>
          <l>тысяча</l>
          <stg>
-            <st komContlex="CARD">тысяча</st>
+            <st kpvContlex="CARD">тысяча</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -913,7 +913,7 @@
       <lg>
          <l>триллион</l>
          <stg>
-            <st komContlex="CARD">триллион</st>
+            <st kpvContlex="CARD">триллион</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -940,7 +940,7 @@
       <lg>
          <l>уна</l>
          <stg>
-            <st komContlex="DET">уна</st>
+            <st kpvContlex="DET">уна</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -977,7 +977,7 @@
       <lg>
          <l>ветымын</l>
          <stg>
-            <st komContlex="CARD">ветымын</st>
+            <st kpvContlex="CARD">ветымын</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -999,7 +999,7 @@
       <lg>
          <l>вит</l>
          <stg>
-            <st komContlex="CARD">вит</st>
+            <st kpvContlex="CARD">вит</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -1021,7 +1021,7 @@
       <lg>
          <l>витӧд</l>
          <stg>
-            <st komContlex="ORD">витӧд</st>
+            <st kpvContlex="ORD">витӧд</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -1043,7 +1043,7 @@
       <lg>
          <l>витсё</l>
          <stg>
-            <st komContlex="CARD">витсё</st>
+            <st kpvContlex="CARD">витсё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
