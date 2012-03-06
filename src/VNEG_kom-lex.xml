@@ -1,588 +1,527 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dict xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <!--
-<entry>
-  <lemma>CiprianAndTrond</lemma>
-  <stem>FixThis</stem>
-  <contlex>#</contlex>
-  <pos>N</pos>
-  <article>
- <eng>We need an attr saying _do not make lexc_</eng>
-  </article>
-   </entry>
--->
-   <!--
-comment: The problem here is the  share of burden between xml and lexc.
-The VERBNEGATIVE lexicon looks like this:
-LEXICON VERBNEGATIVE
-оз+V+Neg+Ind+Prs+Sg1:ог K ;
-оз+V+Neg+Ind+Prs+Sg2:он K ;
-оз+V+Neg+Ind+Prs+Sg3:оз K ;
-...
-
-The problem with the things below is that "lemma" and "stem" are mixed.
-"lemma" is used in two ways: 
-a. as ditionary lookup term (expected is the wordform)
-b. as fst reference term (expected is оз)
-
-For the time being we should have a special contlex entry saying
-<contlex>NOCONTLEXGENERATION</contlex>
-with a corresponding if-statement in the xslt file generating
-the kt/tmp/out/ files.
-
-Conclusion reached (?) on Jan 1st ( :-) a new year's promise):
-We do the pronouns in the same way.
-Preliminary, we comment them out from the dict, awaiting an
-implementation of the NOCONTLEX contlex value.
- o
-In this way we can use stems from the individual personal pronouns once each 
-ме
-тэ
-
--->
+<entry> <lg><l>CiprianAndTrond</l><stg> <st kpvContlex="#">FixThis</st></stg></lg><pos>N</pos><e> <mg><m><head></head></m> <tg lang="eng">We need an attr saying _do not make lexc_</tg> </mg> </e></entry> -->
+   <!-- comment: The problem here is the share of burden between xml and lexc. The VERBNEGATIVE lexicon looks like this: LEXICON VERBNEGATIVE оз+V+Neg+Ind+Prs+Sg1:ог K ; оз+V+Neg+Ind+Prs+Sg2:он K ; оз+V+Neg+Ind+Prs+Sg3:оз K ; ... The problem with the things below is that"l" and"st" are mixed."l" is used in two ways: a. as ditionary lookup term (expected is the wordform) b. as fst reference term (expected is оз) For the time being we should have a special contlex entry saying <contlex>NOCONTLEXGENERATION</contlex> with a corresponding if-statement in the xslt file generating the kt/tmp/out/ files. Conclusion reached (?) on Jan 1st ( :-) a new year's promise): We do the pronouns in the same way. Preliminary, we comment them out from the dict, awaiting an implementation of the NOCONTLEX contlex value. o In this way we can use sts from the individual personal pronouns once each ме тэ -->
    <entry exclude="fst">
-      <lemma>эг</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>we didn't </variant>
-               <variant> we weren't</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>emme</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>PRET1 PL1</msp>
-      </article>
-      <article>
-         <eng>
-            <choice>
-               <variant>I didn't </variant>
-               <variant> I wasn't</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>en</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>PRET1 SG1</msp>
-      </article>
+      <lg>
+         <l>эг</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <drv px="1" tx="pret1"/>
+         <mg>
+            <m>
+               <head>
+                  <isa nx="Pl" px="1" tx="pret1"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>we didn't</t>
+               <t>we weren't</t>
+            </tg>
+            <tg lang="fin">
+               <t>emme</t>
+            </tg>
+         </mg>
+         <mg>
+            <m>
+               <head>
+                  <isa nx="Sg" px="1" tx="pret1"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>I didn't</t>
+               <t>I wasn't</t>
+            </tg>
+            <tg lang="fin">
+               <t>en</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>эгӧ</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>we didn't </variant>
-               <variant> we weren't</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>emme</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>PRET1 PL1</msp>
-      </article>
+      <lg>
+         <l>эгӧ</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <drv px="1" tx="non-past"/>
+         <mg>
+            <m>
+               <head>
+                  <isa px="1Pl" tx="pret1"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>we didn't</t>
+               <t>we weren't</t>
+            </tg>
+            <tg lang="fin">
+               <t>emme</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>эгӧй</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>we didn't </variant>
-               <variant> we weren't</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>emme</variant>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>PRET1 PL1</msp>
-      </article>
+      <lg>
+         <l>эгӧй</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <drv px="1Pl" tx="pret1"/>
+         <mg>
+            <m>
+               <head>
+                  <isa px="1Pl" tx="pret1"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>we didn't</t>
+               <t>we weren't</t>
+            </tg>
+            <tg lang="fin">
+               <t>emme</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>эн</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <msp>SG2, PL2</msp>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>IMP PL2</msp>
-      </article>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>IMP SG2</msp>
-      </article>
+      <lg>
+         <l>эн</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <drv mx="imp" px="2" tx="pret1"/>
+         <mg>
+            <m>
+               <head>
+                  <isa px="2" tx="pret1"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+         <mg>
+            <m>
+               <head>
+                  <isa mx="imp" px="2"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>эн</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>PRET1 PL2</msp>
-      </article>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>PRET1 SG2</msp>
-      </article>
+      <lg>
+         <l>эн</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa px="2Pl" tx="pret1"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+         <mg>
+            <m>
+               <head>
+                  <isa px="2Sg" tx="pret1"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>энӧ</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <msp>PL2</msp>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>IMP PL2</msp>
-      </article>
+      <lg>
+         <l>энӧ</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa mx="imp" px="2Pl"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>энӧ</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>PRET1 PL2</msp>
-      </article>
+      <lg>
+         <l>энӧ</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa px="2Pl" tx="pret1"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>энӧй</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <msp>PL2</msp>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>IMP PL2</msp>
-      </article>
+      <lg>
+         <l>энӧй</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa mx="imp" px="2Pl"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+         <mg>
+            <m>
+               <head>
+                  <isa px="2Pl" tx="pret1"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>энӧй</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>PRET1 PL2</msp>
-      </article>
+      <lg>
+         <l>энлӧй</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa mx="imp" px="2Pl"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>wait (a little)</t>
+            </tg>
+            <tg lang="fin">
+               <t>odottakaapas (vähäsen)</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>энлӧй</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <msp>IMP PL2</msp>
-         <eng>
-            <choice>
-               <variant>wait (a little)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>odottakaapas (vähäsen)</variant>
-            </choice>
-         </fin>
-         <pro>
-            <choice>
-               <variant/>
-            </choice>
-         </pro>
-      </article>
+      <lg>
+         <l>энлы</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa mx="imp" px="2Sg"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>wait (a little)</t>
+            </tg>
+            <tg lang="fin">
+               <t>odotas (vähäsen)</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>энлы</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <msp>IMP PL2</msp>
-         <eng>
-            <choice>
-               <variant>wait (a little)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>odottakaapas (vähäsen)</variant>
-            </choice>
-         </fin>
-         <pro>
-            <choice>
-               <variant/>
-            </choice>
-         </pro>
-      </article>
-      <article>
-         <msp>IMP SG2</msp>
-         <eng>
-            <choice>
-               <variant>wait (a little)</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>odotas (vähäsen)</variant>
-            </choice>
-         </fin>
-         <pro>
-            <choice>
-               <variant/>
-            </choice>
-         </pro>
-      </article>
+      <lg>
+         <l>эз</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa px="3" tx="pret1"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>эз</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>PRET1 PL3</msp>
-      </article>
-      <article>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-         <cf>
-            <choice>
-               <variant/>
-            </choice>
-         </cf>
-         <msp>PRET1 SG3</msp>
-      </article>
+      <lg>
+         <l>ог</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa px="1Pl" tx="pres"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+         <mg>
+            <m>
+               <head>
+                  <isa px="1Sg" tx="pres"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>ог</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <msp>PRES PL1</msp>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-      </article>
-      <article>
-         <msp>PRES SG1</msp>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>огӧ</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa px="1Pl" tx="pres"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>огӧ</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <msp>PRES PL1</msp>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>огӧй</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa px="1Pl" tx="pres"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>огӧй</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <msp>PRES PL1</msp>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>он</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa px="2Pl" tx="pres"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>он</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <msp>PRES PL2</msp>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>он</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa px="2Sg" tx="pres"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>он</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <msp>PRES SG2</msp>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>онӧй</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa px="2Pl" tx="pres"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
    </entry>
    <entry exclude="fst">
-      <lemma>онӧй</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <msp>PRES PL2</msp>
-         <eng>
-            <choice>
-               <variant/>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant/>
-            </choice>
-         </fin>
-      </article>
+      <lg>
+         <l>оз</l>
+         <stg>
+            <st kpvContlex="#">оз</st>
+         </stg>
+      </lg>
+      <pos>V-NEG</pos>
+      <e>
+         <drv/>
+         <mg>
+            <m>
+               <head>
+                  <isa px="3Pl" tx="pres"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>not</t>
+            </tg>
+            <tg lang="fin">
+               <t>eivät</t>
+            </tg>
+         </mg>
+         <mg>
+            <m>
+               <head>
+                  <isa px="3Sg" tx="pres"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>not</t>
+            </tg>
+            <tg lang="fin">
+               <t>ei</t>
+            </tg>
+         </mg>
+      </e>
    </entry>
-   <entry exclude="fst">
-      <lemma>оз</lemma>
-      <stem>оз</stem>
-      <contlex>#</contlex>
-      <pos>VNEG</pos>
-      <article>
-         <eng>
-            <choice>
-               <variant>not</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>eivät</variant>
-            </choice>
-         </fin>
-         <msp>PRES PL3</msp>
-      </article>
-      <article>
-         <eng>
-            <choice>
-               <variant>not</variant>
-            </choice>
-         </eng>
-         <fin>
-            <choice>
-               <variant>ei</variant>
-            </choice>
-         </fin>
-         <msp>PRES SG3</msp>
-      </article>
-   </entry>
-</dict>
+</r>
