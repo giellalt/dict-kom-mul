@@ -6,7 +6,7 @@
       <lg>
          <l>а</l>
          <stg>
-            <st komContlex="EndPart">а</st>
+            <st kpvContlex="EndPart">а</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -55,7 +55,7 @@
       <lg>
          <l>абу</l>
          <stg>
-            <st komContlex="EndNeg">абу</st>
+            <st kpvContlex="EndNeg">абу</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -257,7 +257,7 @@
       <lg>
          <l>бара</l>
          <stg>
-            <st komContlex="EndPart">бара</st>
+            <st kpvContlex="EndPart">бара</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -330,7 +330,7 @@
       <lg>
          <l>быттьӧ</l>
          <stg>
-            <st komContlex="EndPart">быттьӧ</st>
+            <st kpvContlex="EndPart">быттьӧ</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -353,7 +353,7 @@
       <lg>
          <l>быттьӧкӧ</l>
          <stg>
-            <st komContlex="EndPart">быттьӧкӧ</st>
+            <st kpvContlex="EndPart">быттьӧкӧ</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -377,7 +377,7 @@
       <lg>
          <l>быть</l>
          <stg>
-            <st komContlex="EndPart">быть</st>
+            <st kpvContlex="EndPart">быть</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -406,7 +406,7 @@
       <lg>
          <l>буди</l>
          <stg>
-            <st komContlex="EndPart">буди</st>
+            <st kpvContlex="EndPart">буди</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -434,7 +434,7 @@
       <lg>
          <l>будичи</l>
          <stg>
-            <st komContlex="EndPart">будичи</st>
+            <st kpvContlex="EndPart">будичи</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -461,7 +461,7 @@
       <lg>
          <l>чӧв</l>
          <stg>
-            <st komContlex="EndPart">чӧл</st>
+            <st kpvContlex="EndPart">чӧл</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -489,7 +489,7 @@
       <lg>
          <l>дай</l>
          <stg>
-            <st komContlex="EndPart">дай</st>
+            <st kpvContlex="EndPart">дай</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -515,7 +515,7 @@
       <lg>
          <l>дак</l>
          <stg>
-            <st komContlex="EndPart">дак</st>
+            <st kpvContlex="EndPart">дак</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -537,7 +537,7 @@
       <lg>
          <l>давай</l>
          <stg>
-            <st komContlex="EndPart">давай</st>
+            <st kpvContlex="EndPart">давай</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -561,7 +561,7 @@
       <lg>
          <l>дзик</l>
          <stg>
-            <st komContlex="EndPart">дзик</st>
+            <st kpvContlex="EndPart">дзик</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -586,7 +586,7 @@
       <lg>
          <l>дзикӧдз</l>
          <stg>
-            <st komContlex="EndPart">дзикӧдз</st>
+            <st kpvContlex="EndPart">дзикӧдз</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -613,7 +613,7 @@
       <lg>
          <l>эськӧ</l>
          <stg>
-            <st komContlex="EndPart">эськӧ</st>
+            <st kpvContlex="EndPart">эськӧ</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -659,7 +659,7 @@
       <lg>
          <l>ӧд</l>
          <stg>
-            <st komContlex="EndPart">ӧд</st>
+            <st kpvContlex="EndPart">ӧд</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -681,7 +681,7 @@
       <lg>
          <l>и</l>
          <stg>
-            <st komContlex="EndPart">и</st>
+            <st kpvContlex="EndPart">и</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -703,7 +703,7 @@
       <lg>
          <l>кӧть еськӧ</l>
          <stg>
-            <st komContlex="EndPart">кӧть еськӧ</st>
+            <st kpvContlex="EndPart">кӧть еськӧ</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -727,7 +727,7 @@
       <lg>
          <l>кыкнан</l>
          <stg>
-            <st komContlex="EndPart">кыкнан</st>
+            <st kpvContlex="EndPart">кыкнан</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -749,7 +749,7 @@
       <lg>
          <l>ли</l>
          <stg>
-            <st komContlex="EndQST">ли</st>
+            <st kpvContlex="EndQST">ли</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -772,7 +772,7 @@
       <lg>
          <l>мӧй</l>
          <stg>
-            <st komContlex="EndPart">мӧй</st>
+            <st kpvContlex="EndPart">мӧй</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -794,7 +794,7 @@
       <lg>
          <l>мед</l>
          <stg>
-            <st komContlex="EndPart">мед</st>
+            <st kpvContlex="EndPart">мед</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -816,7 +816,7 @@
       <lg>
          <l>медлы</l>
          <stg>
-            <st komContlex="EndPart">медлы</st>
+            <st kpvContlex="EndPart">медлы</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -838,7 +838,7 @@
       <lg>
          <l>медлыты</l>
          <stg>
-            <st komContlex="EndPart">медлыты</st>
+            <st kpvContlex="EndPart">медлыты</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -860,7 +860,7 @@
       <lg>
          <l>медлытыкӧ</l>
          <stg>
-            <st komContlex="EndPart">медлытыкӧ</st>
+            <st kpvContlex="EndPart">медлытыкӧ</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -882,7 +882,7 @@
       <lg>
          <l>медтӧ</l>
          <stg>
-            <st komContlex="EndPart">медтӧ</st>
+            <st kpvContlex="EndPart">медтӧ</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -904,7 +904,7 @@
       <lg>
          <l>медтыкӧ</l>
          <stg>
-            <st komContlex="EndPart">медтыкӧ</st>
+            <st kpvContlex="EndPart">медтыкӧ</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -926,7 +926,7 @@
       <lg>
          <l>медъя</l>
          <stg>
-            <st komContlex="EndPart">медъя</st>
+            <st kpvContlex="EndPart">медъя</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -948,7 +948,7 @@
       <lg>
          <l>мися</l>
          <stg>
-            <st komContlex="EndPart">мися</st>
+            <st kpvContlex="EndPart">мися</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1035,7 +1035,7 @@
       <lg>
          <l>муртса</l>
          <stg>
-            <st komContlex="EndPart">муртса</st>
+            <st kpvContlex="EndPart">муртса</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1066,7 +1066,7 @@
       <lg>
          <l>на</l>
          <stg>
-            <st komContlex="EndPart">на</st>
+            <st kpvContlex="EndPart">на</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1088,7 +1088,7 @@
       <lg>
          <l>не</l>
          <stg>
-            <st komContlex="EndNeg">не</st>
+            <st kpvContlex="EndNeg">не</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1110,7 +1110,7 @@
       <lg>
          <l>нӧ</l>
          <stg>
-            <st komContlex="EndPart">нӧ</st>
+            <st kpvContlex="EndPart">нӧ</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1153,7 +1153,7 @@
       <lg>
          <l>немас</l>
          <stg>
-            <st komContlex="EndPart">немас</st>
+            <st kpvContlex="EndPart">немас</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1175,7 +1175,7 @@
       <lg>
          <l>неужели</l>
          <stg>
-            <st komContlex="EndPart">неужели</st>
+            <st kpvContlex="EndPart">неужели</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1198,7 +1198,7 @@
       <lg>
          <l>нисьӧ</l>
          <stg>
-            <st komContlex="EndPart">нисьӧ</st>
+            <st kpvContlex="EndPart">нисьӧ</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1220,7 +1220,7 @@
       <lg>
          <l>но</l>
          <stg>
-            <st komContlex="EndPart">но</st>
+            <st kpvContlex="EndPart">но</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1242,7 +1242,7 @@
       <lg>
          <l>пӧ</l>
          <stg>
-            <st komContlex="EndPart">пӧ</st>
+            <st kpvContlex="EndPart">пӧ</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1265,7 +1265,7 @@
       <lg>
          <l>пӧжалуй</l>
          <stg>
-            <st komContlex="EndPart">пӧжалуй</st>
+            <st kpvContlex="EndPart">пӧжалуй</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1289,7 +1289,7 @@
       <lg>
          <l>со</l>
          <stg>
-            <st komContlex="EndPart">со</st>
+            <st kpvContlex="EndPart">со</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1314,7 +1314,7 @@
       <lg>
          <l>тыкӧ</l>
          <stg>
-            <st komContlex="EndPart">тыкӧ</st>
+            <st kpvContlex="EndPart">тыкӧ</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1336,7 +1336,7 @@
       <lg>
          <l>то</l>
          <stg>
-            <st komContlex="EndPart">то</st>
+            <st kpvContlex="EndPart">то</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1358,7 +1358,7 @@
       <lg>
          <l>тон</l>
          <stg>
-            <st komContlex="EndPart">тон</st>
+            <st kpvContlex="EndPart">тон</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1380,7 +1380,7 @@
       <lg>
          <l>тшӧтш</l>
          <stg>
-            <st komContlex="EndPart">тшӧтш</st>
+            <st kpvContlex="EndPart">тшӧтш</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1408,7 +1408,7 @@
       <lg>
          <l>вай</l>
          <stg>
-            <st komContlex="EndPart">вай</st>
+            <st kpvContlex="EndPart">вай</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1430,7 +1430,7 @@
       <lg>
          <l>вӧлӧм</l>
          <stg>
-            <st komContlex="EndPart">вӧлӧм</st>
+            <st kpvContlex="EndPart">вӧлӧм</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1458,7 +1458,7 @@
       <lg>
          <l>вӧлӧмкӧ</l>
          <stg>
-            <st komContlex="EndPart">вӧлӧмкӧ</st>
+            <st kpvContlex="EndPart">вӧлӧмкӧ</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1482,7 +1482,7 @@
       <lg>
          <l>вед</l>
          <stg>
-            <st komContlex="EndPart">вед</st>
+            <st kpvContlex="EndPart">вед</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1505,7 +1505,7 @@
       <lg>
          <l>век жӧ</l>
          <stg>
-            <st komContlex="EndPart">век жӧ</st>
+            <st kpvContlex="EndPart">век жӧ</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1527,7 +1527,7 @@
       <lg>
          <l>жӧ</l>
          <stg>
-            <st komContlex="EndPart">жӧ</st>
+            <st kpvContlex="EndPart">жӧ</st>
          </stg>
       </lg>
       <pos>PART</pos>
@@ -1549,7 +1549,7 @@
       <lg>
          <l>зато</l>
          <stg>
-            <st komContlex="EndPart">зато</st>
+            <st kpvContlex="EndPart">зато</st>
          </stg>
       </lg>
       <pos>PART</pos>
