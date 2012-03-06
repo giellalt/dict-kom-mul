@@ -6,7 +6,7 @@
       <lg>
          <l>бау</l>
          <stg>
-            <st komContlex="ONOM">бау</st>
+            <st kpvContlex="ONOM">бау</st>
          </stg>
       </lg>
       <pos>PART-ONOM</pos>
@@ -34,7 +34,7 @@
       <lg>
          <l>быз</l>
          <stg>
-            <st komContlex="ONOM">быз</st>
+            <st kpvContlex="ONOM">быз</st>
          </stg>
       </lg>
       <pos>PART-ONOM</pos>
@@ -57,7 +57,7 @@
       <lg>
          <l>бультік</l>
          <stg>
-            <st komContlex="ONOM">бультік</st>
+            <st kpvContlex="ONOM">бультік</st>
          </stg>
       </lg>
       <pos>PART-ONOM</pos>
@@ -80,7 +80,7 @@
       <lg>
          <l>бут</l>
          <stg>
-            <st komContlex="ONOM">бут</st>
+            <st kpvContlex="ONOM">бут</st>
          </stg>
       </lg>
       <pos>PART-ONOM</pos>
@@ -103,7 +103,7 @@
       <lg>
          <l>дзиз</l>
          <stg>
-            <st komContlex="ONOM">дзиз</st>
+            <st kpvContlex="ONOM">дзиз</st>
          </stg>
       </lg>
       <pos>PART-ONOM</pos>
@@ -127,7 +127,7 @@
       <lg>
          <l>герч</l>
          <stg>
-            <st komContlex="ONOM">герч</st>
+            <st kpvContlex="ONOM">герч</st>
          </stg>
       </lg>
       <pos>PART-ONOM</pos>
@@ -149,7 +149,7 @@
       <lg>
          <l>гизь</l>
          <stg>
-            <st komContlex="ADVTAG">гизь</st>
+            <st kpvContlex="ADVTAG">гизь</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -172,7 +172,7 @@
       <lg>
          <l>голь</l>
          <stg>
-            <st komContlex="ONOM">голь</st>
+            <st kpvContlex="ONOM">голь</st>
          </stg>
       </lg>
       <pos>PART-ONOM</pos>
@@ -194,7 +194,7 @@
       <lg>
          <l>гольс</l>
          <stg>
-            <st komContlex="ONOM">гольс</st>
+            <st kpvContlex="ONOM">гольс</st>
          </stg>
       </lg>
       <pos>PART-ONOM</pos>
@@ -216,7 +216,7 @@
       <lg>
          <l>гудж</l>
          <stg>
-            <st komContlex="ONOM">гудж</st>
+            <st kpvContlex="ONOM">гудж</st>
          </stg>
       </lg>
       <pos>PART-ONOM</pos>
@@ -238,7 +238,7 @@
       <lg>
          <l>гур</l>
          <stg>
-            <st komContlex="ONOM">гур</st>
+            <st kpvContlex="ONOM">гур</st>
          </stg>
       </lg>
       <pos>PART-ONOM</pos>
@@ -260,7 +260,7 @@
       <lg>
          <l>кам</l>
          <stg>
-            <st komContlex="ADVTAG">кам</st>
+            <st kpvContlex="ADVTAG">кам</st>
          </stg>
       </lg>
       <pos>ADV</pos>
@@ -282,7 +282,7 @@
       <lg>
          <l>тарк</l>
          <stg>
-            <st komContlex="ONOM">тарк</st>
+            <st kpvContlex="ONOM">тарк</st>
          </stg>
       </lg>
       <pos>PART-ONOM</pos>
@@ -304,7 +304,7 @@
       <lg>
          <l>тулуллу</l>
          <stg>
-            <st komContlex="ONOM">тулуллу</st>
+            <st kpvContlex="ONOM">тулуллу</st>
          </stg>
       </lg>
       <pos>PART-ONOM</pos>
@@ -326,7 +326,7 @@
       <lg>
          <l>зур</l>
          <stg>
-            <st komContlex="ONOM">зур</st>
+            <st kpvContlex="ONOM">зур</st>
          </stg>
       </lg>
       <pos>PART-ONOM</pos>
