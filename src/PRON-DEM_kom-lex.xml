@@ -6,7 +6,7 @@
       <lg>
          <l>эсійӧ</l>
          <stg>
-            <st komContlex="PRONDEMTAG-ES">эс</st>
+            <st kpvContlex="PRONDEMTAG-ES">эс</st>
          </stg>
       </lg>
       <pos>DEM-PRON</pos>
@@ -28,7 +28,7 @@
       <lg>
          <l>тайӧ</l>
          <stg>
-            <st komContlex="PRONDEMTAGSG-TA">та</st>
+            <st kpvContlex="PRONDEMTAGSG-TA">та</st>
          </stg>
       </lg>
       <pos>DEM-PRON</pos>
@@ -50,7 +50,7 @@
       <lg>
          <l>эсійӧяс</l>
          <stg>
-            <st komContlex="PRONDEMTAGPL">эсійӧяс</st>
+            <st kpvContlex="PRONDEMTAGPL">эсійӧяс</st>
          </stg>
       </lg>
       <pos>DEM-PRON</pos>
@@ -72,7 +72,7 @@
       <lg>
          <l>эсы</l>
          <stg>
-            <st komContlex="PRONDEMTAG">эсы</st>
+            <st kpvContlex="PRONDEMTAG">эсы</st>
          </stg>
       </lg>
       <pos>DEM-PRON</pos>
@@ -95,7 +95,7 @@
       <lg>
          <l>эта</l>
          <stg>
-            <st komContlex="PRONDEMTAG">эта</st>
+            <st kpvContlex="PRONDEMTAG">эта</st>
          </stg>
       </lg>
       <pos>DEM-PRON</pos>
@@ -117,7 +117,7 @@
       <lg>
          <l>этайӧ</l>
          <stg>
-            <st komContlex="PRONDEMTAGSG-TA">эта</st>
+            <st kpvContlex="PRONDEMTAGSG-TA">эта</st>
          </stg>
       </lg>
       <pos>DEM-PRON</pos>
@@ -139,7 +139,7 @@
       <lg>
          <l>этійӧ</l>
          <stg>
-            <st komContlex="PRONDEMTAG">этійӧ</st>
+            <st kpvContlex="PRONDEMTAG">этійӧ</st>
          </stg>
       </lg>
       <pos>DEM-PRON</pos>
@@ -162,12 +162,12 @@
       <lg>
          <l>сэтӧні</l>
          <stg>
-            <st komContlex="PRONDEMTAG">сэтӧні</st>
+            <st kpvContlex="PRONDEMTAG">сэтӧні</st>
          </stg>
       </lg>
       <pos>DEM-PRON</pos>
       <e>
-         <drv komMorph="CX-ын"/>
+         <drv kpvMorph="CX-ын"/>
          <mg>
             <m>
                <head/>
@@ -185,7 +185,7 @@
       <lg>
          <l>со</l>
          <stg>
-            <st komContlex="PRONDEMTAG">со</st>
+            <st kpvContlex="PRONDEMTAG">со</st>
          </stg>
       </lg>
       <pos>DEM-PRON</pos>
@@ -207,7 +207,7 @@
       <lg>
          <l>татӧні</l>
          <stg>
-            <st komContlex="PRONDEMTAG">татӧні</st>
+            <st kpvContlex="PRONDEMTAG">татӧні</st>
          </stg>
       </lg>
       <pos>DEM-PRON</pos>
