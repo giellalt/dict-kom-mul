@@ -645,6 +645,7 @@
             <xs:enumeration value="CX-ысь"/>
             <xs:enumeration value="CX-ын"/>
             <xs:enumeration value="DA-а"/>
+            <xs:enumeration value="DA-лун"/>
             <xs:enumeration value="DA-торй"/>
             <xs:enumeration value="DV-ыл"/>
             <xs:enumeration value="DV-ышт"/>
@@ -655,6 +656,8 @@
             <xs:enumeration value="DN-ся"/>
             <xs:enumeration value="DN-торй"/>
             <xs:enumeration value="DN-тӧм"/>
+            <xs:enumeration value="DN-ук"/>
+            <xs:enumeration value="DN-ӧс"/>
             <xs:enumeration value="DV-игӧн"/>
             <xs:enumeration value="DV-мӧн"/>
             <xs:enumeration value="DV-ӧм"/>
@@ -951,6 +954,7 @@
             <xs:enumeration value="SDW"/>
             <xs:enumeration value="SW"/>
             <xs:enumeration value="U"/>
+            <xs:enumeration value="Ud"/>
             <xs:enumeration value="Udora"/>
             <xs:enumeration value="V"/>
          </xs:restriction>
@@ -1025,6 +1029,8 @@
             <!--"TERM" This is a peculiarity of some dictionaries and must be dealt with.-->
             <xs:enumeration value="old_foreign_word"/>
             <xs:enumeration value="comparative_form"/>
+            <xs:enumeration value="count_noun"/>
+            <xs:enumeration value="noncount_noun"/>
             <xs:enumeration value="ideophone"/>
             <xs:enumeration value="incoative_verb"/>
             <xs:enumeration value="ideophonic_verb"/>
@@ -1034,6 +1040,7 @@
             <xs:enumeration value="reciprocal_verb"/>
             <xs:enumeration value="spatial_adverb"/>
             <xs:enumeration value="temporal_adverb"/>
+            <xs:enumeration value="swear_word"/>
             <!--Grammar and such before this point-->
             <xs:enumeration value="acronym"/>
             <xs:enumeration value="adult"/>
