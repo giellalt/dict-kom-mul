@@ -17,7 +17,7 @@
       <lg>
          <l>ме</l>
          <stg>
-            <st komContlex="PRON-PERS-SG1-NOM">ме</st>
+            <st kpvContlex="PRON-PERS-SG1-NOM">ме</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -39,12 +39,12 @@
       <lg>
          <l>мем</l>
          <stg>
-            <st komContlex="PRON-PERS-SG1-DAT">мем</st>
+            <st kpvContlex="PRON-PERS-SG1-DAT">мем</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
       <e>
-         <drv komMorph="CX-DAT" lemmaID="ме_PERS"/>
+         <drv kpvMorph="CX-DAT" lemmaID="ме_PERS"/>
          <mg>
             <m>
                <head/>
@@ -63,12 +63,12 @@
       <lg>
          <l>мен</l>
          <stg>
-            <st komContlex="PRON-PERS-SG1-DAT">мен</st>
+            <st kpvContlex="PRON-PERS-SG1-DAT">мен</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
       <e>
-         <drv komMorph="CX-DAT" lemmaID="ме_PERS"/>
+         <drv kpvMorph="CX-DAT" lemmaID="ме_PERS"/>
          <mg>
             <m>
                <head/>
@@ -87,12 +87,12 @@
       <lg>
          <l>менам</l>
          <stg>
-            <st komContlex="PRON-PERS-SG1-GEN">менам</st>
+            <st kpvContlex="PRON-PERS-SG1-GEN">менам</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
       <e>
-         <drv komMorph="CX-GEN" lemmaID="ме_PERS"/>
+         <drv kpvMorph="CX-GEN" lemmaID="ме_PERS"/>
          <mg>
             <m>
                <head/>
@@ -112,12 +112,12 @@
       <lg>
          <l>меным</l>
          <stg>
-            <st komContlex="PRON-PERS-SG1-DAT">меным</st>
+            <st kpvContlex="PRON-PERS-SG1-DAT">меным</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
       <e>
-         <drv komMorph="CX-DAT" lemmaID="ме_PERS"/>
+         <drv kpvMorph="CX-DAT" lemmaID="ме_PERS"/>
          <mg>
             <m>
                <head/>
@@ -136,12 +136,12 @@
       <lg>
          <l>менсьым</l>
          <stg>
-            <st komContlex="PRON-PERS-SG1-ELA">менсьым</st>
+            <st kpvContlex="PRON-PERS-SG1-ELA">менсьым</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
       <e>
-         <drv komMorph="CX-ысь" lemmaID="ме_PERS"/>
+         <drv kpvMorph="CX-ысь" lemmaID="ме_PERS"/>
          <mg>
             <m>
                <head/>
@@ -159,7 +159,7 @@
       <lg>
          <l>ми</l>
          <stg>
-            <st komContlex="PRON-PERS-PL1-NOM">ми</st>
+            <st kpvContlex="PRON-PERS-PL1-NOM">ми</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -187,7 +187,7 @@
       <lg>
          <l>мийӧ</l>
          <stg>
-            <st komContlex="PRON-PERS-PL1-NOM">мийӧ</st>
+            <st kpvContlex="PRON-PERS-PL1-NOM">мийӧ</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -210,7 +210,7 @@
       <lg>
          <l>на</l>
          <stg>
-            <st komContlex="PRON-PERS-PL3-NOM">на</st>
+            <st kpvContlex="PRON-PERS-PL3-NOM">на</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -233,7 +233,7 @@
       <lg>
          <l>найӧ</l>
          <stg>
-            <st komContlex="PRON-PERS-PL3-NOM">найӧ</st>
+            <st kpvContlex="PRON-PERS-PL3-NOM">найӧ</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -256,7 +256,7 @@
       <lg>
          <l>найӧ</l>
          <stg>
-            <st komContlex="PRON-PERS-PL3-NOM">найӧ</st>
+            <st kpvContlex="PRON-PERS-PL3-NOM">найӧ</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -279,7 +279,7 @@
       <lg>
          <l>найӧс</l>
          <stg>
-            <st komContlex="PRON-PERS-PL3-ACC">найӧс</st>
+            <st kpvContlex="PRON-PERS-PL3-ACC">найӧс</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -310,7 +310,7 @@
       <lg>
          <l>сійӧ</l>
          <stg>
-            <st komContlex="PRON-PERS-SG3-NOM">сійӧ</st>
+            <st kpvContlex="PRON-PERS-SG3-NOM">сійӧ</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -339,7 +339,7 @@
       <lg>
          <l>сійӧс</l>
          <stg>
-            <st komContlex="PRON-PERS-SG3-ACC">сійӧс</st>
+            <st kpvContlex="PRON-PERS-SG3-ACC">сійӧс</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -370,7 +370,7 @@
       <lg>
          <l>сы</l>
          <stg>
-            <st komContlex="PRON-PERS-SG3-NOM">сы</st>
+            <st kpvContlex="PRON-PERS-SG3-NOM">сы</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -394,7 +394,7 @@
       <lg>
          <l>сы</l>
          <stg>
-            <st komContlex="PRON-PERS-SG3-OBL">сы</st>
+            <st kpvContlex="PRON-PERS-SG3-OBL">сы</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -418,7 +418,7 @@
       <lg>
          <l>та</l>
          <stg>
-            <st komContlex="PRON-PERS-SG3-NOM">та</st>
+            <st kpvContlex="PRON-PERS-SG3-NOM">та</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -441,7 +441,7 @@
       <lg>
          <l>тайӧ</l>
          <stg>
-            <st komContlex="PRON-PERS-SG3-NOM">тайӧ</st>
+            <st kpvContlex="PRON-PERS-SG3-NOM">тайӧ</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -463,7 +463,7 @@
       <lg>
          <l>тайӧяс</l>
          <stg>
-            <st komContlex="PRON-PERS-PL3-NOM">тайӧяс</st>
+            <st kpvContlex="PRON-PERS-PL3-NOM">тайӧяс</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -485,7 +485,7 @@
       <lg>
          <l>тэ</l>
          <stg>
-            <st komContlex="PRON-PERS-SG2-NOM">тэ</st>
+            <st kpvContlex="PRON-PERS-SG2-NOM">тэ</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -507,12 +507,12 @@
       <lg>
          <l>тэд</l>
          <stg>
-            <st komContlex="PRON-PERS-SG2-DAT">тэд</st>
+            <st kpvContlex="PRON-PERS-SG2-DAT">тэд</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
       <e>
-         <drv komMorph="CX-DAT" lemmaID="тэ_PERS"/>
+         <drv kpvMorph="CX-DAT" lemmaID="тэ_PERS"/>
          <mg>
             <m>
                <head/>
@@ -531,7 +531,7 @@
       <lg>
          <l>тэн</l>
          <stg>
-            <st komContlex="PRON-PERS-SG2-DAT">тэн</st>
+            <st kpvContlex="PRON-PERS-SG2-DAT">тэн</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -555,7 +555,7 @@
       <lg>
          <l>тэнад</l>
          <stg>
-            <st komContlex="PRON-PERS-SG2-GEN">тэнад</st>
+            <st kpvContlex="PRON-PERS-SG2-GEN">тэнад</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -578,7 +578,7 @@
       <lg>
          <l>тэныд</l>
          <stg>
-            <st komContlex="PRON-PERS-SG2-DAT">тэныд</st>
+            <st kpvContlex="PRON-PERS-SG2-DAT">тэныд</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -601,7 +601,7 @@
       <lg>
          <l>тэнсьыд</l>
          <stg>
-            <st komContlex="PRON-PERS-SG2-ABL">тэнсьыд</st>
+            <st kpvContlex="PRON-PERS-SG2-ABL">тэнсьыд</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -624,7 +624,7 @@
       <lg>
          <l>ті</l>
          <stg>
-            <st komContlex="PRON-PERS-PL2-NOM">ті</st>
+            <st kpvContlex="PRON-PERS-PL2-NOM">ті</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
