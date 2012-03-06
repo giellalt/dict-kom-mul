@@ -6,7 +6,7 @@
       <lg>
          <l>быд</l>
          <stg>
-            <st komContlex="PRONQTAG">быд</st>
+            <st kpvContlex="PRONQTAG">быд</st>
          </stg>
       </lg>
       <pos>QNT-UNIV-ADN</pos>
@@ -28,7 +28,7 @@
       <lg>
          <l>быдӧн</l>
          <stg>
-            <st komContlex="PRONQ-COLL">быдӧн</st>
+            <st kpvContlex="PRONQ-COLL">быдӧн</st>
          </stg>
       </lg>
       <pos>QNT-UNIV-PRON</pos>
@@ -51,7 +51,7 @@
       <lg>
          <l>быдся</l>
          <stg>
-            <st komContlex="PRONQTAG">быдся</st>
+            <st kpvContlex="PRONQTAG">быдся</st>
          </stg>
       </lg>
       <pos>QNT-UNIV-ADN</pos>
@@ -78,7 +78,7 @@
       <lg>
          <l>быдсяма</l>
          <stg>
-            <st komContlex="PRONQTAG">быдсяма</st>
+            <st kpvContlex="PRONQTAG">быдсяма</st>
          </stg>
       </lg>
       <pos>QNT-UNIV-ADN</pos>
@@ -105,7 +105,7 @@
       <lg>
          <l>быдсӧн</l>
          <stg>
-            <st komContlex="PRONQ-COLL">быдсӧн</st>
+            <st kpvContlex="PRONQ-COLL">быдсӧн</st>
          </stg>
       </lg>
       <pos>QNT-UNIV-PRON</pos>
@@ -129,7 +129,7 @@
       <lg>
          <l>этшаӧн</l>
          <stg>
-            <st komContlex="PRONQ-COLL">этшаӧн</st>
+            <st kpvContlex="PRONQ-COLL">этшаӧн</st>
          </stg>
       </lg>
       <pos>QNT-PRON</pos>
@@ -151,7 +151,7 @@
       <lg>
          <l>ӧтар</l>
          <stg>
-            <st komContlex="PRONQTAG">ӧтар</st>
+            <st kpvContlex="PRONQTAG">ӧтар</st>
          </stg>
       </lg>
       <pos>QNT-PRON</pos>
@@ -180,7 +180,7 @@
       <lg>
          <l>кымын</l>
          <stg>
-            <st komContlex="PRONQTAG">кымын</st>
+            <st kpvContlex="PRONQTAG">кымын</st>
          </stg>
       </lg>
       <pos>Q_QNT</pos>
@@ -202,7 +202,7 @@
       <lg>
          <l>мӧдар</l>
          <stg>
-            <st komContlex="PRONQTAG">мӧдар</st>
+            <st kpvContlex="PRONQTAG">мӧдар</st>
          </stg>
       </lg>
       <pos>QNT-PRON</pos>
@@ -225,7 +225,7 @@
       <lg>
          <l>мукӧд</l>
          <stg>
-            <st komContlex="PRONQ-MUKOD">мукӧд</st>
+            <st kpvContlex="PRONQ-MUKOD">мукӧд</st>
          </stg>
       </lg>
       <pos>QNT-ADN</pos>
@@ -248,7 +248,7 @@
       <lg>
          <l>неуна</l>
          <stg>
-            <st komContlex="PRONQTAG">неуна</st>
+            <st kpvContlex="PRONQTAG">неуна</st>
          </stg>
       </lg>
       <pos>QNT-PRON</pos>
@@ -271,7 +271,7 @@
       <lg>
          <l>ньӧти</l>
          <stg>
-            <st komContlex="PRONQTAG">ньӧти</st>
+            <st kpvContlex="PRONQTAG">ньӧти</st>
          </stg>
       </lg>
       <pos>QNT-ADN</pos>
@@ -297,7 +297,7 @@
       <lg>
          <l>став</l>
          <stg>
-            <st komContlex="PRONQ-STAV">став</st>
+            <st kpvContlex="PRONQ-STAV">став</st>
          </stg>
       </lg>
       <pos>QNT-ADN</pos>
@@ -325,7 +325,7 @@
       <lg>
          <l>став</l>
          <stg>
-            <st komContlex="PRONQTAG">став</st>
+            <st kpvContlex="PRONQTAG">став</st>
          </stg>
       </lg>
       <pos>QNT-UNIV-PRON</pos>
@@ -348,7 +348,7 @@
       <lg>
          <l>ставӧн</l>
          <stg>
-            <st komContlex="PRONQ-COLL">ставӧн</st>
+            <st kpvContlex="PRONQ-COLL">ставӧн</st>
          </stg>
       </lg>
       <pos>QNT-UNIV-PRON</pos>
@@ -371,7 +371,7 @@
       <lg>
          <l>ставыс</l>
          <stg>
-            <st komContlex="PRONQTAG">ставыс</st>
+            <st kpvContlex="PRONQTAG">ставыс</st>
          </stg>
       </lg>
       <pos>QNT-UNIV-PRON</pos>
@@ -397,7 +397,7 @@
       <lg>
          <l>унаӧн</l>
          <stg>
-            <st komContlex="PRONQ-COLL">унаӧн</st>
+            <st kpvContlex="PRONQ-COLL">унаӧн</st>
          </stg>
       </lg>
       <pos>QNT-PRON</pos>
