@@ -6,7 +6,7 @@
       <lg>
          <l>ас</l>
          <stg>
-            <st komContlex="EndRefl">ас</st>
+            <st kpvContlex="EndRefl">ас</st>
          </stg>
       </lg>
       <pos>ADN-REFL</pos>
@@ -28,7 +28,7 @@
       <lg>
          <l>ачыд</l>
          <stg>
-            <st komContlex="PRON-REFL-SG2-NOM">ачыд</st>
+            <st kpvContlex="PRON-REFL-SG2-NOM">ачыд</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -52,7 +52,7 @@
       <lg>
          <l>ачым</l>
          <stg>
-            <st komContlex="PRON-REFL-SG1-NOM">ачым</st>
+            <st kpvContlex="PRON-REFL-SG1-NOM">ачым</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -76,7 +76,7 @@
       <lg>
          <l>ачымӧс</l>
          <stg>
-            <st komContlex="PRON-REFL-SG1-ACC">ачымӧс</st>
+            <st kpvContlex="PRON-REFL-SG1-ACC">ачымӧс</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -100,7 +100,7 @@
       <lg>
          <l>ачыс</l>
          <stg>
-            <st komContlex="PRON-REFL-SG3-NOM">ачыс</st>
+            <st kpvContlex="PRON-REFL-SG3-NOM">ачыс</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -127,7 +127,7 @@
       <lg>
          <l>аскӧдыд</l>
          <stg>
-            <st komContlex="PRON-REFL-SG2-COM">аскӧдыд</st>
+            <st kpvContlex="PRON-REFL-SG2-COM">аскӧдыд</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -149,7 +149,7 @@
       <lg>
          <l>аскӧдыс</l>
          <stg>
-            <st komContlex="PRON-REFL-SG3-COM">аскӧдыс</st>
+            <st kpvContlex="PRON-REFL-SG3-COM">аскӧдыс</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -171,7 +171,7 @@
       <lg>
          <l>аскӧдныд</l>
          <stg>
-            <st komContlex="PRON-REFL-PL2-COM">аскӧдныд</st>
+            <st kpvContlex="PRON-REFL-PL2-COM">аскӧдныд</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -193,7 +193,7 @@
       <lg>
          <l>аскӧдным</l>
          <stg>
-            <st komContlex="PRON-REFL-PL1-COM">аскӧдным</st>
+            <st kpvContlex="PRON-REFL-PL1-COM">аскӧдным</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -215,7 +215,7 @@
       <lg>
          <l>аскӧдныс</l>
          <stg>
-            <st komContlex="PRON-REFL-PL3-COM">аскӧдныс</st>
+            <st kpvContlex="PRON-REFL-PL3-COM">аскӧдныс</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -237,7 +237,7 @@
       <lg>
          <l>аслад</l>
          <stg>
-            <st komContlex="PRON-REFL-SG2-GEN">аслад</st>
+            <st kpvContlex="PRON-REFL-SG2-GEN">аслад</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -261,7 +261,7 @@
       <lg>
          <l>аслам</l>
          <stg>
-            <st komContlex="PRON-REFL-SG1-GEN">аслам</st>
+            <st kpvContlex="PRON-REFL-SG1-GEN">аслам</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -285,7 +285,7 @@
       <lg>
          <l>асланыд</l>
          <stg>
-            <st komContlex="PRON-REFL-PL2-GEN">асланыд</st>
+            <st kpvContlex="PRON-REFL-PL2-GEN">асланыд</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -309,7 +309,7 @@
       <lg>
          <l>асланым</l>
          <stg>
-            <st komContlex="PRON-REFL-PL1-GEN">асланым</st>
+            <st kpvContlex="PRON-REFL-PL1-GEN">асланым</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -331,7 +331,7 @@
       <lg>
          <l>асланыс</l>
          <stg>
-            <st komContlex="PRON-REFL-PL3-GEN">асланыс</st>
+            <st kpvContlex="PRON-REFL-PL3-GEN">асланыс</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -353,7 +353,7 @@
       <lg>
          <l>аслас</l>
          <stg>
-            <st komContlex="PRON-REFL-SG3-GEN">аслас</st>
+            <st kpvContlex="PRON-REFL-SG3-GEN">аслас</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -375,7 +375,7 @@
       <lg>
          <l>аслыд</l>
          <stg>
-            <st komContlex="PRON-REFL-SG2-DAT">аслыд</st>
+            <st kpvContlex="PRON-REFL-SG2-DAT">аслыд</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -399,7 +399,7 @@
       <lg>
          <l>аслым</l>
          <stg>
-            <st komContlex="PRON-REFL-SG1-DAT">аслым</st>
+            <st kpvContlex="PRON-REFL-SG1-DAT">аслым</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -423,7 +423,7 @@
       <lg>
          <l>аслыныд</l>
          <stg>
-            <st komContlex="PRON-REFL-PL2-DAT">аслыныд</st>
+            <st kpvContlex="PRON-REFL-PL2-DAT">аслыныд</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -445,7 +445,7 @@
       <lg>
          <l>аслыным</l>
          <stg>
-            <st komContlex="PRON-REFL-PL1-DAT">аслыным</st>
+            <st kpvContlex="PRON-REFL-PL1-DAT">аслыным</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -467,7 +467,7 @@
       <lg>
          <l>аслыныс</l>
          <stg>
-            <st komContlex="PRON-REFL-PL3-DAT">аслыныс</st>
+            <st kpvContlex="PRON-REFL-PL3-DAT">аслыныс</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -489,7 +489,7 @@
       <lg>
          <l>аслыс</l>
          <stg>
-            <st komContlex="PRON-REFL-SG3-DAT">аслыс</st>
+            <st kpvContlex="PRON-REFL-SG3-DAT">аслыс</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -513,7 +513,7 @@
       <lg>
          <l>ассьыд</l>
          <stg>
-            <st komContlex="PRON-REFL-SG2-ELA">ассьыд</st>
+            <st kpvContlex="PRON-REFL-SG2-ELA">ассьыд</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -537,7 +537,7 @@
       <lg>
          <l>ассьым</l>
          <stg>
-            <st komContlex="PRON-REFL-SG1-ELA">ассьым</st>
+            <st kpvContlex="PRON-REFL-SG1-ELA">ассьым</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -561,7 +561,7 @@
       <lg>
          <l>ассьыныд</l>
          <stg>
-            <st komContlex="PRON-REFL-SG2-ELA">ассьыныд</st>
+            <st kpvContlex="PRON-REFL-SG2-ELA">ассьыныд</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -585,7 +585,7 @@
       <lg>
          <l>ассьыным</l>
          <stg>
-            <st komContlex="PRON-REFL-PL1-ELA">ассьыным</st>
+            <st kpvContlex="PRON-REFL-PL1-ELA">ассьыным</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -609,7 +609,7 @@
       <lg>
          <l>ассьыныс</l>
          <stg>
-            <st komContlex="PRON-REFL-PL3-ELA">ассьыныс</st>
+            <st kpvContlex="PRON-REFL-PL3-ELA">ассьыныс</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -631,7 +631,7 @@
       <lg>
          <l>ассьыс</l>
          <stg>
-            <st komContlex="PRON-REFL-SG3-ELA">ассьыс</st>
+            <st kpvContlex="PRON-REFL-SG3-ELA">ассьыс</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -655,7 +655,7 @@
       <lg>
          <l>асьныд</l>
          <stg>
-            <st komContlex="PRON-REFL-PL2-NOM">асьныд</st>
+            <st kpvContlex="PRON-REFL-PL2-NOM">асьныд</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -679,7 +679,7 @@
       <lg>
          <l>асьным</l>
          <stg>
-            <st komContlex="PRON-REFL-PL1-NOM">асьным</st>
+            <st kpvContlex="PRON-REFL-PL1-NOM">асьным</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -703,7 +703,7 @@
       <lg>
          <l>асьнымӧс</l>
          <stg>
-            <st komContlex="PRON-REFL-PL1-ACC">асьнымӧс</st>
+            <st kpvContlex="PRON-REFL-PL1-ACC">асьнымӧс</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -727,7 +727,7 @@
       <lg>
          <l>асьныс</l>
          <stg>
-            <st komContlex="PRON-REFL-PL3-NOM">асьныс</st>
+            <st kpvContlex="PRON-REFL-PL3-NOM">асьныс</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -751,7 +751,7 @@
       <lg>
          <l>асьнысӧ</l>
          <stg>
-            <st komContlex="PRON-REFL-PL3-ACC">асьнысӧ</st>
+            <st kpvContlex="PRON-REFL-PL3-ACC">асьнысӧ</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -775,7 +775,7 @@
       <lg>
          <l>асьнытӧ</l>
          <stg>
-            <st komContlex="PRON-REFL-PL2-ACC">асьнытӧ</st>
+            <st kpvContlex="PRON-REFL-PL2-ACC">асьнытӧ</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -799,7 +799,7 @@
       <lg>
          <l>асьсӧ</l>
          <stg>
-            <st komContlex="PRON-REFL-SG3-ACC">асьсӧ</st>
+            <st kpvContlex="PRON-REFL-SG3-ACC">асьсӧ</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -823,7 +823,7 @@
       <lg>
          <l>асьтӧ</l>
          <stg>
-            <st komContlex="PRON-REFL-SG2-ACC">асьтӧ</st>
+            <st kpvContlex="PRON-REFL-SG2-ACC">асьтӧ</st>
          </stg>
       </lg>
       <pos>PRON-REFL</pos>
@@ -847,7 +847,7 @@
       <lg>
          <l>кӧні</l>
          <stg>
-            <st komContlex="PRON-REL">кӧні</st>
+            <st kpvContlex="PRON-REL">кӧні</st>
          </stg>
       </lg>
       <pos>R_SPAT</pos>
