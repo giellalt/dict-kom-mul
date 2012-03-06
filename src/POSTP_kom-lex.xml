@@ -6,7 +6,7 @@
       <lg>
          <l>аддза</l>
          <stg>
-            <st komContlex="PO-PX">аддза</st>
+            <st kpvContlex="PO-PX">аддза</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -36,7 +36,7 @@
       <lg>
          <l>бӧр</l>
          <stg>
-            <st komContlex="POSTP1">бӧр</st>
+            <st kpvContlex="POSTP1">бӧр</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -60,7 +60,7 @@
       <lg>
          <l>бӧрся</l>
          <stg>
-            <st komContlex="PO-COMP">бӧр</st>
+            <st kpvContlex="PO-COMP">бӧр</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -96,7 +96,7 @@
       <lg>
          <l>бӧрті</l>
          <stg>
-            <st komContlex="PO-TRA">бӧр</st>
+            <st kpvContlex="PO-TRA">бӧр</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -119,7 +119,7 @@
       <lg>
          <l>берд</l>
          <stg>
-            <st komContlex="POSTP1">берд</st>
+            <st kpvContlex="POSTP1">берд</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -147,7 +147,7 @@
       <lg>
          <l>боки</l>
          <stg>
-            <st komContlex="POSTP1">боки</st>
+            <st kpvContlex="POSTP1">боки</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -173,7 +173,7 @@
       <lg>
          <l>бокиті</l>
          <stg>
-            <st komContlex="PO-TRA">бокиті</st>
+            <st kpvContlex="PO-TRA">бокиті</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -195,7 +195,7 @@
       <lg>
          <l>боксянь</l>
          <stg>
-            <st komContlex="PO-EGR">бок</st>
+            <st kpvContlex="PO-EGR">бок</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -228,7 +228,7 @@
       <lg>
          <l>вöсна</l>
          <stg>
-            <st komContlex="PO-PX">вöсна</st>
+            <st kpvContlex="PO-PX">вöсна</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -250,7 +250,7 @@
       <lg>
          <l>йылысь</l>
          <stg>
-            <st komContlex="PO-ELA">йыл</st>
+            <st kpvContlex="PO-ELA">йыл</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -272,7 +272,7 @@
       <lg>
          <l>чӧж</l>
          <stg>
-            <st komContlex="POST1">чӧж</st>
+            <st kpvContlex="POST1">чӧж</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -296,7 +296,7 @@
       <lg>
          <l>дырйи</l>
          <stg>
-            <st komContlex="PO-PX">дырйи</st>
+            <st kpvContlex="PO-PX">дырйи</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -321,7 +321,7 @@
       <lg>
          <l>ӧтдор</l>
          <stg>
-            <st komContlex="POSTP1">ӧтдор</st>
+            <st kpvContlex="POSTP1">ӧтдор</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -351,7 +351,7 @@
       <lg>
          <l>гӧгӧр</l>
          <stg>
-            <st komContlex="POSTP-NOUN">гӧгӧр</st>
+            <st kpvContlex="POSTP-NOUN">гӧгӧр</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -379,7 +379,7 @@
       <lg>
          <l>гырся</l>
          <stg>
-            <st komContlex="PO-COMP">гыр</st>
+            <st kpvContlex="PO-COMP">гыр</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -401,7 +401,7 @@
       <lg>
          <l>ылӧс</l>
          <stg>
-            <st komContlex="POSTP1">ылӧс</st>
+            <st kpvContlex="POSTP1">ылӧс</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -423,7 +423,7 @@
       <lg>
          <l>йитӧдын</l>
          <stg>
-            <st komContlex="PO-INE">йитӧд</st>
+            <st kpvContlex="PO-INE">йитӧд</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -457,7 +457,7 @@
       <lg>
          <l>катыдын</l>
          <stg>
-            <st komContlex="PO-INE">катыд</st>
+            <st kpvContlex="PO-INE">катыд</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -479,7 +479,7 @@
       <lg>
          <l>кежлӧ</l>
          <stg>
-            <st komContlex="PO-ILL">кежл</st>
+            <st kpvContlex="PO-ILL">кежл</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -501,7 +501,7 @@
       <lg>
          <l>кындзи</l>
          <stg>
-            <st komContlex="PO-PX">кындзи</st>
+            <st kpvContlex="PO-PX">кындзи</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -526,7 +526,7 @@
       <lg>
          <l>кузя</l>
          <stg>
-            <st komContlex="POSTP1">кузя</st>
+            <st kpvContlex="POSTP1">кузя</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -554,7 +554,7 @@
       <lg>
          <l>лыд</l>
          <stg>
-            <st komContlex="POSTP1">лыд</st>
+            <st kpvContlex="POSTP1">лыд</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -594,7 +594,7 @@
       <lg>
          <l>мат</l>
          <stg>
-            <st komContlex="POSTP1">мат</st>
+            <st kpvContlex="POSTP1">мат</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -632,7 +632,7 @@
       <lg>
          <l>мӧдар</l>
          <stg>
-            <st komContlex="POSTP1">мӧдар</st>
+            <st kpvContlex="POSTP1">мӧдар</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -654,7 +654,7 @@
       <lg>
          <l>мӧдлапӧв</l>
          <stg>
-            <st komContlex="POSTP1">мӧдлапӧл</st>
+            <st kpvContlex="POSTP1">мӧдлапӧл</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -692,7 +692,7 @@
       <lg>
          <l>мында</l>
          <stg>
-            <st komContlex="PO-PX">мында</st>
+            <st kpvContlex="PO-PX">мында</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -714,7 +714,7 @@
       <lg>
          <l>мысти</l>
          <stg>
-            <st komContlex="PO-PX">мысти</st>
+            <st kpvContlex="PO-PX">мысти</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -739,7 +739,7 @@
       <lg>
          <l>мысьт</l>
          <stg>
-            <st komContlex="PO-PX">мысьт</st>
+            <st kpvContlex="PO-PX">мысьт</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -765,7 +765,7 @@
       <lg>
          <l>моз</l>
          <stg>
-            <st komContlex="PO-PX">моз</st>
+            <st kpvContlex="PO-PX">моз</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -790,7 +790,7 @@
       <lg>
          <l>ног</l>
          <stg>
-            <st komContlex="POSTP1">ног</st>
+            <st kpvContlex="POSTP1">ног</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -823,7 +823,7 @@
       <lg>
          <l>ногӧн</l>
          <stg>
-            <st komContlex="PO-INSTR">ногӧн</st>
+            <st kpvContlex="PO-INSTR">ногӧн</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -845,7 +845,7 @@
       <lg>
          <l>ньылыд</l>
          <stg>
-            <st komContlex="POSTP1">ньылыд</st>
+            <st kpvContlex="POSTP1">ньылыд</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -878,7 +878,7 @@
       <lg>
          <l>орд</l>
          <stg>
-            <st komContlex="POSTP1">орд</st>
+            <st kpvContlex="POSTP1">орд</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -903,7 +903,7 @@
       <lg>
          <l>паныд</l>
          <stg>
-            <st komContlex="POSTP1">паныд</st>
+            <st kpvContlex="POSTP1">паныд</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -947,7 +947,7 @@
       <lg>
          <l>паныдӧн</l>
          <stg>
-            <st komContlex="POSTP1">паныдӧн</st>
+            <st kpvContlex="POSTP1">паныдӧн</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1008,7 +1008,7 @@
       <lg>
          <l>пасьтала</l>
          <stg>
-            <st komContlex="POSTP1">пасьтала</st>
+            <st kpvContlex="POSTP1">пасьтала</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1030,7 +1030,7 @@
       <lg>
          <l>пӧлӧн</l>
          <stg>
-            <st komContlex="PO-INSTR">пӧлӧн</st>
+            <st kpvContlex="PO-INSTR">пӧлӧн</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1052,7 +1052,7 @@
       <lg>
          <l>пӧвст</l>
          <stg>
-            <st komContlex="POSTP1">пӧвст</st>
+            <st kpvContlex="POSTP1">пӧвст</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1073,7 +1073,7 @@
       <lg>
          <l>пи</l>
          <stg>
-            <st komContlex="POSTP1">пи</st>
+            <st kpvContlex="POSTP1">пи</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1098,7 +1098,7 @@
       <lg>
          <l>пыдди</l>
          <stg>
-            <st komContlex="PO-PX">пыдди</st>
+            <st kpvContlex="PO-PX">пыдди</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1121,7 +1121,7 @@
       <lg>
          <l>пыр</l>
          <stg>
-            <st komContlex="PO-PX">пыр</st>
+            <st kpvContlex="PO-PX">пыр</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1151,7 +1151,7 @@
       <lg>
          <l>пытш</l>
          <stg>
-            <st komContlex="POSTP1">пытшк</st>
+            <st kpvContlex="POSTP1">пытшк</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1179,7 +1179,7 @@
       <lg>
          <l>понда</l>
          <stg>
-            <st komContlex="PO-PX">понда</st>
+            <st kpvContlex="PO-PX">понда</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1201,7 +1201,7 @@
       <lg>
          <l>ради</l>
          <stg>
-            <st komContlex="PO-PX">ради</st>
+            <st kpvContlex="PO-PX">ради</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1223,7 +1223,7 @@
       <lg>
          <l>сай</l>
          <stg>
-            <st komContlex="POSTP1">сай</st>
+            <st kpvContlex="POSTP1">сай</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1243,7 +1243,7 @@
       <lg>
          <l>серти</l>
          <stg>
-            <st komContlex="PO-PX">серти</st>
+            <st kpvContlex="PO-PX">серти</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1271,7 +1271,7 @@
       <lg>
          <l>уліті</l>
          <stg>
-            <st komContlex="PO-TRA">уліті</st>
+            <st kpvContlex="PO-TRA">уліті</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1294,7 +1294,7 @@
       <lg>
          <l>ув</l>
          <stg>
-            <st komContlex="POSTP1">ул</st>
+            <st kpvContlex="POSTP1">ул</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1313,7 +1313,7 @@
       <lg>
          <l>вӧсна</l>
          <stg>
-            <st komContlex="PO-PX">вӧсна</st>
+            <st kpvContlex="PO-PX">вӧсна</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1344,7 +1344,7 @@
       <lg>
          <l>веркыд</l>
          <stg>
-            <st komContlex="POSTP1">веркыд</st>
+            <st kpvContlex="POSTP1">веркыд</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1366,7 +1366,7 @@
       <lg>
          <l>веськыдладор</l>
          <stg>
-            <st komContlex="POSTP1">веськыдладор</st>
+            <st kpvContlex="POSTP1">веськыдладор</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1394,7 +1394,7 @@
       <lg>
          <l>весьт</l>
          <stg>
-            <st komContlex="POSTP1">весьт</st>
+            <st kpvContlex="POSTP1">весьт</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1413,7 +1413,7 @@
       <lg>
          <l>выйӧн</l>
          <stg>
-            <st komContlex="PO-INSTR">выйӧн</st>
+            <st kpvContlex="PO-INSTR">выйӧн</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1435,7 +1435,7 @@
       <lg>
          <l>выліті</l>
          <stg>
-            <st komContlex="PO-TRA">выліті</st>
+            <st kpvContlex="PO-TRA">выліті</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1461,7 +1461,7 @@
       <lg>
          <l>вывті</l>
          <stg>
-            <st komContlex="PO-TRA">вывті</st>
+            <st kpvContlex="PO-TRA">вывті</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1483,7 +1483,7 @@
       <lg>
          <l>водз</l>
          <stg>
-            <st komContlex="POSTP1">водз</st>
+            <st kpvContlex="POSTP1">водз</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1505,7 +1505,7 @@
       <lg>
          <l>вом</l>
          <stg>
-            <st komContlex="POSTP1">вом</st>
+            <st kpvContlex="POSTP1">вом</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
@@ -1526,7 +1526,7 @@
       <lg>
          <l>вомӧн</l>
          <stg>
-            <st komContlex="PO-INSTR">вом</st>
+            <st kpvContlex="PO-INSTR">вом</st>
          </stg>
       </lg>
       <pos>POSTP</pos>
