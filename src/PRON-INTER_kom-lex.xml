@@ -6,7 +6,7 @@
       <lg>
          <l>кӧні</l>
          <stg>
-            <st komContlex="PRONQTAG">кӧні</st>
+            <st kpvContlex="PRONQTAG">кӧні</st>
          </stg>
       </lg>
       <pos>Q_SPAT</pos>
@@ -28,7 +28,7 @@
       <lg>
          <l>кытӧн</l>
          <stg>
-            <st komContlex="PRONQTAG">кытӧн</st>
+            <st kpvContlex="PRONQTAG">кытӧн</st>
          </stg>
       </lg>
       <pos>Q_SPAT</pos>
@@ -50,7 +50,7 @@
       <lg>
          <l>кыдзи</l>
          <stg>
-            <st komContlex="PRONQTAG">кыдзи</st>
+            <st kpvContlex="PRONQTAG">кыдзи</st>
          </stg>
       </lg>
       <pos>Q_MANNER</pos>
@@ -73,12 +73,12 @@
       <lg>
          <l>кысь</l>
          <stg>
-            <st komContlex="PRONQTAG">кысь</st>
+            <st kpvContlex="PRONQTAG">кысь</st>
          </stg>
       </lg>
       <pos>Q_SPAT</pos>
       <e>
-         <drv komMorph="CX-ысь"/>
+         <drv kpvMorph="CX-ысь"/>
          <mg>
             <m>
                <head/>
@@ -98,12 +98,12 @@
       <lg>
          <l>кытчӧ</l>
          <stg>
-            <st komContlex="PRONQTAG">кытчӧ</st>
+            <st kpvContlex="PRONQTAG">кытчӧ</st>
          </stg>
       </lg>
       <pos>Q_SPAT</pos>
       <e>
-         <drv komMorph="CX-ӧ" lemmaID="кытысь"/>
+         <drv kpvMorph="CX-ӧ" lemmaID="кытысь"/>
          <mg>
             <m>
                <head/>
@@ -123,12 +123,12 @@
       <lg>
          <l>кытчӧдз</l>
          <stg>
-            <st komContlex="PRONQTAG">кытчӧдз</st>
+            <st kpvContlex="PRONQTAG">кытчӧдз</st>
          </stg>
       </lg>
       <pos>Q_SPAT</pos>
       <e>
-         <drv komMorph="CX-ӧдз" lemmaID="кытысь"/>
+         <drv kpvMorph="CX-ӧдз" lemmaID="кытысь"/>
          <mg>
             <m>
                <head/>
@@ -146,12 +146,12 @@
       <lg>
          <l>кыті</l>
          <stg>
-            <st komContlex="PRONQTAG">кыті</st>
+            <st kpvContlex="PRONQTAG">кыті</st>
          </stg>
       </lg>
       <pos>Q_SPAT</pos>
       <e>
-         <drv komMorph="CX-ті"/>
+         <drv kpvMorph="CX-ті"/>
          <mg>
             <m>
                <head/>
@@ -169,12 +169,12 @@
       <lg>
          <l>кытысь</l>
          <stg>
-            <st komContlex="PRONQTAG">кытысь</st>
+            <st kpvContlex="PRONQTAG">кытысь</st>
          </stg>
       </lg>
       <pos>Q_SPAT</pos>
       <e>
-         <drv komMorph="CX-ысь"/>
+         <drv kpvMorph="CX-ысь"/>
          <mg>
             <m>
                <head/>
@@ -194,7 +194,7 @@
       <lg>
          <l>кодар</l>
          <stg>
-            <st komContlex="PRONQTAG">кодар</st>
+            <st kpvContlex="PRONQTAG">кодар</st>
          </stg>
       </lg>
       <pos>Q_DET</pos>
@@ -218,7 +218,7 @@
       <lg>
          <l>коді</l>
          <stg>
-            <st komContlex="PRON-INTER-HUM">код</st>
+            <st kpvContlex="PRON-INTER-HUM">код</st>
          </stg>
       </lg>
       <pos>Q_PERS</pos>
@@ -240,7 +240,7 @@
       <lg>
          <l>кодыр</l>
          <stg>
-            <st komContlex="PRONQTAG">кодыр</st>
+            <st kpvContlex="PRONQTAG">кодыр</st>
          </stg>
       </lg>
       <pos>Q_TEMP</pos>
@@ -262,7 +262,7 @@
       <lg>
          <l>кодъяс</l>
          <stg>
-            <st komContlex="PRONQTAGPL">кодъяс</st>
+            <st kpvContlex="PRONQTAGPL">кодъяс</st>
          </stg>
       </lg>
       <pos>Q_PERS</pos>
@@ -284,7 +284,7 @@
       <lg>
          <l>кор</l>
          <stg>
-            <st komContlex="PRONQTAG">кор</st>
+            <st kpvContlex="PRONQTAG">кор</st>
          </stg>
       </lg>
       <pos>Q_TEMP</pos>
@@ -306,7 +306,7 @@
       <lg>
          <l>корджык</l>
          <stg>
-            <st komContlex="PRONQTAG">корджык</st>
+            <st kpvContlex="PRONQTAG">корджык</st>
          </stg>
       </lg>
       <pos>Q_TEMP</pos>
@@ -328,7 +328,7 @@
       <lg>
          <l>кутшӧм</l>
          <stg>
-            <st komContlex="PRONQTAG">кутшӧм</st>
+            <st kpvContlex="PRONQTAG">кутшӧм</st>
          </stg>
       </lg>
       <pos>Q_A</pos>
@@ -351,7 +351,7 @@
       <lg>
          <l>кутшӧма</l>
          <stg>
-            <st komContlex="PRONQTAG">кутшӧма</st>
+            <st kpvContlex="PRONQTAG">кутшӧма</st>
          </stg>
       </lg>
       <pos>Q_MANNER</pos>
@@ -374,7 +374,7 @@
       <lg>
          <l>мыетш</l>
          <stg>
-            <st komContlex="PRONQTAG">мыетш</st>
+            <st kpvContlex="PRONQTAG">мыетш</st>
          </stg>
       </lg>
       <pos>Q_QNT</pos>
@@ -396,7 +396,7 @@
       <lg>
          <l>мый</l>
          <stg>
-            <st komContlex="PRON-INTER-NONHUM">мый</st>
+            <st kpvContlex="PRON-INTER-NONHUM">мый</st>
          </stg>
       </lg>
       <pos>Q_N</pos>
@@ -418,7 +418,7 @@
       <lg>
          <l>мыйла</l>
          <stg>
-            <st komContlex="PRONQTAG">мыйла</st>
+            <st kpvContlex="PRONQTAG">мыйла</st>
          </stg>
       </lg>
       <pos>Q_REASON</pos>
@@ -441,7 +441,7 @@
       <lg>
          <l>мыйта</l>
          <stg>
-            <st komContlex="PRONQTAG">мыйта</st>
+            <st kpvContlex="PRONQTAG">мыйта</st>
          </stg>
       </lg>
       <pos>Q_QNT</pos>
