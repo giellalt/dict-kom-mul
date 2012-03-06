@@ -6,7 +6,7 @@
       <lg>
          <l>ало</l>
          <stg>
-            <st komContlex="EndInterj">ало</st>
+            <st kpvContlex="EndInterj">ало</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -34,7 +34,7 @@
       <lg>
          <l>аттьӧ</l>
          <stg>
-            <st komContlex="EndInterj">аттьӧ</st>
+            <st kpvContlex="EndInterj">аттьӧ</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -56,7 +56,7 @@
       <lg>
          <l>бур асыв</l>
          <stg>
-            <st komContlex="EndInterj">бур асыв</st>
+            <st kpvContlex="EndInterj">бур асыв</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -78,7 +78,7 @@
       <lg>
          <l>бур лун</l>
          <stg>
-            <st komContlex="EndInterj">бур лун</st>
+            <st kpvContlex="EndInterj">бур лун</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -101,7 +101,7 @@
       <lg>
          <l>бур рыт</l>
          <stg>
-            <st komContlex="EndInterj">бур рыт</st>
+            <st kpvContlex="EndInterj">бур рыт</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -123,7 +123,7 @@
       <lg>
          <l>бур вылӧ</l>
          <stg>
-            <st komContlex="EndInterj">бур вылӧ</st>
+            <st kpvContlex="EndInterj">бур вылӧ</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -147,7 +147,7 @@
       <lg>
          <l>бур вой</l>
          <stg>
-            <st komContlex="EndInterj">бур вой</st>
+            <st kpvContlex="EndInterj">бур вой</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -172,7 +172,7 @@
       <lg>
          <l>чолӧм</l>
          <stg>
-            <st komContlex="EndInterj">чолӧм</st>
+            <st kpvContlex="EndInterj">чолӧм</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -197,7 +197,7 @@
       <lg>
          <l>эм нисьӧ абу</l>
          <stg>
-            <st komContlex="End1">эм нисьӧ абу</st>
+            <st kpvContlex="End1">эм нисьӧ абу</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -221,12 +221,12 @@
       <lg>
          <l>энӧ дивитӧй</l>
          <stg>
-            <st komContlex="EndInterj">энӧ дивитӧй</st>
+            <st kpvContlex="EndInterj">энӧ дивитӧй</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
       <e>
-         <drv komMorph="FIN-IMP-2Pl"/>
+         <drv kpvMorph="FIN-IMP-2Pl"/>
          <mg>
             <m>
                <head/>
@@ -250,12 +250,12 @@
       <lg>
          <l>эн дивит</l>
          <stg>
-            <st komContlex="EndInterj">эн дивит</st>
+            <st kpvContlex="EndInterj">эн дивит</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
       <e>
-         <drv komMorph="FIN-IMP-2Sg"/>
+         <drv kpvMorph="FIN-IMP-2Sg"/>
          <mg>
             <m>
                <head/>
@@ -273,7 +273,7 @@
       <lg>
          <l>ӧввӧ</l>
          <stg>
-            <st komContlex="EndInterj">ӧввӧ</st>
+            <st kpvContlex="EndInterj">ӧввӧ</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -295,7 +295,7 @@
       <lg>
          <l>ыджыд аттьӧ</l>
          <stg>
-            <st komContlex="EndInterj">ыджыд аттьӧ</st>
+            <st kpvContlex="EndInterj">ыджыд аттьӧ</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -317,7 +317,7 @@
       <lg>
          <l>кыв ни джын</l>
          <stg>
-            <st komContlex="EndInterj">кыв ни джын</st>
+            <st kpvContlex="EndInterj">кыв ни джын</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -339,7 +339,7 @@
       <lg>
          <l>код тӧдас</l>
          <stg>
-            <st komContlex="EndInterj">код тӧдас</st>
+            <st kpvContlex="EndInterj">код тӧдас</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -361,7 +361,7 @@
       <lg>
          <l>ладнӧ</l>
          <stg>
-            <st komContlex="EndInterj">ладнӧ</st>
+            <st kpvContlex="EndInterj">ладнӧ</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -384,7 +384,7 @@
       <lg>
          <l>лунысь лунӧ</l>
          <stg>
-            <st komContlex="EndInterj">лунысь лунӧ</st>
+            <st kpvContlex="EndInterj">лунысь лунӧ</st>
          </stg>
       </lg>
       <pos>TEMP</pos>
@@ -406,7 +406,7 @@
       <lg>
          <l>морыс мед нуас</l>
          <stg>
-            <st komContlex="EndInterj">морыс мед нуас</st>
+            <st kpvContlex="EndInterj">морыс мед нуас</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -428,7 +428,7 @@
       <lg>
          <l>морыс тӧдӧ</l>
          <stg>
-            <st komContlex="EndInterj">морыс тӧдӧ</st>
+            <st kpvContlex="EndInterj">морыс тӧдӧ</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -450,7 +450,7 @@
       <lg>
          <l>нырсер мунӧма</l>
          <stg>
-            <st komContlex="EndInterj">нырсер мунӧма</st>
+            <st kpvContlex="EndInterj">нырсер мунӧма</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -472,7 +472,7 @@
       <lg>
          <l>нолӧ</l>
          <stg>
-            <st komContlex="EndInterj">нолӧ</st>
+            <st kpvContlex="EndInterj">нолӧ</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -494,7 +494,7 @@
       <lg>
          <l>ном мында</l>
          <stg>
-            <st komContlex="EndInterj">ном мында</st>
+            <st kpvContlex="EndInterj">ном мында</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -516,7 +516,7 @@
       <lg>
          <l>онь ни бус</l>
          <stg>
-            <st komContlex="EndInterj">онь ни бус</st>
+            <st kpvContlex="EndInterj">онь ни бус</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -538,7 +538,7 @@
       <lg>
          <l>пару</l>
          <stg>
-            <st komContlex="EndInterj">пару</st>
+            <st kpvContlex="EndInterj">пару</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -560,7 +560,7 @@
       <lg>
          <l>пасибӧ</l>
          <stg>
-            <st komContlex="EndInterj">пасибӧ</st>
+            <st kpvContlex="EndInterj">пасибӧ</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -583,7 +583,7 @@
       <lg>
          <l>пӧжалуйста</l>
          <stg>
-            <st komContlex="EndInterj">пӧжалуйста</st>
+            <st kpvContlex="EndInterj">пӧжалуйста</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -609,7 +609,7 @@
       <lg>
          <l>пемыдысь пемыдӧ</l>
          <stg>
-            <st komContlex="EndInterj">пемыдысь пемыдӧ</st>
+            <st kpvContlex="EndInterj">пемыдысь пемыдӧ</st>
          </stg>
       </lg>
       <pos>TEMP</pos>
@@ -631,7 +631,7 @@
       <lg>
          <l>шыдтӧ азялӧм бӧрын казялін</l>
          <stg>
-            <st komContlex="EndInterj">шыдтӧ азялӧм бӧрын казялін</st>
+            <st kpvContlex="EndInterj">шыдтӧ азялӧм бӧрын казялін</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -659,7 +659,7 @@
       <lg>
          <l>сідз водзӧ</l>
          <stg>
-            <st komContlex="EndInterj">сідз водзӧ</st>
+            <st kpvContlex="EndInterj">сідз водзӧ</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -681,7 +681,7 @@
       <lg>
          <l>сё мокасьтӧ</l>
          <stg>
-            <st komContlex="EndInterj">сё мокасьтӧ</st>
+            <st kpvContlex="EndInterj">сё мокасьтӧ</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -703,7 +703,7 @@
       <lg>
          <l>тай</l>
          <stg>
-            <st komContlex="EndInterj">тай</st>
+            <st kpvContlex="EndInterj">тай</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -728,7 +728,7 @@
       <lg>
          <l>тӧлк ни слӧй</l>
          <stg>
-            <st komContlex="EndInterj">тӧлк ни слӧй</st>
+            <st kpvContlex="EndInterj">тӧлк ни слӧй</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -750,7 +750,7 @@
       <lg>
          <l>тшаква</l>
          <stg>
-            <st komContlex="EndInterj">тшаква</st>
+            <st kpvContlex="EndInterj">тшаква</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -774,7 +774,7 @@
       <lg>
          <l>тшыг нисьӧ пӧт</l>
          <stg>
-            <st komContlex="EndInterj">тшыг нисьӧ пӧт</st>
+            <st kpvContlex="EndInterj">тшыг нисьӧ пӧт</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -796,7 +796,7 @@
       <lg>
          <l>ув ни парч</l>
          <stg>
-            <st komContlex="EndInterj">ув ни парч</st>
+            <st kpvContlex="EndInterj">ув ни парч</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
@@ -818,12 +818,12 @@
       <lg>
          <l>видза колян</l>
          <stg>
-            <st komContlex="EndInterj">видза колян</st>
+            <st kpvContlex="EndInterj">видза колян</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
       <e>
-         <drv komMorph="FIN-IMP-2Sg"/>
+         <drv kpvMorph="FIN-IMP-2Sg"/>
          <mg>
             <m>
                <head/>
@@ -841,12 +841,12 @@
       <lg>
          <l>видза колянныд</l>
          <stg>
-            <st komContlex="EndInterj">видза колянныд</st>
+            <st kpvContlex="EndInterj">видза колянныд</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
       <e>
-         <drv komMorph="FIN-IMP-2Pl"/>
+         <drv kpvMorph="FIN-IMP-2Pl"/>
          <mg>
             <m>
                <head/>
@@ -864,12 +864,12 @@
       <lg>
          <l>видза олан</l>
          <stg>
-            <st komContlex="EndInterj">видза олан</st>
+            <st kpvContlex="EndInterj">видза олан</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
       <e>
-         <drv komMorph="FIN-IMP-2Sg"/>
+         <drv kpvMorph="FIN-IMP-2Sg"/>
          <mg>
             <m>
                <head/>
@@ -887,12 +887,12 @@
       <lg>
          <l>видза оланныд</l>
          <stg>
-            <st komContlex="EndInterj">видза оланныд</st>
+            <st kpvContlex="EndInterj">видза оланныд</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
       <e>
-         <drv komMorph="FIN-IMP-2Pl"/>
+         <drv kpvMorph="FIN-IMP-2Pl"/>
          <mg>
             <m>
                <head/>
@@ -910,7 +910,7 @@
       <lg>
          <l>вот и бур</l>
          <stg>
-            <st komContlex="EndInterj">вот и бур</st>
+            <st kpvContlex="EndInterj">вот и бур</st>
          </stg>
       </lg>
       <pos>FORMULAIC</pos>
