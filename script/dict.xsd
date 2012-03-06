@@ -250,6 +250,7 @@
          <xs:enumeration value="V-FINITE"/>
          <xs:enumeration value="V-NEG"/>
          <xs:enumeration value="V-IMP-PRT"/>
+         <xs:enumeration value="V-REFL"/>
          <xs:enumeration value="Q_A"/>
          <xs:enumeration value="Q_ADV"/>
          <xs:enumeration value="Q_DET"/>
@@ -644,6 +645,7 @@
             <xs:enumeration value="CX-ысь"/>
             <xs:enumeration value="CX-ын"/>
             <xs:enumeration value="DA-а"/>
+            <xs:enumeration value="DA-торй"/>
             <xs:enumeration value="DV-ыл"/>
             <xs:enumeration value="DV-ышт"/>
             <xs:enumeration value="DN-а"/>
@@ -665,6 +667,7 @@
             <xs:enumeration value="DV-тӧг"/>
             <xs:enumeration value="DV-тӧдз"/>
             <xs:enumeration value="DV-ал"/>
+            <xs:enumeration value="DV-ан"/>
             <xs:enumeration value="DV-ысь"/>
             <xs:enumeration value="DN-мӧд"/>
             <xs:enumeration value="DN-мы"/>
@@ -806,6 +809,7 @@
          <xs:attribute name="att">
             <xs:simpleType>
                <xs:restriction base="xs:string">
+                  <xs:enumeration value="contempt"/>
                   <xs:enumeration value="ironic"/>
                   <xs:enumeration value="joc"/>
                   <xs:enumeration value="neg"/>
@@ -937,9 +941,13 @@
          <xs:restriction base="xs:string">
             <xs:enumeration value="I"/>
             <xs:enumeration value="L"/>
+            <xs:enumeration value="LL"/>
             <xs:enumeration value="Le"/>
             <xs:enumeration value="P"/>
+            <xs:enumeration value="Pech"/>
+            <xs:enumeration value="PG"/>
             <xs:enumeration value="PK"/>
+            <xs:enumeration value="PS"/>
             <xs:enumeration value="SDW"/>
             <xs:enumeration value="SW"/>
             <xs:enumeration value="U"/>
@@ -1058,6 +1066,7 @@
             <xs:enumeration value="male"/>
             <xs:enumeration value="male_given_name"/>
             <xs:enumeration value="mamal"/>
+            <xs:enumeration value="musical_instrument"/>
             <xs:enumeration value="name"/>
             <xs:enumeration value="newspaper"/>
             <xs:enumeration value="oblast"/>
@@ -1126,6 +1135,7 @@
             <xs:enumeration value="BODY_V"/>
             <xs:enumeration value="BUILDING"/>
             <xs:enumeration value="BUILDING_ROOM_A"/>
+            <xs:enumeration value="CARDS"/>
             <xs:enumeration value="CHRISTMAS"/>
             <xs:enumeration value="CLOTHES_A"/>
             <xs:enumeration value="CLOTHES_V"/>
