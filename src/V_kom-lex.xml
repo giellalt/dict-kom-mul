@@ -44,6 +44,7 @@
             </tg>
             <tg lang="fin">
                <t>maksaa etukäteen</t>
+               <t>antaa ennakkoa</t>
             </tg>
          </mg>
       </e>
@@ -71,6 +72,7 @@
                <t>karjua??</t>
                <t>ulvoa</t>
                <t>rähistä</t>
+               <t>paasata</t>
             </tg>
          </mg>
       </e>
@@ -1504,6 +1506,7 @@
             <tg lang="fin">
                <t>ottaa itselleen</t>
                <t>omia</t>
+               <t>yksityistää</t>
             </tg>
          </mg>
       </e>
@@ -1741,7 +1744,7 @@
                <t>play a game with bones</t>
             </tg>
             <tg lang="fin">
-               <t>leikkiä luupalasilla</t>
+               <t>leikkiä luunpalasilla</t>
             </tg>
          </mg>
       </e>
@@ -2343,7 +2346,11 @@
             </tg>
             <tg lang="fin">
                <t>kypsyä (leivästä)</t>
-               <t>saada punertavan sävyn</t>
+               <t>ruskistua</t>
+               <t>paistua ruskeaksi</t>
+               <t>punertua</t>
+               <t>punehtua</t>
+               <t>rusottaa</t>
             </tg>
          </mg>
       </e>
@@ -2368,7 +2375,7 @@
             </tg>
             <tg lang="fin">
                <t>kypsentää (leipä)</t>
-               <t>punata (kasvoja)</t>
+               <t>punata (kasvot)</t>
             </tg>
          </mg>
       </e>
@@ -2435,7 +2442,8 @@
                <t>turn to the right side (of fabric)</t>
             </tg>
             <tg lang="fin">
-               <t>kääntää oikealle puolelle (kankaasta)</t>
+               <t>kääntää esiin oikea puoli (kankaasta)</t>
+               <t>kääntää esiin etupuoli</t>
             </tg>
          </mg>
       </e>
@@ -2550,7 +2558,7 @@
                <t>wear down at the heels</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>??</t>
             </tg>
          </mg>
       </e>
@@ -2573,8 +2581,8 @@
                <t>stare at (with one's eyes wide open)</t>
             </tg>
             <tg lang="fin">
-               <t>tuijottaa jhk (mulkosilmin)</t>
-               <t>toljottaa</t>
+               <t>muljottaa</t>
+               <t>katsoa mulkosilmin</t>
             </tg>
          </mg>
       </e>
@@ -2597,6 +2605,8 @@
             </tg>
             <tg lang="fin">
                <t>koristaa</t>
+               <t>kaunistaa</t>
+               <t>somistaa</t>
             </tg>
          </mg>
       </e>
@@ -2624,6 +2634,8 @@
                <t>pitää hienoja vaatteita</t>
                <t>prameilla</t>
                <t>hienostella</t>
+               <t>koreilla</t>
+               <t>keikailla</t>
             </tg>
          </mg>
       </e>
@@ -2693,7 +2705,7 @@
                <t>work as a farm laborer</t>
             </tg>
             <tg lang="fin">
-               <t>työskennellä maatilan työntekijänä</t>
+               <t>toimia maa(talous)työläisenä</t>
             </tg>
          </mg>
       </e>
@@ -2783,7 +2795,7 @@
                <t>cane</t>
             </tg>
             <tg lang="fin">
-               <t>lyödä jkta kepillä</t>
+               <t>lyödä jtak kepillä</t>
             </tg>
          </mg>
       </e>
@@ -2830,6 +2842,7 @@
             </tg>
             <tg lang="fin">
                <t>olla toimimatta</t>
+               <t>olla epäkunnossa</t>
                <t>olla joutilaana</t>
             </tg>
          </mg>
@@ -3536,7 +3549,9 @@
                <t>fade</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kalveta</t>
+               <t>kelmetä</t>
+               <t>haalistua</t>
             </tg>
          </mg>
       </e>
@@ -3617,7 +3632,7 @@
             </tg>
             <tg lang="fin">
                <t>vetelehtiä</t>
-               <t>kuljeskellä</t>
+               <t>kuljeskella</t>
             </tg>
          </mg>
       </e>
@@ -3838,7 +3853,7 @@
                <t>be baggy (of clothes)</t>
             </tg>
             <tg lang="fin">
-               <t>olla pussimaisia (vaatteista)??</t>
+               <t>olla pussimainen (vaatteista)??</t>
             </tg>
          </mg>
       </e>
@@ -4994,7 +5009,7 @@
                <t>shave</t>
             </tg>
             <tg lang="fin">
-               <t>ajaa partaa</t>
+               <t>ajaa parta</t>
             </tg>
          </mg>
       </e>
@@ -5247,7 +5262,7 @@
                <t>throw smth with a splash</t>
             </tg>
             <tg lang="fin">
-               <t>??(vieteristä, jousesta)</t>
+               <t>vinkua?? (vieteristä, jousesta)</t>
                <t>kumista (puhelinlangoista)</t>
                <t>soittaa komilaista brungan-soitinta</t>
                <t>kilkuttaa (kielisoitinta)</t>
@@ -5795,7 +5810,7 @@
                <t>become gloomy (of the weather, people)</t>
             </tg>
             <tg lang="fin">
-               <t>kurtistaa otsaansa</t>
+               <t>kurtistaa otsaa</t>
                <t>synkistyä (ilmasta, ihmisistä)</t>
             </tg>
          </mg>
@@ -6385,7 +6400,7 @@
                <t>gratify</t>
             </tg>
             <tg lang="fin">
-               <t>tyydyttä</t>
+               <t>tyydyttää</t>
                <t>saada tyydytetyksi</t>
             </tg>
          </mg>
@@ -7893,7 +7908,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>itkeä nyyhkyttäen</t>
             </tg>
          </mg>
       </e>
@@ -7997,7 +8012,7 @@
             <tg lang="fin">
                <t>estää</t>
                <t>vastustaa</t>
-               <t>tehdä tenä??</t>
+               <t>tehdä tenä</t>
             </tg>
          </mg>
       </e>
