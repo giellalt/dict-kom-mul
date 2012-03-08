@@ -123,6 +123,7 @@
          <xs:enumeration value="V_ADV-PARENTHETIC"/>
          <xs:enumeration value="ADV-POSITION"/>
          <xs:enumeration value="SPAT-0ARG"/>
+         <xs:enumeration value="SPAT-1ARG"/>
          <xs:enumeration value="SPAT-INDEF"/>
          <xs:enumeration value="SPAT-DEM"/>
          <xs:enumeration value="SPAT-DISTR"/>
@@ -150,6 +151,7 @@
          <xs:enumeration value="ABE_A"/>
          <xs:enumeration value="GEN_A"/>
          <xs:enumeration value="GER"/>
+         <xs:enumeration value="GER-ZJ"/>
          <xs:enumeration value="GER-ZJ_A"/>
          <xs:enumeration value="GER-ZJ_MANNER"/>
          <xs:enumeration value="GER-ZJ_N"/>
@@ -441,12 +443,18 @@
             <xs:enumeration value="A-вейкеть-PL"/>
             <xs:enumeration value="A-шумбра"/>
             <xs:enumeration value="Adv-Ideoph-вырк"/>
+            <xs:enumeration value="GER-саезь"/>
             <xs:enumeration value="Imit-аха-ха-ха"/>
             <xs:enumeration value="Interj-угу"/>
             <xs:enumeration value="N-кал"/>
+            <xs:enumeration value="N-ломать"/>
             <xs:enumeration value="N-ош"/>
+            <xs:enumeration value="N-класс"/>
             <xs:enumeration value="N-панго"/>
+            <xs:enumeration value="N-теште"/>
+            <xs:enumeration value="N-ие"/>
             <xs:enumeration value="N-кудо"/>
+            <xs:enumeration value="N-авидем"/>
             <xs:enumeration value="P-Инешкипаз"/>
             <xs:enumeration value="PO-туртов"/>
             <xs:enumeration value="PO-каршо"/>
@@ -530,6 +538,7 @@
    <xs:element name="etym">
       <xs:complexType mixed="true">
          <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="constituent" type="xs:string"/>
             <xs:element maxOccurs="unbounded" minOccurs="0" ref="tg"/>
          </xs:sequence>
          <xs:attribute ref="cx"/>
@@ -609,6 +618,7 @@
             <xs:enumeration value="Der/демс"/>
             <xs:enumeration value="Der/емс"/>
             <xs:enumeration value="Der/Озевемс"/>
+            <xs:enumeration value="Der/кай"/>
             <xs:enumeration value="Der/ке"/>
             <xs:enumeration value="Der/кине"/>
             <xs:enumeration value="Der/кшномс"/>
@@ -837,6 +847,8 @@
          <xs:simpleContent>
             <xs:extension base="xs:string">
                <xs:attributeGroup ref="inherentMarking"/>
+               <xs:attribute name="count" type="BooleanType"/>
+               <xs:attribute name="anim" type="BooleanType"/>
                <xs:attribute ref="isaType"/>
                <xs:attribute ref="semClass"/>
                <xs:attribute ref="lemmaID"/>
@@ -885,7 +897,7 @@
    <xs:element name="native" type="xs:string"/>
    <xs:element name="sci" type="xs:string"/>
    <!--scientific name
--->
+ -->
    <xs:element name="tags" type="xs:string"/>
    <xs:element name="semRel">
       <xs:complexType mixed="true">
@@ -960,6 +972,12 @@
          </xs:restriction>
       </xs:simpleType>
    </xs:attribute>
+   <xs:simpleType name="BooleanType">
+      <xs:restriction base="xs:string">
+         <xs:enumeration value="false"/>
+         <xs:enumeration value="true"/>
+      </xs:restriction>
+   </xs:simpleType>
    <xs:attribute name="lang">
       <xs:simpleType>
          <xs:restriction base="xs:string">
@@ -1029,6 +1047,7 @@
             <!--"TERM" This is a peculiarity of some dictionaries and must be dealt with.-->
             <xs:enumeration value="old_foreign_word"/>
             <xs:enumeration value="comparative_form"/>
+            <xs:enumeration value="composite_word"/>
             <xs:enumeration value="count_noun"/>
             <xs:enumeration value="noncount_noun"/>
             <xs:enumeration value="ideophone"/>
@@ -1041,9 +1060,12 @@
             <xs:enumeration value="spatial_adverb"/>
             <xs:enumeration value="temporal_adverb"/>
             <xs:enumeration value="swear_word"/>
+            <xs:enumeration value="vocative"/>
             <!--Grammar and such before this point-->
             <xs:enumeration value="acronym"/>
             <xs:enumeration value="adult"/>
+            <xs:enumeration value="animate"/>
+            <xs:enumeration value="inanimate"/>
             <xs:enumeration value="archipelago"/>
             <xs:enumeration value="beverage"/>
             <xs:enumeration value="bird"/>
@@ -1092,6 +1114,7 @@
             <xs:enumeration value="star"/>
             <xs:enumeration value="surname"/>
             <xs:enumeration value="toponym"/>
+            <xs:enumeration value="tree"/>
             <xs:enumeration value="village"/>
             <xs:enumeration value="war"/>
             <xs:enumeration value="weekday"/>
