@@ -10757,6 +10757,7 @@
             </tg>
             <tg lang="fin">
                <t>voimakas</t>
+               <t>vahva</t>
             </tg>
          </mg>
       </e>
@@ -11068,8 +11069,9 @@
             </tg>
             <tg lang="fin">
                <t>ahkera</t>
+               <t>uuttera</t>
                <t>nopea</t>
-               <t>kiireenvilkka</t>
+               <t>kiireenvilkka??</t>
             </tg>
          </mg>
       </e>
@@ -11137,6 +11139,7 @@
             </tg>
             <tg lang="fin">
                <t>säpissä oleva</t>
+               <t>suljettu</t>
             </tg>
          </mg>
       </e>
@@ -11158,7 +11161,8 @@
                <t>idealistic</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>idealistinen</t>
+               <t>aatteellinen</t>
             </tg>
          </mg>
       </e>
@@ -11276,7 +11280,7 @@
                <t>covered with rocks</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kivinen</t>
             </tg>
          </mg>
       </e>
@@ -11412,7 +11416,7 @@
                <t>investment</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>sijoitus-</t>
             </tg>
          </mg>
       </e>
@@ -11459,6 +11463,7 @@
             </tg>
             <tg lang="fin">
                <t>älykäs</t>
+               <t>sivistynyt</t>
             </tg>
          </mg>
       </e>
@@ -11570,6 +11575,7 @@
             </tg>
             <tg lang="fin">
                <t>täytäntöönpano-</t>
+               <t>toimeenpaneva</t>
             </tg>
          </mg>
       </e>
@@ -11591,7 +11597,7 @@
                <t>step- (daughter, son)</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>lapsipuoli</t>
             </tg>
          </mg>
       </e>
@@ -11637,7 +11643,7 @@
                <t>undersized</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>pienikasvuinen</t>
             </tg>
          </mg>
       </e>
@@ -11659,7 +11665,8 @@
                <t>low-ranking</t>
             </tg>
             <tg lang="fin">
-               <t>matala-arvoinen??</t>
+               <t>asemaltaan vähäinen</t>
+               <t>vähäarvoinen</t>
             </tg>
          </mg>
       </e>
@@ -11704,7 +11711,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vihneinen</t>
             </tg>
          </mg>
       </e>
