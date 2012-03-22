@@ -711,7 +711,7 @@
                <t>without an excise tax seal</t>
             </tg>
             <tg lang="fin">
-               <t>ilman aksiisisinettiä??</t>
+               <t>valmisteverosinetitön</t>
             </tg>
          </mg>
       </e>
@@ -1564,7 +1564,7 @@
             </tg>
             <tg lang="fin">
                <t>ilman itsehallintoa</t>
-               <t>itsehallinnoton??</t>
+               <t>itsehallinnoton</t>
             </tg>
          </mg>
       </e>
@@ -2866,6 +2866,7 @@
                <t>vieras</t>
                <t>ulkomainen</t>
                <t>muukalainen</t>
+               <t>sivullinen</t>
             </tg>
          </mg>
       </e>
@@ -3236,7 +3237,7 @@
                <t>baked goods</t>
             </tg>
             <tg lang="fin">
-               <t>??lämpiäiset</t>
+               <t>leivonnaiset</t>
             </tg>
          </mg>
       </e>
@@ -3503,6 +3504,7 @@
             </tg>
             <tg lang="fin">
                <t>saippuan peitossa</t>
+               <t>saippuainen</t>
             </tg>
          </mg>
       </e>
@@ -4536,7 +4538,7 @@
                <t>inter-departmental</t>
             </tg>
             <tg lang="fin">
-               <t>osastojenvälinen??</t>
+               <t>osastojen välinen??</t>
                <t>virastojen välinen</t>
             </tg>
          </mg>
@@ -5026,7 +5028,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kapealehtinen</t>
             </tg>
          </mg>
       </e>
@@ -5274,7 +5276,7 @@
                <t>indifferent</t>
             </tg>
             <tg lang="fin">
-               <t>yhdentekevä??</t>
+               <t>yhdentekevä</t>
             </tg>
          </mg>
       </e>
@@ -6996,7 +6998,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kaasun- ja öljynporaus-</t>
             </tg>
          </mg>
       </e>
@@ -7306,7 +7308,8 @@
                <t>principal</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>pää-</t>
+               <t>johto-</t>
             </tg>
          </mg>
          <mg>
@@ -7534,7 +7537,7 @@
                <t>national</t>
             </tg>
             <tg lang="fin">
-               <t>valtio-</t>
+               <t>valtion-</t>
                <t>valtiollinen</t>
             </tg>
          </mg>
@@ -7580,7 +7583,8 @@
                <t>educated</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>oppinut</t>
+               <t>sivistynyt</t>
             </tg>
          </mg>
       </e>
@@ -8093,6 +8097,7 @@
             </tg>
             <tg lang="fin">
                <t>köyhänlainen</t>
+               <t>köyhähkö</t>
             </tg>
          </mg>
       </e>
@@ -8267,6 +8272,7 @@
                <t>plowman</t>
             </tg>
             <tg lang="fin">
+               <t>kyntävä</t>
                <t>kyntäjä</t>
             </tg>
          </mg>
@@ -8503,6 +8509,8 @@
             <tg lang="fin">
                <t>jolla on rahaa</t>
                <t>hetkellisesti rikas</t>
+               <t>rahakas</t>
+               <t>äveriäs</t>
             </tg>
          </mg>
       </e>
@@ -8832,6 +8840,7 @@
             <tg lang="fin">
                <t>pikku lapsi</t>
                <t>piltti</t>
+               <t>pienokainen</t>
             </tg>
          </mg>
       </e>
@@ -8881,6 +8890,7 @@
             </tg>
             <tg lang="fin">
                <t>lapsuudenaikainen</t>
+               <t>lapsuus-</t>
             </tg>
          </mg>
       </e>
@@ -9031,7 +9041,7 @@
                <t>over the edges</t>
             </tg>
             <tg lang="fin">
-               <t>täpö täysi</t>
+               <t>täpötäysi</t>
             </tg>
          </mg>
       </e>
@@ -9335,6 +9345,8 @@
             </tg>
             <tg lang="fin">
                <t>kallis</t>
+               <t>arvokas</t>
+               <t>rakas</t>
             </tg>
          </mg>
       </e>
@@ -9358,6 +9370,7 @@
             </tg>
             <tg lang="fin">
                <t>halpa</t>
+               <t>arvoton</t>
             </tg>
          </mg>
       </e>
@@ -10616,6 +10629,7 @@
             </tg>
             <tg lang="fin">
                <t>kultainen</t>
+               <t>kulta-</t>
             </tg>
          </mg>
       </e>
@@ -19043,7 +19057,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>saita</t>
+               <t>itara</t>
             </tg>
          </mg>
       </e>
@@ -19297,6 +19312,7 @@
             </tg>
             <tg lang="fin">
                <t>ovela</t>
+               <t>viekas</t>
             </tg>
             <xg>
                <x>руч кодь наян</x>
@@ -19412,7 +19428,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>oppimaton</t>
+               <t>sivistymätön</t>
             </tg>
          </mg>
       </e>
@@ -19483,6 +19500,7 @@
             </tg>
             <tg lang="fin">
                <t>riippumaton</t>
+               <t>itsenäinen</t>
             </tg>
          </mg>
       </e>
@@ -19573,7 +19591,7 @@
                <t>not any</t>
             </tg>
             <tg lang="fin">
-               <t>ei kukaan</t>
+               <t>ei minkäänlainen</t>
             </tg>
          </mg>
       </e>
@@ -19641,6 +19659,7 @@
             </tg>
             <tg lang="fin">
                <t>nenetsiläinen</t>
+               <t>nenetsi-</t>
             </tg>
          </mg>
       </e>
@@ -19685,7 +19704,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>väärä</t>
             </tg>
          </mg>
       </e>
@@ -19776,7 +19795,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>öljynporaus-</t>
             </tg>
          </mg>
       </e>
@@ -19978,7 +19997,7 @@
             <xg>
                <x>нимкодь зэв тіянкӧд тӧдмасьны</x>
                <xt lang="eng">It's a pleasure to meet you</xt>
-               <xt lang="fin">Hauskaa tavata Teidät</xt>
+               <xt lang="fin">Hauskaa tutustua!</xt>
             </xg>
          </mg>
       </e>
@@ -20112,7 +20131,7 @@
                <t>corresponding to norm</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>normatiivinen</t>
             </tg>
          </mg>
       </e>
