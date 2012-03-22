@@ -88,7 +88,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>Kansankomissaarien Neuvoston</t>
             </tg>
          </mg>
       </e>
@@ -156,6 +156,9 @@
             </tg>
             <tg lang="fin">
                <t>absoluuttinen</t>
+               <t>ehdoton</t>
+               <t>varaukseton</t>
+               <t>rajoittamaton</t>
             </tg>
          </mg>
       </e>
@@ -313,7 +316,7 @@
             </tg>
             <tg lang="fin">
                <t>olematon</t>
-               <t>poissaoleva</t>
+               <t>poissa oleva</t>
             </tg>
          </mg>
       </e>
@@ -335,7 +338,10 @@
                <t>vanguard</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>avantgardelle tyypillinen</t>
+               <t>uraauurtava</t>
+               <t>kokeileva</t>
+               <t>eturintaman</t>
             </tg>
          </mg>
       </e>
@@ -357,7 +363,7 @@
                <t>emergency</t>
             </tg>
             <tg lang="fin">
-               <t>onnettomuus-??</t>
+               <t>vahingontorjunta-</t>
             </tg>
          </mg>
       </e>
@@ -10705,7 +10711,10 @@
             </tg>
             <tg lang="fin">
                <t>rohkea</t>
+               <t>urhea</t>
                <t>vilkas</t>
+               <t>sukkela</t>
+               <t>terhakka</t>
             </tg>
          </mg>
       </e>
@@ -10826,6 +10835,8 @@
             </tg>
             <tg lang="fin">
                <t>kuuluisa</t>
+               <t>kuulu</t>
+               <t>ylhäinen</t>
             </tg>
          </mg>
       </e>
@@ -11235,7 +11246,14 @@
                <t>inefficient</t>
             </tg>
             <tg lang="fin">
-               <t>roskan peitossa</t>
+               <t>roskien peitossa??</t>
+               <t>huolimaton</t>
+               <t>siivoton</t>
+               <t>epäsiisti</t>
+               <t>epäkäytännöllinen</t>
+               <t>holtiton</t>
+               <t>huoleton</t>
+               <t>piittaamaton</t>
             </tg>
          </mg>
       </e>
@@ -11258,6 +11276,7 @@
             </tg>
             <tg lang="fin">
                <t>tuottamaton</t>
+               <t>epätaloudellinen</t>
             </tg>
          </mg>
       </e>
@@ -11348,7 +11367,9 @@
                <t>slimy</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>liejuinen</t>
+               <t>mutainen</t>
+               <t>lietteinen</t>
             </tg>
          </mg>
       </e>
@@ -11371,7 +11392,9 @@
                <t>slimy (covered with it)</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>liejuinen</t>
+               <t>mutainen</t>
+               <t>lietteinen</t>
             </tg>
          </mg>
       </e>
