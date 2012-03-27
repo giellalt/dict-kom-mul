@@ -3152,7 +3152,7 @@
                <t>with a prominent forehead</t>
             </tg>
             <tg lang="fin">
-               <t>kuperaotsainen</t>
+               <t>kuperaotsainen??</t>
             </tg>
          </mg>
       </e>
@@ -3246,7 +3246,7 @@
                <t>baked goods</t>
             </tg>
             <tg lang="fin">
-               <t>leivonnaiset</t>
+               <t>leivonnais-</t>
             </tg>
          </mg>
       </e>
@@ -3407,8 +3407,8 @@
                <t>oil rig</t>
             </tg>
             <tg lang="fin">
-               <t>poraustorni</t>
-               <t>porauslaite</t>
+               <t>poraus-</t>
+               <t>porauslaite??</t>
             </tg>
          </mg>
       </e>
@@ -3453,7 +3453,7 @@
                <t>covered with dust</t>
             </tg>
             <tg lang="fin">
-               <t>tomunpeitteinen</t>
+               <t>tomuinen</t>
                <t>pölyinen</t>
             </tg>
          </mg>
@@ -3535,7 +3535,8 @@
                <t>able to roll</t>
             </tg>
             <tg lang="fin">
-               <t>pyörimään kykenevä??</t>
+               <t>ovaali</t>
+               <t>soikea</t>
             </tg>
          </mg>
          <mg>
@@ -3546,7 +3547,7 @@
                <t>cylindrical</t>
             </tg>
             <tg lang="fin">
-               <t>lieriömäinen</t>
+               <t>lieriömäinen??</t>
             </tg>
          </mg>
       </e>
@@ -3640,7 +3641,7 @@
                <t>all kinds of</t>
             </tg>
             <tg lang="fin">
-               <t>kaikenlaiset</t>
+               <t>kaikenlainen</t>
             </tg>
          </mg>
       </e>
@@ -4391,8 +4392,11 @@
             </tg>
             <tg lang="fin">
                <t>puhelias</t>
-               <t>halukas puhumaan??</t>
-               <t>sanavalmis??</t>
+               <t>kielevä</t>
+               <t>sukkela</t>
+               <t>vikkelä</t>
+               <t>rivakka</t>
+               <t>riuska</t>
             </tg>
          </mg>
       </e>
@@ -4414,7 +4418,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>mätä</t>
+               <t>märkä</t>
             </tg>
          </mg>
       </e>
@@ -21104,7 +21109,7 @@
                <t>operation(s)</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>operatiivinen</t>
             </tg>
          </mg>
       </e>
@@ -21126,7 +21131,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>leikkaus-</t>
             </tg>
          </mg>
       </e>
@@ -21202,7 +21207,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>pellavatukkainen</t>
+               <t>vaaleanruskea (tukasta)</t>
             </tg>
          </mg>
       </e>
@@ -21247,6 +21253,7 @@
             </tg>
             <tg lang="fin">
                <t>kiitettävä</t>
+               <t>kiittävä</t>
             </tg>
          </mg>
       </e>
@@ -21268,7 +21275,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>hapan</t>
+               <t>hapantunut</t>
             </tg>
          </mg>
       </e>
