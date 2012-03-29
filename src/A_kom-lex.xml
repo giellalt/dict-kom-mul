@@ -910,7 +910,7 @@
             </tg>
             <tg lang="fin">
                <t>heleänpunainen</t>
-               <t>vaalean punainen</t>
+               <t>vaaleanpunainen</t>
             </tg>
          </mg>
       </e>
@@ -954,7 +954,8 @@
                <t>English</t>
             </tg>
             <tg lang="fin">
-               <t>englanti</t>
+               <t>englantilainen</t>
+               <t>englanti-</t>
             </tg>
          </mg>
       </e>
@@ -1517,6 +1518,7 @@
             </tg>
             <tg lang="fin">
                <t>asfaltti-</t>
+               <t>asfalttipäällysteinen</t>
             </tg>
          </mg>
       </e>
@@ -15494,7 +15496,7 @@
                <t>missing one shoe</t>
             </tg>
             <tg lang="fin">
-               <t>ilman toista kenkää</t>
+               <t>ilman toista kenkää oleva</t>
                <t>(kenkäpuoli)</t>
             </tg>
          </mg>
@@ -15539,7 +15541,7 @@
                <t>very short (short like the tail on a hare)</t>
             </tg>
             <tg lang="fin">
-               <t>erittäin lyhyt (jäniksen saparon pituinen)</t>
+               <t>erittäin lyhyt (jäniksen hännän pituinen)</t>
             </tg>
          </mg>
       </e>
@@ -16009,7 +16011,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>puolipäiväinen</t>
             </tg>
          </mg>
       </e>
