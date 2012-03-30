@@ -298,6 +298,7 @@
                <t>vaillinainen</t>
                <t>riittämätön</t>
                <t>niukka</t>
+               <t>nolla-</t>
             </tg>
          </mg>
          <mg>
@@ -3144,6 +3145,8 @@
             </tg>
             <tg lang="fin">
                <t>nyrpeä</t>
+               <t>nyreä</t>
+               <t>synkistynyt</t>
             </tg>
          </mg>
          <mg>
@@ -3177,6 +3180,7 @@
             </tg>
             <tg lang="fin">
                <t>nyreäkatseinen</t>
+               <t>mulkosilmäinen??</t>
             </tg>
          </mg>
       </e>
@@ -3201,6 +3205,8 @@
             </tg>
             <tg lang="fin">
                <t>synkkä (ilmasta)</t>
+               <t>nyreä</t>
+               <t>nyrpeä</t>
             </tg>
          </mg>
       </e>
@@ -3226,6 +3232,7 @@
             <tg lang="fin">
                <t>synkkä</t>
                <t>yrmeä</t>
+               <t>nyrpeä</t>
             </tg>
          </mg>
       </e>
@@ -3897,6 +3904,7 @@
             </tg>
             <tg lang="fin">
                <t>taka-</t>
+               <t>perä-</t>
             </tg>
          </mg>
       </e>
@@ -4026,7 +4034,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vedensekainen??</t>
             </tg>
          </mg>
       </e>
@@ -4093,7 +4101,9 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vetinen</t>
+               <t>vesipitoinen</t>
+               <t>mauton (ruoasta)</t>
             </tg>
          </mg>
       </e>
@@ -4140,7 +4150,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>muinainen</t>
             </tg>
          </mg>
       </e>
@@ -4260,7 +4270,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kömpelö</t>
+               <t>taitamaton</t>
             </tg>
          </mg>
       </e>
@@ -4282,7 +4293,10 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>aaltoileva</t>
+               <t>aaltoinen</t>
+               <t>aallokas</t>
+               <t>epätasainen</t>
             </tg>
          </mg>
       </e>
@@ -4304,7 +4318,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kokonais-</t>
             </tg>
          </mg>
       </e>
@@ -4327,7 +4341,11 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>hemmoteltu</t>
+               <t>hempeä</t>
+               <t>hento</t>
+               <t>hentomielinen</t>
+               <t>herkkä</t>
             </tg>
          </mg>
       </e>
@@ -4349,7 +4367,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>hoippuva</t>
+               <t>hoiperteleva</t>
             </tg>
          </mg>
       </e>
@@ -4371,7 +4390,10 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>tottelematon</t>
+               <t>kovakorvainen</t>
+               <t>viekas</t>
+               <t>vilpillinen</t>
             </tg>
          </mg>
       </e>
@@ -4466,7 +4488,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vanu-</t>
+               <t>pumpulinen</t>
             </tg>
          </mg>
       </e>
@@ -4488,7 +4511,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kerroksellinen??</t>
             </tg>
          </mg>
       </e>
@@ -4510,7 +4533,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>valtava</t>
+               <t>suurenmoinen</t>
             </tg>
          </mg>
       </e>
@@ -4577,7 +4601,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>johtava</t>
+               <t>johto-</t>
             </tg>
          </mg>
       </e>
@@ -4666,7 +4691,8 @@
                <t>appetizing</t>
             </tg>
             <tg lang="fin">
-               <t>maittaava</t>
+               <t>maittaava??</t>
+               <t>kadehdittava</t>
             </tg>
          </mg>
       </e>
@@ -4710,7 +4736,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vaaleatukkainen</t>
+               <t>kultatukkainen</t>
             </tg>
          </mg>
       </e>
@@ -4755,7 +4782,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>äitelä</t>
+               <t>äitelänmakea</t>
             </tg>
          </mg>
       </e>
@@ -4777,7 +4805,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kohtelias</t>
+               <t>korrekti</t>
             </tg>
          </mg>
       </e>
@@ -4799,7 +4828,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vihertävä</t>
+               <t>vihreänhohtoinen</t>
             </tg>
          </mg>
       </e>
@@ -4821,7 +4851,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vihervä</t>
+               <t>vihreänhohtoinen</t>
             </tg>
          </mg>
       </e>
@@ -4843,7 +4874,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>viikko-</t>
+               <t>viikon-</t>
             </tg>
          </mg>
       </e>
@@ -4865,7 +4897,12 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>viisto</t>
+               <t>vino</t>
+               <t>kalteva</t>
+               <t>kiero</t>
+               <t>käyrä</t>
+               <t>väärä</t>
             </tg>
          </mg>
       </e>
@@ -4887,7 +4924,12 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>käyrä</t>
+               <t>kiero</t>
+               <t>väärä</t>
+               <t>vino</t>
+               <t>viisto</t>
+               <t>kalteva</t>
             </tg>
          </mg>
       </e>
@@ -4978,7 +5020,10 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>ikivanha</t>
+               <t>iänikuinen</t>
+               <t>iankaikkinen</t>
+               <t>vuosisatainen</t>
             </tg>
          </mg>
       </e>
@@ -5066,7 +5111,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kierosuinen??</t>
             </tg>
          </mg>
       </e>
@@ -5089,7 +5134,10 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vuosisatainen</t>
+               <t>iankaikkinen</t>
+               <t>iänikuinen</t>
+               <t>ikivanha</t>
             </tg>
          </mg>
       </e>
@@ -5111,7 +5159,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>värväys-??</t>
+               <t>pestaus-??</t>
             </tg>
          </mg>
       </e>
@@ -5133,7 +5182,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>hyvin ravittu</t>
+               <t>lihava</t>
             </tg>
          </mg>
       </e>
@@ -5155,7 +5205,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>laiha</t>
+               <t>laihtunut</t>
             </tg>
          </mg>
       </e>
@@ -5248,7 +5299,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>iloinen</t>
             </tg>
          </mg>
       </e>
@@ -5270,7 +5321,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>painava</t>
+               <t>painokas</t>
             </tg>
          </mg>
       </e>
@@ -5389,7 +5441,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vastapäinen</t>
+               <t>yläpuolinen</t>
             </tg>
          </mg>
       </e>
@@ -5433,7 +5486,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kellertävä</t>
             </tg>
          </mg>
       </e>
@@ -5455,7 +5508,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kellertävä</t>
             </tg>
          </mg>
       </e>
@@ -5526,7 +5579,13 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vallaton</t>
+               <t>veikeä</t>
+               <t>veitikkamainen</t>
+               <t>kujeileva</t>
+               <t>riehakas</t>
+               <t>riehakka</t>
+               <t>pahankurinen</t>
             </tg>
          </mg>
       </e>
@@ -5548,7 +5607,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>väkijuoma-??</t>
             </tg>
          </mg>
       </e>
@@ -5571,6 +5630,13 @@
             </tg>
             <tg lang="fin">
                <t/>
+               <t>jäntevä</t>
+               <t>jänteikäs</t>
+               <t>sitkeä</t>
+               <t>kestävä</t>
+               <t>vahva</t>
+               <t>luja</t>
+               <t>elinvoimainen</t>
             </tg>
          </mg>
       </e>
@@ -5592,7 +5658,7 @@
                <t>crazy</t>
             </tg>
             <tg lang="fin">
-               <t>hullu</t>
+               <t>pähkähullu</t>
             </tg>
          </mg>
       </e>
@@ -5614,7 +5680,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vertavuotava</t>
             </tg>
          </mg>
       </e>
@@ -5681,7 +5747,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>hallinnollinen??</t>
             </tg>
          </mg>
       </e>
@@ -5703,7 +5769,7 @@
                <t>extra-budgetary</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>budjetin ulkopuolinen</t>
             </tg>
          </mg>
       </e>
@@ -5751,7 +5817,8 @@
                <t>domestic</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>sisäinen</t>
+               <t>sisä-</t>
             </tg>
          </mg>
       </e>
@@ -5773,7 +5840,9 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>epätasainen</t>
+               <t>vähän ajettu</t>
+               <t>vähän liikennöity</t>
             </tg>
          </mg>
       </e>
@@ -5892,7 +5961,7 @@
                <t>cloven-footed</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>sorkka-</t>
             </tg>
          </mg>
       </e>
@@ -5914,7 +5983,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>haarainen</t>
+               <t>haarakas</t>
             </tg>
          </mg>
       </e>
@@ -5937,6 +6007,8 @@
             </tg>
             <tg lang="fin">
                <t>hiljattainen</t>
+               <t>aiempi</t>
+               <t>aikaisempi</t>
             </tg>
          </mg>
       </e>
@@ -6026,7 +6098,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>volostin-</t>
+               <t>kunnan-??</t>
             </tg>
          </mg>
       </e>
@@ -6093,7 +6166,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>sileä</t>
+               <t>tasainen</t>
             </tg>
          </mg>
       </e>
@@ -6116,7 +6190,12 @@
                <t>which has a mouth</t>
             </tg>
             <tg lang="fin">
-               <t>jolla on suu</t>
+               <t>suulas</t>
+               <t>kielevä</t>
+               <t>hölläsuinen</t>
+               <t>lörpöttelevä</t>
+               <t>-suinen</t>
+               <t>-suu</t>
             </tg>
          </mg>
       </e>
@@ -7736,7 +7815,7 @@
                <t>prostitute??</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>irtolainen??</t>
             </tg>
          </mg>
       </e>
@@ -7782,6 +7861,7 @@
                <t>deep (dish)</t>
             </tg>
             <tg lang="fin">
+               <t>jyrkkä(rantainen)</t>
                <t>syvä (lautanen)</t>
             </tg>
          </mg>
@@ -7804,7 +7884,7 @@
                <t>covered with (pits, potholes, ruts, grooves, hollows, ravines)</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kuoppainen</t>
             </tg>
          </mg>
       </e>
@@ -7870,7 +7950,7 @@
                <t>full of flies</t>
             </tg>
             <tg lang="fin">
-               <t>kärpäsiä täynnä</t>
+               <t>kärpäsien valtaama</t>
             </tg>
          </mg>
       </e>
@@ -7916,7 +7996,8 @@
                <t>slippery</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>liukas</t>
+               <t>livettävä</t>
             </tg>
          </mg>
          <mg>
@@ -7928,7 +8009,8 @@
                <t>roaring (laughter)</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>helisevä (nauru)</t>
+               <t>raikas (nauru)</t>
             </tg>
          </mg>
       </e>
@@ -7950,7 +8032,7 @@
                <t>thundery</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>ukkos-</t>
             </tg>
          </mg>
       </e>
@@ -7972,7 +8054,8 @@
                <t>blood-shot??</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>punertunut</t>
+               <t>tulehtunut</t>
             </tg>
          </mg>
       </e>
@@ -7994,7 +8077,7 @@
                <t>stained with blood</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>verinen??</t>
             </tg>
          </mg>
       </e>
@@ -8027,7 +8110,7 @@
    </entry>
    <entry>
       <lg>
-         <l>гыӧр</l>
+         <l>гыӧра</l>
          <stg>
             <st kpvContlex="Adj">гыӧр</st>
          </stg>
@@ -8039,11 +8122,11 @@
                <head/>
             </m>
             <tg lang="eng">
-               <t>frost</t>
-               <t>hoarfrost</t>
+               <t>frosty</t>
+               <t>hoarfrosty</t>
             </tg>
             <tg lang="fin">
-               <t>kuura</t>
+               <t>kuurainen</t>
             </tg>
          </mg>
       </e>
@@ -8231,7 +8314,8 @@
                <t>uneven with pits</t>
             </tg>
             <tg lang="fin">
-               <t>epätasainen, täynnä kuoppia</t>
+               <t>epätasainen</t>
+               <t>kuoppainen</t>
             </tg>
          </mg>
          <mg>
@@ -8242,7 +8326,7 @@
                <t>with puddles</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>lätäkköinen</t>
             </tg>
          </mg>
       </e>
@@ -8312,7 +8396,7 @@
                <t>married (of a man)</t>
             </tg>
             <tg lang="fin">
-               <t>naimisissa (miehestä)</t>
+               <t>naimisissa oleva (mies)</t>
             </tg>
          </mg>
       </e>
@@ -8335,8 +8419,8 @@
                <t>without a wife</t>
             </tg>
             <tg lang="fin">
-               <t>naimaton</t>
-               <t>ilman vaimoa</t>
+               <t>naimaton (mies)</t>
+               <t>vaimoton</t>
             </tg>
          </mg>
       </e>
@@ -8360,6 +8444,7 @@
             </tg>
             <tg lang="fin">
                <t>valmis</t>
+               <t>valmis-</t>
             </tg>
          </mg>
       </e>
@@ -8405,6 +8490,7 @@
             </tg>
             <tg lang="fin">
                <t>ilmainen</t>
+               <t>vapaa</t>
             </tg>
          </mg>
       </e>
@@ -8489,6 +8575,8 @@
             </tg>
             <tg lang="fin">
                <t>kykenevä</t>
+               <t>toimelias</t>
+               <t>asiallinen</t>
             </tg>
          </mg>
          <mg>
@@ -8523,10 +8611,13 @@
                <t>temporarily rich</t>
             </tg>
             <tg lang="fin">
-               <t>jolla on rahaa</t>
-               <t>hetkellisesti rikas</t>
+               <t>rahallinen</t>
                <t>rahakas</t>
+               <t>raha-</t>
+               <t>rahan-</t>
+               <t>hetkellisesti rikas??</t>
                <t>äveriäs</t>
+               <t/>
             </tg>
          </mg>
       </e>
@@ -8574,6 +8665,8 @@
             </tg>
             <tg lang="fin">
                <t>vaikea nieltäväksi</t>
+               <t>kurkkuun juuttuva</t>
+               <t>takeltuva</t>
             </tg>
          </mg>
          <mg>
@@ -8733,6 +8826,7 @@
             </tg>
             <tg lang="fin">
                <t>tiukka</t>
+               <t>ahdas</t>
                <t>kiinteä</t>
             </tg>
          </mg>
@@ -8809,7 +8903,7 @@
                <t>hanging</t>
             </tg>
             <tg lang="fin">
-               <t>riippuva</t>
+               <t>riippuva??</t>
             </tg>
          </mg>
       </e>
@@ -8882,6 +8976,7 @@
             <tg lang="fin">
                <t>pieni</t>
                <t>pikku</t>
+               <t>pikkuinen</t>
             </tg>
          </mg>
       </e>
@@ -10283,7 +10378,7 @@
                <t>ragged (easy to get a splinter from)??</t>
             </tg>
             <tg lang="fin">
-               <t>??karheapintainen (josta helposti saa tikkuja)</t>
+               <t>karheapintainen (josta helposti saa tikkuja)??</t>
                <t>riitaisa</t>
                <t>toraisa</t>
             </tg>
@@ -10788,7 +10883,7 @@
             </m>
             <tg lang="eng">
                <t>bold</t>
-               <t>??</t>
+               <t>quick??</t>
             </tg>
             <tg lang="fin">
                <t>rohkea</t>
@@ -10870,8 +10965,9 @@
                <t>second's</t>
             </tg>
             <tg lang="fin">
-               <t>hetken</t>
-               <t>tuokion</t>
+               <t>hetkellinen</t>
+               <t>hetken-</t>
+               <t>tuokiollinen</t>
             </tg>
          </mg>
       </e>
@@ -12915,7 +13011,9 @@
                <t>knock-kneed??</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kaareva??</t>
+               <t>kaartuva??</t>
+               <t>kaareutuva??</t>
             </tg>
          </mg>
       </e>
@@ -12937,7 +13035,7 @@
                <t>height of a house</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>talonkorkuinen??</t>
             </tg>
          </mg>
       </e>
@@ -12983,7 +13081,8 @@
             </tg>
             <tg lang="fin">
                <t>kätevä</t>
-               <t>kätsä</t>
+               <t>käden mukainen</t>
+               <t>käteen sopiva</t>
             </tg>
          </mg>
       </e>
