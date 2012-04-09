@@ -139,7 +139,7 @@
                <t>jykevä</t>
                <t>roteva</t>
                <t>riski</t>
-               <t>(paksu kuin tynnyri)??</t>
+               <t>('paksu kuin tynnyri')</t>
             </tg>
          </mg>
       </e>
@@ -1908,11 +1908,11 @@
                <t>outright (grant)</t>
             </tg>
             <tg lang="fin">
-               <t>(jota ei tarvitse maksaa takaisin)??</t>
+               <t>irtisanomaton</t>
                <t>peruuttamaton</t>
                <t>palauttamaton</t>
-               <t>irtisanomaton</t>
                <t>palaamaton</t>
+               <t/>
                <t/>
             </tg>
          </mg>
@@ -2296,7 +2296,7 @@
             <tg lang="fin">
                <t>verraton</t>
                <t>lyömätön</t>
-               <t>ennen näkemätön??</t>
+               <t>ilmiömäinen</t>
                <t>vertaansa vailla oleva</t>
             </tg>
          </mg>
@@ -2654,11 +2654,11 @@
                <t>vigorous</t>
             </tg>
             <tg lang="fin">
-               <t>hyväntuulinen??</t>
                <t>reipas</t>
-               <t>pirteä</t>
                <t>virkeä</t>
+               <t>pirteä</t>
                <t>ponteva</t>
+               <t>tarmokas</t>
             </tg>
          </mg>
       </e>
@@ -3181,6 +3181,7 @@
             </tg>
             <tg lang="fin">
                <t>kuperaotsainen??</t>
+               <t>koho-otsainen??</t>
             </tg>
          </mg>
       </e>
@@ -3440,7 +3441,7 @@
             </tg>
             <tg lang="fin">
                <t>poraus-</t>
-               <t>porauslaite??</t>
+               <t>pora-</t>
             </tg>
          </mg>
       </e>
@@ -3579,7 +3580,10 @@
                <t>cylindrical</t>
             </tg>
             <tg lang="fin">
-               <t>lieriömäinen??</t>
+               <t>lieriömäinen</t>
+               <t>lieriö-</t>
+               <t>sylinterimäinen</t>
+               <t>sylinteri-</t>
             </tg>
          </mg>
       </e>
@@ -3744,7 +3748,9 @@
             </tg>
             <tg lang="fin">
                <t>kaikenlainen</t>
-               <t>erilainen??</t>
+               <t>kaikenmoinen</t>
+               <t>erilainen</t>
+               <t>eri-</t>
             </tg>
          </mg>
          <mg>
@@ -3755,7 +3761,8 @@
                <t>any</t>
             </tg>
             <tg lang="fin">
-               <t>mikä tahansa??</t>
+               <t>mikä tahansa</t>
+               <t>jokainen</t>
             </tg>
          </mg>
       </e>
@@ -3778,6 +3785,7 @@
             </tg>
             <tg lang="fin">
                <t>kokonainen</t>
+               <t>koko</t>
             </tg>
          </mg>
       </e>
@@ -4057,7 +4065,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t>vedensekainen??</t>
+               <t>vedensekainen</t>
             </tg>
          </mg>
       </e>
@@ -4080,6 +4088,7 @@
             </tg>
             <tg lang="fin">
                <t>vettä täynnä oleva</t>
+               <t>veden täyttämä</t>
             </tg>
          </mg>
       </e>
@@ -4534,7 +4543,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t>kerroksellinen??</t>
+               <t>kerroksellinen</t>
+               <t>päällekkäinen</t>
             </tg>
          </mg>
       </e>
@@ -4558,6 +4568,8 @@
             <tg lang="fin">
                <t>valtava</t>
                <t>suurenmoinen</t>
+               <t>ylevä</t>
+               <t>majesteettinen</t>
             </tg>
          </mg>
       </e>
@@ -4579,7 +4591,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>-valtainen</t>
+               <t>-voittoinen</t>
             </tg>
          </mg>
       </e>
@@ -4714,8 +4727,9 @@
                <t>appetizing</t>
             </tg>
             <tg lang="fin">
-               <t>maittaava??</t>
-               <t>kadehdittava</t>
+               <t>maittavan näköinen</t>
+               <t>maukkaan näköinen</t>
+               <t>herkullisen näköinen</t>
             </tg>
          </mg>
       </e>
@@ -4737,7 +4751,10 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>puoleensa vetävä</t>
+               <t>kiinnostava</t>
+               <t>haluttava</t>
+               <t>himottava</t>
             </tg>
          </mg>
       </e>
@@ -5185,8 +5202,10 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t>värväys-??</t>
-               <t>pestaus-??</t>
+               <t>värvätty</t>
+               <t>värväys-</t>
+               <t>pestattu</t>
+               <t>pestaus-</t>
             </tg>
          </mg>
       </e>
