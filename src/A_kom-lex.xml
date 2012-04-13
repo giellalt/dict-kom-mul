@@ -348,6 +348,7 @@
             </tg>
             <tg lang="fin">
                <t>avantgardelle tyypillinen</t>
+               <t>avantgardelle ominainen</t>
                <t>uraauurtava</t>
                <t>edelläkäyvä</t>
                <t>eturintaman</t>
@@ -1676,8 +1677,10 @@
                <t>old ladies'</t>
             </tg>
             <tg lang="fin">
+               <t>nais(t)en</t>
+               <t>nais-</t>
                <t>vanhojen naisten</t>
-               <t>akkain</t>
+               <t>akkojen</t>
             </tg>
          </mg>
       </e>
@@ -1721,7 +1724,8 @@
                <t>covered in powdered snow</t>
             </tg>
             <tg lang="fin">
-               <t>hotolla lumella peitetty</t>
+               <t>pyrylumeen peittynyt</t>
+               <t>hötölla lumella peittynyt</t>
             </tg>
          </mg>
       </e>
@@ -1767,6 +1771,7 @@
             </tg>
             <tg lang="fin">
                <t>punaposkinen</t>
+               <t>rusoposkinen</t>
             </tg>
          </mg>
       </e>
@@ -2461,6 +2466,7 @@
             </tg>
             <tg lang="fin">
                <t>tulipunainen</t>
+               <t>tulenpunainen</t>
             </tg>
          </mg>
       </e>
@@ -3280,6 +3286,7 @@
             </tg>
             <tg lang="fin">
                <t>leivonnais-</t>
+               <t>leipomo-</t>
             </tg>
          </mg>
       </e>
