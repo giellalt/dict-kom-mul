@@ -3229,9 +3229,18 @@
                <head/>
             </m>
             <tg lang="eng">
-               <t>gloomy</t>
-               <t>overcast</t>
-               <t>dismal (weather)</t>
+               <tCtn>
+                  <t pos="A">gloomy</t>
+                  <re>weather</re>
+               </tCtn>
+               <tCtn>
+                  <t pos="A">overcast</t>
+                  <re>weather</re>
+               </tCtn>
+               <tCtn>
+                  <t pos="A">dismal</t>
+                  <re>weather</re>
+               </tCtn>
             </tg>
             <tg lang="fin">
                <t>synkkä (ilmasta)</t>
@@ -4621,7 +4630,6 @@
                <t>inter-departmental</t>
             </tg>
             <tg lang="fin">
-               <t>osastojen välinen??</t>
                <t>virastojen välinen</t>
             </tg>
          </mg>
@@ -5754,10 +5762,10 @@
                <semRel lemmaID="косньӧд" semRelType="confer"/>
             </m>
             <tg lang="eng">
-               <t/>
+               <t>lean</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>laiha</t>
             </tg>
          </mg>
       </e>
@@ -5802,6 +5810,7 @@
             </tg>
             <tg lang="fin">
                <t>hallinnollinen??</t>
+               <t>hallinto-</t>
             </tg>
          </mg>
       </e>
@@ -6532,7 +6541,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>hetkellinen</t>
+               <t>väliaikainen</t>
             </tg>
          </mg>
       </e>
@@ -6552,7 +6562,8 @@
                <semRel lemmaID="став мувывса" semRelType="see"/>
             </m>
             <tg lang="eng">
-               <t/>
+               <t>maailman-</t>
+               <t>yleismaailmallinen</t>
             </tg>
             <tg lang="fin">
                <t/>
@@ -6578,6 +6589,7 @@
             </tg>
             <tg lang="fin">
                <t>koko kansan</t>
+               <t>yleiskansallinen</t>
             </tg>
          </mg>
       </e>
@@ -6716,7 +6728,7 @@
                <t>with roots</t>
             </tg>
             <tg lang="fin">
-               <t>jolla on juuret</t>
+               <t>juurellinen</t>
             </tg>
          </mg>
       </e>
@@ -6760,7 +6772,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>uusi</t>
+               <t>uudenlainen</t>
             </tg>
          </mg>
       </e>
@@ -6852,7 +6865,9 @@
                <t>unparalleled</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>tavaton</t>
+               <t>ennennäkemätön</t>
+               <t>epätavallinen</t>
             </tg>
          </mg>
       </e>
@@ -6875,7 +6890,10 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>ujo</t>
+               <t>kaino</t>
+               <t>pelokas</t>
+               <t>arka</t>
             </tg>
          </mg>
       </e>
@@ -6897,7 +6915,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vastenmielinen</t>
             </tg>
          </mg>
       </e>
@@ -7100,7 +7118,7 @@
                <t>blistered??</t>
             </tg>
             <tg lang="fin">
-               <t>känsäinen</t>
+               <t>känsäinen??</t>
                <t>känsän peittämä</t>
                <t>rakkulainen</t>
             </tg>
@@ -7169,7 +7187,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kaasuturbiini-</t>
             </tg>
          </mg>
       </e>
