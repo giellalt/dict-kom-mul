@@ -1963,7 +1963,7 @@
          <mg>
             <m>
                <head/>
-               <semRel lemmaID="мутӧм??" semRelType="confer"/>
+               <semRel lemmaID="мутӧм" semRelType="seeNative"/>
             </m>
             <tg lang="eng">
                <t>landless</t>
@@ -8163,6 +8163,7 @@
             </m>
             <tg lang="eng">
                <t>stained with blood</t>
+               <t>blood-stained</t>
             </tg>
             <tg lang="fin">
                <t>verinen??</t>
@@ -10760,7 +10761,7 @@
             </m>
             <tg lang="eng">
                <t>greedy</t>
-               <t>??avorice</t>
+               <t>avorice</t>
             </tg>
             <tg lang="fin">
                <t>ahne</t>
@@ -11032,7 +11033,7 @@
             <tg lang="eng">
                <t>strong</t>
                <t>powerful</t>
-               <t>burly??</t>
+               <t>burly</t>
             </tg>
             <tg lang="fin">
                <t>voimakas</t>
