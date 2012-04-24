@@ -14272,6 +14272,7 @@
             </tg>
             <tg lang="fin">
                <t>leipomo-</t>
+               <t>konditoria-</t>
             </tg>
          </mg>
       </e>
@@ -14364,6 +14365,7 @@
             </tg>
             <tg lang="fin">
                <t>koe-</t>
+               <t>kontrolli-</t>
             </tg>
          </mg>
       </e>
@@ -14429,7 +14431,7 @@
                <t>bent</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>(tervehdys) kumarruksen kera</t>
             </tg>
          </mg>
       </e>
@@ -17355,7 +17357,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>läheinen</t>
+               <t>lähi-</t>
             </tg>
          </mg>
       </e>
@@ -17445,7 +17448,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>läheinen</t>
+               <t>lähi-</t>
             </tg>
          </mg>
       </e>
@@ -17491,7 +17495,10 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>läheinen</t>
+               <t>lähi-</t>
+               <t>rinnakkainen</t>
+               <t>raja-</t>
             </tg>
          </mg>
       </e>
@@ -17897,7 +17904,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>metallurginen</t>
             </tg>
          </mg>
       </e>
@@ -17919,7 +17926,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>säätieteellinen</t>
+               <t>meteorologinen</t>
             </tg>
          </mg>
       </e>
@@ -17941,7 +17949,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>runomitallinen</t>
             </tg>
          </mg>
       </e>
@@ -17963,7 +17971,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>metrinen</t>
             </tg>
          </mg>
       </e>
@@ -18007,7 +18015,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>hidas</t>
+               <t>kuhnus(televa)</t>
             </tg>
          </mg>
       </e>
@@ -18310,6 +18319,7 @@
             </tg>
             <tg lang="fin">
                <t>monopolistinen</t>
+               <t>yksinoikeudellinen</t>
             </tg>
          </mg>
       </e>
@@ -18379,7 +18389,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>ikiaikainen</t>
+               <t>elinikäinen</t>
             </tg>
          </mg>
       </e>
@@ -22297,6 +22308,8 @@
             </tg>
             <tg lang="fin">
                <t>Permin</t>
+               <t>permiläinen</t>
+               <t>permiläis-</t>
             </tg>
          </mg>
       </e>
@@ -23344,7 +23357,8 @@
                <t>nursing</t>
             </tg>
             <tg lang="fin">
-               <t>imevä</t>
+               <t>vastasyntynyt</t>
+               <t>imeväinen</t>
             </tg>
          </mg>
       </e>
@@ -24270,6 +24284,7 @@
             </tg>
             <tg lang="fin">
                <t>tasavalta-</t>
+               <t>tasavallan</t>
             </tg>
          </mg>
       </e>
@@ -27367,7 +27382,8 @@
                <t>creative</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>luova</t>
+               <t>luomis-</t>
             </tg>
          </mg>
       </e>
