@@ -4299,7 +4299,9 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vetinen</t>
+               <t>vesipitoinen</t>
+               <t>kostea</t>
             </tg>
          </mg>
       </e>
@@ -5172,6 +5174,7 @@
                <t/>
             </tg>
             <tg lang="fin">
+               <t>vääräsuinen</t>
                <t>kierosuinen??</t>
             </tg>
          </mg>
@@ -6030,6 +6033,7 @@
                <t>cloven-footed</t>
             </tg>
             <tg lang="fin">
+               <t>sorkallinen</t>
                <t>sorkka-</t>
             </tg>
          </mg>
@@ -6123,6 +6127,7 @@
                <t>night's</t>
             </tg>
             <tg lang="fin">
+               <t>yöllinen</t>
                <t>yö-</t>
             </tg>
          </mg>
@@ -6455,7 +6460,10 @@
                <t>yearly</t>
             </tg>
             <tg lang="fin">
-               <t>vuosittainen</t>
+               <t>vuotuinen</t>
+               <t>vuoden kestävä</t>
+               <t>vuosi-</t>
+               <t>yksivuotinen</t>
             </tg>
          </mg>
       </e>
@@ -6477,7 +6485,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>oksennuksen tahraama</t>
+               <t>oksennuksessa oleva</t>
             </tg>
          </mg>
       </e>
@@ -6502,10 +6511,12 @@
                </head>
             </m>
             <tg lang="eng">
-               <t>collected</t>
+               <t>collected??</t>
             </tg>
             <tg lang="fin">
-               <t>kerätty</t>
+               <t>raaka</t>
+               <t>kypsymätön</t>
+               <t>epäkypsä</t>
             </tg>
          </mg>
       </e>
@@ -6572,11 +6583,11 @@
                <semRel lemmaID="став мувывса" semRelType="see"/>
             </m>
             <tg lang="eng">
-               <t>maailman-</t>
-               <t>yleismaailmallinen</t>
+               <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>maailman-</t>
+               <t>yleismaailmallinen</t>
             </tg>
          </mg>
       </e>
@@ -8038,7 +8049,7 @@
                <t>full of flies</t>
             </tg>
             <tg lang="fin">
-               <t>kärpäsien valtaama</t>
+               <t>kärpästen valtaama</t>
             </tg>
          </mg>
       </e>
@@ -12907,7 +12918,7 @@
                <t>Catholic</t>
             </tg>
             <tg lang="fin">
-               <t>katolilainen</t>
+               <t>katolinen</t>
             </tg>
          </mg>
       </e>
@@ -13941,7 +13952,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kolmannen persoonan</t>
             </tg>
          </mg>
       </e>
@@ -13987,7 +13998,9 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>helppoluonteinen</t>
+               <t>mutkaton (luonteesta)</t>
+               <t>välitön (luonteesta)</t>
             </tg>
          </mg>
       </e>
@@ -14033,7 +14046,7 @@
                <t>lumpy</t>
             </tg>
             <tg lang="fin">
-               <t>täynnä möykkyjä??</t>
+               <t>kokkareinen</t>
             </tg>
          </mg>
       </e>
@@ -17010,7 +17023,7 @@
                <t>absurd</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>sopimaton</t>
             </tg>
          </mg>
       </e>
@@ -17059,6 +17072,7 @@
             </tg>
             <tg lang="fin">
                <t>makea kuin hunaja</t>
+               <t>hunajainen</t>
             </tg>
          </mg>
       </e>
@@ -17172,7 +17186,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>saippuainen</t>
             </tg>
          </mg>
       </e>
@@ -17221,7 +17235,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>huolellisuutta vaativa</t>
             </tg>
          </mg>
       </e>
@@ -17266,7 +17280,9 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>rasvautunut</t>
+               <t>rasvainen</t>
+               <t>rasvan tahrima</t>
             </tg>
          </mg>
       </e>
@@ -17288,7 +17304,10 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>mestarillinen</t>
+               <t>mestaris-</t>
+               <t>ammattitaitoinen</t>
+               <t>pätevä</t>
             </tg>
          </mg>
       </e>
