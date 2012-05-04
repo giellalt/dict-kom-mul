@@ -584,7 +584,8 @@
                <t>with no preferences in food</t>
             </tg>
             <tg lang="fin">
-               <t>vaatimaton ruoan suhteen</t>
+               <t>ahne</t>
+               <t>ahnas</t>
             </tg>
          </mg>
          <mg>
@@ -1205,6 +1206,8 @@
                <t>undeveloped</t>
             </tg>
             <tg lang="fin">
+               <t>epäonnistunut</t>
+               <t>onnistumaton</t>
                <t>kehittymätön</t>
             </tg>
          </mg>
@@ -7361,7 +7364,8 @@
                <t>with catkins</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>urpuinen</t>
+               <t>norkkoinen</t>
             </tg>
          </mg>
       </e>
@@ -7453,7 +7457,7 @@
                <t>geological</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>geologinen</t>
             </tg>
          </mg>
       </e>
@@ -7502,7 +7506,10 @@
             </tg>
             <tg lang="fin">
                <t>pää-</t>
+               <t>pääasiallinen</t>
                <t>johto-</t>
+               <t>yli-</t>
+               <t>tärkein</t>
             </tg>
          </mg>
          <mg>
@@ -7580,7 +7587,7 @@
                <t>slippery</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>liukas</t>
             </tg>
          </mg>
          <mg>
@@ -7591,7 +7598,11 @@
                <t>roaring (laughter)</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>jyrisevä</t>
+               <t>jymisevä</t>
+               <t>jylisevä</t>
+               <t>kaikuva</t>
+               <t>raikuva</t>
             </tg>
          </mg>
       </e>
@@ -7638,7 +7649,9 @@
                <t>passionate</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kiivas(luonteinen)</t>
+               <t>kuuma(verinen)</t>
+               <t>tulinen</t>
             </tg>
          </mg>
       </e>
@@ -7684,6 +7697,7 @@
             </tg>
             <tg lang="fin">
                <t>ahne</t>
+               <t>ahnas</t>
             </tg>
          </mg>
       </e>
@@ -7800,7 +7814,7 @@
                <t>sinker (in fishing)</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>paino (siimassa)</t>
             </tg>
          </mg>
       </e>
@@ -7822,7 +7836,7 @@
                <t>turned inside out</t>
             </tg>
             <tg lang="fin">
-               <t>nurinpäin</t>
+               <t>nurin päin</t>
             </tg>
          </mg>
       </e>
@@ -7870,7 +7884,7 @@
                <t>in a throng</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>(lähteä) joukolla</t>
             </tg>
          </mg>
       </e>
@@ -8006,6 +8020,8 @@
             </tg>
             <tg lang="fin">
                <t>salainen</t>
+               <t>sala-</t>
+               <t>salattu</t>
             </tg>
          </mg>
       </e>
@@ -8392,7 +8408,9 @@
                <t>in feather</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>karvainen</t>
+               <t>höyheninen</t>
+               <t>untuvainen</t>
             </tg>
          </mg>
       </e>
@@ -9516,6 +9534,7 @@
             </tg>
             <tg lang="fin">
                <t>sitomaton</t>
+               <t>kiinnittämätön</t>
             </tg>
          </mg>
       </e>
@@ -10777,6 +10796,8 @@
             <tg lang="fin">
                <t>ahne</t>
                <t>ahnas</t>
+               <t>rahanahne</t>
+               <t>rahanahnas</t>
                <t>voitonhimoinen</t>
             </tg>
          </mg>
@@ -10801,6 +10822,8 @@
             </tg>
             <tg lang="fin">
                <t>korvaamaton (ei ihmisestä)</t>
+               <t>korvikkeeton??</t>
+               <t>vastikkeeton??</t>
             </tg>
          </mg>
       </e>
@@ -14117,8 +14140,11 @@
             </tg>
             <tg lang="fin">
                <t>ahne</t>
+               <t>ahnas</t>
                <t>saita</t>
                <t>kitsas</t>
+               <t>kateellinen</t>
+               <t>kademielinen</t>
             </tg>
          </mg>
       </e>
@@ -14917,7 +14943,7 @@
                <t>immortal</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kuolematon</t>
             </tg>
          </mg>
       </e>
@@ -15844,7 +15870,9 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kelvoton</t>
+               <t>epäkelpo</t>
+               <t>huono</t>
             </tg>
          </mg>
       </e>
@@ -16181,7 +16209,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>lämmittämätön</t>
             </tg>
          </mg>
       </e>
@@ -16402,7 +16430,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>ampumaton</t>
             </tg>
          </mg>
       </e>
@@ -17719,7 +17747,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>palkaton</t>
+               <t>palkkaa saamaton</t>
             </tg>
          </mg>
       </e>
@@ -18179,7 +18208,9 @@
                <t>crude</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>piittaamaton</t>
+               <t>mauton</t>
+               <t>julma</t>
             </tg>
          </mg>
       </e>
@@ -19002,7 +19033,10 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>oikullinen</t>
+               <t>oikukas</t>
+               <t>oikkupäinen</t>
+               <t>järjetön</t>
             </tg>
          </mg>
       </e>
@@ -19226,7 +19260,7 @@
                <t>inalienable</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>luovuttamaton??</t>
             </tg>
          </mg>
       </e>
@@ -22533,7 +22567,9 @@
                <t>finicky</t>
             </tg>
             <tg lang="fin">
-               <t>nuuka (ruoan suhteen)</t>
+               <t>vaativa</t>
+               <t>vaatelias</t>
+               <t>nirso</t>
             </tg>
          </mg>
       </e>
@@ -23785,7 +23821,11 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>järjestyksetön</t>
+               <t>järjestäytymätön</t>
+               <t>holtiton</t>
+               <t>piittaamaton</t>
+               <t>huoleton</t>
             </tg>
          </mg>
       </e>
@@ -23970,6 +24010,7 @@
             <tg lang="fin">
                <t>kyltymätön</t>
                <t>ahne</t>
+               <t>ahnas</t>
             </tg>
          </mg>
       </e>
@@ -24015,7 +24056,9 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>harva</t>
+               <t>ohut</t>
+               <t>harvinainen</t>
             </tg>
          </mg>
       </e>
@@ -28250,6 +28293,10 @@
             <tg lang="fin">
                <t>tarpeeton</t>
                <t>olematon</t>
+               <t>tappiollinen</t>
+               <t>vajaatuottoinen</t>
+               <t>riittämätön</t>
+               <t>puuttuva</t>
             </tg>
          </mg>
       </e>
@@ -28607,7 +28654,10 @@
                <t>not working</t>
             </tg>
             <tg lang="fin">
-               <t>joka ei tee työtä</t>
+               <t>työtä tekemätön</t>
+               <t>työtön</t>
+               <t>jouto-</t>
+               <t>vapaa-</t>
             </tg>
          </mg>
       </e>
