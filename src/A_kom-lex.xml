@@ -7779,7 +7779,8 @@
                <t>civil</t>
             </tg>
             <tg lang="fin">
-               <t>sisällis-</t>
+               <t>kansalais-</t>
+               <t>siviili-</t>
             </tg>
          </mg>
       </e>
@@ -9797,6 +9798,12 @@
                <t>levoton</t>
                <t>vikuroiva</t>
                <t>säikkyvä</t>
+               <t>oikullinen</t>
+               <t>oikukas</t>
+               <t>salpautunut</t>
+               <t>salpaantunut</t>
+               <t>liikkumaton</t>
+               <t>pysähtynyt</t>
             </tg>
          </mg>
       </e>
@@ -12155,8 +12162,13 @@
                <t>other</t>
             </tg>
             <tg lang="fin">
-               <t>vieras</t>
+               <t>ihmis-</t>
+               <t>ihmisen-</t>
+               <t>kansan-</t>
                <t>muu</t>
+               <t>vieras</t>
+               <t>sivullinen</t>
+               <t>syrjäinen</t>
             </tg>
          </mg>
       </e>
@@ -12178,7 +12190,8 @@
                <t>international??</t>
             </tg>
             <tg lang="fin">
-               <t>kansainvälinen??</t>
+               <t>kansan-</t>
+               <t>kansallinen</t>
             </tg>
          </mg>
       </e>
@@ -12200,7 +12213,7 @@
                <t>national</t>
             </tg>
             <tg lang="fin">
-               <t>kansan</t>
+               <t>kansan-</t>
                <t>kansallinen</t>
             </tg>
          </mg>
@@ -12317,6 +12330,9 @@
                <t>stupid</t>
             </tg>
             <tg lang="fin">
+               <t>tyhmä</t>
+               <t>typerä</t>
+               <t>tolkuton</t>
                <t>hullu</t>
             </tg>
          </mg>
@@ -13828,7 +13844,14 @@
                <t>alcoholic</t>
             </tg>
             <tg lang="fin">
-               <t>alkoholi</t>
+               <t>alkoholinen</t>
+               <t>alkoholi-</t>
+               <t>alkoholipitoinen</t>
+               <t>väkevä</t>
+               <t>väki-</t>
+               <t>humalluttava</t>
+               <t>huumaannuttava</t>
+               <t>huumaava</t>
             </tg>
          </mg>
       </e>
@@ -20611,7 +20634,7 @@
                <t>movealbe</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>liikutettava??</t>
             </tg>
          </mg>
       </e>
@@ -23362,6 +23385,7 @@
             </tg>
             <tg lang="fin">
                <t>vapaa</t>
+               <t>varaamaton</t>
             </tg>
          </mg>
       </e>
@@ -23429,6 +23453,7 @@
             </tg>
             <tg lang="fin">
                <t>ahkera</t>
+               <t>touhukas</t>
                <t>'puusta toiseen hyppivän oravan kaltainen'</t>
             </tg>
          </mg>
@@ -24168,6 +24193,7 @@
             </tg>
             <tg lang="fin">
                <t>rakas</t>
+               <t>rakastettu</t>
                <t>lempi-</t>
             </tg>
          </mg>
@@ -31516,6 +31542,8 @@
             </tg>
             <tg lang="fin">
                <t>innoittava</t>
+               <t>innostava</t>
+               <t>inspiroiva</t>
             </tg>
          </mg>
       </e>
@@ -31726,6 +31754,11 @@
             <tg lang="fin">
                <t>vakuuttava</t>
                <t>uskollinen</t>
+               <t>luotettava</t>
+               <t>varma</t>
+               <t>todenperäinen</t>
+               <t>myönteinen</t>
+               <t>myöntävä</t>
             </tg>
          </mg>
       </e>
