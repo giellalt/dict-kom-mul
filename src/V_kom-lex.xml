@@ -908,6 +908,7 @@
             </tg>
             <tg lang="fin">
                <t>siepata suulla</t>
+               <t>näykkiä</t>
                <t>haukkoa ilmaa</t>
                <t>vetää keuhkoihin</t>
             </tg>
@@ -921,7 +922,7 @@
                <t>bite (with lips)</t>
             </tg>
             <tg lang="fin">
-               <t>kahmia??</t>
+               <t>näykkiä</t>
                <t>hamuta (suulla)</t>
             </tg>
          </mg>
@@ -1584,7 +1585,8 @@
                <t>osoittaa luonnetta</t>
                <t>osoittaa omapäisyyttä</t>
                <t>osoittaa uppiniskaisuutta</t>
-               <t>niskoitella??</t>
+               <t>niskoitella</t>
+               <t>niskuroida</t>
             </tg>
          </mg>
          <mg>
@@ -1718,7 +1720,7 @@
                <t>practice obstetrics</t>
             </tg>
             <tg lang="fin">
-               <t>kätilöidä??</t>
+               <t>kätilöidä</t>
                <t>toimia kätilönä</t>
                <t>vaalia</t>
                <t>huolehtia</t>
@@ -1744,7 +1746,7 @@
                <t>play a game with bones</t>
             </tg>
             <tg lang="fin">
-               <t>leikkiä luunpalasilla</t>
+               <t>pelata luupeliä</t>
             </tg>
          </mg>
       </e>
@@ -1767,7 +1769,9 @@
                <t>go to bed</t>
             </tg>
             <tg lang="fin">
+               <t>mennä maaten</t>
                <t>mennä maata</t>
+               <t>mennä tutumaan</t>
             </tg>
          </mg>
          <mg>
@@ -1802,7 +1806,9 @@
             </tg>
             <tg lang="fin">
                <t>panna nukkumaan</t>
+               <t>panna tutumaan</t>
                <t>nitistää</t>
+               <t>ottaa hengiltä</t>
             </tg>
          </mg>
       </e>
@@ -1824,8 +1830,13 @@
                <t>sit idle</t>
             </tg>
             <tg lang="fin">
-               <t>yletä (halventavasti)</t>
+               <t>yletä (halventavasti)??</t>
+               <t>kohota</t>
+               <t>kasautua</t>
+               <t>kasaantua</t>
                <t>istua ilman työtä</t>
+               <t>vetelehtiä</t>
+               <t>lorvailla</t>
             </tg>
          </mg>
       </e>
@@ -1848,6 +1859,8 @@
             </tg>
             <tg lang="fin">
                <t>vetelehtiä</t>
+               <t>kuljeksia</t>
+               <t>lorvailla</t>
             </tg>
          </mg>
       </e>
@@ -1893,7 +1906,9 @@
                <t>become loose</t>
             </tg>
             <tg lang="fin">
-               <t>tulla kuohkeaksi</t>
+               <t>tulla pehmeäksi</t>
+               <t>pehmetä</t>
+               <t>hapertua</t>
             </tg>
          </mg>
       </e>
@@ -1917,7 +1932,7 @@
             </tg>
             <tg lang="fin">
                <t>ottaa kiinni puoshaalla</t>
-               <t>käsitellä puoshaalla</t>
+               <t>käyttää puoshakaa</t>
             </tg>
          </mg>
       </e>
@@ -1941,8 +1956,7 @@
             </tg>
             <tg lang="fin">
                <t>käydä markkinoilla</t>
-               <t>kaupata</t>
-               <t>meluta</t>
+               <t>myydä markkinoilla</t>
             </tg>
          </mg>
          <mg>
@@ -1957,6 +1971,8 @@
             </tg>
             <tg lang="fin">
                <t>meluta</t>
+               <t>hälistä</t>
+               <t>rähistä</t>
             </tg>
          </mg>
       </e>
@@ -1985,6 +2001,10 @@
             <tg lang="fin">
                <t>kohota??</t>
                <t>olla joutilaana</t>
+               <t>kasautua</t>
+               <t>kasaantua</t>
+               <t>vetelehtiä</t>
+               <t>lorvailla</t>
             </tg>
          </mg>
       </e>
@@ -3001,6 +3021,7 @@
                <t>pyöräyttää</t>
                <t>pyörittää</t>
                <t>kääntää</t>
+               <t>käännyttää</t>
                <t>kiertää??</t>
             </tg>
          </mg>
@@ -3020,6 +3041,7 @@
             </tg>
             <tg lang="fin">
                <t>pyörittää</t>
+               <t>kääntää</t>
             </tg>
          </mg>
          <mg>
@@ -3083,7 +3105,10 @@
             </tg>
             <tg lang="fin">
                <t>pyöriskellä</t>
+               <t>pyörähtää</t>
                <t>kääntyä</t>
+               <t>vääntyä</t>
+               <t>kiertyä</t>
             </tg>
          </mg>
          <mg>
