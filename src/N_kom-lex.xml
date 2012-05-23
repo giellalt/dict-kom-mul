@@ -602,8 +602,8 @@
                <t>Iz'va River Basin</t>
             </tg>
             <tg lang="fin">
-               <t>Izvajoen haara</t>
-               <t>Izvan sivujoki</t>
+               <t>Izva(joe)n haara</t>
+               <t>Izva(joe)n sivujoki</t>
             </tg>
          </mg>
       </e>
@@ -1886,8 +1886,8 @@
                <t>season ticket</t>
             </tg>
             <tg lang="fin">
-               <t>tilaus</t>
-               <t>abonemangi??</t>
+               <t>ennakkotilaus</t>
+               <t>abonemangi</t>
             </tg>
          </mg>
       </e>
@@ -2062,7 +2062,7 @@
             </tg>
             <tg lang="fin">
                <t>yleisnimi</t>
-               <t>apellatiivi</t>
+               <t>appellatiivi</t>
             </tg>
          </mg>
       </e>
@@ -2168,6 +2168,9 @@
             </tg>
             <tg lang="fin">
                <t>äly</t>
+               <t>järki</t>
+               <t>ymmärrys</t>
+               <t>tolkku</t>
             </tg>
          </mg>
          <mg>
@@ -2277,8 +2280,9 @@
                <t>wail</t>
             </tg>
             <tg lang="fin">
-               <t>itku ??</t>
                <t>parku</t>
+               <t>huuto</t>
+               <t>vongunta</t>
             </tg>
          </mg>
          <mg>
@@ -2306,7 +2310,7 @@
             </tg>
             <tg lang="fin">
                <t>ulvominen</t>
-               <t>??</t>
+               <t>ulvonta</t>
             </tg>
          </mg>
       </e>
@@ -2549,7 +2553,7 @@
                <t>motor vehicle ??</t>
             </tg>
             <tg lang="fin">
-               <t>moottoriajoneuvojen katsastuslaitos</t>
+               <t>moottoriajoneuvojen katsastus(laitos)</t>
             </tg>
          </mg>
       </e>
@@ -2593,7 +2597,8 @@
                <t>pay-phone</t>
             </tg>
             <tg lang="fin">
-               <t>kolikkopuhelin</t>
+               <t>kolikkopuhelin??</t>
+               <t>automaatti</t>
             </tg>
          </mg>
          <mg>
@@ -2604,7 +2609,7 @@
                <t>automatic (rifle)</t>
             </tg>
             <tg lang="fin">
-               <t>??automaattikonekivääri</t>
+               <t>konepistooli</t>
             </tg>
          </mg>
       </e>
@@ -2626,7 +2631,7 @@
                <t>automation</t>
             </tg>
             <tg lang="fin">
-               <t>automaatio</t>
+               <t>automatisointi</t>
             </tg>
          </mg>
       </e>
@@ -2760,6 +2765,7 @@
             </tg>
             <tg lang="fin">
                <t>tekijä</t>
+               <t>laatija</t>
             </tg>
          </mg>
       </e>
@@ -2782,7 +2788,7 @@
             </tg>
             <tg lang="fin">
                <t>arvovalta</t>
-               <t>autoriteetti</t>
+               <t>auktoriteetti</t>
             </tg>
          </mg>
       </e>
@@ -2828,7 +2834,7 @@
             </tg>
             <tg lang="fin">
                <t>vaatimattomuus</t>
-               <t>pidättyväinen</t>
+               <t>pidättyväisyys</t>
             </tg>
          </mg>
       </e>
@@ -2900,6 +2906,7 @@
                <t>agate</t>
             </tg>
             <tg lang="fin">
+               <t>akaatti</t>
                <t>agaatti</t>
             </tg>
          </mg>
@@ -2926,6 +2933,7 @@
             </tg>
             <tg lang="fin">
                <t>agentti</t>
+               <t>asiamies</t>
             </tg>
          </mg>
       </e>
@@ -3003,6 +3011,7 @@
                <t>aggressio</t>
                <t>vihamielisyys</t>
                <t>hyökkäävyys</t>
+               <t>hyökkäys</t>
             </tg>
          </mg>
       </e>
@@ -3049,6 +3058,9 @@
             </tg>
             <tg lang="fin">
                <t>agronomia</t>
+               <t>maatalousoppi</t>
+               <t>maanviljelysoppi</t>
+               <t>maanviljelystiede</t>
             </tg>
          </mg>
       </e>
