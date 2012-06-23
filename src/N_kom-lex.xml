@@ -6388,6 +6388,7 @@
             <tg lang="fin">
                <t>koneisto</t>
                <t>koje</t>
+               <t>laite</t>
                <t>aparaatti</t>
             </tg>
          </mg>
@@ -14558,7 +14559,8 @@
                <t>bauxite mining</t>
             </tg>
             <tg lang="fin">
-               <t>boksiittilouhinta</t>
+               <t>boksiitin louhinta</t>
+               <t>bauksiitin louhinta</t>
             </tg>
          </mg>
       </e>
@@ -25428,7 +25430,7 @@
                <head/>
             </m>
             <tg lang="fin">
-               <t/>
+               <t>opintomaksu</t>
             </tg>
          </mg>
       </e>
@@ -25496,7 +25498,10 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>opiskelu</t>
+               <t>opinnot</t>
+               <t>oppi</t>
+               <t>koulunkäynti</t>
             </tg>
          </mg>
       </e>
@@ -34765,7 +34770,9 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>(yli)kuljetus</t>
+               <t>ylimeno</t>
+               <t>ylittäminen</t>
             </tg>
          </mg>
       </e>
@@ -34812,8 +34819,9 @@
                <t>ferry crossing</t>
             </tg>
             <tg lang="fin">
-               <t>ylitys</t>
-               <t>ylikuljetus</t>
+               <t>ylityspaikka</t>
+               <t>ylikulkupaikka</t>
+               <t>lauttapaikka</t>
             </tg>
          </mg>
       </e>
@@ -34833,10 +34841,12 @@
                <semRel lemmaID="сёрни" semRelType="confer"/>
             </m>
             <tg lang="eng">
-               <t>interpreter</t>
+               <t>interpreter??</t>
             </tg>
             <tg lang="fin">
-               <t>tulkki</t>
+               <t>lautturi</t>
+               <t>lauttamies</t>
+               <t>lossimies</t>
             </tg>
          </mg>
       </e>
@@ -34859,7 +34869,8 @@
                <t>translator</t>
             </tg>
             <tg lang="fin">
-               <t>kielenkääntäjä</t>
+               <t>(kielen)kääntäjä</t>
+               <t>tulkki</t>
             </tg>
          </mg>
       </e>
@@ -34882,6 +34893,10 @@
             </tg>
             <tg lang="fin">
                <t>ylitys</t>
+               <t>ylikulku</t>
+               <t>kulku</t>
+               <t>siirtyminen</t>
+               <t>muutto</t>
             </tg>
          </mg>
       </e>
@@ -34947,7 +34962,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>purilaat</t>
             </tg>
          </mg>
       </e>
@@ -34969,7 +34984,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>hiusjuuret</t>
+               <t>hiusmarto??</t>
             </tg>
          </mg>
       </e>
@@ -35011,10 +35027,10 @@
                <head/>
             </m>
             <tg lang="eng">
-               <t>family</t>
+               <t>family??</t>
             </tg>
             <tg lang="fin">
-               <t>perhe</t>
+               <t>sukulaisryhmä</t>
             </tg>
          </mg>
       </e>
@@ -35218,6 +35234,7 @@
             </tg>
             <tg lang="fin">
                <t>kauppa</t>
+               <t>myymälä</t>
             </tg>
          </mg>
       </e>
@@ -35263,6 +35280,7 @@
             </tg>
             <tg lang="fin">
                <t>myyntileipä</t>
+               <t>kaupan leipä??</t>
             </tg>
          </mg>
       </e>
@@ -45100,7 +45118,8 @@
                <t>hollow st</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kasvin putkimainen varsi</t>
+               <t>putkilo</t>
             </tg>
          </mg>
       </e>
@@ -45170,7 +45189,8 @@
                <t>place near the threshing floor</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>puimalava</t>
+               <t>puimatanner</t>
             </tg>
          </mg>
       </e>
@@ -45215,7 +45235,8 @@
                <t>whirlwind</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>(vesi)pyörre</t>
+               <t>kurimus</t>
             </tg>
          </mg>
       </e>
@@ -45238,7 +45259,7 @@
                <t>dragon</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>lohikäärme</t>
             </tg>
          </mg>
       </e>
@@ -45260,7 +45281,7 @@
                <t>small lake with steep banks</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>jyrkkärantainen pikku järvi</t>
             </tg>
          </mg>
       </e>
@@ -45374,7 +45395,11 @@
                <t>difference of a bank??</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>katkaisu</t>
+               <t>repäisy</t>
+               <t>katkeama</t>
+               <t>katkos</t>
+               <t>syvänne</t>
             </tg>
          </mg>
       </e>
@@ -45396,7 +45421,7 @@
                <t>caterpillar track</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>telaketju</t>
             </tg>
          </mg>
       </e>
@@ -48426,6 +48451,7 @@
             </tg>
             <tg lang="fin">
                <t>kelkka</t>
+               <t>reki</t>
             </tg>
          </mg>
       </e>
@@ -48447,7 +48473,8 @@
                <t>runner (on a sleigh)</t>
             </tg>
             <tg lang="fin">
-               <t>reenjalas</t>
+               <t>kelkan jalas</t>
+               <t>reen jalas</t>
             </tg>
          </mg>
       </e>
@@ -48469,7 +48496,8 @@
                <t>trail (of a sleigh)</t>
             </tg>
             <tg lang="fin">
-               <t>rekijälki??</t>
+               <t>kelkan jälki</t>
+               <t>reen jälki</t>
             </tg>
          </mg>
       </e>
@@ -48493,7 +48521,8 @@
                <t>sleigh team (horses, dogs)</t>
             </tg>
             <tg lang="fin">
-               <t>valjakko (hevosista, koirista)</t>
+               <t>porovaljakko</t>
+               <t>koiravaljakko??</t>
             </tg>
          </mg>
       </e>
@@ -48604,6 +48633,7 @@
             </tg>
             <tg lang="fin">
                <t>venäläinen peli, joka muistuttaa pesäpalloa</t>
+               <t>lyöntipallopeli</t>
             </tg>
          </mg>
       </e>
@@ -48625,7 +48655,7 @@
                <t>wooden bat used in darovka</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>pallopelin (lyönti)maila</t>
             </tg>
          </mg>
       </e>
@@ -49372,8 +49402,9 @@
                <t>woman delegate</t>
             </tg>
             <tg lang="fin">
-               <t>valtuutettu</t>
-               <t>delegaatti (naisesta)</t>
+               <t>naisvaltuutettu</t>
+               <t>naisedustaja</t>
+               <t>naisdelegaatti</t>
             </tg>
          </mg>
       </e>
@@ -49396,6 +49427,7 @@
             </tg>
             <tg lang="fin">
                <t>valtuuskunta</t>
+               <t>delegaatio</t>
             </tg>
          </mg>
       </e>
@@ -49418,7 +49450,7 @@
                <t>dossier</t>
             </tg>
             <tg lang="fin">
-               <t>mappi</t>
+               <t>asiakirjamappi</t>
             </tg>
          </mg>
       </e>
@@ -49542,6 +49574,9 @@
             </tg>
             <tg lang="fin">
                <t>kotiutus</t>
+               <t>kotiuttaminen</t>
+               <t>demobilisointi</t>
+               <t>demobilisaatio</t>
             </tg>
          </mg>
       </e>
@@ -49564,6 +49599,7 @@
             </tg>
             <tg lang="fin">
                <t>demografia</t>
+               <t>väestötiede</t>
             </tg>
          </mg>
       </e>
@@ -49608,6 +49644,7 @@
             </tg>
             <tg lang="fin">
                <t>demokratismi</t>
+               <t>kansanvaltaisuus</t>
             </tg>
          </mg>
       </e>
@@ -49630,6 +49667,7 @@
             </tg>
             <tg lang="fin">
                <t>demokratia</t>
+               <t>kansanvalta</t>
             </tg>
          </mg>
       </e>
@@ -49651,7 +49689,12 @@
                <t>demonstration</t>
             </tg>
             <tg lang="fin">
-               <t>mielenosoitus</t>
+               <t>mielenosoitus(kulkue)</t>
+               <t>mielenosoitus(marssi)</t>
+               <t>demonstraatio</t>
+               <t>esitys</t>
+               <t>esittely</t>
+               <t>demonstrointi</t>
             </tg>
          </mg>
       </e>
@@ -49674,6 +49717,7 @@
             </tg>
             <tg lang="fin">
                <t>mielenosoittaja</t>
+               <t>kulkueeseen osallistuja</t>
             </tg>
          </mg>
       </e>
@@ -49787,7 +49831,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>talletus-</t>
             </tg>
          </mg>
       </e>
@@ -49812,6 +49856,8 @@
                <t>deputy</t>
             </tg>
             <tg lang="fin">
+               <t>(kansan)edustaja</t>
+               <t>valtuutettu</t>
                <t>deputaatti</t>
             </tg>
          </mg>
@@ -49857,7 +49903,7 @@
                <t>power</t>
             </tg>
             <tg lang="fin">
-               <t>valtakunta</t>
+               <t>valta(kunta)</t>
             </tg>
          </mg>
       </e>
@@ -49881,7 +49927,7 @@
                <t>landing force</t>
             </tg>
             <tg lang="fin">
-               <t>maihinnousuväki</t>
+               <t>maihinnousujoukko</t>
             </tg>
          </mg>
          <mg>
@@ -49895,7 +49941,6 @@
             </tg>
             <tg lang="fin">
                <t>maihinnousu</t>
-               <t>desantti</t>
             </tg>
          </mg>
       </e>
@@ -49919,7 +49964,7 @@
                <t>old Russian measure equal to approx. 2.7 acres??</t>
             </tg>
             <tg lang="fin">
-               <t>(vanha pinta-alan mitta)</t>
+               <t>desjatiina (n. 1 ha)</t>
             </tg>
          </mg>
       </e>
@@ -52381,6 +52426,9 @@
                <t>saboteur</t>
             </tg>
             <tg lang="fin">
+               <t>tuhotyöntekijä</t>
+               <t>tuhontekijä</t>
+               <t>tuholainen</t>
                <t>tihutyöntekijä</t>
             </tg>
          </mg>
@@ -52404,7 +52452,12 @@
                <t>sabotage</t>
             </tg>
             <tg lang="fin">
+               <t>tuhotyö</t>
                <t>tihutyö</t>
+               <t>tuholaisteko</t>
+               <t>harhauttamistoimenpide</t>
+               <t>harhauttamisliike</t>
+               <t>diversio</t>
             </tg>
          </mg>
       </e>
@@ -52427,6 +52480,7 @@
             </tg>
             <tg lang="fin">
                <t>osinko</t>
+               <t>voitto-osinko</t>
             </tg>
          </mg>
       </e>
@@ -52496,7 +52550,7 @@
             </tg>
             <tg lang="fin">
                <t>ruokavalio</t>
-               <t>dietti</t>
+               <t>dieetti</t>
             </tg>
          </mg>
       </e>
@@ -52518,7 +52572,7 @@
                <t>savage</t>
             </tg>
             <tg lang="fin">
-               <t>villi</t>
+               <t>villi-ihminen</t>
                <t>metsäläinen</t>
             </tg>
          </mg>
@@ -52633,6 +52687,7 @@
                <t>radio announcer</t>
             </tg>
             <tg lang="fin">
+               <t>kuuluttaja</t>
                <t>radioselostaja</t>
             </tg>
          </mg>
@@ -53065,6 +53120,7 @@
                <t>layover day</t>
             </tg>
             <tg lang="fin">
+               <t>levähdyspäivä</t>
                <t>päivänvietto</t>
                <t>lepopäivä</t>
             </tg>
@@ -53365,7 +53421,7 @@
                <t>weight (of a sleigh)</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kuormaa painava riuku reessä??</t>
             </tg>
          </mg>
       </e>
@@ -53500,11 +53556,11 @@
                <semRel lemmaID="чукчи" semRelType="confer"/>
             </m>
             <tg lang="eng">
-               <t>hen capercaillie</t>
-               <t>wood grouse (hen)</t>
+               <t>hen capercaillie??</t>
+               <t>wood grouse (hen??)</t>
             </tg>
             <tg lang="fin">
-               <t>koppelo</t>
+               <t>metso</t>
             </tg>
          </mg>
       </e>
@@ -54362,7 +54418,8 @@
                <t>water between the shore and the ice</t>
             </tg>
             <tg lang="fin">
-               <t>vesi, joka on rannan ja jäälautan välissä</t>
+               <t>rantavesi</t>
+               <t>vesi rannan ja jäälautan välissä</t>
             </tg>
          </mg>
       </e>
@@ -54407,6 +54464,7 @@
             </tg>
             <tg lang="fin">
                <t>järjestysluku</t>
+               <t>numeraali</t>
             </tg>
          </mg>
       </e>
@@ -54429,6 +54487,8 @@
                <t>edges of smth forming a circle</t>
             </tg>
             <tg lang="fin">
+               <t>kehystys</t>
+               <t>kehys</t>
                <t>ympäröivä alue</t>
             </tg>
          </mg>
@@ -54902,7 +54962,8 @@
                <t>dramaturgy</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>näytelmäkirjallisuus</t>
+               <t>draamakirjallisuus</t>
             </tg>
          </mg>
       </e>
@@ -55004,7 +55065,9 @@
                <t>best man (at a wedding)</t>
             </tg>
             <tg lang="fin">
-               <t>sulhasrenki</t>
+               <t>edeskäypä</t>
+               <t>sulhasrenki??</t>
+               <t>bestman (häissä)</t>
             </tg>
          </mg>
       </e>
@@ -55131,6 +55194,10 @@
                <t>capricious child</t>
             </tg>
             <tg lang="fin">
+               <t>oikuttelija</t>
+               <t>kiukuttelija</t>
+               <t>kiukkupussi</t>
+               <t>oikkupussi</t>
                <t>oikukas lapsi</t>
             </tg>
          </mg>
@@ -55303,6 +55370,7 @@
             </tg>
             <tg lang="fin">
                <t>stagnationaika</t>
+               <t>pysähtyneisyydenaika</t>
             </tg>
          </mg>
       </e>
@@ -55545,7 +55613,7 @@
                <t>??(type of bird house made by hollowing out wood, for a wag-tail)</t>
             </tg>
             <tg lang="fin">
-               <t>??(linnunpesä tehty kovertamalla)</t>
+               <t>pesäkolo??</t>
             </tg>
          </mg>
       </e>
@@ -55655,10 +55723,10 @@
                </head>
             </m>
             <tg lang="eng">
-               <t>(ma1ta avstriskaa1)</t>
+               <t>(ma1ta avstriskaa1)??</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>peltominttu</t>
             </tg>
          </mg>
       </e>
@@ -55706,7 +55774,7 @@
             </tg>
             <tg lang="fin">
                <t>aukko</t>
-               <t>savuaukko ??(piiputtomassa tuvassa)</t>
+               <t>savuaukko</t>
             </tg>
          </mg>
       </e>
@@ -56171,7 +56239,9 @@
                <t>bang!</t>
             </tg>
             <tg lang="fin">
-               <t>pau!</t>
+               <t>naps</t>
+               <t>läiskis</t>
+               <t>mäiskis</t>
             </tg>
             <xg>
                <x>кизь плешкад дізь</x>
@@ -56198,7 +56268,7 @@
                <t>place</t>
             </tg>
             <tg lang="fin">
-               <t>paikka</t>
+               <t>paikka jnk lähellä</t>
             </tg>
          </mg>
       </e>
@@ -56220,7 +56290,7 @@
                <t>bench</t>
             </tg>
             <tg lang="fin">
-               <t>penkki??</t>
+               <t>penkki</t>
             </tg>
          </mg>
       </e>
@@ -56243,7 +56313,9 @@
                <t>slap</t>
             </tg>
             <tg lang="fin">
-               <t>(selkään, otsaan)</t>
+               <t>roiskis</t>
+               <t>loiskis</t>
+               <t>mäiskis</t>
             </tg>
          </mg>
       </e>
@@ -65394,7 +65466,7 @@
                <t>coal mining</t>
             </tg>
             <tg lang="fin">
-               <t>kivihiilenlouhinta</t>
+               <t>kivihiilen louhinta</t>
             </tg>
          </mg>
       </e>
@@ -65439,7 +65511,10 @@
                <t>grain to be ground??</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>jauhanta</t>
+               <t>jauhatus</t>
+               <t>jyvä</t>
+               <t>mylly</t>
             </tg>
          </mg>
       </e>
@@ -65509,7 +65584,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>lukutuvan hoitaja</t>
             </tg>
          </mg>
       </e>
@@ -65532,7 +65607,7 @@
                <t>election committee</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vaalikomitea</t>
             </tg>
          </mg>
       </e>
@@ -70652,7 +70727,10 @@
                <t>swamp</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>letto(suo)</t>
+               <t>neva</t>
+               <t>hete</t>
+               <t>hetteikkö</t>
             </tg>
          </mg>
          <mg>
@@ -70663,7 +70741,8 @@
                <t>upper layer of a marsh??</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>nevasuon pintakerros</t>
+               <t>hetteikön pintakerros</t>
             </tg>
          </mg>
       </e>
@@ -70710,6 +70789,7 @@
             </tg>
             <tg lang="fin">
                <t>verbi</t>
+               <t>teonsana</t>
             </tg>
          </mg>
       </e>
@@ -70830,7 +70910,11 @@
                <t>sacrum</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>ristiluu</t>
+               <t>takaosa</t>
+               <t>perä(osa)</t>
+               <t>takapuoli</t>
+               <t>takamukset</t>
             </tg>
          </mg>
          <mg>
@@ -70843,7 +70927,7 @@
                <t>croup (on a horse)</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>lautanen (hevosen)</t>
             </tg>
          </mg>
          <mg>
@@ -70856,7 +70940,8 @@
                <t>hipbone</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>lantio</t>
+               <t>lanne</t>
             </tg>
          </mg>
       </e>
@@ -70923,7 +71008,8 @@
                <t>personell</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>työntekijät</t>
+               <t>kaaderi</t>
             </tg>
          </mg>
       </e>
@@ -70947,7 +71033,8 @@
                <t>regular</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>otos??</t>
+               <t>kohtaus??</t>
             </tg>
          </mg>
       </e>
@@ -70969,7 +71056,7 @@
                <t>quadrille</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>katrilli</t>
             </tg>
          </mg>
       </e>
@@ -70992,6 +71079,7 @@
             </tg>
             <tg lang="fin">
                <t>henkilöstö</t>
+               <t>työntekijät</t>
             </tg>
          </mg>
       </e>
@@ -71013,7 +71101,7 @@
                <t>personnel department</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>henkilöstöosasto</t>
             </tg>
          </mg>
       </e>
@@ -71035,7 +71123,7 @@
                <t>tub made from a hollowed out log</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>pytty (koverrettu)</t>
             </tg>
          </mg>
       </e>
@@ -71057,7 +71145,8 @@
                <t>remorse</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>katumus</t>
+               <t>katuminen</t>
             </tg>
          </mg>
       </e>
@@ -72678,7 +72767,8 @@
                <t>cannonade</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>tykkituli</t>
+               <t>tykistötuli</t>
             </tg>
          </mg>
       </e>
@@ -78452,7 +78542,7 @@
                <t>pick</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>hakku</t>
             </tg>
          </mg>
       </e>
@@ -81305,7 +81395,11 @@
                <t>gusset protruding into smth</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kiila</t>
+               <t>niemi</t>
+               <t>niemeke</t>
+               <t>ulkonema</t>
+               <t>kieleke</t>
             </tg>
          </mg>
       </e>
@@ -112266,7 +112360,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>omaisuusasiainministeriö??</t>
             </tg>
          </mg>
       </e>
@@ -112334,7 +112428,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kranaatinheitin</t>
             </tg>
          </mg>
       </e>
@@ -112357,7 +112451,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>teollisuuskuljetustenministeriö??</t>
             </tg>
          </mg>
       </e>
@@ -112379,7 +112473,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>maatalousministeriö??</t>
             </tg>
          </mg>
       </e>
@@ -112401,7 +112495,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kevytteollisuustuotteidenkauppaministeriö??</t>
             </tg>
          </mg>
       </e>
@@ -112423,7 +112517,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>työministeriö</t>
             </tg>
          </mg>
       </e>
@@ -112445,7 +112539,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>miinus(merkki)</t>
+               <t>vähennysmerkki</t>
             </tg>
          </mg>
       </e>
@@ -112851,7 +112946,8 @@
                <t>A.D. (anno Domini)</t>
             </tg>
             <tg lang="fin">
-               <t>jKr (jäkeen Kristuksen)</t>
+               <t>jKr. (jälkeen Kristuksen)</t>
+               <t>ajanlaskun alun jälkeinen</t>
             </tg>
          </mg>
       </e>
@@ -112873,7 +112969,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>nisäkäs</t>
+               <t>imettäväinen</t>
             </tg>
          </mg>
       </e>
@@ -112895,7 +112992,9 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>liikekannallepano</t>
+               <t>mobilisaatio</t>
+               <t>mobilisointi</t>
             </tg>
          </mg>
       </e>
@@ -112979,7 +113078,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>konsekutiivi</t>
             </tg>
          </mg>
       </e>
@@ -113023,7 +113122,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>elokuu</t>
             </tg>
          </mg>
       </e>
@@ -113068,7 +113167,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>puusylyys</t>
+               <t>sylillinen puita</t>
             </tg>
          </mg>
       </e>
@@ -126572,7 +126672,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>opetuahallitus</t>
             </tg>
          </mg>
       </e>
@@ -126595,7 +126695,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kurnaali</t>
+               <t>meijerimaito</t>
             </tg>
          </mg>
       </e>
@@ -126617,7 +126718,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vuokra(us)</t>
             </tg>
          </mg>
       </e>
@@ -144354,7 +144455,7 @@
                <t>planting time</t>
             </tg>
             <tg lang="fin">
-               <t>kylvöaika</t>
+               <t>istutusaika</t>
             </tg>
          </mg>
       </e>
@@ -144376,7 +144477,10 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>palikka</t>
+               <t>kalikka</t>
+               <t>kepakko</t>
+               <t>puikko</t>
             </tg>
          </mg>
       </e>
@@ -144398,7 +144502,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>konekivääri</t>
             </tg>
          </mg>
       </e>
@@ -144420,7 +144524,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>lapaluu</t>
             </tg>
          </mg>
       </e>
@@ -144467,7 +144571,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>luoti</t>
+               <t>kuula</t>
             </tg>
          </mg>
       </e>
@@ -144520,7 +144625,8 @@
                <t>item</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kohta</t>
+               <t>piste</t>
             </tg>
          </mg>
       </e>
@@ -144544,7 +144650,7 @@
                <t>pound</t>
             </tg>
             <tg lang="fin">
-               <t>naula</t>
+               <t>naula (painoyksikkö)</t>
             </tg>
          </mg>
       </e>
@@ -144612,7 +144718,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>näppy</t>
+               <t>näppylä</t>
             </tg>
          </mg>
       </e>
@@ -144679,7 +144786,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>pullero??</t>
             </tg>
          </mg>
       </e>
@@ -144724,7 +144831,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>veitsenkahva</t>
+               <t>puukonkahva</t>
             </tg>
          </mg>
       </e>
@@ -144746,7 +144854,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>veitsenterä</t>
+               <t>puukonterä</t>
             </tg>
          </mg>
       </e>
@@ -144768,7 +144877,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>(hiekka)kylpypaikka (linnuilla)</t>
             </tg>
          </mg>
       </e>
@@ -144790,7 +144899,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>(puukon)tuppi</t>
+               <t>huotra</t>
             </tg>
          </mg>
       </e>
@@ -144857,6 +144967,7 @@
                <head/>
             </m>
             <tg lang="fin">
+               <t>keittola</t>
                <t>keittiö</t>
             </tg>
          </mg>
@@ -144904,7 +145015,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>pullero??</t>
             </tg>
          </mg>
       </e>
@@ -144926,7 +145037,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>suortuva</t>
             </tg>
          </mg>
       </e>
@@ -144948,7 +145059,10 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>(kulku)reitti</t>
+               <t>matka</t>
+               <t>taival</t>
+               <t>rata</t>
             </tg>
          </mg>
       </e>
@@ -144973,6 +145087,7 @@
             <tg lang="fin">
                <t>kaatolupa</t>
                <t>maksu</t>
+               <t>lähetyspaperi</t>
             </tg>
          </mg>
       </e>
@@ -145019,7 +145134,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>(puun)runko</t>
             </tg>
          </mg>
       </e>
@@ -145041,7 +145156,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kaarnakuoriainen</t>
             </tg>
          </mg>
       </e>
@@ -145063,7 +145178,9 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>näveri</t>
+               <t>pora</t>
+               <t>kaira</t>
             </tg>
          </mg>
       </e>
@@ -145086,7 +145203,8 @@
                <t>shoots??</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vesakko</t>
+               <t>vesat</t>
             </tg>
          </mg>
       </e>
@@ -148668,7 +148786,7 @@
                <t>raion hospital</t>
             </tg>
             <tg lang="fin">
-               <t>rajonisairaala</t>
+               <t>rajonin sairaala</t>
             </tg>
          </mg>
       </e>
@@ -148690,7 +148808,7 @@
                <t>raion budget</t>
             </tg>
             <tg lang="fin">
-               <t>rajonitalousarvio??</t>
+               <t>rajonin talousarvio</t>
             </tg>
          </mg>
       </e>
@@ -148713,7 +148831,8 @@
                <t>district</t>
             </tg>
             <tg lang="fin">
-               <t>kaupunginosa</t>
+               <t>rajoni</t>
+               <t>kaupunginosa??</t>
             </tg>
          </mg>
          <mg>
@@ -148725,6 +148844,8 @@
             </tg>
             <tg lang="fin">
                <t>alue</t>
+               <t>seutu</t>
+               <t>piiri</t>
             </tg>
          </mg>
       </e>
@@ -148746,7 +148867,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>aluepolitiikka??</t>
             </tg>
          </mg>
       </e>
@@ -148769,7 +148890,9 @@
                <t>raion center</t>
             </tg>
             <tg lang="fin">
-               <t>rajonikeskus</t>
+               <t>rajonin keskus</t>
+               <t>piirin keskus</t>
+               <t>aluekeskus</t>
             </tg>
          </mg>
       </e>
@@ -148793,7 +148916,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>rapu</t>
             </tg>
          </mg>
          <mg>
@@ -189433,7 +189556,7 @@
                <t>central administrative machinery</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>keskushallintokoneisto</t>
             </tg>
          </mg>
       </e>
@@ -197791,7 +197914,9 @@
                <t>estrangement</t>
             </tg>
             <tg lang="fin">
-               <t>hylätyksi joutuminen??</t>
+               <t>vieraantuminen</t>
+               <t>eristäytyminen</t>
+               <t>eristyminen</t>
             </tg>
          </mg>
       </e>
@@ -198419,10 +198544,10 @@
                </head>
             </m>
             <tg lang="eng">
-               <t/>
+               <t>Minute black scavenger fly??</t>
             </tg>
             <tg lang="fin">
-               <t>lantasääski??</t>
+               <t>lantasääski</t>
             </tg>
          </mg>
       </e>
