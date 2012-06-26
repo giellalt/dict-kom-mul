@@ -25700,6 +25700,7 @@
             </tg>
             <tg lang="fin">
                <t>seppele</t>
+               <t>kruunu??</t>
             </tg>
          </mg>
       </e>
@@ -25744,7 +25745,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>seppele</t>
             </tg>
          </mg>
       </e>
@@ -25839,7 +25840,10 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>itkijä</t>
+               <t>itkusuu</t>
+               <t>vetistelijä</t>
+               <t>ruikuttaja</t>
             </tg>
          </mg>
       </e>
@@ -25920,7 +25924,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>usko</t>
+               <t>luottamus</t>
             </tg>
          </mg>
       </e>
@@ -25943,7 +25948,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vanhauskoinen</t>
+               <t>starovertsi</t>
             </tg>
          </mg>
       </e>
@@ -25965,7 +25971,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kameli</t>
             </tg>
          </mg>
       </e>
@@ -25987,7 +25993,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>pikilanka</t>
+               <t>suutarinlanka</t>
             </tg>
          </mg>
       </e>
@@ -26009,7 +26016,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>rehuheinä</t>
             </tg>
          </mg>
       </e>
@@ -26031,7 +26038,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>rehu</t>
+               <t>ruoka</t>
             </tg>
          </mg>
       </e>
@@ -26053,7 +26061,7 @@
                <t>person who gives food</t>
             </tg>
             <tg lang="fin">
-               <t>ihminen, joka antaa ruokaa</t>
+               <t>ruoan antaja</t>
             </tg>
          </mg>
       </e>
@@ -26099,7 +26107,11 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>(mieli)kuva</t>
+               <t>harhakuva</t>
+               <t>kummistus</t>
+               <t>haamu</t>
+               <t>aave</t>
             </tg>
          </mg>
       </e>
@@ -26121,7 +26133,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>ratsastaja</t>
+               <t>ratsumies</t>
             </tg>
          </mg>
       </e>
@@ -26144,7 +26157,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vikkelä</t>
             </tg>
          </mg>
       </e>
@@ -26166,7 +26179,13 @@
                <t>priority</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>etusija</t>
+               <t>prioriteetti</t>
+               <t>etevämmyys</t>
+               <t>paremmuus</t>
+               <t>ylivoimaisuus</t>
+               <t>ylivalta</t>
+               <t>yliherruus</t>
             </tg>
          </mg>
       </e>
@@ -26210,7 +26229,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kyky</t>
+               <t>kyvykkyys</t>
             </tg>
          </mg>
       </e>
@@ -37776,7 +37796,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>horisontti</t>
             </tg>
          </mg>
       </e>
@@ -37798,7 +37818,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>metsäkompleksi</t>
             </tg>
          </mg>
       </e>
@@ -66545,7 +66565,7 @@
                <t>initiative</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>aloite</t>
             </tg>
          </mg>
       </e>
@@ -66589,7 +66609,7 @@
                <t>foreign-make</t>
             </tg>
             <tg lang="fin">
-               <t>ulkomaanmerkkinen??</t>
+               <t>ulkomainen valmiste</t>
             </tg>
          </mg>
       </e>
@@ -101181,7 +101201,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t>polttoaine- ja energiatalos??</t>
+               <t>polttoaine- ja energiatalous??</t>
             </tg>
          </mg>
       </e>
@@ -112142,7 +112162,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>poliisin (virka)puku</t>
             </tg>
          </mg>
       </e>
@@ -127858,7 +127878,9 @@
                <t>way of life</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>elämäntapa</t>
+               <t>elämäntavat</t>
+               <t>elinolot</t>
             </tg>
          </mg>
          <mg>
@@ -192126,6 +192148,8 @@
             </tg>
             <tg lang="fin">
                <t>energetiikka</t>
+               <t>voimatalous</t>
+               <t>energiatalous</t>
             </tg>
          </mg>
       </e>
@@ -192148,6 +192172,7 @@
             </tg>
             <tg lang="fin">
                <t>tietosanakirja</t>
+               <t>ensyklopedia</t>
             </tg>
          </mg>
       </e>
