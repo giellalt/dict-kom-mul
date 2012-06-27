@@ -12218,6 +12218,7 @@
             </tg>
             <tg lang="fin">
                <t>turvallisuus</t>
+               <t>vaarattomuus</t>
             </tg>
          </mg>
       </e>
@@ -12239,7 +12240,7 @@
                <t>security syst</t>
             </tg>
             <tg lang="fin">
-               <t>turvajärjestelmä</t>
+               <t>turvallisuustekniikka</t>
             </tg>
          </mg>
       </e>
@@ -12261,7 +12262,7 @@
                <t>irresponsibility</t>
             </tg>
             <tg lang="fin">
-               <t>vastuuttomuus</t>
+               <t>(edes)vastuuttomuus</t>
             </tg>
          </mg>
       </e>
@@ -12286,6 +12287,7 @@
             </tg>
             <tg lang="fin">
                <t>takamus</t>
+               <t>pakarat</t>
             </tg>
          </mg>
       </e>
@@ -23137,7 +23139,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vesivaaka</t>
             </tg>
          </mg>
       </e>
@@ -23181,7 +23183,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>huojuva kävely</t>
+               <t>hoipertelu</t>
             </tg>
          </mg>
       </e>
@@ -23203,7 +23206,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>uhku(vesi)alue??</t>
             </tg>
          </mg>
       </e>
@@ -23225,7 +23228,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>uhkupuro??</t>
             </tg>
          </mg>
       </e>
@@ -23247,7 +23250,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>uhku(vesi)alue??</t>
             </tg>
          </mg>
       </e>
@@ -23293,7 +23296,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>ämpärin sanka</t>
+               <t>sangon sanka</t>
             </tg>
          </mg>
       </e>
@@ -23318,7 +23322,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>ruisrääkkä</t>
             </tg>
          </mg>
       </e>
@@ -23340,7 +23344,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>lumme</t>
             </tg>
          </mg>
       </e>
@@ -23365,7 +23369,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>ruisrääkkä</t>
             </tg>
          </mg>
       </e>
@@ -23412,7 +23416,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>haapana</t>
             </tg>
          </mg>
       </e>
@@ -23457,7 +23461,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>(työ)rukkaset</t>
             </tg>
          </mg>
       </e>
@@ -23479,7 +23483,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>hullukaali</t>
             </tg>
          </mg>
       </e>
@@ -23505,7 +23509,7 @@
                <t>variety of thrush</t>
             </tg>
             <tg lang="fin">
-               <t>rastaslaji</t>
+               <t>rastaslaji??</t>
             </tg>
          </mg>
       </e>
@@ -23527,7 +23531,13 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>kuiske</t>
+               <t>kuiskaus</t>
+               <t>kuiskutus</t>
+               <t>supina</t>
+               <t>supatus</t>
+               <t>sopotus</t>
+               <t>hymy</t>
             </tg>
          </mg>
       </e>
@@ -23550,7 +23560,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>viiriäinen</t>
+               <t>ruisrääkkä</t>
             </tg>
          </mg>
       </e>
@@ -23572,7 +23583,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>viiriäinen</t>
+               <t>ruisrääkkä</t>
             </tg>
          </mg>
       </e>
@@ -23594,7 +23606,8 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>letto??</t>
+               <t>hetteikkö??</t>
             </tg>
          </mg>
       </e>
@@ -23616,7 +23629,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>vesi- ja mutahoitola??</t>
             </tg>
          </mg>
       </e>
@@ -23641,7 +23654,10 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>yläosa</t>
+               <t>yläpuoli</t>
+               <t>päällys</t>
+               <t>pinta</t>
             </tg>
          </mg>
       </e>
@@ -23663,7 +23679,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>ylähuuli</t>
             </tg>
          </mg>
       </e>
@@ -28709,7 +28725,8 @@
                <t>(boogey-man)</t>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>keltapukuinen??</t>
+               <t>kummitus??</t>
             </tg>
          </mg>
       </e>
@@ -28756,7 +28773,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>käpylintu</t>
             </tg>
          </mg>
       </e>
@@ -28778,7 +28795,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>(kelta?)hapero</t>
             </tg>
          </mg>
       </e>
@@ -28800,7 +28817,7 @@
                <t/>
             </tg>
             <tg lang="fin">
-               <t/>
+               <t>leskenlehti</t>
             </tg>
          </mg>
       </e>
