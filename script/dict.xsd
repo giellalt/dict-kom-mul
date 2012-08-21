@@ -309,7 +309,7 @@
             <xs:enumeration value="morph"/>
             <xs:enumeration value="old"/>
             <xs:enumeration value="phon"/>
-            <xs:enumeration value="ru"/>
+            <xs:enumeration value="rus"/>
             <xs:enumeration value="ry"/>
             <xs:enumeration value="uncertain"/>
          </xs:restriction>
