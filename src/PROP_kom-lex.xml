@@ -259,7 +259,7 @@
                </head>
             </m>
             <tg lang="eng">
-               <t>Archangel Oblast</t>
+               <t pos="PROP">Archangel Oblast</t>
             </tg>
             <tg lang="fin">
                <t/>
@@ -284,7 +284,7 @@
                <semRel lemmaID="Ижкар_PROP" semRelType="seeNative"/>
             </m>
             <tg lang="eng">
-               <t>Izhevsk</t>
+               <t pos="PROP">Izhevsk</t>
             </tg>
             <tg lang="fin">
                <t>Ižkar</t>
@@ -3344,6 +3344,30 @@
             </tg>
             <tg lang="fin">
                <t>heinäkuu</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лӧддза-номъя тӧлысь</l>
+         <stg>
+            <st kpvContlex="Prop">лӧддза-номъя тӧлысь</st>
+         </stg>
+      </lg>
+      <pos>PROP</pos>
+      <e>
+         <mg>
+            <m>
+               <head>
+                  <isa isaType="month"/>
+               </head>
+            </m>
+            <tg lang="eng">
+               <t>June</t>
+            </tg>
+            <tg lang="fin">
+               <t>kesäkuu</t>
             </tg>
          </mg>
       </e>
