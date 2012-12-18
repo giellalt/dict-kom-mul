@@ -1,1570 +1,1780 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+<r xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
       <lg>
          <l>а</l>
          <stg>
-            <st kpvContlex="EndPart">а</st>
+            <st Contlex="EndPart">а</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <tCtn>
-                  <t>did it</t>
-                  <re>question phrase following a statement??</re>
-               </tCtn>
-            </tg>
-            <tg lang="fin">
-               <tCtn>
-                  <t>vai</t>
-                  <re>jälkikysymyksenä väitelauseen jälkeen??</re>
-               </tCtn>
-            </tg>
-            <xg>
-               <x>мыйкӧ лои, а?</x>
-               <xt lang="eng">something happened, did it?</xt>
-               <xt lang="fin">jotain tapahtui, vai?</xt>
-            </xg>
-         </mg>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-            <xg>
-               <x>мам, а мам ...</x>
-               <xt lang="eng">mom, mom please, ...</xt>
-               <xt lang="fin">äiti, äiti hei ...</xt>
-            </xg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <tCtn>
+               <t>did it</t>
+               <re>question phrase following a statement??</re>
+            </tCtn>
+         </tg>
+         <tg lang="fin">
+            <tCtn>
+               <t>vai</t>
+               <re>jälkikysymyksenä väitelauseen jälkeen??</re>
+            </tCtn>
+         </tg>
+         <xg>
+            <x>мыйкӧ лои, а?</x>
+            <xt lang="eng">something happened, did it?</xt>
+            <xt lang="fin">jotain tapahtui, vai?</xt>
+         </xg>
+      </mg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+         <xg>
+            <x>мам, а мам ...</x>
+            <xt lang="eng">mom, mom please, ...</xt>
+            <xt lang="fin">äiti, äiti hei ...</xt>
+         </xg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>абу</l>
          <stg>
-            <st kpvContlex="EndNeg">абу</st>
+            <st Contlex="EndNeg">абу</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <tCtn>
-                  <t>not</t>
-                  <re>qualifying nouns, ad-adjectives, adjectives, noun qualifiers, the second preterite</re>
-               </tCtn>
-            </tg>
-            <tg lang="fin">
-               <tCtn>
-                  <t>ei</t>
-                  <re>määrittelee substantiiveja, ad-adjektiiveja, adjektiiveja, substantiivinmäärittelijöitä, toista preteriitiä</re>
-               </tCtn>
-            </tg>
-         </mg>
-         <mg>
-            <m>
-               <head>
-                  <argg>
-                     <arg>
-                        <typical>N</typical>
-                     </arg>
-                  </argg>
-               </head>
-            </m>
-            <tg lang="eng">
-               <t>(before a noun)</t>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-            <xg>
-               <x>тайӧ абу пу</x>
-               <xt lang="eng">this is not a tree</xt>
-               <xt lang="fin">tämä ei ole puu</xt>
-            </xg>
-         </mg>
-         <mg>
-            <m>
-               <head>
-                  <argg>
-                     <arg>
-                        <typical>PART</typical>
-                     </arg>
-                  </argg>
-               </head>
-            </m>
-            <tg lang="eng">
-               <t>(before a particle)</t>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-            <xg>
-               <x>абу на пӧрысь, верстьӧ морт</x>
-               <xt lang="eng">an adult that is not old yet</xt>
-               <xt lang="fin">aikuinen ihminen, joka ei ole vielä vanha</xt>
-            </xg>
-         </mg>
-         <mg>
-            <m>
-               <head>
-                  <argg>
-                     <arg>
-                        <typical>Ad-ADJ</typical>
-                     </arg>
-                  </argg>
-               </head>
-            </m>
-            <tg lang="eng">
-               <t>(before an ad-adjective)</t>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-            <xg>
-               <x>абу вывті дона</x>
-               <xt lang="eng">it isn't too expensive</xt>
-               <xt lang="fin">ei ole liian kallis</xt>
-            </xg>
-         </mg>
-         <mg>
-            <m>
-               <head>
-                  <argg>
-                     <arg>
-                        <typical>before a pronoun</typical>
-                     </arg>
-                  </argg>
-               </head>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-            <xg>
-               <x>тайӧ абу аслам, йӧзлӧн</x>
-               <xt lang="eng">this isn't my own, it's someone else's</xt>
-               <xt lang="fin">tämä ei ole omani, vaan vieras</xt>
-            </xg>
-         </mg>
-         <mg>
-            <m>
-               <head>
-                  <argg>
-                     <arg>
-                        <typical>in combination with the second preterite</typical>
-                     </arg>
-                  </argg>
-               </head>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-            <xg>
-               <x>чериыс абу шедӧма</x>
-               <xt lang="eng">it looks like we haven't caught any fish</xt>
-               <xt lang="fin">ei ole näköjään tullut kala</xt>
-            </xg>
-         </mg>
-         <mg>
-            <m>
-               <head>
-                  <argg>
-                     <arg>
-                        <typical>before and adjective</typical>
-                     </arg>
-                  </argg>
-               </head>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-            <xg>
-               <x>абу лӧсьыд</x>
-               <xt lang="eng">unfitting</xt>
-               <xt lang="eng">not fitting??</xt>
-               <xt lang="fin">ei ole sopiva</xt>
-               <xt lang="fin">sopimaton??</xt>
-            </xg>
-         </mg>
-         <mg>
-            <m>
-               <head>
-                  <argg>
-                     <arg>
-                        <typical>before and adverb</typical>
-                     </arg>
-                  </argg>
-               </head>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-            <xg>
-               <x>абу дыр</x>
-               <xt lang="eng">briefly</xt>
-               <xt lang="eng">not long</xt>
-               <xt lang="fin">ei kauan</xt>
-               <xt lang="fin">lyhyesti</xt>
-            </xg>
-         </mg>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>no</t>
-            </tg>
-            <tg lang="fin">
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <tCtn>
+               <t>not</t>
+               <re>qualifying nouns, ad-adjectives, adjectives, noun qualifiers, the second preterite</re>
+            </tCtn>
+         </tg>
+         <tg lang="fin">
+            <tCtn>
                <t>ei</t>
-            </tg>
-            <xg>
-               <x>абу, тайӧ зэв донтӧм</x>
-               <xt lang="eng">no, it's quite inexpensive</xt>
-               <xt lang="fin">ei, se on hyvin halpa</xt>
-            </xg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+               <re>määrittelee substantiiveja, ad-adjektiiveja, adjektiiveja, substantiivinmäärittelijöitä, toista preteriitiä</re>
+            </tCtn>
+         </tg>
+      </mg>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>N</typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg lang="eng">
+            <t>(before a noun)</t>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+         <xg>
+            <x>тайӧ абу пу</x>
+            <xt lang="eng">this is not a tree</xt>
+            <xt lang="fin">tämä ei ole puu</xt>
+         </xg>
+      </mg>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>PART</typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg lang="eng">
+            <t>(before a particle)</t>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+         <xg>
+            <x>абу на пӧрысь, верстьӧ морт</x>
+            <xt lang="eng">an adult that is not old yet</xt>
+            <xt lang="fin">aikuinen ihminen, joka ei ole vielä vanha</xt>
+         </xg>
+      </mg>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>Ad-ADJ</typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg lang="eng">
+            <t>(before an ad-adjective)</t>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+         <xg>
+            <x>абу вывті дона</x>
+            <xt lang="eng">it isn't too expensive</xt>
+            <xt lang="fin">ei ole liian kallis</xt>
+         </xg>
+      </mg>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>before a pronoun</typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+         <xg>
+            <x>тайӧ абу аслам, йӧзлӧн</x>
+            <xt lang="eng">this isn't my own, it's someone else's</xt>
+            <xt lang="fin">tämä ei ole omani, vaan vieras</xt>
+         </xg>
+      </mg>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>in combination with the second preterite</typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+         <xg>
+            <x>чериыс абу шедӧма</x>
+            <xt lang="eng">it looks like we haven't caught any fish</xt>
+            <xt lang="fin">ei ole näköjään tullut kala</xt>
+         </xg>
+      </mg>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>before and adjective</typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+         <xg>
+            <x>абу лӧсьыд</x>
+            <xt lang="eng">unfitting</xt>
+            <xt lang="eng">not fitting??</xt>
+            <xt lang="fin">ei ole sopiva</xt>
+            <xt lang="fin">sopimaton??</xt>
+         </xg>
+      </mg>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>before and adverb</typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+         <xg>
+            <x>абу дыр</x>
+            <xt lang="eng">briefly</xt>
+            <xt lang="eng">not long</xt>
+            <xt lang="fin">ei kauan</xt>
+            <xt lang="fin">lyhyesti</xt>
+         </xg>
+      </mg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>no</t>
+         </tg>
+         <tg lang="fin">
+            <t>ei</t>
+         </tg>
+         <xg>
+            <x>абу, тайӧ зэв донтӧм</x>
+            <xt lang="eng">no, it's quite inexpensive</xt>
+            <xt lang="fin">ei, se on hyvin halpa</xt>
+         </xg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>бара</l>
          <stg>
-            <st kpvContlex="EndPart">бара</st>
+            <st Contlex="EndPart">бара</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>??(extra phrase left) aren't you</t>
-            </tg>
-            <tg lang="fin">
-               <t>kai</t>
-               <t>kenties</t>
-            </tg>
-            <xg>
-               <x>мунан бара, корасны кӧ</x>
-               <xt lang="eng"/>
-               <xt lang="fin">kait sinä menet, jos sinut kutsutaan</xt>
-            </xg>
-         </mg>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-            <xg>
-               <x>кор бара тайӧ помасяс?</x>
-               <xt lang="eng">when was it that this was going to be over</xt>
-               <xt lang="fin">milloin tämä loppuikaan</xt>
-            </xg>
-         </mg>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t>kai</t>
-               <t>kenties</t>
-            </tg>
-            <xg>
-               <x>мый бара ӧні сійӧ вӧчӧ?</x>
-               <xt lang="eng">I wonder what he's doing now?</xt>
-               <xt lang="fin">mitähän hän nyt tekee?</xt>
-            </xg>
-         </mg>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>most likely</t>
-               <t>in all probability</t>
-            </tg>
-            <tg lang="fin">
-               <t>todennäköisimmin</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>??(extra phrase left) aren't you</t>
+         </tg>
+         <tg lang="fin">
+            <t>kai</t>
+            <t>kenties</t>
+         </tg>
+         <xg>
+            <x>мунан бара, корасны кӧ</x>
+            <xt lang="eng"/>
+            <xt lang="fin">kait sinä menet, jos sinut kutsutaan</xt>
+         </xg>
+      </mg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+         <xg>
+            <x>кор бара тайӧ помасяс?</x>
+            <xt lang="eng">when was it that this was going to be over</xt>
+            <xt lang="fin">milloin tämä loppuikaan</xt>
+         </xg>
+      </mg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kai</t>
+            <t>kenties</t>
+         </tg>
+         <xg>
+            <x>мый бара ӧні сійӧ вӧчӧ?</x>
+            <xt lang="eng">I wonder what he's doing now?</xt>
+            <xt lang="fin">mitähän hän nyt tekee?</xt>
+         </xg>
+      </mg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>most likely</t>
+            <t>in all probability</t>
+         </tg>
+         <tg lang="fin">
+            <t>todennäköisimmin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>быттьӧ</l>
          <stg>
-            <st kpvContlex="EndPart">быттьӧ</st>
+            <st Contlex="EndPart">быттьӧ</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>as if</t>
-               <t>as though</t>
-            </tg>
-            <tg lang="fin">
-               <t>niinkuin</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>as if</t>
+            <t>as though</t>
+         </tg>
+         <tg lang="fin">
+            <t>niinkuin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>быттьӧкӧ</l>
          <stg>
-            <st kpvContlex="EndPart">быттьӧкӧ</st>
+            <st Contlex="EndPart">быттьӧкӧ</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>apparently</t>
-               <t>allegedly</t>
-            </tg>
-            <tg lang="fin">
-               <t>näköjään</t>
-               <t>kuul</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>apparently</t>
+            <t>allegedly</t>
+         </tg>
+         <tg lang="fin">
+            <t>näköjään</t>
+            <t>kuul</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>быть</l>
          <stg>
-            <st kpvContlex="EndPart">быть</st>
+            <st Contlex="EndPart">быть</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head>
-                  <argg>
-                     <arg>
-                        <typical>V/ковны</typical>
-                     </arg>
-                  </argg>
-               </head>
-            </m>
-            <tg lang="eng">
-               <t>must</t>
-               <t>by all means</t>
-            </tg>
-            <tg lang="fin">
-               <t>on pakko</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>V/ковны</typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg lang="eng">
+            <t>must</t>
+            <t>by all means</t>
+         </tg>
+         <tg lang="fin">
+            <t>on pakko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>буди</l>
          <stg>
-            <st kpvContlex="EndPart">буди</st>
+            <st Contlex="EndPart">буди</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <semRel lemmaID="к -а XXХ-утф-8" semRelType="confer"/>
-            </m>
-            <tg lang="eng">
-               <t>maybe</t>
-               <t>must be</t>
-               <t>probably</t>
-               <t>evidently</t>
-            </tg>
-            <tg lang="fin">
-               <t>ilmeisesti</t>
-               <t>varmaan</t>
-               <t>ehkä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="к -а XXХ-утф-8" semRelType="confer"/>
+         </m>
+         <tg lang="eng">
+            <t>maybe</t>
+            <t>must be</t>
+            <t>probably</t>
+            <t>evidently</t>
+         </tg>
+         <tg lang="fin">
+            <t>ilmeisesti</t>
+            <t>varmaan</t>
+            <t>ehkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>будичи</l>
          <stg>
-            <st kpvContlex="EndPart">будичи</st>
+            <st Contlex="EndPart">будичи</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>may be</t>
-               <t>must be</t>
-               <t>probably</t>
-               <t>evidently</t>
-            </tg>
-            <tg lang="fin">
-               <t>ilmeisesti</t>
-               <t>varmaan</t>
-               <t>ehkä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>may be</t>
+            <t>must be</t>
+            <t>probably</t>
+            <t>evidently</t>
+         </tg>
+         <tg lang="fin">
+            <t>ilmeisesti</t>
+            <t>varmaan</t>
+            <t>ehkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>чӧв</l>
          <stg>
-            <st kpvContlex="EndPart">чӧл</st>
+            <st Contlex="EndPart">чӧл</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head>
-                  <argg>
-                     <arg>
-                        <typical>V/овны</typical>
-                     </arg>
-                  </argg>
-               </head>
-            </m>
-            <tg lang="eng">
-               <t>be quiet</t>
-            </tg>
-            <tg lang="fin">
-               <t>olla hiljaa</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>V/овны</typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg lang="eng">
+            <t>be quiet</t>
+         </tg>
+         <tg lang="fin">
+            <t>olla hiljaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>дай</l>
          <stg>
-            <st kpvContlex="EndPart">дай</st>
+            <st Contlex="EndPart">дай</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head>
-                  <argg>
-                     <arg>
-                        <typical>H ENG </typical>
-                     </arg>
-                  </argg>
-               </head>
-            </m>
-            <tg lang="fin">
-               <t>kanssa</t>
-               <t>-pa</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>H ENG </typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg lang="fin">
+            <t>kanssa</t>
+            <t>-pa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>дак</l>
          <stg>
-            <st kpvContlex="EndPart">дак</st>
+            <st Contlex="EndPart">дак</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>yes</t>
-            </tg>
-            <tg lang="fin">
-               <t>niin</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>yes</t>
+         </tg>
+         <tg lang="fin">
+            <t>niin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>давай</l>
          <stg>
-            <st kpvContlex="EndPart">давай</st>
+            <st Contlex="EndPart">давай</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>let's</t>
-               <t>let me</t>
-            </tg>
-            <tg lang="fin">
-               <t>anna</t>
-               <t>antakaa</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>let's</t>
+            <t>let me</t>
+         </tg>
+         <tg lang="fin">
+            <t>anna</t>
+            <t>antakaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>дзик</l>
          <stg>
-            <st kpvContlex="EndPart">дзик</st>
+            <st Contlex="EndPart">дзик</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>just</t>
-               <t>right</t>
-               <t>only</t>
-            </tg>
-            <tg lang="fin">
-               <t>aivan</t>
-               <t>vain</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>just</t>
+            <t>right</t>
+            <t>only</t>
+         </tg>
+         <tg lang="fin">
+            <t>aivan</t>
+            <t>vain</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>дзикӧдз</l>
          <stg>
-            <st kpvContlex="EndPart">дзикӧдз</st>
+            <st Contlex="EndPart">дзикӧдз</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>just</t>
-               <t>right</t>
-               <t>extremely</t>
-               <t>even</t>
-            </tg>
-            <tg lang="fin">
-               <t>aivan</t>
-               <t>äärimmäisen</t>
-               <t>jopa</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>just</t>
+            <t>right</t>
+            <t>extremely</t>
+            <t>even</t>
+         </tg>
+         <tg lang="fin">
+            <t>aivan</t>
+            <t>äärimmäisen</t>
+            <t>jopa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>эськӧ</l>
          <stg>
-            <st kpvContlex="EndPart">эськӧ</st>
+            <st Contlex="EndPart">эськӧ</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>??as for ... would</t>
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t>??-isi</t>
-               <t>-pa ... -isi</t>
-            </tg>
-         </mg>
-         <mg>
-            <m>
-               <head>
-                  <argg>
-                     <arg>
-                        <typical>CL,_a</typical>
-                     </arg>
-                  </argg>
-                  <argg>
-                     <arg>
-                        <typical>кӧть</typical>
-                     </arg>
-                  </argg>
-               </head>
-            </m>
-            <tg lang="eng">
-               <t>although</t>
-            </tg>
-            <tg lang="fin">
-               <t>vaikka</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>??as for ... would</t>
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>??-isi</t>
+            <t>-pa ... -isi</t>
+         </tg>
+      </mg>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>CL,_a</typical>
+                  </arg>
+               </argg>
+               <argg>
+                  <arg>
+                     <typical>кӧть</typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg lang="eng">
+            <t>although</t>
+         </tg>
+         <tg lang="fin">
+            <t>vaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>ӧд</l>
          <stg>
-            <st kpvContlex="EndPart">ӧд</st>
+            <st Contlex="EndPart">ӧд</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>you know</t>
-            </tg>
-            <tg lang="fin">
-               <t>-hAn</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>you know</t>
+         </tg>
+         <tg lang="fin">
+            <t>-hAn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>и</l>
          <stg>
-            <st kpvContlex="EndPart">и</st>
+            <st Contlex="EndPart">и</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>(stress on the following word (a verb))</t>
-            </tg>
-            <tg lang="fin">
-               <t>(verbi)-kin</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>(stress on the following word (a verb))</t>
+         </tg>
+         <tg lang="fin">
+            <t>(verbi)-kin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>кӧть еськӧ</l>
          <stg>
-            <st kpvContlex="EndPart">кӧть еськӧ</st>
+            <st Contlex="EndPart">кӧть еськӧ</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>eventhough</t>
-               <t>although</t>
-            </tg>
-            <tg lang="fin">
-               <t>vaikka</t>
-               <t>vaikkakin</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>eventhough</t>
+            <t>although</t>
+         </tg>
+         <tg lang="fin">
+            <t>vaikka</t>
+            <t>vaikkakin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>кыкнан</l>
          <stg>
-            <st kpvContlex="EndPart">кыкнан</st>
+            <st Contlex="EndPart">кыкнан</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>both</t>
-            </tg>
-            <tg lang="fin">
-               <t>molt</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>both</t>
+         </tg>
+         <tg lang="fin">
+            <t>molt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>ли</l>
          <stg>
-            <st kpvContlex="EndQST">ли</st>
+            <st Contlex="EndQST">ли</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <semRel lemmaID="-ӧ" semRelType="confer"/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t>-ko</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="-ӧ" semRelType="confer"/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>-ko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>мӧй</l>
          <stg>
-            <st kpvContlex="EndPart">мӧй</st>
+            <st Contlex="EndPart">мӧй</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>maybe</t>
-            </tg>
-            <tg lang="fin">
-               <t>ehkä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>maybe</t>
+         </tg>
+         <tg lang="fin">
+            <t>ehkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>мед</l>
          <stg>
-            <st kpvContlex="EndPart">мед</st>
+            <st Contlex="EndPart">мед</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>медлы</l>
          <stg>
-            <st kpvContlex="EndPart">медлы</st>
+            <st Contlex="EndPart">медлы</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>медлыты</l>
          <stg>
-            <st kpvContlex="EndPart">медлыты</st>
+            <st Contlex="EndPart">медлыты</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>медлытыкӧ</l>
          <stg>
-            <st kpvContlex="EndPart">медлытыкӧ</st>
+            <st Contlex="EndPart">медлытыкӧ</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>медтӧ</l>
          <stg>
-            <st kpvContlex="EndPart">медтӧ</st>
+            <st Contlex="EndPart">медтӧ</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>медтыкӧ</l>
          <stg>
-            <st kpvContlex="EndPart">медтыкӧ</st>
+            <st Contlex="EndPart">медтыкӧ</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>provided that</t>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>provided that</t>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>медъя</l>
          <stg>
-            <st kpvContlex="EndPart">медъя</st>
+            <st Contlex="EndPart">медъя</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>мися</l>
          <stg>
-            <st kpvContlex="EndPart">мися</st>
+            <st Contlex="EndPart">мися</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <semRel lemmaID="пӧ" semRelType="confer"/>
-            </m>
-            <tg lang="eng">
-               <t>(when repeating oneself, in statement)</t>
-               <t>I said</t>
-            </tg>
-            <tg lang="fin">
-               <t>(kun puhuja toistaa oman lausuman)</t>
-               <t>-pa</t>
-            </tg>
-            <xg>
-               <x>ог мися мун</x>
-               <xt lang="eng">I said, I'm not going</xt>
-               <xt lang="fin">enpä mene</xt>
-            </xg>
-         </mg>
-         <mg>
-            <m>
-               <head/>
-               <semRel lemmaID="пӧ" semRelType="confer"/>
-            </m>
-            <tg lang="eng">
-               <t>(when repeating oneself, in question)</t>
-               <t>I asked</t>
-            </tg>
-            <tg lang="fin">
-               <t>(kun puhuja toistaa oman kysymyksen)</t>
-               <t>kysyin</t>
-            </tg>
-            <xg>
-               <x>кор мися локтан?</x>
-               <xt lang="eng">I asked, when are you coming?</xt>
-               <xt lang="fin">(kysyin), milloin tulet?</xt>
-            </xg>
-         </mg>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>(in introduction to relating previous thoughts)</t>
-               <t>gee, it sure is</t>
-            </tg>
-            <tg lang="fin">
-               <t>(johdantona edellisten ajatusten esittelyyn)</t>
-               <t>-pa</t>
-            </tg>
-            <xg>
-               <x>мися, думайта, сьӧкыд</x>
-               <xt lang="eng">gee, it sure is heavy, I was thinking</xt>
-               <xt lang="fin">onpa painava, minä ajattelen</xt>
-            </xg>
-         </mg>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>(when quoting oneself from a different conversation)</t>
-               <t>and so I say</t>
-               <t>and so I ask</t>
-            </tg>
-            <tg lang="fin">
-               <t>??(kun puhuja siteeraa itseään toisesta keskustelusta)</t>
-               <t>niinpä sanoin</t>
-               <t>niinpä kysyin</t>
-            </tg>
-            <xg>
-               <x>(сёрниті сыкӧд) 'кор мися мунам?'</x>
-               <xt lang="eng">(I was talking to him) ''and so I ask,' when are going? '</xt>
-               <xt lang="fin">(puhuin hänen kanssaan) ’niinpä kysyin ’milloin me mennään?’ ’</xt>
-            </xg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="пӧ" semRelType="confer"/>
+         </m>
+         <tg lang="eng">
+            <t>(when repeating oneself, in statement)</t>
+            <t>I said</t>
+         </tg>
+         <tg lang="fin">
+            <t>(kun puhuja toistaa oman lausuman)</t>
+            <t>-pa</t>
+         </tg>
+         <xg>
+            <x>ог мися мун</x>
+            <xt lang="eng">I said, I'm not going</xt>
+            <xt lang="fin">enpä mene</xt>
+         </xg>
+      </mg>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="пӧ" semRelType="confer"/>
+         </m>
+         <tg lang="eng">
+            <t>(when repeating oneself, in question)</t>
+            <t>I asked</t>
+         </tg>
+         <tg lang="fin">
+            <t>(kun puhuja toistaa oman kysymyksen)</t>
+            <t>kysyin</t>
+         </tg>
+         <xg>
+            <x>кор мися локтан?</x>
+            <xt lang="eng">I asked, when are you coming?</xt>
+            <xt lang="fin">(kysyin), milloin tulet?</xt>
+         </xg>
+      </mg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>(in introduction to relating previous thoughts)</t>
+            <t>gee, it sure is</t>
+         </tg>
+         <tg lang="fin">
+            <t>(johdantona edellisten ajatusten esittelyyn)</t>
+            <t>-pa</t>
+         </tg>
+         <xg>
+            <x>мися, думайта, сьӧкыд</x>
+            <xt lang="eng">gee, it sure is heavy, I was thinking</xt>
+            <xt lang="fin">onpa painava, minä ajattelen</xt>
+         </xg>
+      </mg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>(when quoting oneself from a different conversation)</t>
+            <t>and so I say</t>
+            <t>and so I ask</t>
+         </tg>
+         <tg lang="fin">
+            <t>??(kun puhuja siteeraa itseään toisesta keskustelusta)</t>
+            <t>niinpä sanoin</t>
+            <t>niinpä kysyin</t>
+         </tg>
+         <xg>
+            <x>(сёрниті сыкӧд) 'кор мися мунам?'</x>
+            <xt lang="eng">(I was talking to him) ''and so I ask,' when are going? '</xt>
+            <xt lang="fin">(puhuin hänen kanssaan) ’niinpä kysyin ’milloin me mennään?’ ’</xt>
+         </xg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>муртса</l>
          <stg>
-            <st kpvContlex="EndPart">муртса</st>
+            <st Contlex="EndPart">муртса</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>just</t>
-               <t>only</t>
-               <t>barely</t>
-               <t>as soon as</t>
-               <t>almost</t>
-               <t>nearly</t>
-            </tg>
-            <tg lang="fin">
-               <t>juuri</t>
-               <t>tuskin</t>
-               <t>heti kun</t>
-               <t>hieman</t>
-               <t>vähällä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>just</t>
+            <t>only</t>
+            <t>barely</t>
+            <t>as soon as</t>
+            <t>almost</t>
+            <t>nearly</t>
+         </tg>
+         <tg lang="fin">
+            <t>juuri</t>
+            <t>tuskin</t>
+            <t>heti kun</t>
+            <t>hieman</t>
+            <t>vähällä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>на</l>
          <stg>
-            <st kpvContlex="EndPart">на</st>
+            <st Contlex="EndPart">на</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>still</t>
-            </tg>
-            <tg lang="fin">
-               <t>vielä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>still</t>
+         </tg>
+         <tg lang="fin">
+            <t>vielä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>не</l>
          <stg>
-            <st kpvContlex="EndNeg">не</st>
+            <st Contlex="EndNeg">не</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>нӧ</l>
          <stg>
-            <st kpvContlex="EndPart">нӧ</st>
+            <st Contlex="EndPart">нӧ</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t>-han</t>
-            </tg>
-            <xg>
-               <x>а кыдзи нӧ?</x>
-               <xt lang="eng">How else?</xt>
-               <xt lang="fin">Kuinkas muuten?</xt>
-            </xg>
-         </mg>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-            <xg>
-               <x>тэ нӧ тані?</x>
-               <xt lang="eng"/>
-               <xt lang="fin"/>
-            </xg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>-han</t>
+         </tg>
+         <xg>
+            <x>а кыдзи нӧ?</x>
+            <xt lang="eng">How else?</xt>
+            <xt lang="fin">Kuinkas muuten?</xt>
+         </xg>
+      </mg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+         <xg>
+            <x>тэ нӧ тані?</x>
+            <xt lang="eng"/>
+            <xt lang="fin"/>
+         </xg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>немас</l>
          <stg>
-            <st kpvContlex="EndPart">немас</st>
+            <st Contlex="EndPart">немас</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>неужели</l>
          <stg>
-            <st kpvContlex="EndPart">неужели</st>
+            <st Contlex="EndPart">неужели</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <semRel lemmaID="збыль ӧмӧй" semRelType="confer"/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="збыль ӧмӧй" semRelType="confer"/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>нисьӧ</l>
          <stg>
-            <st kpvContlex="EndPart">нисьӧ</st>
+            <st Contlex="EndPart">нисьӧ</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>neither ... nor</t>
-            </tg>
-            <tg lang="fin">
-               <t>ei ... eikä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>neither ... nor</t>
+         </tg>
+         <tg lang="fin">
+            <t>ei ... eikä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>но</l>
          <stg>
-            <st kpvContlex="EndPart">но</st>
+            <st Contlex="EndPart">но</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>пӧ</l>
          <stg>
-            <st kpvContlex="EndPart">пӧ</st>
+            <st Contlex="EndPart">пӧ</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>they say</t>
-            </tg>
-            <tg lang="fin">
-               <t>muka</t>
-               <t>kuul</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>they say</t>
+         </tg>
+         <tg lang="fin">
+            <t>muka</t>
+            <t>kuul</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>пӧжалуй</l>
          <stg>
-            <st kpvContlex="EndPart">пӧжалуй</st>
+            <st Contlex="EndPart">пӧжалуй</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <semRel lemmaID="дерт" semRelType="confer"/>
-               <semRel lemmaID="кӧнко" semRelType="confer"/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="дерт" semRelType="confer"/>
+            <semRel lemmaID="кӧнко" semRelType="confer"/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>со</l>
          <stg>
-            <st kpvContlex="EndPart">со</st>
+            <st Contlex="EndPart">со</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>hence</t>
-               <t>thus</t>
-               <t>that is (+why)</t>
-            </tg>
-            <tg lang="fin">
-               <t>niinpä</t>
-               <t>se on (+miksi)</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>hence</t>
+            <t>thus</t>
+            <t>that is (+why)</t>
+         </tg>
+         <tg lang="fin">
+            <t>niinpä</t>
+            <t>se on (+miksi)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>тыкӧ</l>
          <stg>
-            <st kpvContlex="EndPart">тыкӧ</st>
+            <st Contlex="EndPart">тыкӧ</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>то</l>
          <stg>
-            <st kpvContlex="EndPart">то</st>
+            <st Contlex="EndPart">то</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>this (pointed at)</t>
-            </tg>
-            <tg lang="fin">
-               <t>tämä (näytetäessä)</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>this (pointed at)</t>
+         </tg>
+         <tg lang="fin">
+            <t>tämä (näytetäessä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>тон</l>
          <stg>
-            <st kpvContlex="EndPart">тон</st>
+            <st Contlex="EndPart">тон</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>тшӧтш</l>
          <stg>
-            <st kpvContlex="EndPart">тшӧтш</st>
+            <st Contlex="EndPart">тшӧтш</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>with sm</t>
-               <t>together</t>
-               <t>along with</t>
-               <t>also</t>
-            </tg>
-            <tg lang="fin">
-               <t>jkn kanssa</t>
-               <t>yhdessä</t>
-               <t>mukana</t>
-               <t>myös</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>with sm</t>
+            <t>together</t>
+            <t>along with</t>
+            <t>also</t>
+         </tg>
+         <tg lang="fin">
+            <t>jkn kanssa</t>
+            <t>yhdessä</t>
+            <t>mukana</t>
+            <t>myös</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>вай</l>
          <stg>
-            <st kpvContlex="EndPart">вай</st>
+            <st Contlex="EndPart">вай</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>let's</t>
-            </tg>
-            <tg lang="fin">
-               <t>no niin -TAAn</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>let's</t>
+         </tg>
+         <tg lang="fin">
+            <t>no niin -TAAn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>вӧлӧм</l>
          <stg>
-            <st kpvContlex="EndPart">вӧлӧм</st>
+            <st Contlex="EndPart">вӧлӧм</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head>
-                  <argg>
-                     <arg>
-                        <typical>FINPRES</typical>
-                     </arg>
-                  </argg>
-               </head>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>FINPRES</typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>вӧлӧмкӧ</l>
          <stg>
-            <st kpvContlex="EndPart">вӧлӧмкӧ</st>
+            <st Contlex="EndPart">вӧлӧмкӧ</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>it proved that</t>
-               <t>hence</t>
-            </tg>
-            <tg lang="fin">
-               <t>osoittautui, että</t>
-               <t>siis</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>it proved that</t>
+            <t>hence</t>
+         </tg>
+         <tg lang="fin">
+            <t>osoittautui, että</t>
+            <t>siis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>вед</l>
          <stg>
-            <st kpvContlex="EndPart">вед</st>
+            <st Contlex="EndPart">вед</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <semRel lemmaID="ӧд" semRelType="pro"/>
-            </m>
-            <tg lang="eng">
-               <t/>
-            </tg>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="ӧд" semRelType="pro"/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>век жӧ</l>
          <stg>
-            <st kpvContlex="EndPart">век жӧ</st>
+            <st Contlex="EndPart">век жӧ</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>however</t>
-            </tg>
-            <tg lang="fin">
-               <t>kuitenkin</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>however</t>
+         </tg>
+         <tg lang="fin">
+            <t>kuitenkin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>жӧ</l>
          <stg>
-            <st kpvContlex="EndPart">жӧ</st>
+            <st Contlex="EndPart">жӧ</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>after all</t>
-            </tg>
-            <tg lang="fin">
-               <t>-han</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>after all</t>
+         </tg>
+         <tg lang="fin">
+            <t>-han</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>зато</l>
          <stg>
-            <st kpvContlex="EndPart">зато</st>
+            <st Contlex="EndPart">зато</st>
          </stg>
       </lg>
-      <pos>PART</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>but on the other hand</t>
-            </tg>
-            <tg lang="fin">
-               <t>mutta muuten</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>but on the other hand</t>
+         </tg>
+         <tg lang="fin">
+            <t>mutta muuten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>бау</l>
+         <stg>
+            <st Contlex="ONOM">бау</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <tCtn>
+               <t>moo</t>
+               <re>what a cow says</re>
+            </tCtn>
+         </tg>
+         <tg lang="fin">
+            <tCtn>
+               <t>muu</t>
+               <re>mitä lehmä sanoo</re>
+            </tCtn>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>быз</l>
+         <stg>
+            <st Contlex="ONOM">быз</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>plop</t>
+            <t>splash</t>
+         </tg>
+         <tg lang="fin">
+            <t>molskahdus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>бультік</l>
+         <stg>
+            <st Contlex="ONOM">бультік</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>plop!</t>
+            <t>splash!</t>
+         </tg>
+         <tg lang="fin">
+            <t>polskis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>бут</l>
+         <stg>
+            <st Contlex="ONOM">бут</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>slam!</t>
+         </tg>
+         <tg lang="fin">
+            <t>??paiskis</t>
+            <t>(esineen heittämisestä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>дзиз</l>
+         <stg>
+            <st Contlex="ONOM">дзиз</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>humming</t>
+            <t>buzzing</t>
+         </tg>
+         <tg lang="fin">
+            <t>surina</t>
+            <t>hyristä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>герч</l>
+         <stg>
+            <st Contlex="ONOM">герч</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>гизь</l>
+         <stg>
+            <st Contlex="ADVTAG">гизь</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>next to each other</t>
+            <t>side by side</t>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>голь</l>
+         <stg>
+            <st Contlex="ONOM">голь</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>??</t>
+         </tg>
+         <tg lang="fin">
+            <t>??</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>гольс</l>
+         <stg>
+            <st Contlex="ONOM">гольс</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>гудж</l>
+         <stg>
+            <st Contlex="ONOM">гудж</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>гур</l>
+         <stg>
+            <st Contlex="ONOM">гур</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>bang!</t>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>кам</l>
+         <stg>
+            <st Contlex="ADVTAG">кам</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>тарк</l>
+         <stg>
+            <st Contlex="ONOM">тарк</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>knock</t>
+         </tg>
+         <tg lang="fin">
+            <t>kopp</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>тулуллу</l>
+         <stg>
+            <st Contlex="ONOM">тулуллу</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>зур</l>
+         <stg>
+            <st Contlex="ONOM">зур</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>sound a thrust</t>
+         </tg>
+         <tg lang="fin">
+            <t>(survaisemisen ääni)</t>
+         </tg>
+      </mg>
+   </e>
 </r>

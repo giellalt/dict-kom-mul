@@ -1,1064 +1,972 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+<r xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
       <lg>
          <l>дас</l>
          <stg>
-            <st kpvContlex="CARD">дас</st>
+            <st Contlex="CARD">дас</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>ten</t>
-            </tg>
-            <tg lang="fin">
-               <t>kymmenen</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>ten</t>
+         </tg>
+         <tg lang="fin">
+            <t>kymmenen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>дзурс</l>
          <stg>
-            <st kpvContlex="CARD">дзурс</st>
+            <st Contlex="CARD">дзурс</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head>
-                  <range dialect="SDW" rangeSpat="dialect"/>
-                  <sci>1,000,000</sci>
-               </head>
-            </m>
-            <tg lang="eng">
-               <t>million</t>
-            </tg>
-            <tg lang="fin">
-               <t>miljoona</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head>
+               <range dialect="SDW" rangeSpat="dialect"/>
+               <sci>1,000,000</sci>
+            </head>
+         </m>
+         <tg lang="eng">
+            <t>million</t>
+         </tg>
+         <tg lang="fin">
+            <t>miljoona</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>этша</l>
          <stg>
-            <st kpvContlex="DET">этша</st>
+            <st Contlex="DET">этша</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>little</t>
-               <t>few</t>
-            </tg>
-            <tg lang="fin">
-               <t>vähän</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>little</t>
+            <t>few</t>
+         </tg>
+         <tg lang="fin">
+            <t>vähän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>ӧкмыс</l>
          <stg>
-            <st kpvContlex="CARD">ӧкмыс</st>
+            <st Contlex="CARD">ӧкмыс</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>nine</t>
-            </tg>
-            <tg lang="fin">
-               <t>yhdeksän</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>nine</t>
+         </tg>
+         <tg lang="fin">
+            <t>yhdeksän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>ӧкмысдас</l>
          <stg>
-            <st kpvContlex="CARD">ӧкмысдас</st>
+            <st Contlex="CARD">ӧкмысдас</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>ninety</t>
-            </tg>
-            <tg lang="fin">
-               <t>yhdeksänkymmentä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>ninety</t>
+         </tg>
+         <tg lang="fin">
+            <t>yhdeksänkymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>ӧкмыссё</l>
          <stg>
-            <st kpvContlex="CARD">ӧкмыссё</st>
+            <st Contlex="CARD">ӧкмыссё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>nine hundred</t>
-            </tg>
-            <tg lang="fin">
-               <t>yhdeksänsataa</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>nine hundred</t>
+         </tg>
+         <tg lang="fin">
+            <t>yhdeksänsataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>ӧт</l>
          <stg>
-            <st kpvContlex="CARD">ӧт</st>
+            <st Contlex="CARD">ӧт</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>one (part of compound words)</t>
-            </tg>
-            <tg lang="fin">
-               <t>yksi (yhdyssanoissa)</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>one (part of compound words)</t>
+         </tg>
+         <tg lang="fin">
+            <t>yksi (yhdyssanoissa)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>ӧти</l>
          <stg>
-            <st kpvContlex="CARD">ӧти</st>
+            <st Contlex="CARD">ӧти</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>one</t>
-               <t>same</t>
-            </tg>
-            <tg lang="fin">
-               <t>yksi</t>
-               <t>sama</t>
-            </tg>
-            <xg>
-               <x>ӧти бӧрся мӧд</x>
-               <xt lang="eng">one after the other</xt>
-               <xt lang="fin">yksi toisensa jälkeen</xt>
-            </xg>
-            <xg>
-               <x>ӧти и сійӧ жӧ</x>
-               <xt lang="eng">one and the same</xt>
-               <xt lang="fin">yksi ja sama</xt>
-            </xg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>one</t>
+            <t>same</t>
+         </tg>
+         <tg lang="fin">
+            <t>yksi</t>
+            <t>sama</t>
+         </tg>
+         <xg>
+            <x>ӧти бӧрся мӧд</x>
+            <xt lang="eng">one after the other</xt>
+            <xt lang="fin">yksi toisensa jälkeen</xt>
+         </xg>
+         <xg>
+            <x>ӧти и сійӧ жӧ</x>
+            <xt lang="eng">one and the same</xt>
+            <xt lang="fin">yksi ja sama</xt>
+         </xg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>ӧтиысь</l>
          <stg>
-            <st kpvContlex="ADVTAG">ӧтиысь</st>
+            <st Contlex="ADVTAG">ӧтиысь</st>
          </stg>
       </lg>
       <pos>ITER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>once</t>
-            </tg>
-            <tg lang="fin">
-               <t>kerran</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>once</t>
+         </tg>
+         <tg lang="fin">
+            <t>kerran</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>ӧтик</l>
          <stg>
-            <st kpvContlex="CARD">ӧтик</st>
+            <st Contlex="CARD">ӧтик</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>one</t>
-               <t>same</t>
-            </tg>
-            <tg lang="fin">
-               <t>yksi</t>
-               <t>sama</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>one</t>
+            <t>same</t>
+         </tg>
+         <tg lang="fin">
+            <t>yksi</t>
+            <t>sama</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>ӧткымын</l>
          <stg>
-            <st kpvContlex="DET">ӧткымын</st>
+            <st Contlex="DET">ӧткымын</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>a few</t>
-            </tg>
-            <tg lang="fin">
-               <t>muutama</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>a few</t>
+         </tg>
+         <tg lang="fin">
+            <t>muutama</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>кӧкъямыс</l>
          <stg>
-            <st kpvContlex="CARD">кӧкъямыс</st>
+            <st Contlex="CARD">кӧкъямыс</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>eight</t>
-            </tg>
-            <tg lang="fin">
-               <t>kahdeksan</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>eight</t>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>кӧкъямысдас</l>
          <stg>
-            <st kpvContlex="CARD">кӧкъямысдас</st>
+            <st Contlex="CARD">кӧкъямысдас</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>eighty</t>
-            </tg>
-            <tg lang="fin">
-               <t>kahdeksankymmentä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>eighty</t>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksankymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>кӧкъямыссё</l>
          <stg>
-            <st kpvContlex="CARD">кӧкъямыссё</st>
+            <st Contlex="CARD">кӧкъямыссё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>eight hundred</t>
-            </tg>
-            <tg lang="fin">
-               <t>kahdeksansataa</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>eight hundred</t>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksansataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>кык</l>
          <stg>
-            <st kpvContlex="CARD">кык</st>
+            <st Contlex="CARD">кык</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>two</t>
-            </tg>
-            <tg lang="fin">
-               <t>kaksi</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>two</t>
+         </tg>
+         <tg lang="fin">
+            <t>kaksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>кыксё</l>
          <stg>
-            <st kpvContlex="CARD">кыксё</st>
+            <st Contlex="CARD">кыксё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>two hundred</t>
-            </tg>
-            <tg lang="fin">
-               <t>kaksisataa</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>two hundred</t>
+         </tg>
+         <tg lang="fin">
+            <t>kaksisataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>кызь</l>
          <stg>
-            <st kpvContlex="CARD">кызь</st>
+            <st Contlex="CARD">кызь</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>twenty</t>
-            </tg>
-            <tg lang="fin">
-               <t>kaksikymmentä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>twenty</t>
+         </tg>
+         <tg lang="fin">
+            <t>kaksikymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>коимӧд</l>
          <stg>
-            <st kpvContlex="ORD">коимӧд</st>
+            <st Contlex="ORD">коимӧд</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>third</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolmas</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>third</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolmas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>коймӧд</l>
          <stg>
-            <st kpvContlex="ORD">коймӧд</st>
+            <st Contlex="ORD">коймӧд</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>(the) third</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolmas</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>(the) third</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolmas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>комын</l>
          <stg>
-            <st kpvContlex="CARD">комын</st>
+            <st Contlex="CARD">комын</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>thirty</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolmekymmentä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>thirty</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolmekymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>куим</l>
          <stg>
-            <st kpvContlex="CARD">куим</st>
+            <st Contlex="CARD">куим</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>three</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolme</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>three</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>куимсё</l>
          <stg>
-            <st kpvContlex="CARD">куимсё</st>
+            <st Contlex="CARD">куимсё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>three hundred</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolmesataa</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>three hundred</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolmesataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>квайт</l>
          <stg>
-            <st kpvContlex="CARD">квайт</st>
+            <st Contlex="CARD">квайт</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>six</t>
-            </tg>
-            <tg lang="fin">
-               <t>kuusi</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>six</t>
+         </tg>
+         <tg lang="fin">
+            <t>kuusi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>квайтымын</l>
          <stg>
-            <st kpvContlex="CARD">квайтымын</st>
+            <st Contlex="CARD">квайтымын</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>sixty</t>
-            </tg>
-            <tg lang="fin">
-               <t>kuusikymmentä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>sixty</t>
+         </tg>
+         <tg lang="fin">
+            <t>kuusikymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>квайтсё</l>
          <stg>
-            <st kpvContlex="CARD">квайтсё</st>
+            <st Contlex="CARD">квайтсё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>six hundred</t>
-            </tg>
-            <tg lang="fin">
-               <t>kuusisataa</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>six hundred</t>
+         </tg>
+         <tg lang="fin">
+            <t>kuusisataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>мӧд</l>
          <stg>
-            <st kpvContlex="ORD">мӧд</st>
+            <st Contlex="ORD">мӧд</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>second</t>
-               <t>other</t>
-            </tg>
-            <tg lang="fin">
-               <t>toinen</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>second</t>
+            <t>other</t>
+         </tg>
+         <tg lang="fin">
+            <t>toinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>мӧдӧд</l>
          <stg>
-            <st kpvContlex="ORD">мӧдӧд</st>
+            <st Contlex="ORD">мӧдӧд</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <semRel lemmaID="мӧд" semRelType="synonym"/>
-            </m>
-            <tg lang="eng">
-               <t>second</t>
-               <t>other</t>
-            </tg>
-            <tg lang="fin">
-               <t>toinen</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="мӧд" semRelType="synonym"/>
+         </m>
+         <tg lang="eng">
+            <t>second</t>
+            <t>other</t>
+         </tg>
+         <tg lang="fin">
+            <t>toinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>миллиард</l>
          <stg>
-            <st kpvContlex="CARD">миллиард</st>
+            <st Contlex="CARD">миллиард</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head>
-                  <sci>1,000,000,000</sci>
-               </head>
-            </m>
-            <tg lang="eng">
-               <t>billion (AmE)</t>
-               <t>milliard (BrE)</t>
-            </tg>
-            <tg lang="fin">
-               <t>miljaardi</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head>
+               <sci>1,000,000,000</sci>
+            </head>
+         </m>
+         <tg lang="eng">
+            <t>billion (AmE)</t>
+            <t>milliard (BrE)</t>
+         </tg>
+         <tg lang="fin">
+            <t>miljaardi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>миллион</l>
          <stg>
-            <st kpvContlex="CARD">миллион</st>
+            <st Contlex="CARD">миллион</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>million</t>
-            </tg>
-            <tg lang="fin">
-               <t>miljoona</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>million</t>
+         </tg>
+         <tg lang="fin">
+            <t>miljoona</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>нелямын</l>
          <stg>
-            <st kpvContlex="CARD">нелямын</st>
+            <st Contlex="CARD">нелямын</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>forty</t>
-            </tg>
-            <tg lang="fin">
-               <t>neljäkymmentä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>forty</t>
+         </tg>
+         <tg lang="fin">
+            <t>neljäkymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>нёль</l>
          <stg>
-            <st kpvContlex="CARD">нёль</st>
+            <st Contlex="CARD">нёль</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>four</t>
-            </tg>
-            <tg lang="fin">
-               <t>neljä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>four</t>
+         </tg>
+         <tg lang="fin">
+            <t>neljä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>нёльсё</l>
          <stg>
-            <st kpvContlex="CARD">нёльсё</st>
+            <st Contlex="CARD">нёльсё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>four hundred</t>
-            </tg>
-            <tg lang="fin">
-               <t>neljäsataa</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>four hundred</t>
+         </tg>
+         <tg lang="fin">
+            <t>neljäsataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>первӧй</l>
          <stg>
-            <st kpvContlex="ORD">первӧй</st>
+            <st Contlex="ORD">первӧй</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <semRel lemmaID="медводдза" semRelType="confer"/>
-            </m>
-            <tg lang="eng">
-               <t>first</t>
-            </tg>
-            <tg lang="fin">
-               <t>ensimmäinen</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="медводдза" semRelType="confer"/>
+         </m>
+         <tg lang="eng">
+            <t>first</t>
+         </tg>
+         <tg lang="fin">
+            <t>ensimmäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>первой</l>
          <stg>
-            <st kpvContlex="ORD">первой</st>
+            <st Contlex="ORD">первой</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <semRel lemmaID="медводдза" semRelType="confer"/>
-            </m>
-            <tg lang="eng">
-               <t>first</t>
-            </tg>
-            <tg lang="fin">
-               <t>ensimmäinen</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="медводдза" semRelType="confer"/>
+         </m>
+         <tg lang="eng">
+            <t>first</t>
+         </tg>
+         <tg lang="fin">
+            <t>ensimmäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>сизим</l>
          <stg>
-            <st kpvContlex="CARD">сизим</st>
+            <st Contlex="CARD">сизим</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>seven</t>
-            </tg>
-            <tg lang="fin">
-               <t>seitsemän</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>seven</t>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>сизимдас</l>
          <stg>
-            <st kpvContlex="CARD">сизимдас</st>
+            <st Contlex="CARD">сизимдас</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>seventy</t>
-            </tg>
-            <tg lang="fin">
-               <t>seitsemänkymmentä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>seventy</t>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemänkymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>сизимсё</l>
          <stg>
-            <st kpvContlex="CARD">сизимсё</st>
+            <st Contlex="CARD">сизимсё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>seven hundred</t>
-            </tg>
-            <tg lang="fin">
-               <t>seitsemänsataa</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>seven hundred</t>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemänsataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>сё</l>
          <stg>
-            <st kpvContlex="CARD">сё</st>
+            <st Contlex="CARD">сё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>hundred</t>
-            </tg>
-            <tg lang="fin">
-               <t>sata</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>hundred</t>
+         </tg>
+         <tg lang="fin">
+            <t>sata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>сюрс</l>
          <stg>
-            <st kpvContlex="CARD">сюрс</st>
+            <st Contlex="CARD">сюрс</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>thousand</t>
-            </tg>
-            <tg lang="fin">
-               <t>tuhat</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>thousand</t>
+         </tg>
+         <tg lang="fin">
+            <t>tuhat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>тысяча</l>
          <stg>
-            <st kpvContlex="CARD">тысяча</st>
+            <st Contlex="CARD">тысяча</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <semRel lemmaID="сюрс" semRelType="see"/>
-            </m>
-            <tg lang="eng">
-               <t>thousand</t>
-            </tg>
-            <tg lang="fin">
-               <t>tuhat</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="сюрс" semRelType="see"/>
+         </m>
+         <tg lang="eng">
+            <t>thousand</t>
+         </tg>
+         <tg lang="fin">
+            <t>tuhat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>триллион</l>
          <stg>
-            <st kpvContlex="CARD">триллион</st>
+            <st Contlex="CARD">триллион</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head>
-                  <sci>1,000,000,000,000</sci>
-               </head>
-            </m>
-            <tg lang="eng_US">
-               <t>trillion</t>
-            </tg>
-            <tg lang="eng_UK">
-               <t>billion</t>
-            </tg>
-            <tg lang="fin">
-               <t>biljoona</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head>
+               <sci>1,000,000,000,000</sci>
+            </head>
+         </m>
+         <tg lang="eng_US">
+            <t>trillion</t>
+         </tg>
+         <tg lang="eng_UK">
+            <t>billion</t>
+         </tg>
+         <tg lang="fin">
+            <t>biljoona</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>уна</l>
          <stg>
-            <st kpvContlex="DET">уна</st>
+            <st Contlex="DET">уна</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>many</t>
-               <t>several</t>
-            </tg>
-            <tg lang="fin">
-               <t>useampi</t>
-            </tg>
-         </mg>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>much</t>
-               <t>a lot of</t>
-               <t>plenty of</t>
-            </tg>
-            <tg lang="fin">
-               <t>paljon</t>
-               <t>monta</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>many</t>
+            <t>several</t>
+         </tg>
+         <tg lang="fin">
+            <t>useampi</t>
+         </tg>
+      </mg>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>much</t>
+            <t>a lot of</t>
+            <t>plenty of</t>
+         </tg>
+         <tg lang="fin">
+            <t>paljon</t>
+            <t>monta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>ветымын</l>
          <stg>
-            <st kpvContlex="CARD">ветымын</st>
+            <st Contlex="CARD">ветымын</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>fifty</t>
-            </tg>
-            <tg lang="fin">
-               <t>viisikymmentä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>fifty</t>
+         </tg>
+         <tg lang="fin">
+            <t>viisikymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>вит</l>
          <stg>
-            <st kpvContlex="CARD">вит</st>
+            <st Contlex="CARD">вит</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>five</t>
-            </tg>
-            <tg lang="fin">
-               <t>viisi</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>five</t>
+         </tg>
+         <tg lang="fin">
+            <t>viisi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>витӧд</l>
          <stg>
-            <st kpvContlex="ORD">витӧд</st>
+            <st Contlex="ORD">витӧд</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>(the) fifth</t>
-            </tg>
-            <tg lang="fin">
-               <t>viides</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>(the) fifth</t>
+         </tg>
+         <tg lang="fin">
+            <t>viides</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>витсё</l>
          <stg>
-            <st kpvContlex="CARD">витсё</st>
+            <st Contlex="CARD">витсё</st>
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>five hundred</t>
-            </tg>
-            <tg lang="fin">
-               <t>viisisataa</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>five hundred</t>
+         </tg>
+         <tg lang="fin">
+            <t>viisisataa</t>
+         </tg>
+      </mg>
+   </e>
 </r>
