@@ -1,1433 +1,1898 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
-      <lg>
-         <l>аддза</l>
-         <stg>
-            <st Contlex="PO-PX">аддза</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <semRel lemmaID="вӧсна" semRelType="confer"/>
-            <semRel lemmaID=" жаляддза" semRelType="confer"/>
-         </m>
-         <tg lang="eng">
-            <tCtn>
-               <t>for the sake of??</t>
-               <re>also added directly to the head word</re>
-            </tCtn>
-         </tg>
-         <tg lang="fin">
-            <tCtn>
-               <t>vuoksi</t>
-               <re>toimii myös päätteenä</re>
-            </tCtn>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>бӧр</l>
-         <stg>
-            <st Contlex="POSTP1">бӧр</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <semRel lemmaID="сай" semRelType="confer"/>
-         </m>
-         <tg lang="eng">
-            <t>behind</t>
-            <t>beyond</t>
-         </tg>
-         <tg lang="fin">
-            <t>taka-</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>бӧрся</l>
-         <stg>
-            <st Contlex="PO-COMP">бӧр</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head>
-               <isa semClass="TIME"/>
-            </head>
-         </m>
-         <tg lang="eng">
-            <t>after</t>
-         </tg>
-         <tg lang="fin">
-            <t>jälkeen</t>
-         </tg>
-      </mg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>after</t>
-         </tg>
-         <tg lang="fin">
-            <t>jälkeen</t>
-            <t>perään</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>бӧрті</l>
-         <stg>
-            <st Contlex="PO-TRA">бӧр</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>after sm</t>
-            <t>following sm</t>
-         </tg>
-         <tg lang="fin">
-            <t>jälkeen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>берд</l>
-         <stg>
-            <st Contlex="POSTP1">берд</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head>
-               <argg>
-                  <arg>
-                     <typical>NNOM ENG </typical>
-                  </arg>
-               </argg>
-            </head>
-            <semRel lemmaID="дін" semRelType="confer"/>
-            <semRel lemmaID=" дор" semRelType="confer"/>
-         </m>
-         <tg lang="fin">
-            <t>ääri</t>
-            <t>vieri</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>боки</l>
-         <stg>
-            <st Contlex="POSTP1">боки</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>by sm's side</t>
-            <t>near sm or smth</t>
-            <t>past sm</t>
-         </tg>
-         <tg lang="fin">
-            <t>jkn vieressä</t>
-            <t>jkn lähellä</t>
-            <t>jkn ohi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>бокиті</l>
-         <stg>
-            <st Contlex="PO-TRA">бокиті</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>past</t>
-         </tg>
-         <tg lang="fin">
-            <t>ohitse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>боксянь</l>
-         <stg>
-            <st Contlex="PO-EGR">бок</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>from a stand point</t>
-         </tg>
-         <tg lang="fin">
-            <t>kannalta</t>
-         </tg>
-      </mg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>from the side</t>
-         </tg>
-         <tg lang="fin">
-            <t>sivulta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вöсна</l>
-         <stg>
-            <st Contlex="PO-PX">вöсна</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>for</t>
-         </tg>
-         <tg lang="fin">
-            <t>vuoksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>йылысь</l>
-         <stg>
-            <st Contlex="PO-ELA">йыл</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>about</t>
-         </tg>
-         <tg lang="fin">
-            <t>-stA</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>чӧж</l>
-         <stg>
-            <st Contlex="POST1">чӧж</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>during</t>
-            <t>in the course (of time)</t>
-         </tg>
-         <tg lang="fin">
-            <t>jnk kuluessa</t>
-            <t>jnk ajan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>дырйи</l>
-         <stg>
-            <st Contlex="PO-PX">дырйи</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head>
-               <argg>
-                  <arg>
-                     <typical>NOMN ENG </typical>
-                  </arg>
-               </argg>
-            </head>
-         </m>
-         <tg lang="fin">
-            <t>-n aikana</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ӧтдор</l>
-         <stg>
-            <st Contlex="POSTP1">ӧтдор</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head>
-               <argg>
-                  <arg>
-                     <typical>P/-ысь</typical>
-                  </arg>
-               </argg>
-            </head>
-         </m>
-         <tg lang="eng">
-            <t>besides</t>
-            <t>in addition to</t>
-         </tg>
-         <tg lang="fin">
-            <t>paitsi</t>
-            <t>-n lisäksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>гӧгӧр</l>
-         <stg>
-            <st Contlex="POSTP-NOUN">гӧгӧр</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head>
-               <argg>
-                  <arg>
-                     <typical>NOM</typical>
-                  </arg>
-               </argg>
-            </head>
-         </m>
-         <tg lang="eng">
-            <t>around</t>
-         </tg>
-         <tg lang="fin">
-            <t>ympärillä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>гырся</l>
-         <stg>
-            <st Contlex="PO-COMP">гыр</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>with the size of</t>
-         </tg>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ылӧс</l>
-         <stg>
-            <st Contlex="POSTP1">ылӧс</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t/>
-         </tg>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>йитӧдын</l>
-         <stg>
-            <st Contlex="PO-INE">йитӧд</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head>
-               <argg>
-                  <arg>
-                     <typical>P/-кӧд</typical>
-                  </arg>
-               </argg>
-            </head>
-         </m>
-         <tg lang="eng">
-            <t>with regard to</t>
-            <t>in conjunction with</t>
-         </tg>
-         <tg lang="fin">
-            <t>yhteydessä</t>
-         </tg>
-         <xg>
-            <x>такӧд йитӧдын</x>
-            <xt lang="eng">in conjuction with this</xt>
-            <xt lang="fin">näissä merkeissä</xt>
-         </xg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>катыдын</l>
-         <stg>
-            <st Contlex="PO-INE">катыд</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>up stream (used with names of rivers)</t>
-         </tg>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кежлӧ</l>
-         <stg>
-            <st Contlex="PO-ILL">кежл</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>for ...(a period of time)</t>
-         </tg>
-         <tg lang="fin">
-            <t>-ksi (joksikin ajaksi)</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кындзи</l>
-         <stg>
-            <st Contlex="PO-PX">кындзи</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <drv>-ысь</drv>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>along side</t>
-            <t>in addition to</t>
-         </tg>
-         <tg lang="fin">
-            <t>ohella</t>
-            <t>lisäksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кузя</l>
-         <stg>
-            <st Contlex="POSTP1">кузя</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head>
-               <argg>
-                  <arg>
-                     <typical>NOM/POSTP</typical>
-                  </arg>
-               </argg>
-            </head>
-         </m>
-         <tg lang="eng">
-            <t>along</t>
-         </tg>
-         <tg lang="fin">
-            <t>pitkin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>лыд</l>
-         <stg>
-            <st Contlex="POSTP1">лыд</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head>
-               <argg>
-                  <arg>
-                     <typical>P-ын</typical>
-                  </arg>
-               </argg>
-               <argg>
-                  <arg>
-                     <typical>P-ысь</typical>
-                  </arg>
-               </argg>
-               <argg>
-                  <arg>
-                     <typical>P-ӧ</typical>
-                  </arg>
-               </argg>
-            </head>
-         </m>
-         <tg lang="eng">
-            <t>amidst</t>
-            <t>among</t>
-         </tg>
-         <tg lang="fin">
-            <t>joukossa</t>
-            <t>keskuudessa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мат</l>
-         <stg>
-            <st Contlex="POSTP1">мат</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head>
-               <argg>
-                  <arg>
-                     <typical>P-ын</typical>
-                  </arg>
-               </argg>
-               <argg>
-                  <arg>
-                     <typical>P-ысь</typical>
-                  </arg>
-               </argg>
-               <argg>
-                  <arg>
-                     <typical>P-ӧ</typical>
-                  </arg>
-               </argg>
-            </head>
-         </m>
-         <tg lang="eng">
-            <t/>
-         </tg>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мӧдар</l>
-         <stg>
-            <st Contlex="POSTP1">мӧдар</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>on the other side of</t>
-         </tg>
-         <tg lang="fin">
-            <t>-n toisella puolella</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мӧдлапӧв</l>
-         <stg>
-            <st Contlex="POSTP1">мӧдлапӧл</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head>
-               <argg>
-                  <arg>
-                     <typical>P-ын</typical>
-                  </arg>
-               </argg>
-               <argg>
-                  <arg>
-                     <typical>P-ысь</typical>
-                  </arg>
-               </argg>
-               <argg>
-                  <arg>
-                     <typical>P-ӧ</typical>
-                  </arg>
-               </argg>
-            </head>
-         </m>
-         <tg lang="eng">
-            <t>on the other side of (it)</t>
-         </tg>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мында</l>
-         <stg>
-            <st Contlex="PO-PX">мында</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>as much as</t>
-         </tg>
-         <tg lang="fin">
-            <t>niin paljon kuin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мысти</l>
-         <stg>
-            <st Contlex="PO-PX">мысти</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>in</t>
-            <t>from now</t>
-         </tg>
-         <tg lang="fin">
-            <t>-n kuluttua</t>
-            <t>päästä</t>
-            <t>välein</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мысьт</l>
-         <stg>
-            <st Contlex="PO-PX">мысьт</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head>
-               <isa semClass="TIME"/>
-            </head>
-         </m>
-         <tg lang="eng">
-            <t>in</t>
-            <t>from now</t>
-         </tg>
-         <tg lang="fin">
-            <t>-n kuluttua</t>
-            <t>päästä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>моз</l>
-         <stg>
-            <st Contlex="PO-PX">моз</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>such as</t>
-            <t>just like</t>
-         </tg>
-         <tg lang="fin">
-            <t>niin kuin</t>
-            <t>aivan kuin</t>
-            <t>kuten</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ног</l>
-         <stg>
-            <st Contlex="POSTP1">ног</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>-wise</t>
-         </tg>
-         <tg lang="fin">
-            <t>-ttain</t>
-         </tg>
-      </mg>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>by</t>
-         </tg>
-         <tg lang="fin">
-            <t>-ltaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ногӧн</l>
-         <stg>
-            <st Contlex="PO-INSTR">ногӧн</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t/>
-         </tg>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ньылыд</l>
-         <stg>
-            <st Contlex="POSTP1">ньылыд</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <semRel lemmaID="паныд" semRelType="confer"/>
-         </m>
-         <tg lang="eng">
-            <t>down</t>
-            <t>along</t>
-            <t>the way of</t>
-         </tg>
-         <tg lang="fin">
-            <t>pitkin</t>
-            <t>myöten</t>
-            <t>myötä</t>
-         </tg>
-         <xg>
-            <x>ва ньылыд</x>
-            <xt lang="eng">down stream</xt>
-            <xt lang="fin">virtaa pitkin</xt>
-            <xt lang="fin">virtaa myöten</xt>
-         </xg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>орд</l>
-         <stg>
-            <st Contlex="POSTP1">орд</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <drv>-ӧ</drv>
-      <drv>-ын</drv>
-      <drv>-ысь</drv>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t/>
-         </tg>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>паныд</l>
-         <stg>
-            <st Contlex="POSTP1">паныд</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <semRel lemmaID="кырул" semRelType="antonym"/>
-         </m>
-         <tg lang="eng">
-            <t>against</t>
-            <t>up</t>
-         </tg>
-         <tg lang="fin">
-            <t>vasten</t>
-            <t>vastaan</t>
-            <t>ylös</t>
-         </tg>
-         <xg>
-            <x>ю паныд</x>
-            <xt lang="eng">up stream</xt>
-            <xt lang="fin">jokea ylös (vastavirtaan)</xt>
-         </xg>
-      </mg>
-      <mg>
-         <m>
-            <head>
-               <isa semClass="TIME"/>
-            </head>
-         </m>
-         <tg lang="eng">
-            <t>preceding</t>
-         </tg>
-         <tg lang="fin">
-            <t>vasten</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>паныдӧн</l>
-         <stg>
-            <st Contlex="POSTP1">паныдӧн</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head>
-               <argg>
-                  <arg>
-                     <typical>P/-кӧд</typical>
-                  </arg>
-               </argg>
-               <argg>
-                  <arg>
-                     <typical>DADV-ӧн</typical>
-                  </arg>
-               </argg>
-               <argg>
-                  <arg>
-                     <typical>P/-лы</typical>
-                  </arg>
-               </argg>
-            </head>
-         </m>
-         <tg lang="eng">
-            <t>opposite</t>
-         </tg>
-         <tg lang="fin">
-            <t>vastapäätä</t>
-         </tg>
-      </mg>
-      <mg>
-         <m>
-            <head>
-               <argg>
-                  <arg>
-                     <typical>P/-lany</typical>
-                  </arg>
-               </argg>
-               <argg>
-                  <arg>
-                     <typical>DADV-ӧн</typical>
-                  </arg>
-               </argg>
-            </head>
-            <semRel lemmaID="мышкӧн" semRelType="antonym"/>
-         </m>
-         <tg lang="eng">
-            <t>facing</t>
-         </tg>
-         <tg lang="fin">
-            <t>päin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>пасьтала</l>
-         <stg>
-            <st Contlex="POSTP1">пасьтала</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>throughout</t>
-         </tg>
-         <tg lang="fin">
-            <t>ympäri</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>пӧлӧн</l>
-         <stg>
-            <st Contlex="PO-INSTR">пӧлӧн</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>along</t>
-         </tg>
-         <tg lang="fin">
-            <t>pitkin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>пӧвст</l>
-         <stg>
-            <st Contlex="POSTP1">пӧвст</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <drv>-ын</drv>
-      <drv>-ӧ</drv>
-      <drv>-ысь</drv>
-      <mg>
-         <m>
-            <head/>
-            <semRel lemmaID="пи" semRelType="confer"/>
-            <semRel lemmaID=" кост" semRelType="confer"/>
-         </m>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>пи</l>
-         <stg>
-            <st Contlex="POSTP1">пи</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <drv>-ын</drv>
-      <drv>-ӧ</drv>
-      <drv>-ысь</drv>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>among</t>
-         </tg>
-         <tg lang="fin">
-            <t>-n joukossa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>пыдди</l>
-         <stg>
-            <st Contlex="PO-PX">пыдди</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>instead of</t>
-         </tg>
-         <tg lang="fin">
-            <t>-n asemesta</t>
-            <t>-n sijasta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>пыр</l>
-         <stg>
-            <st Contlex="PO-PX">пыр</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>through</t>
-            <t>over</t>
-         </tg>
-         <tg lang="fin">
-            <t>läpi</t>
-            <t>kautta</t>
-            <t>-tse</t>
-         </tg>
-         <xg>
-            <x>телефон пыр тӧдмасьӧм</x>
-            <xt lang="eng">becoming acqainted over the phone</xt>
-            <xt lang="fin">tutustuminen puhelimitse</xt>
-         </xg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>пытш</l>
-         <stg>
-            <st Contlex="POSTP1">пытшк</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <drv>-ын</drv>
-      <drv>-ӧ</drv>
-      <drv>-ысь</drv>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>inside</t>
-            <t>from within</t>
-         </tg>
-         <tg lang="fin">
-            <t>sisällä</t>
-            <t>sisälle</t>
-            <t>sisältä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>понда</l>
-         <stg>
-            <st Contlex="PO-PX">понда</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>for some reason</t>
-         </tg>
-         <tg lang="fin">
-            <t>jstak syystä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ради</l>
-         <stg>
-            <st Contlex="PO-PX">ради</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t/>
-         </tg>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>сай</l>
-         <stg>
-            <st Contlex="POSTP1">сай</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <drv>-ын</drv>
-      <drv>-ӧ</drv>
-      <drv>-ысь</drv>
-      <drv>-ӧдз</drv>
-      <mg>
-         <m>
-            <head/>
-         </m>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>серти</l>
-         <stg>
-            <st Contlex="PO-PX">серти</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head>
-               <argg>
-                  <arg>
-                     <typical>H/NOM</typical>
-                  </arg>
-               </argg>
-            </head>
-         </m>
-         <tg lang="eng">
-            <t>according to</t>
-         </tg>
-         <tg lang="fin">
-            <t>-n mukaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>уліті</l>
-         <stg>
-            <st Contlex="PO-TRA">уліті</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>past (beneath)</t>
-         </tg>
-         <tg lang="fin">
-            <t>alitse</t>
-            <t>alakautta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ув</l>
-         <stg>
-            <st Contlex="POSTP1">ул</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <drv>-ын</drv>
-      <drv>-ӧ</drv>
-      <drv>-ысь</drv>
-      <mg>
-         <m>
-            <head/>
-         </m>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вӧсна</l>
-         <stg>
-            <st Contlex="PO-PX">вӧсна</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>due to</t>
-            <t>because of</t>
-            <t>on behalf of</t>
-         </tg>
-         <tg lang="fin">
-            <t>takia</t>
-            <t>vuoksi</t>
-            <t>puolesta</t>
-         </tg>
-         <xg>
-            <x>висьӧм вӧсна</x>
-            <xt lang="eng">due to illness</xt>
-            <xt lang="fin">sairauden vuoksi</xt>
-         </xg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>веркыд</l>
-         <stg>
-            <st Contlex="POSTP1">веркыд</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t/>
-         </tg>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>веськыдладор</l>
-         <stg>
-            <st Contlex="POSTP1">веськыдладор</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head>
-               <argg>
-                  <arg>
-                     <typical>H/NOM</typical>
-                  </arg>
-               </argg>
-            </head>
-         </m>
-         <tg lang="eng">
-            <t>on the right side of</t>
-         </tg>
-         <tg lang="fin">
-            <t>-n oikealla puolella</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>весьт</l>
-         <stg>
-            <st Contlex="POSTP1">весьт</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <drv>-ын</drv>
-      <drv>-ӧ</drv>
-      <drv>-ысь</drv>
-      <mg>
-         <m>
-            <head/>
-         </m>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>выйӧн</l>
-         <stg>
-            <st Contlex="PO-INSTR">выйӧн</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t/>
-         </tg>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>выліті</l>
-         <stg>
-            <st Contlex="PO-TRA">выліті</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>on high</t>
-            <t>from high up</t>
-            <t>from above</t>
-         </tg>
-         <tg lang="fin">
-            <t>korkeuksissa</t>
-            <t>korkealta</t>
-            <t>yläpuolelta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вывті</l>
-         <stg>
-            <st Contlex="PO-TRA">вывті</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t/>
-         </tg>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>водз</l>
-         <stg>
-            <st Contlex="POSTP1">водз</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t/>
-         </tg>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вом</l>
-         <stg>
-            <st Contlex="POSTP1">вом</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <xg>
-            <x>вомас</x>
-            <xt lang="eng">for (temp)</xt>
-            <xt lang="fin">aikana</xt>
-         </xg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вомӧн</l>
-         <stg>
-            <st Contlex="PO-INSTR">вом</st>
-         </stg>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="eng">
-            <t>over</t>
-            <t>across</t>
-         </tg>
-         <tg lang="fin">
-            <t>yli</t>
-            <t>poikki</t>
-         </tg>
-      </mg>
-   </e>
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l pos="POSTP">аддза</l>
+
+      <stg>
+        <st Contlex="PO-PX">аддза</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <semRel lemmaID="вӧсна" semRelType="confer"/>
+
+        <semRel lemmaID=" жаляддза" semRelType="confer"/>
+      </m>
+
+      <tg xml:lang="eng">
+        <tCtn>
+          <t>for the sake of??</t>
+
+          <re>also added directly to the head word</re>
+        </tCtn>
+      </tg>
+
+      <tg xml:lang="fin">
+        <tCtn>
+          <t>vuoksi</t>
+
+          <re>toimii myös päätteenä</re>
+        </tCtn>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">бӧр</l>
+
+      <stg>
+        <st Contlex="POSTP1">бӧр</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <semRel lemmaID="сай" semRelType="confer"/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>behind</t>
+
+        <t>beyond</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>taka-</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">бӧрся</l>
+
+      <stg>
+        <st Contlex="PO-COMP">бӧр</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <isa semClass="TIME"/>
+        </head>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>after</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>jälkeen</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>after</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>jälkeen</t>
+
+        <t>perään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">бӧрті</l>
+
+      <stg>
+        <st Contlex="PO-TRA">бӧр</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>after sm</t>
+
+        <t>following sm</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>jälkeen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">берд</l>
+
+      <stg>
+        <st Contlex="POSTP1">берд</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <argg>
+            <arg>
+              <typical>NNOM ENG </typical>
+            </arg>
+          </argg>
+        </head>
+
+        <semRel lemmaID="дін" semRelType="confer"/>
+
+        <semRel lemmaID=" дор" semRelType="confer"/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>ääri</t>
+
+        <t>vieri</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">боки</l>
+
+      <stg>
+        <st Contlex="POSTP1">боки</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>by sm's side</t>
+
+        <t>near sm or smth</t>
+
+        <t>past sm</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>jkn vieressä</t>
+
+        <t>jkn lähellä</t>
+
+        <t>jkn ohi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">бокиті</l>
+
+      <stg>
+        <st Contlex="PO-TRA">бокиті</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>past</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="POSTP">ohitse</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">боксянь</l>
+
+      <stg>
+        <st Contlex="PO-EGR">бок</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>from a stand point</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>kannalta</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>from the side</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>sivulta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">вöсна</l>
+
+      <stg>
+        <st Contlex="PO-PX">вöсна</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>for</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>vuoksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">йылысь</l>
+
+      <stg>
+        <st Contlex="PO-ELA">йыл</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>about</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-stA</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">чӧж</l>
+
+      <stg>
+        <st Contlex="POST1">чӧж</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>during</t>
+
+        <t>in the course (of time)</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>jnk kuluessa</t>
+
+        <t>jnk ajan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">дырйи</l>
+
+      <stg>
+        <st Contlex="PO-PX">дырйи</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <argg>
+            <arg>
+              <typical>NOMN ENG </typical>
+            </arg>
+          </argg>
+        </head>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>-n aikana</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">ӧтдор</l>
+
+      <stg>
+        <st Contlex="POSTP1">ӧтдор</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <argg>
+            <arg>
+              <typical>P/-ысь</typical>
+            </arg>
+          </argg>
+        </head>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>besides</t>
+
+        <t>in addition to</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>paitsi</t>
+
+        <t>-n lisäksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">гӧгӧр</l>
+
+      <stg>
+        <st Contlex="POSTP-NOUN">гӧгӧр</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <argg>
+            <arg>
+              <typical>NOM</typical>
+            </arg>
+          </argg>
+        </head>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>around</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>ympärillä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">гырся</l>
+
+      <stg>
+        <st Contlex="PO-COMP">гыр</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>with the size of</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">ылӧс</l>
+
+      <stg>
+        <st Contlex="POSTP1">ылӧс</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">йитӧдын</l>
+
+      <stg>
+        <st Contlex="PO-INE">йитӧд</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <argg>
+            <arg>
+              <typical>P/-кӧд</typical>
+            </arg>
+          </argg>
+        </head>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>with regard to</t>
+
+        <t>in conjunction with</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>yhteydessä</t>
+      </tg>
+
+      <xg>
+        <x>такӧд йитӧдын</x>
+
+        <xt xml:lang="eng">in conjuction with this</xt>
+
+        <xt xml:lang="fin">näissä merkeissä</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">катыдын</l>
+
+      <stg>
+        <st Contlex="PO-INE">катыд</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>up stream (used with names of rivers)</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">кежлӧ</l>
+
+      <stg>
+        <st Contlex="PO-ILL">кежл</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>for ...(a period of time)</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-ksi (joksikin ajaksi)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">кындзи</l>
+
+      <stg>
+        <st Contlex="PO-PX">кындзи</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <drv>-ысь</drv>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>along side</t>
+
+        <t>in addition to</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>ohella</t>
+
+        <t>lisäksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">кузя</l>
+
+      <stg>
+        <st Contlex="POSTP1">кузя</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <argg>
+            <arg>
+              <typical>NOM/POSTP</typical>
+            </arg>
+          </argg>
+        </head>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>along</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>pitkin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">лыд</l>
+
+      <stg>
+        <st Contlex="POSTP1">лыд</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <argg>
+            <arg>
+              <typical>P-ын</typical>
+            </arg>
+          </argg>
+
+          <argg>
+            <arg>
+              <typical>P-ысь</typical>
+            </arg>
+          </argg>
+
+          <argg>
+            <arg>
+              <typical>P-ӧ</typical>
+            </arg>
+          </argg>
+        </head>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>amidst</t>
+
+        <t>among</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>joukossa</t>
+
+        <t>keskuudessa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">мат</l>
+
+      <stg>
+        <st Contlex="POSTP1">мат</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <argg>
+            <arg>
+              <typical>P-ын</typical>
+            </arg>
+          </argg>
+
+          <argg>
+            <arg>
+              <typical>P-ысь</typical>
+            </arg>
+          </argg>
+
+          <argg>
+            <arg>
+              <typical>P-ӧ</typical>
+            </arg>
+          </argg>
+        </head>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">мӧдар</l>
+
+      <stg>
+        <st Contlex="POSTP1">мӧдар</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>on the other side of</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-n toisella puolella</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">мӧдлапӧв</l>
+
+      <stg>
+        <st Contlex="POSTP1">мӧдлапӧл</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <argg>
+            <arg>
+              <typical>P-ын</typical>
+            </arg>
+          </argg>
+
+          <argg>
+            <arg>
+              <typical>P-ысь</typical>
+            </arg>
+          </argg>
+
+          <argg>
+            <arg>
+              <typical>P-ӧ</typical>
+            </arg>
+          </argg>
+        </head>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>on the other side of (it)</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">мында</l>
+
+      <stg>
+        <st Contlex="PO-PX">мында</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>as much as</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>niin paljon kuin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">мысти</l>
+
+      <stg>
+        <st Contlex="PO-PX">мысти</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>in</t>
+
+        <t>from now</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-n kuluttua</t>
+
+        <t>päästä</t>
+
+        <t>välein</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">мысьт</l>
+
+      <stg>
+        <st Contlex="PO-PX">мысьт</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <isa semClass="TIME"/>
+        </head>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>in</t>
+
+        <t>from now</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-n kuluttua</t>
+
+        <t>päästä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">моз</l>
+
+      <stg>
+        <st Contlex="PO-PX">моз</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>such as</t>
+
+        <t>just like</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>niin kuin</t>
+
+        <t>aivan kuin</t>
+
+        <t>kuten</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">ног</l>
+
+      <stg>
+        <st Contlex="POSTP1">ног</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>-wise</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-ttain</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>by</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-ltaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">ногӧн</l>
+
+      <stg>
+        <st Contlex="PO-INSTR">ногӧн</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">ньылыд</l>
+
+      <stg>
+        <st Contlex="POSTP1">ньылыд</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <semRel lemmaID="паныд" semRelType="confer"/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>down</t>
+
+        <t>along</t>
+
+        <t>the way of</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>pitkin</t>
+
+        <t>myöten</t>
+
+        <t>myötä</t>
+      </tg>
+
+      <xg>
+        <x>ва ньылыд</x>
+
+        <xt xml:lang="eng">down stream</xt>
+
+        <xt xml:lang="fin">virtaa pitkin</xt>
+
+        <xt xml:lang="fin">virtaa myöten</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">орд</l>
+
+      <stg>
+        <st Contlex="POSTP1">орд</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <drv>-ӧ</drv>
+
+    <drv>-ын</drv>
+
+    <drv>-ысь</drv>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">паныд</l>
+
+      <stg>
+        <st Contlex="POSTP1">паныд</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <semRel lemmaID="кырул" semRelType="antonym"/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>against</t>
+
+        <t>up</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>vasten</t>
+
+        <t>vastaan</t>
+
+        <t>ylös</t>
+      </tg>
+
+      <xg>
+        <x>ю паныд</x>
+
+        <xt xml:lang="eng">up stream</xt>
+
+        <xt xml:lang="fin">jokea ylös (vastavirtaan)</xt>
+      </xg>
+    </mg>
+
+    <mg>
+      <m>
+        <head>
+          <isa semClass="TIME"/>
+        </head>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>preceding</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>vasten</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">паныдӧн</l>
+
+      <stg>
+        <st Contlex="POSTP1">паныдӧн</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <argg>
+            <arg>
+              <typical>P/-кӧд</typical>
+            </arg>
+          </argg>
+
+          <argg>
+            <arg>
+              <typical>DADV-ӧн</typical>
+            </arg>
+          </argg>
+
+          <argg>
+            <arg>
+              <typical>P/-лы</typical>
+            </arg>
+          </argg>
+        </head>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>opposite</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>vastapäätä</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <m>
+        <head>
+          <argg>
+            <arg>
+              <typical>P/-lany</typical>
+            </arg>
+          </argg>
+
+          <argg>
+            <arg>
+              <typical>DADV-ӧн</typical>
+            </arg>
+          </argg>
+        </head>
+
+        <semRel lemmaID="мышкӧн" semRelType="antonym"/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>facing</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>päin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">пасьтала</l>
+
+      <stg>
+        <st Contlex="POSTP1">пасьтала</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>throughout</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>ympäri</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">пӧлӧн</l>
+
+      <stg>
+        <st Contlex="PO-INSTR">пӧлӧн</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>along</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>pitkin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">пӧвст</l>
+
+      <stg>
+        <st Contlex="POSTP1">пӧвст</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <drv>-ын</drv>
+
+    <drv>-ӧ</drv>
+
+    <drv>-ысь</drv>
+
+    <mg>
+      <m>
+        <head/>
+
+        <semRel lemmaID="пи" semRelType="confer"/>
+
+        <semRel lemmaID=" кост" semRelType="confer"/>
+      </m>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">пи</l>
+
+      <stg>
+        <st Contlex="POSTP1">пи</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <drv>-ын</drv>
+
+    <drv>-ӧ</drv>
+
+    <drv>-ысь</drv>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>among</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-n joukossa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">пыдди</l>
+
+      <stg>
+        <st Contlex="PO-PX">пыдди</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>instead of</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-n asemesta</t>
+
+        <t>-n sijasta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">пыр</l>
+
+      <stg>
+        <st Contlex="PO-PX">пыр</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>through</t>
+
+        <t>over</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>läpi</t>
+
+        <t>kautta</t>
+
+        <t>-tse</t>
+      </tg>
+
+      <xg>
+        <x>телефон пыр тӧдмасьӧм</x>
+
+        <xt xml:lang="eng">becoming acqainted over the phone</xt>
+
+        <xt xml:lang="fin">tutustuminen puhelimitse</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">пытш</l>
+
+      <stg>
+        <st Contlex="POSTP1">пытшк</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <drv>-ын</drv>
+
+    <drv>-ӧ</drv>
+
+    <drv>-ысь</drv>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>inside</t>
+
+        <t>from within</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>sisällä</t>
+
+        <t>sisälle</t>
+
+        <t>sisältä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">понда</l>
+
+      <stg>
+        <st Contlex="PO-PX">понда</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>for some reason</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>jstak syystä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">ради</l>
+
+      <stg>
+        <st Contlex="PO-PX">ради</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">сай</l>
+
+      <stg>
+        <st Contlex="POSTP1">сай</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <drv>-ын</drv>
+
+    <drv>-ӧ</drv>
+
+    <drv>-ысь</drv>
+
+    <drv>-ӧдз</drv>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">серти</l>
+
+      <stg>
+        <st Contlex="PO-PX">серти</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <argg>
+            <arg>
+              <typical>H/NOM</typical>
+            </arg>
+          </argg>
+        </head>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>according to</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-n mukaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">уліті</l>
+
+      <stg>
+        <st Contlex="PO-TRA">уліті</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>past (beneath)</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>alitse</t>
+
+        <t>alakautta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">ув</l>
+
+      <stg>
+        <st Contlex="POSTP1">ул</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <drv>-ын</drv>
+
+    <drv>-ӧ</drv>
+
+    <drv>-ысь</drv>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">вӧсна</l>
+
+      <stg>
+        <st Contlex="PO-PX">вӧсна</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>due to</t>
+
+        <t>because of</t>
+
+        <t>on behalf of</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>takia</t>
+
+        <t>vuoksi</t>
+
+        <t>puolesta</t>
+      </tg>
+
+      <xg>
+        <x>висьӧм вӧсна</x>
+
+        <xt xml:lang="eng">due to illness</xt>
+
+        <xt xml:lang="fin">sairauden vuoksi</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">веркыд</l>
+
+      <stg>
+        <st Contlex="POSTP1">веркыд</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">веськыдладор</l>
+
+      <stg>
+        <st Contlex="POSTP1">веськыдладор</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <argg>
+            <arg>
+              <typical>H/NOM</typical>
+            </arg>
+          </argg>
+        </head>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>on the right side of</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-n oikealla puolella</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">весьт</l>
+
+      <stg>
+        <st Contlex="POSTP1">весьт</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <drv>-ын</drv>
+
+    <drv>-ӧ</drv>
+
+    <drv>-ысь</drv>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">выйӧн</l>
+
+      <stg>
+        <st Contlex="PO-INSTR">выйӧн</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">выліті</l>
+
+      <stg>
+        <st Contlex="PO-TRA">выліті</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>on high</t>
+
+        <t>from high up</t>
+
+        <t>from above</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>korkeuksissa</t>
+
+        <t>korkealta</t>
+
+        <t>yläpuolelta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">вывті</l>
+
+      <stg>
+        <st Contlex="PO-TRA">вывті</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">водз</l>
+
+      <stg>
+        <st Contlex="POSTP1">водз</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">вом</l>
+
+      <stg>
+        <st Contlex="POSTP1">вом</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <xg>
+        <x>вомас</x>
+
+        <xt xml:lang="eng">for (temp)</xt>
+
+        <xt xml:lang="fin">aikana</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">вомӧн</l>
+
+      <stg>
+        <st Contlex="PO-INSTR">вом</st>
+      </stg>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>over</t>
+
+        <t>across</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>yli</t>
+
+        <t>poikki</t>
+      </tg>
+    </mg>
+  </e>
 </r>
