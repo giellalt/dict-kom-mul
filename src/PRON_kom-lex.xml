@@ -6,22 +6,16 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
-      <l pos="PRON">кытчӧ</l>
+      <l pos="Pron">кытчӧ</l>
 
       <stg>
         <st Contlex="PRON-REL">кытчӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <drv cx="ill" lemmaID="кытысь"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <tCtn>
           <t>where</t>
@@ -38,20 +32,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">ӧта-мӧд</l>
+      <l pos="Pron">ӧта-мӧд</l>
 
       <stg>
         <st Contlex="PRON-RECIPR">ӧта-мӧд</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>each other</t>
       </tg>
@@ -64,22 +52,16 @@
 
   <e>
     <lg>
-      <l pos="PRON">кытчӧдз</l>
+      <l pos="Pron">кытчӧдз</l>
 
       <stg>
         <st Contlex="PRON-REL">кытчӧдз</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <drv kpvMorph="CX-ӧдз"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>until</t>
 
@@ -94,22 +76,16 @@
 
   <e>
     <lg>
-      <l pos="PRON">кытӧні</l>
+      <l pos="Pron">кытӧні</l>
 
       <stg>
         <st Contlex="PRON-REL">кытӧні</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <drv kpvMorph="CX-ын"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>where</t>
       </tg>
@@ -122,22 +98,16 @@
 
   <e>
     <lg>
-      <l pos="PRON">кытысь</l>
+      <l pos="Pron">кытысь</l>
 
       <stg>
         <st Contlex="PRON-REL">кытысь</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <drv kpvMorph="CX-ысь"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>where ... from</t>
 
@@ -152,20 +122,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">коді</l>
+      <l pos="Pron">коді</l>
 
       <stg>
         <st Contlex="PRON-REL-HUM">код</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>who</t>
 
@@ -182,20 +146,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">коді</l>
+      <l pos="Pron">коді</l>
 
       <stg>
         <st Contlex="PRON-REL">код</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>who</t>
 
@@ -212,20 +170,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">кор</l>
+      <l pos="Pron">кор</l>
 
       <stg>
         <st Contlex="PRON-REL">кор</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>when</t>
       </tg>
@@ -238,20 +190,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">корджык</l>
+      <l pos="Pron">корджык</l>
 
       <stg>
         <st Contlex="PRON-REL">корджык</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>(more precisely) when</t>
       </tg>
@@ -264,22 +210,16 @@
 
   <e>
     <lg>
-      <l pos="PRON">некысь</l>
+      <l pos="Pron">некысь</l>
 
       <stg>
         <st Contlex="PRON-NEG">некысь</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <drv kpvMorph="CX-ысь"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>from nowhere</t>
       </tg>
@@ -292,22 +232,16 @@
 
   <e>
     <lg>
-      <l pos="PRON">некытчӧ</l>
+      <l pos="Pron">некытчӧ</l>
 
       <stg>
         <st Contlex="PRON-NEG">некытчӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <drv kpvMorph="CX-ӧ" lemmaID="некытысь_PRON"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>nowhere</t>
       </tg>
@@ -320,20 +254,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">некыті</l>
+      <l pos="Pron">некыті</l>
 
       <stg>
         <st Contlex="PRON-NEG">некыті</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>nowhere</t>
       </tg>
@@ -346,22 +274,16 @@
 
   <e>
     <lg>
-      <l pos="PRON">некытысь</l>
+      <l pos="Pron">некытысь</l>
 
       <stg>
         <st Contlex="PRON-NEG">некытысь</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <drv kpvMorph="CX-ысь"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>from nowhere</t>
       </tg>
@@ -374,20 +296,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">некод</l>
+      <l pos="Pron">некод</l>
 
       <stg>
         <st Contlex="PRON-NEG-HUM">некод</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>no one</t>
       </tg>
@@ -398,10 +314,7 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>not one</t>
 
@@ -416,20 +329,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">некодар</l>
+      <l pos="Pron">некодар</l>
 
       <stg>
         <st Contlex="PRON-NEG">некодар</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t/>
       </tg>
@@ -442,20 +349,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">нем</l>
+      <l pos="Pron">нем</l>
 
       <stg>
         <st Contlex="PRON-NEG">нем</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>nothing</t>
       </tg>
@@ -468,20 +369,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">немтор</l>
+      <l pos="Pron">немтор</l>
 
       <stg>
         <st Contlex="PRON-NEG">немторй</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t/>
       </tg>
@@ -494,20 +389,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">эсійӧ</l>
+      <l pos="Pron">эсійӧ</l>
 
       <stg>
         <st Contlex="PRONDEMTAG-ES">эс</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>that</t>
       </tg>
@@ -520,20 +409,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">тайӧ</l>
+      <l pos="Pron">тайӧ</l>
 
       <stg>
         <st Contlex="PRONDEMTAGSG-TA">та</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>that</t>
       </tg>
@@ -546,20 +429,14 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="PRON">эсійӧяс</l>
+      <l pos="Pron">эсійӧяс</l>
 
       <stg>
         <st Contlex="PRONDEMTAGPL">эсійӧяс</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>those (further away)</t>
       </tg>
@@ -572,15 +449,12 @@
 
   <e>
     <lg>
-      <l pos="PRON">эсы</l>
+      <l pos="Pron">эсы</l>
 
       <stg>
         <st Contlex="PRONDEMTAG">эсы</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
       <m>
         <head/>
@@ -600,20 +474,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">эта</l>
+      <l pos="Pron">эта</l>
 
       <stg>
         <st Contlex="PRONDEMTAG">эта</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>this very one</t>
       </tg>
@@ -626,20 +494,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">этайӧ</l>
+      <l pos="Pron">этайӧ</l>
 
       <stg>
         <st Contlex="PRONDEMTAGSG-TA">эта</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>this very one</t>
       </tg>
@@ -652,20 +514,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">этійӧ</l>
+      <l pos="Pron">этійӧ</l>
 
       <stg>
         <st Contlex="PRONDEMTAG">этійӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>this</t>
 
@@ -680,22 +536,16 @@
 
   <e>
     <lg>
-      <l pos="PRON">сэтӧні</l>
+      <l pos="Pron">сэтӧні</l>
 
       <stg>
         <st Contlex="PRONDEMTAG">сэтӧні</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <drv kpvMorph="CX-ын"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t/>
       </tg>
@@ -708,20 +558,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">со</l>
+      <l pos="Pron">со</l>
 
       <stg>
         <st Contlex="PRONDEMTAG">со</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>that (far away)</t>
       </tg>
@@ -734,20 +578,14 @@
 
   <e>
     <lg>
-      <l pos="PRON">татӧні</l>
+      <l pos="Pron">татӧні</l>
 
       <stg>
         <st Contlex="PRONDEMTAG">татӧні</st>
       </stg>
     </lg>
-
-    <pos>PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t/>
       </tg>
@@ -760,20 +598,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-INDEF">кӧнкӧ</l>
+      <l pos="Pron" type="Indef">кӧнкӧ</l>
 
       <stg>
         <st Contlex="PRONINDEFTAG">кӧнкӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-INDEF</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>somewhere</t>
       </tg>
@@ -786,20 +618,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-INDEF">кымынкӧ</l>
+      <l pos="Pron" type="Indef">кымынкӧ</l>
 
       <stg>
         <st Contlex="PRONINDEFTAG">кымынкӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-INDEF</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>a few</t>
       </tg>
@@ -812,20 +638,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-INDEF">кыськӧ</l>
+      <l pos="Pron" type="Indef">кыськӧ</l>
 
       <stg>
         <st Contlex="PRONINDEFTAG">кыськӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-INDEF</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>from somewhere</t>
       </tg>
@@ -840,22 +660,16 @@
 
   <e>
     <lg>
-      <l pos="PRON-INDEF">кытчӧкӧ</l>
+      <l pos="Pron" type="Indef">кытчӧкӧ</l>
 
       <stg>
         <st Contlex="PRONINDEFTAG">кытчӧкӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-INDEF</pos>
-
     <drv kpvMorph="CX-ӧ" lemmaID="кытыськӧ_PRON"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>to somewhere</t>
       </tg>
@@ -868,22 +682,16 @@
 
   <e>
     <lg>
-      <l pos="PRON-INDEF">кытыськӧ</l>
+      <l pos="Pron" type="Indef">кытыськӧ</l>
 
       <stg>
         <st Contlex="PRONINDEFTAG">кытыськӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-INDEF</pos>
-
     <drv kpvMorph="CX-ысь"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>from somewhere</t>
       </tg>
@@ -896,20 +704,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-INDEF">кодкӧ</l>
+      <l pos="Pron" type="Indef">кодкӧ</l>
 
       <stg>
         <st Contlex="PRONINDEFTAG-KO">код</st>
       </stg>
     </lg>
-
-    <pos>PRON-INDEF</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>someone</t>
       </tg>
@@ -922,20 +724,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-INDEF">кодсюрӧ</l>
+      <l pos="Pron" type="Indef">кодсюрӧ</l>
 
       <stg>
         <st Contlex="PRONINDEFTAG">кодсюрӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-INDEF</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>somebody</t>
 
@@ -952,20 +748,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-INDEF">кутшӧмкӧ</l>
+      <l pos="Pron" type="Indef">кутшӧмкӧ</l>
 
       <stg>
         <st Contlex="PRONINDEFTAG">кутшӧмкӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-INDEF</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>some kind of</t>
       </tg>
@@ -978,20 +768,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-INDEF">кутшӧмсюрӧ</l>
+      <l pos="Pron" type="Indef">кутшӧмсюрӧ</l>
 
       <stg>
         <st Contlex="PRONINDEFTAG">кутшӧмсюрӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-INDEF</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>some kind of</t>
 
@@ -1008,20 +792,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-INDEF">мыйкӧ</l>
+      <l pos="Pron" type="Indef">мыйкӧ</l>
 
       <stg>
         <st Contlex="PRONINDEFTAG-KO">мый</st>
       </stg>
     </lg>
-
-    <pos>PRON-INDEF</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>something</t>
       </tg>
@@ -1036,20 +814,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-INDEF">мыйлакӧ</l>
+      <l pos="Pron" type="Indef">мыйлакӧ</l>
 
       <stg>
         <st Contlex="PRONINDEFTAG">мыйлакӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-INDEF</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>for some reason</t>
       </tg>
@@ -1062,20 +834,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-INDEF">мыйсюрӧ</l>
+      <l pos="Pron" type="Indef">мыйсюрӧ</l>
 
       <stg>
         <st Contlex="PRONINDEFTAG">мыйсюрӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-INDEF</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>something</t>
       </tg>
@@ -1088,10 +854,7 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>anything</t>
       </tg>
@@ -1106,20 +869,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-INDEF">мыйтакӧ</l>
+      <l pos="Pron" type="Indef">мыйтакӧ</l>
 
       <stg>
         <st Contlex="PRONINDEFTAG">мыйтакӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-INDEF</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>to some extent</t>
       </tg>
@@ -1132,20 +889,14 @@
 
   <e>
     <lg>
-      <l pos="Q_SPAT">кӧні</l>
+      <l pos="Pron" type="Interr_Spat">кӧні</l>
 
       <stg>
         <st Contlex="PRONQTAG">кӧні</st>
       </stg>
     </lg>
-
-    <pos>Q_SPAT</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>where</t>
       </tg>
@@ -1158,20 +909,14 @@
 
   <e>
     <lg>
-      <l pos="Q_SPAT">кытӧн</l>
+      <l pos="Pron" type="Interr_Spat">кытӧн</l>
 
       <stg>
         <st Contlex="PRONQTAG">кытӧн</st>
       </stg>
     </lg>
-
-    <pos>Q_SPAT</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>where</t>
       </tg>
@@ -1184,20 +929,14 @@
 
   <e>
     <lg>
-      <l pos="Q_MANNER">кыдзи</l>
+      <l pos="Pron" type="Interr_Manner">кыдзи</l>
 
       <stg>
         <st Contlex="PRONQTAG">кыдзи</st>
       </stg>
     </lg>
-
-    <pos>Q_MANNER</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>how</t>
 
@@ -1212,15 +951,12 @@
 
   <e>
     <lg>
-      <l pos="Q_SPAT">кысь</l>
+      <l pos="Pron" type="Interr_Spat">кысь</l>
 
       <stg>
         <st Contlex="PRONQTAG">кысь</st>
       </stg>
     </lg>
-
-    <pos>Q_SPAT</pos>
-
     <drv kpvMorph="CX-ысь"/>
 
     <mg>
@@ -1244,22 +980,16 @@
 
   <e>
     <lg>
-      <l pos="Q_SPAT">кытчӧ</l>
+      <l pos="Pron" type="Interr_Spat">кытчӧ</l>
 
       <stg>
         <st Contlex="PRONQTAG">кытчӧ</st>
       </stg>
     </lg>
-
-    <pos>Q_SPAT</pos>
-
     <drv kpvMorph="CX-ӧ" lemmaID="кытысь"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>where ... to</t>
 
@@ -1276,22 +1006,16 @@
 
   <e>
     <lg>
-      <l pos="Q_SPAT">кытчӧдз</l>
+      <l pos="Pron" type="Interr_Spat">кытчӧдз</l>
 
       <stg>
         <st Contlex="PRONQTAG">кытчӧдз</st>
       </stg>
     </lg>
-
-    <pos>Q_SPAT</pos>
-
     <drv kpvMorph="CX-ӧдз" lemmaID="кытысь"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>up to what place</t>
       </tg>
@@ -1304,22 +1028,16 @@
 
   <e>
     <lg>
-      <l pos="Q_SPAT">кыті</l>
+      <l pos="Pron" type="Interr_Spat">кыті</l>
 
       <stg>
         <st Contlex="PRONQTAG">кыті</st>
       </stg>
     </lg>
-
-    <pos>Q_SPAT</pos>
-
     <drv kpvMorph="CX-ті"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>what way</t>
       </tg>
@@ -1332,15 +1050,12 @@
 
   <e>
     <lg>
-      <l pos="Q_SPAT">кытысь</l>
+      <l pos="Pron" type="Interr_Spat">кытысь</l>
 
       <stg>
         <st Contlex="PRONQTAG">кытысь</st>
       </stg>
     </lg>
-
-    <pos>Q_SPAT</pos>
-
     <drv kpvMorph="CX-ысь"/>
 
     <mg>
@@ -1364,20 +1079,14 @@
 
   <e>
     <lg>
-      <l pos="Q_DET">кодар</l>
+      <l pos="Pron" type="Interr_Det">кодар</l>
 
       <stg>
         <st Contlex="PRONQTAG">кодар</st>
       </stg>
     </lg>
-
-    <pos>Q_DET</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>what</t>
 
@@ -1394,20 +1103,14 @@
 
   <e>
     <lg>
-      <l pos="Q_PERS">коді</l>
+      <l pos="Pron" type="Interr_Pers">коді</l>
 
       <stg>
         <st Contlex="PRON-INTER-HUM">код</st>
       </stg>
     </lg>
-
-    <pos>Q_PERS</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>who</t>
       </tg>
@@ -1420,20 +1123,14 @@
 
   <e>
     <lg>
-      <l pos="Q_TEMP">кодыр</l>
+      <l pos="Pron" type="Interr_Temp">кодыр</l>
 
       <stg>
         <st Contlex="PRONQTAG">кодыр</st>
       </stg>
     </lg>
-
-    <pos>Q_TEMP</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>when</t>
       </tg>
@@ -1446,20 +1143,14 @@
 
   <e>
     <lg>
-      <l pos="Q_PERS">кодъяс</l>
+      <l pos="Pron" type="Interr_Pers">кодъяс</l>
 
       <stg>
         <st Contlex="PRONQTAGPL">кодъяс</st>
       </stg>
     </lg>
-
-    <pos>Q_PERS</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>who</t>
       </tg>
@@ -1472,20 +1163,14 @@
 
   <e>
     <lg>
-      <l pos="Q_TEMP">кор</l>
+      <l pos="Pron" type="Interr_Temp">кор</l>
 
       <stg>
         <st Contlex="PRONQTAG">кор</st>
       </stg>
     </lg>
-
-    <pos>Q_TEMP</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>when</t>
       </tg>
@@ -1498,20 +1183,14 @@
 
   <e>
     <lg>
-      <l pos="Q_TEMP">корджык</l>
+      <l pos="Pron" type="Interr_Temp">корджык</l>
 
       <stg>
         <st Contlex="PRONQTAG">корджык</st>
       </stg>
     </lg>
-
-    <pos>Q_TEMP</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>about when</t>
       </tg>
@@ -1524,20 +1203,14 @@
 
   <e>
     <lg>
-      <l pos="Q_A">кутшӧм</l>
+      <l pos="Pron" type="Interr_A">кутшӧм</l>
 
       <stg>
         <st Contlex="PRONQTAG">кутшӧм</st>
       </stg>
     </lg>
-
-    <pos>Q_A</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>what kind of</t>
       </tg>
@@ -1552,20 +1225,14 @@
 
   <e>
     <lg>
-      <l pos="Q_MANNER">кутшӧма</l>
+      <l pos="Pron" type="Interr_Manner">кутшӧма</l>
 
       <stg>
         <st Contlex="PRONQTAG">кутшӧма</st>
       </stg>
     </lg>
-
-    <pos>Q_MANNER</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>how</t>
       </tg>
@@ -1580,20 +1247,14 @@
 
   <e>
     <lg>
-      <l pos="Q_QNT">мыетш</l>
+      <l pos="Pron" type="Interr_Qnt">мыетш</l>
 
       <stg>
         <st Contlex="PRONQTAG">мыетш</st>
       </stg>
     </lg>
-
-    <pos>Q_QNT</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>to what extent</t>
       </tg>
@@ -1606,20 +1267,14 @@
 
   <e>
     <lg>
-      <l pos="Q_N">мый</l>
+      <l pos="Pron" type="Interr_N">мый</l>
 
       <stg>
         <st Contlex="PRON-INTER-NONHUM">мый</st>
       </stg>
     </lg>
-
-    <pos>Q_N</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>what</t>
       </tg>
@@ -1632,20 +1287,14 @@
 
   <e>
     <lg>
-      <l pos="Q_REASON">мыйла</l>
+      <l pos="Pron" type="Interr_Reason">мыйла</l>
 
       <stg>
         <st Contlex="PRONQTAG">мыйла</st>
       </stg>
     </lg>
-
-    <pos>Q_REASON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>why</t>
 
@@ -1660,20 +1309,14 @@
 
   <e>
     <lg>
-      <l pos="Q_QNT">мыйта</l>
+      <l pos="Pron" type="Interr_Qnt">мыйта</l>
 
       <stg>
         <st Contlex="PRONQTAG">мыйта</st>
       </stg>
     </lg>
-
-    <pos>Q_QNT</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>how much</t>
 
@@ -1690,20 +1333,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">ме</l>
+      <l pos="Pron" type="Pers">ме</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG1-NOM">ме</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>I</t>
       </tg>
@@ -1716,15 +1353,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">мем</l>
+      <l pos="Pron" type="Pers">мем</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG1-DAT">мем</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <drv kpvMorph="CX-DAT" lemmaID="ме_PERS"/>
 
     <mg>
@@ -1746,15 +1380,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">мен</l>
+      <l pos="Pron" type="Pers">мен</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG1-DAT">мен</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <drv kpvMorph="CX-DAT" lemmaID="ме_PERS"/>
 
     <mg>
@@ -1776,22 +1407,16 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">менам</l>
+      <l pos="Pron" type="Pers">менам</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG1-GEN">менам</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <drv kpvMorph="CX-GEN" lemmaID="ме_PERS"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>my</t>
 
@@ -1808,15 +1433,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">меным</l>
+      <l pos="Pron" type="Pers">меным</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG1-DAT">меным</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <drv kpvMorph="CX-DAT" lemmaID="ме_PERS"/>
 
     <mg>
@@ -1838,22 +1460,16 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">менсьым</l>
+      <l pos="Pron" type="Pers">менсьым</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG1-ELA">менсьым</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <drv kpvMorph="CX-ысь" lemmaID="ме_PERS"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>from me</t>
       </tg>
@@ -1866,15 +1482,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">ми</l>
+      <l pos="Pron" type="Pers">ми</l>
 
       <stg>
         <st Contlex="PRON-PERS-PL1-NOM">ми</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <mg>
       <m>
         <head>
@@ -1898,15 +1511,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">мийӧ</l>
+      <l pos="Pron" type="Pers">мийӧ</l>
 
       <stg>
         <st Contlex="PRON-PERS-PL1-NOM">мийӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <mg>
       <m>
         <head/>
@@ -1926,20 +1536,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">на</l>
+      <l pos="Pron" type="Pers">на</l>
 
       <stg>
         <st Contlex="PRON-PERS-PL3-NOM">на</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>they</t>
       </tg>
@@ -1954,20 +1558,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">найӧ</l>
+      <l pos="Pron" type="Pers">найӧ</l>
 
       <stg>
         <st Contlex="PRON-PERS-PL3-NOM">найӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>they</t>
       </tg>
@@ -1982,20 +1580,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">найӧ</l>
+      <l pos="Pron" type="Pers">найӧ</l>
 
       <stg>
         <st Contlex="PRON-PERS-PL3-NOM">найӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>they</t>
       </tg>
@@ -2010,15 +1602,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">найӧс</l>
+      <l pos="Pron" type="Pers">найӧс</l>
 
       <stg>
         <st Contlex="PRON-PERS-PL3-ACC">найӧс</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <mg>
       <m>
         <head>
@@ -2048,15 +1637,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">сійӧ</l>
+      <l pos="Pron" type="Pers">сійӧ</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG3-NOM">сійӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <mg>
       <m>
         <head>
@@ -2082,15 +1668,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">сійӧс</l>
+      <l pos="Pron" type="Pers">сійӧс</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG3-ACC">сійӧс</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <mg>
       <m>
         <head>
@@ -2120,15 +1703,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">сы</l>
+      <l pos="Pron" type="Pers">сы</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG3-NOM">сы</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <mg>
       <m>
         <head/>
@@ -2150,15 +1730,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">сы</l>
+      <l pos="Pron" type="Pers">сы</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG3-OBL">сы</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <mg>
       <m>
         <head/>
@@ -2180,20 +1757,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">та</l>
+      <l pos="Pron" type="Pers">та</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG3-NOM">та</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>he</t>
 
@@ -2208,20 +1779,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">тайӧ</l>
+      <l pos="Pron" type="Pers">тайӧ</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG3-NOM">тайӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>this</t>
       </tg>
@@ -2234,20 +1799,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">тайӧяс</l>
+      <l pos="Pron" type="Pers">тайӧяс</l>
 
       <stg>
         <st Contlex="PRON-PERS-PL3-NOM">тайӧяс</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>these</t>
       </tg>
@@ -2260,20 +1819,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">тэ</l>
+      <l pos="Pron" type="Pers">тэ</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG2-NOM">тэ</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>you</t>
       </tg>
@@ -2286,15 +1839,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">тэд</l>
+      <l pos="Pron" type="Pers">тэд</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG2-DAT">тэд</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <drv kpvMorph="CX-DAT" lemmaID="тэ_PERS"/>
 
     <mg>
@@ -2316,15 +1866,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">тэн</l>
+      <l pos="Pron" type="Pers">тэн</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG2-DAT">тэн</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <drv cx="dat" px="2Sg"/>
 
     <mg>
@@ -2346,22 +1893,16 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">тэнад</l>
+      <l pos="Pron" type="Pers">тэнад</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG2-GEN">тэнад</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <drv cx="gen" px="2Sg"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>your</t>
       </tg>
@@ -2374,22 +1915,16 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">тэныд</l>
+      <l pos="Pron" type="Pers">тэныд</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG2-DAT">тэныд</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <drv cx="dat" px="2Sg"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>to you</t>
       </tg>
@@ -2402,22 +1937,16 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">тэнсьыд</l>
+      <l pos="Pron" type="Pers">тэнсьыд</l>
 
       <stg>
         <st Contlex="PRON-PERS-SG2-ABL">тэнсьыд</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <drv cx="ela" px="2Sg"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>from you</t>
       </tg>
@@ -2430,22 +1959,16 @@
 
   <e>
     <lg>
-      <l pos="PRON-PERS">ті</l>
+      <l pos="Pron" type="Pers">ті</l>
 
       <stg>
         <st Contlex="PRON-PERS-PL2-NOM">ті</st>
       </stg>
     </lg>
-
-    <pos>PRON-PERS</pos>
-
     <drv cx="nom" px="2Pl"/>
 
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>you</t>
       </tg>
@@ -2454,20 +1977,14 @@
 
   <e>
     <lg>
-      <l pos="QNT-UNIV-ADN">быд</l>
+      <l pos="Pron" type="Qnt_Univ_Adn">быд</l>
 
       <stg>
         <st Contlex="PRONQTAG">быд</st>
       </stg>
     </lg>
-
-    <pos>QNT-UNIV-ADN</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>each</t>
       </tg>
@@ -2480,20 +1997,14 @@
 
   <e>
     <lg>
-      <l pos="QNT-UNIV-PRON">быдӧн</l>
+      <l pos="Pron" type="Qnt_Univ">быдӧн</l>
 
       <stg>
         <st Contlex="PRONQ-COLL">быдӧн</st>
       </stg>
     </lg>
-
-    <pos>QNT-UNIV-PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>everyone</t>
 
@@ -2508,20 +2019,14 @@
 
   <e>
     <lg>
-      <l pos="QNT-UNIV-ADN">быдся</l>
+      <l pos="Pron" type="Qnt_Univ_Adn">быдся</l>
 
       <stg>
         <st Contlex="PRONQTAG">быдся</st>
       </stg>
     </lg>
-
-    <pos>QNT-UNIV-ADN</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>each</t>
 
@@ -2544,20 +2049,14 @@
 
   <e>
     <lg>
-      <l pos="QNT-UNIV-ADN">быдсяма</l>
+      <l pos="Pron" type="Qnt_Univ_Adn">быдсяма</l>
 
       <stg>
         <st Contlex="PRONQTAG">быдсяма</st>
       </stg>
     </lg>
-
-    <pos>QNT-UNIV-ADN</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>each</t>
 
@@ -2580,20 +2079,14 @@
 
   <e>
     <lg>
-      <l pos="QNT-UNIV-PRON">быдсӧн</l>
+      <l pos="Pron" type="Qnt_Univ">быдсӧн</l>
 
       <stg>
         <st Contlex="PRONQ-COLL">быдсӧн</st>
       </stg>
     </lg>
-
-    <pos>QNT-UNIV-PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>all</t>
 
@@ -2610,20 +2103,14 @@
 
   <e>
     <lg>
-      <l pos="QNT-PRON">этшаӧн</l>
+      <l pos="Pron" type="Qnt">этшаӧн</l>
 
       <stg>
         <st Contlex="PRONQ-COLL">этшаӧн</st>
       </stg>
     </lg>
-
-    <pos>QNT-PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>few</t>
       </tg>
@@ -2636,15 +2123,12 @@
 
   <e>
     <lg>
-      <l pos="QNT-PRON">ӧтар</l>
+      <l pos="Pron" type="Qnt">ӧтар</l>
 
       <stg>
         <st Contlex="PRONQTAG">ӧтар</st>
       </stg>
     </lg>
-
-    <pos>QNT-PRON</pos>
-
     <mg>
       <m>
         <head/>
@@ -2672,20 +2156,14 @@
 
   <e>
     <lg>
-      <l pos="Q_QNT">кымын</l>
+      <l pos="Pron" type="Interr_Qnt">кымын</l>
 
       <stg>
         <st Contlex="PRONQTAG">кымын</st>
       </stg>
     </lg>
-
-    <pos>Q_QNT</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>how many</t>
       </tg>
@@ -2698,15 +2176,12 @@
 
   <e>
     <lg>
-      <l pos="QNT-PRON">мӧдар</l>
+      <l pos="Pron" type="Qnt">мӧдар</l>
 
       <stg>
         <st Contlex="PRONQTAG">мӧдар</st>
       </stg>
     </lg>
-
-    <pos>QNT-PRON</pos>
-
     <mg>
       <m>
         <head/>
@@ -2726,20 +2201,14 @@
 
   <e>
     <lg>
-      <l pos="QNT-ADN">мукӧд</l>
+      <l pos="Pron" type="Qnt_Adn">мукӧд</l>
 
       <stg>
         <st Contlex="PRONQ-MUKOD">мукӧд</st>
       </stg>
     </lg>
-
-    <pos>QNT-ADN</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>other</t>
 
@@ -2754,20 +2223,14 @@
 
   <e>
     <lg>
-      <l pos="QNT-PRON">неуна</l>
+      <l pos="Pron" type="Qnt">неуна</l>
 
       <stg>
         <st Contlex="PRONQTAG">неуна</st>
       </stg>
     </lg>
-
-    <pos>QNT-PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>a little</t>
       </tg>
@@ -2782,20 +2245,14 @@
 
   <e>
     <lg>
-      <l pos="QNT-ADN">ньӧти</l>
+      <l pos="Pron" type="Qnt_Adn">ньӧти</l>
 
       <stg>
         <st Contlex="PRONQTAG">ньӧти</st>
       </stg>
     </lg>
-
-    <pos>QNT-ADN</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>not at all</t>
 
@@ -2816,20 +2273,14 @@
 
   <e>
     <lg>
-      <l pos="QNT-ADN">став</l>
+      <l pos="Pron" type="Qnt_Adn">став</l>
 
       <stg>
         <st Contlex="PRONQ-STAV">став</st>
       </stg>
     </lg>
-
-    <pos>QNT-ADN</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>all</t>
 
@@ -2854,20 +2305,14 @@
 
   <e>
     <lg>
-      <l pos="QNT-UNIV-PRON">став</l>
+      <l pos="Pron" type="Qnt_Univ">став</l>
 
       <stg>
         <st Contlex="PRONQTAG">став</st>
       </stg>
     </lg>
-
-    <pos>QNT-UNIV-PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <!-- word class?? -->
 
       <tg xml:lang="eng">
@@ -2882,20 +2327,14 @@
 
   <e>
     <lg>
-      <l pos="QNT-UNIV-PRON">ставӧн</l>
+      <l pos="Pron" type="Qnt_Univ">ставӧн</l>
 
       <stg>
         <st Contlex="PRONQ-COLL">ставӧн</st>
       </stg>
     </lg>
-
-    <pos>QNT-UNIV-PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>everyone</t>
 
@@ -2910,15 +2349,12 @@
 
   <e>
     <lg>
-      <l pos="QNT-UNIV-PRON">ставыс</l>
+      <l pos="Pron" type="Qnt_Univ">ставыс</l>
 
       <stg>
         <st Contlex="PRONQTAG">ставыс</st>
       </stg>
     </lg>
-
-    <pos>QNT-UNIV-PRON</pos>
-
     <drv cx="nom" lemmaID="став_QNT" px="3Sg"/>
 
     <mg>
@@ -2942,20 +2378,14 @@
 
   <e>
     <lg>
-      <l pos="QNT-PRON">унаӧн</l>
+      <l pos="Pron" type="Qnt">унаӧн</l>
 
       <stg>
         <st Contlex="PRONQ-COLL">унаӧн</st>
       </stg>
     </lg>
-
-    <pos>QNT-PRON</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>many people</t>
       </tg>
@@ -2970,20 +2400,14 @@
 
   <e>
     <lg>
-      <l pos="ADN-REFL">ас</l>
+      <l pos="Pron" type="Refl_Adn">ас</l>
 
       <stg>
         <st Contlex="EndRefl">ас</st>
       </stg>
     </lg>
-
-    <pos>ADN-REFL</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>own</t>
       </tg>
@@ -2996,15 +2420,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">ачыд</l>
+      <l pos="Pron" type="Refl">ачыд</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG2-NOM">ачыд</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3024,15 +2445,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">ачым</l>
+      <l pos="Pron" type="Refl">ачым</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG1-NOM">ачым</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3052,15 +2470,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">ачымӧс</l>
+      <l pos="Pron" type="Refl">ачымӧс</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG1-ACC">ачымӧс</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3080,15 +2495,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">ачыс</l>
+      <l pos="Pron" type="Refl">ачыс</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG3-NOM">ачыс</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3114,20 +2526,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">аскӧдыд</l>
+      <l pos="Pron" type="Refl">аскӧдыд</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG2-COM">аскӧдыд</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t/>
       </tg>
@@ -3140,20 +2546,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">аскӧдыс</l>
+      <l pos="Pron" type="Refl">аскӧдыс</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG3-COM">аскӧдыс</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t/>
       </tg>
@@ -3166,20 +2566,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">аскӧдныд</l>
+      <l pos="Pron" type="Refl">аскӧдныд</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL2-COM">аскӧдныд</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t/>
       </tg>
@@ -3192,20 +2586,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">аскӧдным</l>
+      <l pos="Pron" type="Refl">аскӧдным</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL1-COM">аскӧдным</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t/>
       </tg>
@@ -3218,20 +2606,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">аскӧдныс</l>
+      <l pos="Pron" type="Refl">аскӧдныс</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL3-COM">аскӧдныс</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t/>
       </tg>
@@ -3244,15 +2626,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">аслад</l>
+      <l pos="Pron" type="Refl">аслад</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG2-GEN">аслад</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3272,15 +2651,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">аслам</l>
+      <l pos="Pron" type="Refl">аслам</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG1-GEN">аслам</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3300,15 +2676,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">асланыд</l>
+      <l pos="Pron" type="Refl">асланыд</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL2-GEN">асланыд</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3328,20 +2701,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">асланым</l>
+      <l pos="Pron" type="Refl">асланым</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL1-GEN">асланым</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>our own</t>
       </tg>
@@ -3354,20 +2721,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">асланыс</l>
+      <l pos="Pron" type="Refl">асланыс</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL3-GEN">асланыс</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>their own</t>
       </tg>
@@ -3380,20 +2741,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">аслас</l>
+      <l pos="Pron" type="Refl">аслас</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG3-GEN">аслас</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>his/her/its own</t>
       </tg>
@@ -3406,15 +2761,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">аслыд</l>
+      <l pos="Pron" type="Refl">аслыд</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG2-DAT">аслыд</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3434,15 +2786,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">аслым</l>
+      <l pos="Pron" type="Refl">аслым</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG1-DAT">аслым</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3462,20 +2811,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">аслыныд</l>
+      <l pos="Pron" type="Refl">аслыныд</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL2-DAT">аслыныд</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t/>
       </tg>
@@ -3488,20 +2831,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">аслыным</l>
+      <l pos="Pron" type="Refl">аслыным</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL1-DAT">аслыным</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t/>
       </tg>
@@ -3514,20 +2851,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">аслыныс</l>
+      <l pos="Pron" type="Refl">аслыныс</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL3-DAT">аслыныс</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t/>
       </tg>
@@ -3540,15 +2871,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">аслыс</l>
+      <l pos="Pron" type="Refl">аслыс</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG3-DAT">аслыс</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3568,15 +2896,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">ассьыд</l>
+      <l pos="Pron" type="Refl">ассьыд</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG2-ELA">ассьыд</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3596,15 +2921,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">ассьым</l>
+      <l pos="Pron" type="Refl">ассьым</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG1-ELA">ассьым</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3624,15 +2946,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">ассьыныд</l>
+      <l pos="Pron" type="Refl">ассьыныд</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG2-ELA">ассьыныд</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3652,15 +2971,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">ассьыным</l>
+      <l pos="Pron" type="Refl">ассьыным</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL1-ELA">ассьыным</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3680,20 +2996,14 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">ассьыныс</l>
+      <l pos="Pron" type="Refl">ассьыныс</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL3-ELA">ассьыныс</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t/>
       </tg>
@@ -3706,15 +3016,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">ассьыс</l>
+      <l pos="Pron" type="Refl">ассьыс</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG3-ELA">ассьыс</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3734,15 +3041,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">асьныд</l>
+      <l pos="Pron" type="Refl">асьныд</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL2-NOM">асьныд</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3762,15 +3066,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">асьным</l>
+      <l pos="Pron" type="Refl">асьным</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL1-NOM">асьным</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3790,15 +3091,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">асьнымӧс</l>
+      <l pos="Pron" type="Refl">асьнымӧс</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL1-ACC">асьнымӧс</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3818,15 +3116,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">асьныс</l>
+      <l pos="Pron" type="Refl">асьныс</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL3-NOM">асьныс</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3846,15 +3141,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">асьнысӧ</l>
+      <l pos="Pron" type="Refl">асьнысӧ</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL3-ACC">асьнысӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3874,15 +3166,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">асьнытӧ</l>
+      <l pos="Pron" type="Refl">асьнытӧ</l>
 
       <stg>
         <st Contlex="PRON-REFL-PL2-ACC">асьнытӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3902,15 +3191,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">асьсӧ</l>
+      <l pos="Pron" type="Refl">асьсӧ</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG3-ACC">асьсӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3930,15 +3216,12 @@
 
   <e>
     <lg>
-      <l pos="PRON-REFL">асьтӧ</l>
+      <l pos="Pron" type="Refl">асьтӧ</l>
 
       <stg>
         <st Contlex="PRON-REFL-SG2-ACC">асьтӧ</st>
       </stg>
     </lg>
-
-    <pos>PRON-REFL</pos>
-
     <mg>
       <m>
         <head>
@@ -3958,20 +3241,14 @@
 
   <e>
     <lg>
-      <l pos="R_SPAT">кӧні</l>
+      <l pos="Pron" type="Rel_Spat">кӧні</l>
 
       <stg>
         <st Contlex="PRON-REL">кӧні</st>
       </stg>
     </lg>
-
-    <pos>R_SPAT</pos>
-
     <mg>
-      <m>
-        <head/>
-      </m>
-
+        <defNative/>
       <tg xml:lang="eng">
         <t>where</t>
       </tg>
