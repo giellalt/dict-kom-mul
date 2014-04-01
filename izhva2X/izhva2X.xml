@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="izhva2X" xml:lang="kpv">
+    <lics xml:space="preserve"> 
+ <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.You are free to copy, distribute and adapt the work, as long as you always giveproper attribution using the attribution text below. For the full license text, see the link above.</lic>
+ <ref>Work by the Izhva Komi Documentation Project (Freiburg, München, Syktyvkar), Giellatekno at UiT and members of the izhva Komi communities. Source code available at<a>https://victorio.uit.no/langtech/trunk/</a>.</ref> 
+ <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and published dictionary. As such it can and will contain unfinished entries, unpublished entries, entries with objectionable translations, etc. if you find any errors or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are not necessarily sorted, or could be wrongly sorted.</sourcenote> 
+ </lics>
+    <e meta="fieldnotes_MR_2014-3">
+        <lg>
+            <l pos="adv">хорошо</l>
+            <ipa>ˌhorɔˈʃɔ</ipa>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="adv">хорошо</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="fieldnotes_MR_2014-3">
+        <lg>
+            <l pos="n">молодеч</l>
+            <ipa>ˈmolɔˌɟɛʨ</ipa>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="n">молодец</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="fieldnotes_MR_2014-3">
+        <lg>
+            <l pos="n">магазин</l>
+            <ipa>ˈmagaˌʓin</ipa>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="n">магазин</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="fieldnotes_MR_2014-3">
+        <lg>
+            <l pos="n">сьпасибо</l>
+            <ipa>ˈʆpaʆiˌbɔ</ipa>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="n">спасибо</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="fieldnotes_MR_2014-3">
+        <lg>
+            <l pos="n">кулэбака</l>
+            <ipa>ˌkulɛˈbaka</ipa>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="n">кулебака</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="fieldnotes_MR_2014-3">
+        <lg>
+            <l pos="n">стыкан</l>
+            <ipa>ˈstɨkan</ipa>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="n">стокан</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="fieldnotes_MR_2014-3">
+        <lg>
+            <l pos="v">поже</l>
+            <ipa>ˈpoʓɛ</ipa>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="v">можно</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="fieldnotes_MR_2014-3">
+        <lg>
+            <l pos="v">оспожь</l>
+            <ipa>ˈospoʓ</ipa>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="v">нельзя</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">авко</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">ручной олень</lexicon>
+            <lexicon xml:lang="kpv">кӧр пи кодӧс мамыс оз верд, да йӧз быдтӧны</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">амдюр</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">шкура оленей</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">бӧр пом</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">задняя часть чума, место для обуви и верхней одежды</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">баба дадь</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">женские сани</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">балаган</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">полог для сна</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">бык</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">кастрированный обученный ездовой олень</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">вӧжжи</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">вожжи</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">вӧжживыы</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">ведущий олень в упряжке, управляемый вожжами</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">вӧжживыы дор</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">олень запряжëнный в упряжке, рядом с ведущим оленем</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">важенка</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">самка оленя с 3 лет, имеющая потомство</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">вандей</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">сани для перезозки и хранения еды</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">возд пом</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">передняя часть чума для приëма пищи хранения хозяйственной утвари</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">дадь</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">сани</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">джадж</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">полка</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">додь выв</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">ящик для еды бистрого использования</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">домасныы</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">отбор ездовых оленей перед запряганием</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">дор пелей</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">олень, замыкающий упряжку</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">зыбун</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">сырая местность</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">кӧр</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">олень</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">кантука додь</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">сани для продуктов</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">карзак</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">загон для отбора ездовых оленей перед запряганием</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">керч</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">карликовая берëза</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">койбедь</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">палка в виде неширокой лопатки, используемая при передвижении на
+                лямпах</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">куд</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">ящик для личных вещей</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">кыс</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">камус, шкура с коннечностей животного</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">кыса лызь</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">лыжи, обшитые конским или коровьим камусом</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">лата</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">доски для пола в чуме</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">лата додь</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">сани для перевозки досок для пола в чуме и перевозки железной
+                печки и печной трубы</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">лэдзасьны</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">распрягать оленей</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">лямка</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">часть упряжи</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">лямкаасьны</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">запрягать оленей</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">лямпа</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">широкие лыжи</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">менурей</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">кастрированный не обученный олень</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">намнюку</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">годовалая самка оленя с приплодом 2 года</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">нимтэм пелей</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">олень предпоследний в упряжке</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">ньӧруу</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">первый слой подстилок под постель, связанный из веток ивы.
+                Используется зимой.</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">нялуку</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">однолетний олень (нялуку хора, нялуку важенка)</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">нялуку важенка</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">годовалая самка оленя до 1.5 лет, имеющая потомство</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">нялуку хора</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">годовалый некастрированный олень до 1.5 лет</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">пӧгребеч</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">ящик для хранения посуды</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">пӧдничче</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">материал для покрытия каркаса чума</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">пача</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">карликовая ива</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">плавун</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">топь</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">рос</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">хворост</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">сëр</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">жердь для сушки одежды и поддержания каркаса чума</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">са</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">часть упряжи</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">салямка</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">упряжь</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">сырица</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">двулетняя самка оленя</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">сырича</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">двулетняя самка оленя</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">сябуча</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">сани для постельных принадлежностей, одежды</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">тандара</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">утоптанное место</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">тасма</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">тасма</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">татшкан</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">колокол, прикреплëнный к рогам оленя, с большими ветвистьими
+                рогами</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">теля</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">детëныш оленя от рождения до году</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">трӧенок</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">три основные палки чума, связанные кожаной лентой, на которые
+                опираются остальные шесты</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">халсула</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">для поддержания вожжей</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">хапторка</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">бесплодная самка оленя, используется в ездовых целях</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">харей</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">палка длиной 3-3.5 метра, чтоб подгонять ездовых
+                оленей</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">хора</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">некастрированный олень, с 3 лет</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">хора</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">бык кастрированный обученный, с 3 лет</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">чом</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">чум</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">чом додь</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">сани для перевозки чума</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">чом утіча</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">сани для перевозки чума</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">чомуча</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">сани для перевозки чума</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">чумалиха</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus"/>
+            <lexicon xml:lang="kpv">чумработницаӧс тадзи шулӧмаӧсь войдӧр</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">чуусер</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">маленьое подничче для укрытия отверстия около трубы в дождливую
+                погоду</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">шӧр пелей</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">олень, в центре упряжки</lexicon>
+        </mg>
+    </e>
+    <e meta="Sizjabsk_school_2014">
+        <lg>
+            <l pos="n">ыыяс</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="WORK">Reindeer</sem>
+            </semantics>
+            <lexicon xml:lang="rus">шесты для каркаса чума</lexicon>
+        </mg>
+    </e>
+</r>
