@@ -1,3261 +1,2676 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <e>
-    <lg>
-      <l pos="Pron">кытчӧ</l>
-
-      <stg>
-        <st Contlex="PRON-REL">кытчӧ</st>
-      </stg>
-    </lg>
-    <drv cx="ill" lemmaID="кытысь"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <tCtn>
-          <t>where</t>
-
-          <re>to</re>
-        </tCtn>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>minne</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">ӧта-мӧд</l>
-
-      <stg>
-        <st Contlex="PRON-RECIPR">ӧта-мӧд</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>each other</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>toisensa</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кытчӧдз</l>
-
-      <stg>
-        <st Contlex="PRON-REL">кытчӧдз</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-ӧдз"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>until</t>
-
-        <t>till</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>kunnes</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кытӧні</l>
-
-      <stg>
-        <st Contlex="PRON-REL">кытӧні</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-ын"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>where</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>missä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кытысь</l>
-
-      <stg>
-        <st Contlex="PRON-REL">кытысь</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-ысь"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>where ... from</t>
-
-        <t>whence</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>josta</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">коді</l>
-
-      <stg>
-        <st Contlex="PRON-REL-HUM">код</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>who</t>
-
-        <t>that</t>
-
-        <t>which</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>joka</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">коді</l>
-
-      <stg>
-        <st Contlex="PRON-REL">код</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>who</t>
-
-        <t>that</t>
-
-        <t>which</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>joka</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кор</l>
-
-      <stg>
-        <st Contlex="PRON-REL">кор</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>when</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>kun</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">корджык</l>
-
-      <stg>
-        <st Contlex="PRON-REL">корджык</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>(more precisely) when</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>(tarkemmin) milloin</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">некысь</l>
-
-      <stg>
-        <st Contlex="PRON-NEG">некысь</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-ысь"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>from nowhere</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>ei mistään</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">некытчӧ</l>
-
-      <stg>
-        <st Contlex="PRON-NEG">некытчӧ</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-ӧ" lemmaID="некытысь_PRON"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>nowhere</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>ei minnekään</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">некыті</l>
-
-      <stg>
-        <st Contlex="PRON-NEG">некыті</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>nowhere</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>ei minnekään</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">некытысь</l>
-
-      <stg>
-        <st Contlex="PRON-NEG">некытысь</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-ысь"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>from nowhere</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>ei mistään</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">некод</l>
-
-      <stg>
-        <st Contlex="PRON-NEG-HUM">некод</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>no one</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>ei kukaan</t>
-      </tg>
-    </mg>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>not one</t>
-
-        <t>neither</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>ei kukaan (meistä, teistä, heistä)</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">некодар</l>
-
-      <stg>
-        <st Contlex="PRON-NEG">некодар</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">нем</l>
-
-      <stg>
-        <st Contlex="PRON-NEG">нем</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>nothing</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>ei mitään</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">немтор</l>
-
-      <stg>
-        <st Contlex="PRON-NEG">немторй</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">эсійӧ</l>
-
-      <stg>
-        <st Contlex="PRONDEMTAG-ES">эс</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>that</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>tuo</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">тайӧ</l>
-
-      <stg>
-        <st Contlex="PRONDEMTAGSG-TA">та</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>that</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>tuo</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="Pron">эсійӧяс</l>
-
-      <stg>
-        <st Contlex="PRONDEMTAGPL">эсійӧяс</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>those (further away)</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>nuo (kauempana)</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">эсы</l>
-
-      <stg>
-        <st Contlex="PRONDEMTAG">эсы</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head/>
-
-        <semRel lemmaID="эсійӧ" semRelType="confer"/>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>that</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>tuo</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">эта</l>
-
-      <stg>
-        <st Contlex="PRONDEMTAG">эта</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>this very one</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>juuri tämä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">этайӧ</l>
-
-      <stg>
-        <st Contlex="PRONDEMTAGSG-TA">эта</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>this very one</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>juuri tämä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">этійӧ</l>
-
-      <stg>
-        <st Contlex="PRONDEMTAG">этійӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>this</t>
-
-        <t>this one</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>juuri tämä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">сэтӧні</l>
-
-      <stg>
-        <st Contlex="PRONDEMTAG">сэтӧні</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-ын"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">со</l>
-
-      <stg>
-        <st Contlex="PRONDEMTAG">со</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>that (far away)</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>tuo (kaukana oleva)</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">татӧні</l>
-
-      <stg>
-        <st Contlex="PRONDEMTAG">татӧні</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Indef">кӧнкӧ</l>
-
-      <stg>
-        <st Contlex="PRONINDEFTAG">кӧнкӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>somewhere</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>jossain</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Indef">кымынкӧ</l>
-
-      <stg>
-        <st Contlex="PRONINDEFTAG">кымынкӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>a few</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>muutama</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Indef">кыськӧ</l>
-
-      <stg>
-        <st Contlex="PRONINDEFTAG">кыськӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>from somewhere</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>jostakin</t>
-
-        <t>jostain</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Indef">кытчӧкӧ</l>
-
-      <stg>
-        <st Contlex="PRONINDEFTAG">кытчӧкӧ</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-ӧ" lemmaID="кытыськӧ_PRON"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>to somewhere</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>jonnekin</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Indef">кытыськӧ</l>
-
-      <stg>
-        <st Contlex="PRONINDEFTAG">кытыськӧ</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-ысь"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>from somewhere</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>jostain</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Indef">кодкӧ</l>
-
-      <stg>
-        <st Contlex="PRONINDEFTAG-KO">код</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>someone</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>joku</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Indef">кодсюрӧ</l>
-
-      <stg>
-        <st Contlex="PRONINDEFTAG">кодсюрӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>somebody</t>
-
-        <t>anybody</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>joku</t>
-
-        <t>kuka tahansa</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Indef">кутшӧмкӧ</l>
-
-      <stg>
-        <st Contlex="PRONINDEFTAG">кутшӧмкӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>some kind of</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>jonkinlainen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Indef">кутшӧмсюрӧ</l>
-
-      <stg>
-        <st Contlex="PRONINDEFTAG">кутшӧмсюрӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>some kind of</t>
-
-        <t>any kind of</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>jonkinlainen</t>
-
-        <t>minkälainen tahansa</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Indef">мыйкӧ</l>
-
-      <stg>
-        <st Contlex="PRONINDEFTAG-KO">мый</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>something</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>jokin</t>
-
-        <t>jotakin</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Indef">мыйлакӧ</l>
-
-      <stg>
-        <st Contlex="PRONINDEFTAG">мыйлакӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>for some reason</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>jostain syystä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Indef">мыйсюрӧ</l>
-
-      <stg>
-        <st Contlex="PRONINDEFTAG">мыйсюрӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>something</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>jotakin</t>
-
-        <t>jokin</t>
-      </tg>
-    </mg>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>anything</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>mikä tahansa</t>
-
-        <t>mitä tahansa</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Indef">мыйтакӧ</l>
-
-      <stg>
-        <st Contlex="PRONINDEFTAG">мыйтакӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>to some extent</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>jonkin verran</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Spat">кӧні</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">кӧні</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>where</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>missä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Spat">кытӧн</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">кытӧн</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>where</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>missä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Manner">кыдзи</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">кыдзи</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>how</t>
-
-        <t>in what way</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Spat">кысь</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">кысь</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-ысь"/>
-
-    <mg>
-      <m>
-        <head/>
-
-        <semRel lemmaID="кытысь" semRelType="confer"/>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>where from</t>
-
-        <t>whence</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>mistä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Spat">кытчӧ</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">кытчӧ</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-ӧ" lemmaID="кытысь"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>where ... to</t>
-
-        <t>whither</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>mihin</t>
-
-        <t>minne</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Spat">кытчӧдз</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">кытчӧдз</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-ӧдз" lemmaID="кытысь"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>up to what place</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Spat">кыті</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">кыті</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-ті"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>what way</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>mitä kautta</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Spat">кытысь</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">кытысь</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-ысь"/>
-
-    <mg>
-      <m>
-        <head/>
-
-        <semRel lemmaID="кысь" semRelType="confer"/>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>where ... from</t>
-
-        <t>whence</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>mistä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Det">кодар</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">кодар</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>what</t>
-
-        <t>which</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>mikä</t>
-
-        <t>kumpi</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Pers">коді</l>
-
-      <stg>
-        <st Contlex="PRON-INTER-HUM">код</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>who</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>kuka</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Temp">кодыр</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">кодыр</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>when</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>milloin</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Pers">кодъяс</l>
-
-      <stg>
-        <st Contlex="PRONQTAGPL">кодъяс</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>who</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>ketkä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Temp">кор</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">кор</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>when</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>milloin</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Temp">корджык</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">корджык</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>about when</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>suunnilleen milloin</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_A">кутшӧм</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">кутшӧм</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>what kind of</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>millainen</t>
-
-        <t>minkälainen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Manner">кутшӧма</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">кутшӧма</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>how</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>miten</t>
-
-        <t>kuinka</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Qnt">мыетш</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">мыетш</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>to what extent</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>minkä verran</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_N">мый</l>
-
-      <stg>
-        <st Contlex="PRON-INTER-NONHUM">мый</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>what</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>mikä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Reason">мыйла</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">мыйла</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>why</t>
-
-        <t>how come</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>miksi</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Qnt">мыйта</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">мыйта</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>how much</t>
-
-        <t>to what extent</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>kuinka paljon</t>
-
-        <t>minkä verran</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">ме</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG1-NOM">ме</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>I</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>minä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">мем</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG1-DAT">мем</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-DAT" lemmaID="ме_PERS"/>
-
-    <mg>
-      <m>
-        <head/>
-
-        <semRel lemmaID="меным_PERS" semRelType="synonym"/>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>to me</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>minulle</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">мен</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG1-DAT">мен</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-DAT" lemmaID="ме_PERS"/>
-
-    <mg>
-      <m>
-        <head/>
-
-        <semRel lemmaID="меным_PERS" semRelType="synonym"/>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>to me</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>minulle</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">менам</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG1-GEN">менам</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-GEN" lemmaID="ме_PERS"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>my</t>
-
-        <t>I have</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>minun</t>
-
-        <t>minulla</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">меным</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG1-DAT">меным</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-DAT" lemmaID="ме_PERS"/>
-
-    <mg>
-      <m>
-        <head/>
-
-        <semRel lemmaID="мем" semRelType="confer"/>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>to me</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>minulle</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">менсьым</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG1-ELA">менсьым</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-ысь" lemmaID="ме_PERS"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>from me</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>minulta</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">ми</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-PL1-NOM">ми</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <argg>
-            <arg>
-              <typical>@SUBJ</typical>
-            </arg>
-          </argg>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>we</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>me</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">мийӧ</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-PL1-NOM">мийӧ</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head/>
-
-        <semRel lemmaID="ми" semRelType="confer"/>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>we</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>me</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">на</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-PL3-NOM">на</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>they</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>he</t>
-
-        <t>ne</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">найӧ</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-PL3-NOM">найӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>they</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>he</t>
-
-        <t>ne</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">найӧ</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-PL3-NOM">найӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>they</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>he</t>
-
-        <t>ne</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">найӧс</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-PL3-ACC">найӧс</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <argg>
-            <arg>
-              <typical>@OBJ</typical>
-            </arg>
-          </argg>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>them</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>heitä</t>
-
-        <t>heidät</t>
-
-        <t>niitä</t>
-
-        <t>ne</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">сійӧ</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG3-NOM">сійӧ</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <argg>
-            <arg>
-              <typical>@SUBJ</typical>
-            </arg>
-          </argg>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>he/ she/ it</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>hän</t>
-
-        <t>se</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">сійӧс</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG3-ACC">сійӧс</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <argg>
-            <arg>
-              <typical>@OBJ</typical>
-            </arg>
-          </argg>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>him</t>
-
-        <t>her</t>
-
-        <t>it</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>hänet</t>
-
-        <t>sen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">сы</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG3-NOM">сы</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head/>
-
-        <semRel lemmaID="сійӧ" semRelType="confer"/>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>he</t>
-
-        <t>she</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>hän</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">сы</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG3-OBL">сы</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head/>
-
-        <semRel lemmaID="сійӧ" semRelType="confer"/>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>he</t>
-
-        <t>she</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>hän</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">та</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG3-NOM">та</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>he</t>
-
-        <t>she</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>hän</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">тайӧ</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG3-NOM">тайӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>this</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>tämä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">тайӧяс</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-PL3-NOM">тайӧяс</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>these</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>nämä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">тэ</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG2-NOM">тэ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>you</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>sinä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">тэд</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG2-DAT">тэд</st>
-      </stg>
-    </lg>
-    <drv kpvMorph="CX-DAT" lemmaID="тэ_PERS"/>
-
-    <mg>
-      <m>
-        <head/>
-
-        <semRel lemmaID="тэныд" semRelType="synonym"/>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>to you</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>sinulle</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">тэн</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG2-DAT">тэн</st>
-      </stg>
-    </lg>
-    <drv cx="dat" px="2Sg"/>
-
-    <mg>
-      <m>
-        <head/>
-
-        <semRel lemmaID="тэныд" semRelType="synonym"/>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>to you</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>sinulle</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">тэнад</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG2-GEN">тэнад</st>
-      </stg>
-    </lg>
-    <drv cx="gen" px="2Sg"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>your</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>sinun</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">тэныд</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG2-DAT">тэныд</st>
-      </stg>
-    </lg>
-    <drv cx="dat" px="2Sg"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>to you</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>sinulle</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">тэнсьыд</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-SG2-ABL">тэнсьыд</st>
-      </stg>
-    </lg>
-    <drv cx="ela" px="2Sg"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>from you</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>sinulta</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Pers">ті</l>
-
-      <stg>
-        <st Contlex="PRON-PERS-PL2-NOM">ті</st>
-      </stg>
-    </lg>
-    <drv cx="nom" px="2Pl"/>
-
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>you</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt_Univ_Adn">быд</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">быд</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>each</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>joka</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt_Univ">быдӧн</l>
-
-      <stg>
-        <st Contlex="PRONQ-COLL">быдӧн</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>everyone</t>
-
-        <t>everybody</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>jokainen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt_Univ_Adn">быдся</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">быдся</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>each</t>
-
-        <t>every</t>
-
-        <t>all kinds of</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>joka</t>
-
-        <t>jokainen</t>
-
-        <t>mikä tahansa</t>
-
-        <t>kaikenlainen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt_Univ_Adn">быдсяма</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">быдсяма</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>each</t>
-
-        <t>every</t>
-
-        <t>all kinds of</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>joka</t>
-
-        <t>jokainen</t>
-
-        <t>mikä tahansa</t>
-
-        <t>kaikenlainen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt_Univ">быдсӧн</l>
-
-      <stg>
-        <st Contlex="PRONQ-COLL">быдсӧн</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>all</t>
-
-        <t>everybody</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>kaikki</t>
-
-        <t>jokainen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt">этшаӧн</l>
-
-      <stg>
-        <st Contlex="PRONQ-COLL">этшаӧн</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>few</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>harvat</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt">ӧтар</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">ӧтар</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head/>
-
-        <semRel lemmaID="мӧдар_QNT" semRelType="confer"/>
-      </m>
-
-      <tg xml:lang="eng">
-        <tCtn>
-          <t>one</t>
-
-          <re>of two</re>
-        </tCtn>
-      </tg>
-
-      <tg xml:lang="fin">
-        <tCtn>
-          <t>toinen</t>
-
-          <re>kahdesta</re>
-        </tCtn>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Interr_Qnt">кымын</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">кымын</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>how many</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>kuinka monta</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt">мӧдар</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">мӧдар</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head/>
-
-        <semRel lemmaID="ӧтар_QNT" semRelType="confer"/>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>other</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>toinen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt_Adn">мукӧд</l>
-
-      <stg>
-        <st Contlex="PRONQ-MUKOD">мукӧд</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>other</t>
-
-        <t>remaining</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>muu</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt">неуна</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">неуна</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>a little</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>hieman</t>
-
-        <t>vähän</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt_Adn">ньӧти</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">ньӧти</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>not at all</t>
-
-        <t>not even once</t>
-
-        <t>none</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>ei lainkaan</t>
-
-        <t>ei ollenkaan</t>
-
-        <t>ei kertaakaan</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt_Adn">став</l>
-
-      <stg>
-        <st Contlex="PRONQ-STAV">став</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>all</t>
-
-        <t>whole</t>
-
-        <t>very</t>
-
-        <t>entirely</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>kaikki</t>
-
-        <t>koko</t>
-
-        <t>erittäin</t>
-
-        <t>täysin</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt_Univ">став</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">став</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <!-- word class?? -->
-
-      <tg xml:lang="eng">
-        <t>all</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>kaikki</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt_Univ">ставӧн</l>
-
-      <stg>
-        <st Contlex="PRONQ-COLL">ставӧн</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>everyone</t>
-
-        <t>everybody</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>kaikki</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt_Univ">ставыс</l>
-
-      <stg>
-        <st Contlex="PRONQTAG">ставыс</st>
-      </stg>
-    </lg>
-    <drv cx="nom" lemmaID="став_QNT" px="3Sg"/>
-
-    <mg>
-      <m>
-        <head>
-          <isa isaType="pronoun"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>all</t>
-
-        <t>everything</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>kaikki</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Qnt">унаӧн</l>
-
-      <stg>
-        <st Contlex="PRONQ-COLL">унаӧн</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>many people</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>monet</t>
-
-        <t>useat</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl_Adn">ас</l>
-
-      <stg>
-        <st Contlex="EndRefl">ас</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>own</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>oma</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">ачыд</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG2-NOM">ачыд</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="nom" isaType="personal_intensive_pronoun" px="2Sg"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>you yourself</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>sinä itse</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">ачым</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG1-NOM">ачым</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="nom" isaType="personal_intensive_pronoun" px="1Sg"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>I myself</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>minä itse</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">ачымӧс</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG1-ACC">ачымӧс</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="acc" isaType="personal_intensive_pronoun" px="1Sg"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>me myself</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>minut itse</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">ачыс</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG3-NOM">ачыс</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="nom" isaType="personal_intensive_pronoun" px="3Sg"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>he himself</t>
-
-        <t>she herself</t>
-
-        <t>it itself</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>hän itse</t>
-
-        <t>se itse</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">аскӧдыд</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG2-COM">аскӧдыд</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">аскӧдыс</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG3-COM">аскӧдыс</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">аскӧдныд</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL2-COM">аскӧдныд</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">аскӧдным</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL1-COM">аскӧдным</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">аскӧдныс</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL3-COM">аскӧдныс</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">аслад</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG2-GEN">аслад</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="gen" isaType="personal_intensive_pronoun" px="2Sg"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>your own</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>sinun oma -si</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">аслам</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG1-GEN">аслам</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="gen" isaType="personal_intensive_pronoun" px="1Sg"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>my own</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>minun oma -ni</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">асланыд</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL2-GEN">асланыд</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="gen" isaType="personal_intensive_pronoun" px="2Pl"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>your own</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>teidän oma -nne</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">асланым</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL1-GEN">асланым</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>our own</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>meidän oma -mme</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">асланыс</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL3-GEN">асланыс</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>their own</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>heidän oma -nsa/ niiden oma</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">аслас</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG3-GEN">аслас</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>his/her/its own</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>hänen oma -nsa/ sen oma</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">аслыд</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG2-DAT">аслыд</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="dat" isaType="personal_intensive_pronoun" px="2Sg"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">аслым</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG1-DAT">аслым</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="dat" isaType="personal_intensive_pronoun" px="1Sg"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">аслыныд</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL2-DAT">аслыныд</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">аслыным</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL1-DAT">аслыным</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">аслыныс</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL3-DAT">аслыныс</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">аслыс</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG3-DAT">аслыс</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="dat" isaType="personal_intensive_pronoun" px="3Sg"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">ассьыд</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG2-ELA">ассьыд</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="ela" isaType="personal_intensive_pronoun" px="2Sg"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">ассьым</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG1-ELA">ассьым</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="ela" isaType="personal_intensive_pronoun" px="1Sg"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">ассьыныд</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG2-ELA">ассьыныд</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="ela" isaType="personal_intensive_pronoun" px="2Pl"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">ассьыным</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL1-ELA">ассьыным</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="ela" isaType="personal_intensive_pronoun" px="1Pl"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">ассьыныс</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL3-ELA">ассьыныс</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">ассьыс</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG3-ELA">ассьыс</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="ela" isaType="personal_intensive_pronoun" px="3Sg"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">асьныд</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL2-NOM">асьныд</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="nom" isaType="personal_intensive_pronoun" px="2Pl"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>you yourselves</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>te itse</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">асьным</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL1-NOM">асьным</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="nom" isaType="personal_intensive_pronoun" px="1Pl"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>we ourselves</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>me itse</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">асьнымӧс</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL1-ACC">асьнымӧс</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="acc" isaType="personal_intensive_pronoun" px="1Pl"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">асьныс</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL3-NOM">асьныс</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="nom" isaType="personal_intensive_pronoun" px="3Pl"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t>they themselves</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>he/ ne itse</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">асьнысӧ</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL3-ACC">асьнысӧ</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="acc" isaType="personal_intensive_pronoun" px="3Pl"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">асьнытӧ</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-PL2-ACC">асьнытӧ</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="acc" isaType="personal_intensive_pronoun" px="2Pl"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">асьсӧ</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG3-ACC">асьсӧ</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="acc" isaType="personal_intensive_pronoun" px="3Sg"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Refl">асьтӧ</l>
-
-      <stg>
-        <st Contlex="PRON-REFL-SG2-ACC">асьтӧ</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <isa cx="acc" isaType="personal_intensive_pronoun" px="2Sg"/>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron" type="Rel_Spat">кӧні</l>
-
-      <stg>
-        <st Contlex="PRON-REL">кӧні</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="eng">
-        <t>where</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>jossa</t>
-      </tg>
-    </mg>
-  </e>
+<r xml:lang="kom">
+   <e>
+      <lg>
+         <l pos="Pron">кытчӧ</l>
+         <stg>
+            <st Contlex="PRON-REL">кытчӧ</st>
+         </stg>
+      </lg>
+      <drv cx="ill" lemmaID="кытысь"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <tCtn>
+               <t>where</t>
+               <re>to</re>
+            </tCtn>
+         </tg>
+         <tg xml:lang="fin">
+            <t>minne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">ӧта-мӧд</l>
+         <stg>
+            <st Contlex="PRON-RECIPR">ӧта-мӧд</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>each other</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>toisensa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">кытчӧдз</l>
+         <stg>
+            <st Contlex="PRON-REL">кытчӧдз</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-ӧдз"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>until</t>
+            <t>till</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kunnes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">кытӧні</l>
+         <stg>
+            <st Contlex="PRON-REL">кытӧні</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-ын"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>where</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>missä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">кытысь</l>
+         <stg>
+            <st Contlex="PRON-REL">кытысь</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-ысь"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>where ... from</t>
+            <t>whence</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>josta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">коді</l>
+         <stg>
+            <st Contlex="PRON-REL-HUM">код</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>who</t>
+            <t>that</t>
+            <t>which</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>joka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">коді</l>
+         <stg>
+            <st Contlex="PRON-REL">код</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>who</t>
+            <t>that</t>
+            <t>which</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>joka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">кор</l>
+         <stg>
+            <st Contlex="PRON-REL">кор</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>when</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kun</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">корджык</l>
+         <stg>
+            <st Contlex="PRON-REL">корджык</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>(more precisely) when</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>(tarkemmin) milloin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">некысь</l>
+         <stg>
+            <st Contlex="PRON-NEG">некысь</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-ысь"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>from nowhere</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>ei mistään</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">некытчӧ</l>
+         <stg>
+            <st Contlex="PRON-NEG">некытчӧ</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-ӧ" lemmaID="некытысь_PRON"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>nowhere</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>ei minnekään</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">некыті</l>
+         <stg>
+            <st Contlex="PRON-NEG">некыті</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>nowhere</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>ei minnekään</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">некытысь</l>
+         <stg>
+            <st Contlex="PRON-NEG">некытысь</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-ысь"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>from nowhere</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>ei mistään</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">некод</l>
+         <stg>
+            <st Contlex="PRON-NEG-HUM">некод</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>no one</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>ei kukaan</t>
+         </tg>
+      </mg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>not one</t>
+            <t>neither</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>ei kukaan (meistä, teistä, heistä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">некодар</l>
+         <stg>
+            <st Contlex="PRON-NEG">некодар</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">нем</l>
+         <stg>
+            <st Contlex="PRON-NEG">нем</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>nothing</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>ei mitään</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">немтор</l>
+         <stg>
+            <st Contlex="PRON-NEG">немторй</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">эсійӧ</l>
+         <stg>
+            <st Contlex="PRONDEMTAG-ES">эс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>that</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>tuo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">тайӧ</l>
+         <stg>
+            <st Contlex="PRONDEMTAGSG-TA">та</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>that</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>tuo</t>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="fst">
+      <lg>
+         <l pos="Pron">эсійӧяс</l>
+         <stg>
+            <st Contlex="PRONDEMTAGPL">эсійӧяс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>those (further away)</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>nuo (kauempana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">эсы</l>
+         <stg>
+            <st Contlex="PRONDEMTAG">эсы</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="эсійӧ" semRelType="confer"/>
+         </m>
+         <tg xml:lang="eng">
+            <t>that</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>tuo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">эта</l>
+         <stg>
+            <st Contlex="PRONDEMTAG">эта</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>this very one</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>juuri tämä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">этайӧ</l>
+         <stg>
+            <st Contlex="PRONDEMTAGSG-TA">эта</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>this very one</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>juuri tämä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">этійӧ</l>
+         <stg>
+            <st Contlex="PRONDEMTAG">этійӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>this</t>
+            <t>this one</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>juuri tämä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">сэтӧні</l>
+         <stg>
+            <st Contlex="PRONDEMTAG">сэтӧні</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-ын"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">со</l>
+         <stg>
+            <st Contlex="PRONDEMTAG">со</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>that (far away)</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>tuo (kaukana oleva)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">татӧні</l>
+         <stg>
+            <st Contlex="PRONDEMTAG">татӧні</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Indef">кӧнкӧ</l>
+         <stg>
+            <st Contlex="PRONINDEFTAG">кӧнкӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>somewhere</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>jossain</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Indef">кымынкӧ</l>
+         <stg>
+            <st Contlex="PRONINDEFTAG">кымынкӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>a few</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>muutama</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Indef">кыськӧ</l>
+         <stg>
+            <st Contlex="PRONINDEFTAG">кыськӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>from somewhere</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>jostakin</t>
+            <t>jostain</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Indef">кытчӧкӧ</l>
+         <stg>
+            <st Contlex="PRONINDEFTAG">кытчӧкӧ</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-ӧ" lemmaID="кытыськӧ_PRON"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>to somewhere</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>jonnekin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Indef">кытыськӧ</l>
+         <stg>
+            <st Contlex="PRONINDEFTAG">кытыськӧ</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-ысь"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>from somewhere</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>jostain</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Indef">кодкӧ</l>
+         <stg>
+            <st Contlex="PRONINDEFTAG-KO">код</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>someone</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>joku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Indef">кодсюрӧ</l>
+         <stg>
+            <st Contlex="PRONINDEFTAG">кодсюрӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>somebody</t>
+            <t>anybody</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>joku</t>
+            <t>kuka tahansa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Indef">кутшӧмкӧ</l>
+         <stg>
+            <st Contlex="PRONINDEFTAG">кутшӧмкӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>some kind of</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>jonkinlainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Indef">кутшӧмсюрӧ</l>
+         <stg>
+            <st Contlex="PRONINDEFTAG">кутшӧмсюрӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>some kind of</t>
+            <t>any kind of</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>jonkinlainen</t>
+            <t>minkälainen tahansa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Indef">мыйкӧ</l>
+         <stg>
+            <st Contlex="PRONINDEFTAG-KO">мый</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>something</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>jokin</t>
+            <t>jotakin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Indef">мыйлакӧ</l>
+         <stg>
+            <st Contlex="PRONINDEFTAG">мыйлакӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>for some reason</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>jostain syystä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Indef">мыйсюрӧ</l>
+         <stg>
+            <st Contlex="PRONINDEFTAG">мыйсюрӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>something</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>jotakin</t>
+            <t>jokin</t>
+         </tg>
+      </mg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>anything</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>mikä tahansa</t>
+            <t>mitä tahansa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Indef">мыйтакӧ</l>
+         <stg>
+            <st Contlex="PRONINDEFTAG">мыйтакӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>to some extent</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>jonkin verran</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Spat">кӧні</l>
+         <stg>
+            <st Contlex="PRONQTAG">кӧні</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>where</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>missä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Spat">кытӧн</l>
+         <stg>
+            <st Contlex="PRONQTAG">кытӧн</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>where</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>missä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Manner">кыдзи</l>
+         <stg>
+            <st Contlex="PRONQTAG">кыдзи</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>how</t>
+            <t>in what way</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Spat">кысь</l>
+         <stg>
+            <st Contlex="PRONQTAG">кысь</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-ысь"/>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="кытысь" semRelType="confer"/>
+         </m>
+         <tg xml:lang="eng">
+            <t>where from</t>
+            <t>whence</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>mistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Spat">кытчӧ</l>
+         <stg>
+            <st Contlex="PRONQTAG">кытчӧ</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-ӧ" lemmaID="кытысь"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>where ... to</t>
+            <t>whither</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>mihin</t>
+            <t>minne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Spat">кытчӧдз</l>
+         <stg>
+            <st Contlex="PRONQTAG">кытчӧдз</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-ӧдз" lemmaID="кытысь"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>up to what place</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Spat">кыті</l>
+         <stg>
+            <st Contlex="PRONQTAG">кыті</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-ті"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>what way</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>mitä kautta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Spat">кытысь</l>
+         <stg>
+            <st Contlex="PRONQTAG">кытысь</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-ысь"/>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="кысь" semRelType="confer"/>
+         </m>
+         <tg xml:lang="eng">
+            <t>where ... from</t>
+            <t>whence</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>mistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Det">кодар</l>
+         <stg>
+            <st Contlex="PRONQTAG">кодар</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>what</t>
+            <t>which</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>mikä</t>
+            <t>kumpi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Pers">коді</l>
+         <stg>
+            <st Contlex="PRON-INTER-HUM">код</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>who</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kuka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Temp">кодыр</l>
+         <stg>
+            <st Contlex="PRONQTAG">кодыр</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>when</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>milloin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Pers">кодъяс</l>
+         <stg>
+            <st Contlex="PRONQTAGPL">кодъяс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>who</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>ketkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Temp">кор</l>
+         <stg>
+            <st Contlex="PRONQTAG">кор</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>when</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>milloin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Temp">корджык</l>
+         <stg>
+            <st Contlex="PRONQTAG">корджык</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>about when</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>suunnilleen milloin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_A">кутшӧм</l>
+         <stg>
+            <st Contlex="PRONQTAG">кутшӧм</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>what kind of</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>millainen</t>
+            <t>minkälainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Manner">кутшӧма</l>
+         <stg>
+            <st Contlex="PRONQTAG">кутшӧма</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>how</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>miten</t>
+            <t>kuinka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Qnt">мыетш</l>
+         <stg>
+            <st Contlex="PRONQTAG">мыетш</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>to what extent</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>minkä verran</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_N">мый</l>
+         <stg>
+            <st Contlex="PRON-INTER-NONHUM">мый</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>what</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>mikä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Reason">мыйла</l>
+         <stg>
+            <st Contlex="PRONQTAG">мыйла</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>why</t>
+            <t>how come</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>miksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Qnt">мыйта</l>
+         <stg>
+            <st Contlex="PRONQTAG">мыйта</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>how much</t>
+            <t>to what extent</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kuinka paljon</t>
+            <t>minkä verran</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">ме</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG1-NOM">ме</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>I</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>minä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">мем</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG1-DAT">мем</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-DAT" lemmaID="ме_PERS"/>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="меным_PERS" semRelType="synonym"/>
+         </m>
+         <tg xml:lang="eng">
+            <t>to me</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>minulle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">мен</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG1-DAT">мен</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-DAT" lemmaID="ме_PERS"/>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="меным_PERS" semRelType="synonym"/>
+         </m>
+         <tg xml:lang="eng">
+            <t>to me</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>minulle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">менам</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG1-GEN">менам</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-GEN" lemmaID="ме_PERS"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>my</t>
+            <t>I have</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>minun</t>
+            <t>minulla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">меным</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG1-DAT">меным</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-DAT" lemmaID="ме_PERS"/>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="мем" semRelType="confer"/>
+         </m>
+         <tg xml:lang="eng">
+            <t>to me</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>minulle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">менсьым</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG1-ELA">менсьым</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-ысь" lemmaID="ме_PERS"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>from me</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>minulta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">ми</l>
+         <stg>
+            <st Contlex="PRON-PERS-PL1-NOM">ми</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>@SUBJ</typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t>we</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>me</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">мийӧ</l>
+         <stg>
+            <st Contlex="PRON-PERS-PL1-NOM">мийӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="ми" semRelType="confer"/>
+         </m>
+         <tg xml:lang="eng">
+            <t>we</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>me</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">на</l>
+         <stg>
+            <st Contlex="PRON-PERS-PL3-NOM">на</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>they</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>he</t>
+            <t>ne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">найӧ</l>
+         <stg>
+            <st Contlex="PRON-PERS-PL3-NOM">найӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>they</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>he</t>
+            <t>ne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">найӧ</l>
+         <stg>
+            <st Contlex="PRON-PERS-PL3-NOM">найӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>they</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>he</t>
+            <t>ne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">найӧс</l>
+         <stg>
+            <st Contlex="PRON-PERS-PL3-ACC">найӧс</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>@OBJ</typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t>them</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>heitä</t>
+            <t>heidät</t>
+            <t>niitä</t>
+            <t>ne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">сійӧ</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG3-NOM">сійӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>@SUBJ</typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t>he/ she/ it</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>hän</t>
+            <t>se</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">сійӧс</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG3-ACC">сійӧс</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <argg>
+                  <arg>
+                     <typical>@OBJ</typical>
+                  </arg>
+               </argg>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t>him</t>
+            <t>her</t>
+            <t>it</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>hänet</t>
+            <t>sen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">сы</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG3-NOM">сы</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="сійӧ" semRelType="confer"/>
+         </m>
+         <tg xml:lang="eng">
+            <t>he</t>
+            <t>she</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>hän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">сы</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG3-OBL">сы</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="сійӧ" semRelType="confer"/>
+         </m>
+         <tg xml:lang="eng">
+            <t>he</t>
+            <t>she</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>hän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">та</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG3-NOM">та</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>he</t>
+            <t>she</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>hän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">тайӧ</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG3-NOM">тайӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>this</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>tämä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">тайӧяс</l>
+         <stg>
+            <st Contlex="PRON-PERS-PL3-NOM">тайӧяс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>these</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>nämä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">тэ</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG2-NOM">тэ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>you</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>sinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">тэд</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG2-DAT">тэд</st>
+         </stg>
+      </lg>
+      <drv kpvMorph="CX-DAT" lemmaID="тэ_PERS"/>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="тэныд" semRelType="synonym"/>
+         </m>
+         <tg xml:lang="eng">
+            <t>to you</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>sinulle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">тэн</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG2-DAT">тэн</st>
+         </stg>
+      </lg>
+      <drv cx="dat" px="2Sg"/>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="тэныд" semRelType="synonym"/>
+         </m>
+         <tg xml:lang="eng">
+            <t>to you</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>sinulle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">тэнад</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG2-GEN">тэнад</st>
+         </stg>
+      </lg>
+      <drv cx="gen" px="2Sg"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>your</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>sinun</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">тэныд</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG2-DAT">тэныд</st>
+         </stg>
+      </lg>
+      <drv cx="dat" px="2Sg"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>to you</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>sinulle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">тэнсьыд</l>
+         <stg>
+            <st Contlex="PRON-PERS-SG2-ABL">тэнсьыд</st>
+         </stg>
+      </lg>
+      <drv cx="ela" px="2Sg"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>from you</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>sinulta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">ті</l>
+         <stg>
+            <st Contlex="PRON-PERS-PL2-NOM">ті</st>
+         </stg>
+      </lg>
+      <drv cx="nom" px="2Pl"/>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>you</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt_Univ_Adn">быд</l>
+         <stg>
+            <st Contlex="PRONQTAG">быд</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>each</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>joka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt_Univ">быдӧн</l>
+         <stg>
+            <st Contlex="PRONQ-COLL">быдӧн</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>everyone</t>
+            <t>everybody</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>jokainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt_Univ_Adn">быдся</l>
+         <stg>
+            <st Contlex="PRONQTAG">быдся</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>each</t>
+            <t>every</t>
+            <t>all kinds of</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>joka</t>
+            <t>jokainen</t>
+            <t>mikä tahansa</t>
+            <t>kaikenlainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt_Univ_Adn">быдсяма</l>
+         <stg>
+            <st Contlex="PRONQTAG">быдсяма</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>each</t>
+            <t>every</t>
+            <t>all kinds of</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>joka</t>
+            <t>jokainen</t>
+            <t>mikä tahansa</t>
+            <t>kaikenlainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt_Univ">быдсӧн</l>
+         <stg>
+            <st Contlex="PRONQ-COLL">быдсӧн</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>all</t>
+            <t>everybody</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kaikki</t>
+            <t>jokainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt">этшаӧн</l>
+         <stg>
+            <st Contlex="PRONQ-COLL">этшаӧн</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>few</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>harvat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt">ӧтар</l>
+         <stg>
+            <st Contlex="PRONQTAG">ӧтар</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="мӧдар_QNT" semRelType="confer"/>
+         </m>
+         <tg xml:lang="eng">
+            <tCtn>
+               <t>one</t>
+               <re>of two</re>
+            </tCtn>
+         </tg>
+         <tg xml:lang="fin">
+            <tCtn>
+               <t>toinen</t>
+               <re>kahdesta</re>
+            </tCtn>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr_Qnt">кымын</l>
+         <stg>
+            <st Contlex="PRONQTAG">кымын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>how many</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kuinka monta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt">мӧдар</l>
+         <stg>
+            <st Contlex="PRONQTAG">мӧдар</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head/>
+            <semRel lemmaID="ӧтар_QNT" semRelType="confer"/>
+         </m>
+         <tg xml:lang="eng">
+            <t>other</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>toinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt_Adn">мукӧд</l>
+         <stg>
+            <st Contlex="PRONQ-MUKOD">мукӧд</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>other</t>
+            <t>remaining</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>muu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt">неуна</l>
+         <stg>
+            <st Contlex="PRONQTAG">неуна</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>a little</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>hieman</t>
+            <t>vähän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt_Adn">ньӧти</l>
+         <stg>
+            <st Contlex="PRONQTAG">ньӧти</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>not at all</t>
+            <t>not even once</t>
+            <t>none</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>ei lainkaan</t>
+            <t>ei ollenkaan</t>
+            <t>ei kertaakaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt_Adn">став</l>
+         <stg>
+            <st Contlex="PRONQ-STAV">став</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>all</t>
+            <t>whole</t>
+            <t>very</t>
+            <t>entirely</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kaikki</t>
+            <t>koko</t>
+            <t>erittäin</t>
+            <t>täysin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt_Univ">став</l>
+         <stg>
+            <st Contlex="PRONQTAG">став</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <!-- word class?? -->
+         <tg xml:lang="eng">
+            <t>all</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kaikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt_Univ">ставӧн</l>
+         <stg>
+            <st Contlex="PRONQ-COLL">ставӧн</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>everyone</t>
+            <t>everybody</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kaikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt_Univ">ставыс</l>
+         <stg>
+            <st Contlex="PRONQTAG">ставыс</st>
+         </stg>
+      </lg>
+      <drv cx="nom" lemmaID="став_QNT" px="3Sg"/>
+      <mg>
+         <m>
+            <head>
+               <isa isaType="pronoun"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t>all</t>
+            <t>everything</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kaikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Qnt">унаӧн</l>
+         <stg>
+            <st Contlex="PRONQ-COLL">унаӧн</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>many people</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>monet</t>
+            <t>useat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl_Adn">ас</l>
+         <stg>
+            <st Contlex="EndRefl">ас</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>own</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>oma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">ачыд</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG2-NOM">ачыд</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="nom" isaType="personal_intensive_pronoun" px="2Sg"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t>you yourself</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>sinä itse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">ачым</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG1-NOM">ачым</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="nom" isaType="personal_intensive_pronoun" px="1Sg"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t>I myself</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>minä itse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">ачымӧс</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG1-ACC">ачымӧс</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="acc" isaType="personal_intensive_pronoun" px="1Sg"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t>me myself</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>minut itse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">ачыс</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG3-NOM">ачыс</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="nom" isaType="personal_intensive_pronoun" px="3Sg"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t>he himself</t>
+            <t>she herself</t>
+            <t>it itself</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>hän itse</t>
+            <t>se itse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">аскӧдыд</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG2-COM">аскӧдыд</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">аскӧдыс</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG3-COM">аскӧдыс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">аскӧдныд</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL2-COM">аскӧдныд</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">аскӧдным</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL1-COM">аскӧдным</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">аскӧдныс</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL3-COM">аскӧдныс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">аслад</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG2-GEN">аслад</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="gen" isaType="personal_intensive_pronoun" px="2Sg"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t>your own</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>sinun oma -si</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">аслам</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG1-GEN">аслам</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="gen" isaType="personal_intensive_pronoun" px="1Sg"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t>my own</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>minun oma -ni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">асланыд</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL2-GEN">асланыд</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="gen" isaType="personal_intensive_pronoun" px="2Pl"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t>your own</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>teidän oma -nne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">асланым</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL1-GEN">асланым</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>our own</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>meidän oma -mme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">асланыс</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL3-GEN">асланыс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>their own</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>heidän oma -nsa/ niiden oma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">аслас</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG3-GEN">аслас</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>his/her/its own</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>hänen oma -nsa/ sen oma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">аслыд</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG2-DAT">аслыд</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="dat" isaType="personal_intensive_pronoun" px="2Sg"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">аслым</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG1-DAT">аслым</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="dat" isaType="personal_intensive_pronoun" px="1Sg"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">аслыныд</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL2-DAT">аслыныд</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">аслыным</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL1-DAT">аслыным</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">аслыныс</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL3-DAT">аслыныс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">аслыс</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG3-DAT">аслыс</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="dat" isaType="personal_intensive_pronoun" px="3Sg"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">ассьыд</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG2-ELA">ассьыд</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="ela" isaType="personal_intensive_pronoun" px="2Sg"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">ассьым</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG1-ELA">ассьым</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="ela" isaType="personal_intensive_pronoun" px="1Sg"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">ассьыныд</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG2-ELA">ассьыныд</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="ela" isaType="personal_intensive_pronoun" px="2Pl"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">ассьыным</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL1-ELA">ассьыным</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="ela" isaType="personal_intensive_pronoun" px="1Pl"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">ассьыныс</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL3-ELA">ассьыныс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">ассьыс</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG3-ELA">ассьыс</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="ela" isaType="personal_intensive_pronoun" px="3Sg"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">асьныд</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL2-NOM">асьныд</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="nom" isaType="personal_intensive_pronoun" px="2Pl"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t>you yourselves</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>te itse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">асьным</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL1-NOM">асьным</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="nom" isaType="personal_intensive_pronoun" px="1Pl"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t>we ourselves</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>me itse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">асьнымӧс</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL1-ACC">асьнымӧс</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="acc" isaType="personal_intensive_pronoun" px="1Pl"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">асьныс</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL3-NOM">асьныс</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="nom" isaType="personal_intensive_pronoun" px="3Pl"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t>they themselves</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>he/ ne itse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">асьнысӧ</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL3-ACC">асьнысӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="acc" isaType="personal_intensive_pronoun" px="3Pl"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">асьнытӧ</l>
+         <stg>
+            <st Contlex="PRON-REFL-PL2-ACC">асьнытӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="acc" isaType="personal_intensive_pronoun" px="2Pl"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">асьсӧ</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG3-ACC">асьсӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="acc" isaType="personal_intensive_pronoun" px="3Sg"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Refl">асьтӧ</l>
+         <stg>
+            <st Contlex="PRON-REFL-SG2-ACC">асьтӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <m>
+            <head>
+               <isa cx="acc" isaType="personal_intensive_pronoun" px="2Sg"/>
+            </head>
+         </m>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Rel_Spat">кӧні</l>
+         <stg>
+            <st Contlex="PRON-REL">кӧні</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t>where</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>jossa</t>
+         </tg>
+      </mg>
+   </e>
 </r>
